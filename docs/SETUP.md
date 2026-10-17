@@ -5,17 +5,19 @@ whenever something changes.
 
 | Piece | Status |
 | --- | --- |
-| GitHub repository `johny-cat/grad-platform` | Created (public). Claude can read it; pushing needs the Claude GitHub App installed for this repository. |
+| GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. |
 | Supabase project `nhebswofygpgxcgvginn` | Created. Database setup not run yet. |
 | Cloudflare Pages | Account created. Not connected yet. |
 | Domain | Not bought yet (site name not final). |
 | Sign-in emails | Supabase built-in email: reaches project team members only, 2 per hour. Custom SMTP needed before launch. |
 | Google sign-in | Not switched on. |
 
-## 1. Let Claude push code to GitHub
+## 1. Let Claude push code to GitHub (done)
 
-Install the Claude GitHub App on the `johny-cat` account and give it access
-to `grad-platform`: https://github.com/apps/claude/installations/select_target
+The Claude GitHub App is installed on `johny-cat` with access to
+`grad-platform`. Cloud sessions (claude.ai/code) start from this repository
+and save their work on a branch; open a pull request and merge it into
+`main`. Explain each change to Junaid before he merges.
 
 ## 2. Set up the database (once)
 
