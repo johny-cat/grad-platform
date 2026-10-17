@@ -1,0 +1,60 @@
+{
+  "name": "Biology PhD",
+  "institution": "Massachusetts Institute of Technology",
+  "institutionShort": "MIT",
+  "country": "US",
+  "location": "Cambridge, Massachusetts",
+  "degree": "phd",
+  "field": "biology",
+  "admissionModel": "program",
+  "officialUrl": "https://biology.mit.edu/graduate/applying_program",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "The Biology department page says 5 pm EST; MIT's graduate admissions page says 11:59 pm Eastern. Submit by 5 pm to be safe."
+    }
+  ],
+  "timeline": {
+    "interviews": "Invitations go out by email in mid-January. In-person interviews, required for an offer, take place in February. Travel is covered, with cost-sharing for international students.",
+    "decisions": "Decisions are sent after the interviews."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "100 (iBT) or 5 (new format)",
+      "ielts": 7,
+      "note": "Required if English is not your first language and your college studies were not in English. The Biology department page lists IELTS 6.5 and says IELTS is preferred; MIT's graduate admissions page lists 7. Scores must be from the past two years."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The fee cannot be waived for international applicants."
+    },
+    "letters": { "min": 3 },
+    "note": "At least two letters must be academic."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "MIT's graduate admissions page says all doctoral students receive full tuition and a living stipend."
+  },
+  "international": { "accepted": "yes" },
+  "sources": [
+    {
+      "url": "https://biology.mit.edu/graduate/applying_program",
+      "label": "MIT Biology: Applying to the program",
+      "checked": "2026-10-17"
+    },
+    {
+      "url": "https://oge.mit.edu/programs/biology/",
+      "label": "MIT Graduate Admissions: Biology",
+      "checked": "2026-10-17"
+    }
+  ],
+  "lastChecked": "2026-10-17"
+}

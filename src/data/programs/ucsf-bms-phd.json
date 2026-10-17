@@ -1,0 +1,47 @@
+{
+  "name": "Biomedical Sciences (BMS) PhD",
+  "institution": "University of California, San Francisco",
+  "institutionShort": "UCSF",
+  "country": "US",
+  "location": "San Francisco, California",
+  "degree": "phd",
+  "field": "biology",
+  "admissionModel": "program",
+  "officialUrl": "https://bms.ucsf.edu/node/91",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-16",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "All materials, including transcripts and letters, must arrive by November 16 at 11:59 p.m. PST."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations by mid-December 2026. Interview week is February 1–3, 2027.",
+    "decisions": "The site visit for admitted students is March 11–12, 2027."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "TOEFL or IELTS for international applicants. Minimum scores and waivers are listed by the UCSF Graduate Division (graduate.ucsf.edu)."
+    },
+    "letters": { "min": 3, "max": 5 },
+    "note": "Letters ideally come from research supervisors."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students, including international students, receive a guaranteed stipend plus tuition, fees and health insurance."
+  },
+  "international": { "accepted": "yes" },
+  "sources": [
+    {
+      "url": "https://bms.ucsf.edu/node/91",
+      "label": "UCSF BMS: Applying to BMS",
+      "checked": "2026-10-17"
+    }
+  ],
+  "lastChecked": "2026-10-17"
+}

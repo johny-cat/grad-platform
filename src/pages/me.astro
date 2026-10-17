@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import MyPage from '../islands/MyPage';
+import { getPrograms, toSummary } from '../lib/catalog';
+import { CURRENT_CYCLE } from '../config';
+
+const programs = (await getPrograms()).map(toSummary);
+---
+
+<Base title="My programs" current="me" noindex>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>My programs</h1>
+      <p class="lead">The programs you follow, their latest news, and the results you've reported.</p>
+    </header>
+    <MyPage client:only="preact" programs={programs} cycleId={CURRENT_CYCLE.id} cycleLabel={CURRENT_CYCLE.label}>
+      <p slot="fallback" class="muted">Loading…</p>
+    </MyPage>
+  </div>
+</Base>

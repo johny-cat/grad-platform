@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import ReportForm from '../islands/ReportForm';
+import { getPrograms, toSummary } from '../lib/catalog';
+import { CURRENT_CYCLE } from '../config';
+
+const programs = (await getPrograms()).map(toSummary);
+---
+
+<Base
+  title="Report a result"
+  current="report"
+  description="Heard back from a graduate program? Report it anonymously so everyone still waiting knows too."
+>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Report a result</h1>
+      <p class="lead">Heard back from a program? Tell everyone still waiting. Reports are anonymous.</p>
+    </header>
+    <ReportForm client:only="preact" programs={programs} cycleId={CURRENT_CYCLE.id} cycleLabel={CURRENT_CYCLE.label}>
+      <p slot="fallback" class="muted">Loading the form…</p>
+    </ReportForm>
+  </div>
+</Base>

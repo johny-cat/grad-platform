@@ -1,0 +1,18 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# local env files (never commit secrets)
+.env
+.env.*
+!.env.example
+
+# logs and OS files
+npm-debug.log*
+.DS_Store
+
+# local database test cluster
+.pgtest/

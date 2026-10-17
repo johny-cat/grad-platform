@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import AuthCallback from '../../islands/AuthCallback';
+---
+
+<Base title="Signing in" noindex>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Signing in</h1>
+    </header>
+    <AuthCallback client:only="preact">
+      <p slot="fallback" class="muted">Signing you in…</p>
+    </AuthCallback>
+  </div>
+</Base>

@@ -1,0 +1,254 @@
+---
+import Base from '../../layouts/Base.astro';
+import SeasonStrip from '../../components/SeasonStrip';
+import ProgramActions from '../../islands/ProgramActions';
+import ProgramResults from '../../islands/ProgramResults';
+import {
+  GRE_LABELS,
+  INTERNATIONAL_FUNDING_LABELS,
+  WAIVER_LABELS,
+  countryName,
+  formatMoney,
+  getPrograms,
+  shortName,
+  type Program,
+} from '../../lib/catalog';
+import { CURRENT_CYCLE } from '../../config';
+import { formatClock, formatLongDate, formatShortDate, formatShortDateYear, zoneName } from '../../lib/time';
+
+export async function getStaticPaths() {
+  const programs = await getPrograms();
+  return programs.map((program) => ({ params: { slug: program.id }, props: { program } }));
+}
+
+interface Props {
+  program: Program;
+}
+
+const { program } = Astro.props;
+const d = program.data;
+const r = d.requirements;
+const cycle = CURRENT_CYCLE;
+const place = [d.location, countryName(d.country)].filter(Boolean).join(', ');
+const deadlineDates = d.deadlines.map((x) => x.date);
+const english = r.english;
+const englishParts = [
+  english?.toefl && `TOEFL ${english.toefl}`,
+  english?.ielts && `IELTS ${english.ielts}`,
+  english?.duolingo && `Duolingo ${english.duolingo}`,
+].filter(Boolean) as string[];
+const letters = r.letters
+  ? r.letters.max && r.letters.max !== r.letters.min
+    ? `${r.letters.min} to ${r.letters.max}`
+    : `${r.letters.min}`
+  : null;
+const funding = d.funding;
+const stipend = funding?.stipend;
+const unknown = 'Not stated on official pages';
+---
+
+<Base
+  title={`${shortName(program)} ${d.name}`}
+  description={`Deadline, requirements, funding and live admissions results for ${d.name} at ${d.institution}.`}
+  current="programs"
+>
+  <div class="wrap">
+    <header class="program-head">
+      <p class="crumbs"><a href="/programs/">All programs</a></p>
+      <p class="program-head__institution">{d.institution}</p>
+      <h1>{d.name}</h1>
+      <p class="muted" style="margin-bottom:6px">{place}</p>
+      {d.summary && <p>{d.summary}</p>}
+    </header>
+
+    <div class="program-layout">
+      <aside class="program-layout__aside" aria-label="Deadline and your status">
+        <div class="panel">
+          {
+            d.deadlines.map((deadline) => (
+              <div
+                class="deadline-box"
+                data-deadline
+                data-date={deadline.date}
+                data-time={deadline.time}
+                data-tz={deadline.timezone}
+              >
+                <span class="small muted">{deadline.label}</span>
+                <span class="deadline-box__date">{formatLongDate(deadline.date)}</span>
+                {deadline.time && deadline.timezone && (
+                  <span>
+                    {formatClock(deadline.time)}, {zoneName(deadline.timezone)}
+                  </span>
+                )}
+                <span class="small muted" data-localtime hidden></span>
+                <span class="countdown" data-countdown></span>
+                {deadline.note && <p class="small muted" style="margin:6px 0 0">{deadline.note}</p>}
+              </div>
+            ))
+          }
+          {d.deadlines.length === 0 && <p class="muted">Deadline not stated on official pages.</p>}
+
+          <div style="margin-top:18px">
+            <ProgramActions client:only="preact" slug={program.id} cycleId={cycle.id}>
+              <p slot="fallback" class="small muted">Loading…</p>
+            </ProgramActions>
+          </div>
+
+          <p style="margin:16px 0 0">
+            <a href={d.officialUrl} rel="noopener">Official program page</a>
+            {
+              d.applyUrl && (
+                <>
+                  <br />
+                  <a href={d.applyUrl} rel="noopener">Application portal</a>
+                </>
+              )
+            }
+          </p>
+        </div>
+      </aside>
+
+      <section aria-labelledby="season-heading">
+        <h2 id="season-heading">The {cycle.label} season</h2>
+        <ProgramResults
+          client:only="preact"
+          slug={program.id}
+          cycleId={cycle.id}
+          cycleLabel={cycle.label}
+          season={cycle.season}
+          deadlines={deadlineDates}
+          replyBy={cycle.replyBy}
+        >
+          <div slot="fallback">
+            <SeasonStrip
+              start={cycle.season.start}
+              end={cycle.season.end}
+              deadlines={deadlineDates}
+              replyBy={cycle.replyBy}
+              label={`${cycle.label} season timeline.`}
+              showLegend
+            />
+          </div>
+        </ProgramResults>
+      </section>
+
+      <section aria-labelledby="facts-heading">
+        <h2 id="facts-heading">Requirements and funding</h2>
+        <dl class="facts">
+          <div>
+            <dt>GRE</dt>
+            <dd>
+              {r.gre === 'unknown' ? <span class="unknown">{unknown}</span> : GRE_LABELS[r.gre]}
+            </dd>
+          </div>
+          <div>
+            <dt>English tests</dt>
+            <dd>
+              {englishParts.length > 0 && <span>Minimum {englishParts.join('; ')}.</span>}
+              {english?.note && <span> {english.note}</span>}
+              {englishParts.length === 0 && !english?.note && <span class="unknown">{unknown}</span>}
+            </dd>
+          </div>
+          <div>
+            <dt>Application fee</dt>
+            <dd>
+              {
+                r.applicationFee ? (
+                  <>
+                    {formatMoney(r.applicationFee.amount, r.applicationFee.currency)}.{' '}
+                    {WAIVER_LABELS[r.applicationFee.waiver]}.
+                    {r.applicationFee.note && <span> {r.applicationFee.note}</span>}
+                  </>
+                ) : (
+                  <span class="unknown">{unknown}</span>
+                )
+              }
+            </dd>
+          </div>
+          <div>
+            <dt>Recommendation letters</dt>
+            <dd>{letters ?? <span class="unknown">{unknown}</span>}</dd>
+          </div>
+          {
+            r.documents && r.documents.length > 0 && (
+              <div>
+                <dt>Also needed</dt>
+                <dd>
+                  <ul>
+                    {r.documents.map((doc) => (
+                      <li>{doc}</li>
+                    ))}
+                  </ul>
+                </dd>
+              </div>
+            )
+          }
+          <div>
+            <dt>Funding</dt>
+            <dd>
+              {funding?.allFunded && <span>All students in good standing are funded. </span>}
+              <span>{INTERNATIONAL_FUNDING_LABELS[funding?.coversInternational ?? 'unknown']}.</span>
+              {
+                stipend && (
+                  <span>
+                    {' '}
+                    Stipend {formatMoney(stipend.amount, stipend.currency)} a {stipend.period} ({stipend.year}).
+                  </span>
+                )
+              }
+              {funding?.note && <span> {funding.note}</span>}
+            </dd>
+          </div>
+          <div>
+            <dt>International applicants</dt>
+            <dd>
+              {
+                d.international?.accepted === 'yes'
+                  ? 'Accepted.'
+                  : d.international?.accepted === 'no'
+                    ? 'Not accepted.'
+                    : <span class="unknown">{unknown}</span>
+              }
+              {d.international?.note && <span> {d.international.note}</span>}
+            </dd>
+          </div>
+          <div>
+            <dt>Interviews</dt>
+            <dd>{d.timeline?.interviews ?? <span class="unknown">{unknown}</span>}</dd>
+          </div>
+          <div>
+            <dt>Decisions</dt>
+            <dd>{d.timeline?.decisions ?? <span class="unknown">{unknown}</span>}</dd>
+          </div>
+          {
+            r.note && (
+              <div>
+                <dt>Good to know</dt>
+                <dd>{r.note}</dd>
+              </div>
+            )
+          }
+        </dl>
+      </section>
+
+      <section class="sources" aria-labelledby="sources-heading">
+        <h2 id="sources-heading">Where this comes from</h2>
+        <p>
+          Checked against official pages on {formatShortDateYear(d.lastChecked)}. Programs change details, so always
+          confirm on the program's own site before you apply.
+        </p>
+        <ul>
+          {
+            d.sources.map((source) => (
+              <li>
+                <a href={source.url} rel="noopener">{source.label}</a>{' '}
+                <span class="muted">(checked {formatShortDate(source.checked)})</span>
+              </li>
+            ))
+          }
+        </ul>
+        <p>Spotted something wrong or out of date? <a href="/about/#corrections">Tell us</a>.</p>
+      </section>
+    </div>
+  </div>
+</Base>

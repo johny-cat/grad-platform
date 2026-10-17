@@ -1,0 +1,60 @@
+{
+  "name": "Doctoral Program in Chemical and Biological Sciences",
+  "institution": "Scripps Research",
+  "institutionShort": "Scripps",
+  "country": "US",
+  "location": "La Jolla, California and Jupiter, Florida",
+  "degree": "phd",
+  "field": "biology",
+  "admissionModel": "program",
+  "officialUrl": "https://education.scripps.edu/graduate/admissions/how-to-apply/",
+  "applyUrl": "https://apply.scripps.edu/apply/",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The page gives an annual December 1 deadline for all materials, without a time or year. The committee begins reviewing applications in early December."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "TOEFL, IELTS or Duolingo is required for international applicants; minimum scores are not stated. Scores must be within three years of the deadline. Exemptions exist for study in the US, UK, Ireland, Australia, New Zealand or Canada (outside Quebec)."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers are available for financial need or hardship; add up to one page explaining it in the application."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Transcripts (unofficial PDFs for applying)",
+      "WES course-by-course evaluation, highly recommended for degrees from outside the US"
+    ]
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": { "amount": 45760, "currency": "USD", "period": "year", "year": "2025-26" },
+    "note": "Support covers tuition, health insurance and a stipend, provided by Scripps Research, the student's advisor and national fellowships. The 2025-26 stipend is $45,760 in California and $43,680 in Florida."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The page warns that US travel bans or visa suspensions may affect some applicants and suggests checking before paying the fee."
+  },
+  "sources": [
+    {
+      "url": "https://education.scripps.edu/graduate/admissions/how-to-apply/",
+      "label": "Scripps Research: How to Apply",
+      "checked": "2026-10-17"
+    },
+    {
+      "url": "https://education.scripps.edu/graduate/financial-support/",
+      "label": "Scripps Research: Financial Support",
+      "checked": "2026-10-17"
+    }
+  ],
+  "lastChecked": "2026-10-17"
+}

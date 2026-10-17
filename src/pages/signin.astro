@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import SignIn from '../islands/SignIn';
+---
+
+<Base title="Sign in" description="Sign in to report results and follow programs." noindex>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Sign in</h1>
+      <p class="lead">Sign in to report results and follow your programs. Browsing never needs an account.</p>
+    </header>
+    <SignIn client:only="preact">
+      <p slot="fallback" class="muted">Loading…</p>
+    </SignIn>
+  </div>
+</Base>

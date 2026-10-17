@@ -1,0 +1,79 @@
+---
+import SeasonStrip from './SeasonStrip';
+import {
+  firstDeadline,
+  formatMoney,
+  greNotNeeded,
+  searchText,
+  type Program,
+} from '../lib/catalog';
+import { formatShortDate } from '../lib/time';
+import { CURRENT_CYCLE } from '../config';
+
+interface Props {
+  program: Program;
+}
+
+const { program } = Astro.props;
+const d = program.data;
+const deadline = firstDeadline(program);
+const intl = d.funding?.coversInternational ?? 'unknown';
+const fee = d.requirements.applicationFee;
+---
+
+<li
+  class="program-row"
+  data-search={searchText(program)}
+  data-intl={intl}
+  data-gre={d.requirements.gre}
+  data-waiver={fee?.waiver ?? 'unknown'}
+>
+  <div>
+    <h2 class="program-row__title">
+      <a href={`/programs/${program.id}/`}>
+        <span class="program-row__institution">{d.institution}</span>
+        <span class="program-row__name">{d.name}</span>
+      </a>
+    </h2>
+    {d.location && <p class="program-row__where">{d.location}</p>}
+  </div>
+
+  {
+    deadline ? (
+      <div
+        class="program-row__deadline"
+        data-deadline
+        data-date={deadline.date}
+        data-time={deadline.time}
+        data-tz={deadline.timezone}
+      >
+        <span class="visually-hidden">Deadline:</span>
+        <span class="program-row__date">{formatShortDate(deadline.date)}</span>
+        <span class="countdown" data-countdown></span>
+      </div>
+    ) : (
+      <div class="program-row__deadline">
+        <span class="muted small">Deadline not stated</span>
+      </div>
+    )
+  }
+
+  <ul class="tags">
+    {intl === 'yes' && <li class="tag tag--good">Funds international students</li>}
+    {intl === 'limited' && <li class="tag">Limited funding for international students</li>}
+    {greNotNeeded(program) && <li class="tag">{d.requirements.gre === 'optional' ? 'GRE optional' : 'No GRE'}</li>}
+    {fee && <li class="tag">Fee {formatMoney(fee.amount, fee.currency)}</li>}
+  </ul>
+
+  {
+    deadline && (
+      <SeasonStrip
+        variant="mini"
+        start={CURRENT_CYCLE.season.start}
+        end={CURRENT_CYCLE.season.end}
+        deadlines={[deadline.date]}
+        label={`Deadline ${formatShortDate(deadline.date)} on the season timeline.`}
+      />
+    )
+  }
+</li>

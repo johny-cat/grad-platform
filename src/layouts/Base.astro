@@ -1,0 +1,86 @@
+---
+import '@fontsource-variable/atkinson-hyperlegible-next/wght.css';
+import '../styles/global.css';
+import AuthNav from '../islands/AuthNav';
+import { SITE_NAME, SITE_TAGLINE } from '../config';
+import { isDemo } from '../lib/supabase';
+
+interface Props {
+  title?: string;
+  description?: string;
+  current?: 'home' | 'programs' | 'report' | 'me' | 'about';
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description = 'Live grad school admissions results from applicants, with deadlines and requirements checked against official pages. Free, for everyone still waiting.',
+  current,
+  noindex = false,
+} = Astro.props;
+
+const fullTitle = title ? `${title} | ${SITE_NAME}` : `${SITE_NAME}: ${SITE_TAGLINE}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const here = (page: Props['current']) => (current === page ? 'page' : undefined);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta name="theme-color" content="#f4f6f9" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0e1628" media="(prefers-color-scheme: dark)" />
+    {(noindex || isDemo) && <meta name="robots" content="noindex" />}
+  </head>
+  <body>
+    {isDemo && <div class="demo-banner">Preview with made-up sample data. Nothing here is a real report.</div>}
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap site-header__inner">
+        <a class="brand" href="/">
+          <span class="brand__dot" aria-hidden="true"></span>
+          {SITE_NAME}
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="/programs/" aria-current={here('programs')}>Programs</a>
+          <a href="/report/" aria-current={here('report')}>Report a result</a>
+          <AuthNav client:only="preact">
+            <a slot="fallback" href="/signin/">Sign in</a>
+          </AuthNav>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap site-footer__inner">
+        <div>
+          <p><strong>{SITE_NAME}</strong> is free, for everyone who hasn't made it yet.</p>
+          <p>Not affiliated with any university. Always confirm details on official program pages.</p>
+        </div>
+        <nav aria-label="Footer">
+          <a href="/about/">About</a>
+          <a href="/about/#corrections">Corrections</a>
+          <a href="/privacy/">Privacy</a>
+        </nav>
+      </div>
+    </footer>
+
+    <script>
+      import '../scripts/clock.ts';
+    </script>
+  </body>
+</html>

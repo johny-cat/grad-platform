@@ -1,0 +1,76 @@
+{
+  "name": "Biosciences PhD Programs",
+  "institution": "Stanford University",
+  "institutionShort": "Stanford",
+  "country": "US",
+  "location": "Stanford, California",
+  "degree": "phd",
+  "field": "biology",
+  "admissionModel": "program",
+  "summary": "One application covers Stanford's 14 Biosciences PhD programs across the School of Medicine and School of Humanities and Sciences.",
+  "officialUrl": "https://biosciences.stanford.edu/how-to-apply/",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "For Autumn 2027 entry. Late applications are not accepted."
+    }
+  ],
+  "timeline": {
+    "interviews": "Invitations go out from mid-January to mid-February. The single in-person interview session is March 3–6, 2027; some applicants abroad may be offered a virtual interview.",
+    "decisions": "Applicants not invited to interview by mid-February are unlikely to be admitted."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.5 (tests from 21 Jan 2026) or 90 (earlier tests)",
+      "ielts": 7,
+      "note": "Not required with a US degree or two or more consecutive years of full-time English-language study or work in the past 10 years. Lower scores (below TOEFL 5.5/109 or IELTS 8) mean taking Stanford's English Placement Test. Scores must be from 1 September 2024 or later."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers prioritise US citizens and permanent residents; international applicants may apply for the school-based fee waiver."
+    },
+    "letters": { "min": 3, "max": 4 },
+    "documents": [
+      "Statement of purpose (up to 2 single-spaced pages)",
+      "Resume or CV",
+      "Unofficial transcripts",
+      "Research and experience entries (up to 6)"
+    ],
+    "note": "GRE General Test scores are not considered by any of the 14 programs."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "stipend": { "amount": 58460, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "Students in good standing receive a stipend, tuition and health insurance. Stanford has a limited number of fellowships for the most competitive international applicants, and international admission varies with funding and space. It encourages applying for home-country scholarships too."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International admission varies from year to year depending on funding and available space."
+  },
+  "sources": [
+    {
+      "url": "https://biosciences.stanford.edu/how-to-apply/",
+      "label": "Stanford Biosciences: How to Apply",
+      "checked": "2026-10-17"
+    },
+    {
+      "url": "https://biosciences.stanford.edu/prospective-students/support-for-students",
+      "label": "Stanford Biosciences: Support for Students",
+      "checked": "2026-10-17"
+    },
+    {
+      "url": "https://biosciences.stanford.edu/faqs/do-you-offer-fellowships-to-international-applicants",
+      "label": "Stanford Biosciences FAQ: Fellowships for international applicants",
+      "checked": "2026-10-17"
+    }
+  ],
+  "lastChecked": "2026-10-17"
+}

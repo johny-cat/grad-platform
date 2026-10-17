@@ -1,0 +1,64 @@
+{
+  "name": "Division of Biology and Biomedical Sciences (DBBS) PhD",
+  "institution": "Washington University in St. Louis",
+  "institutionShort": "WashU",
+  "country": "US",
+  "location": "St. Louis, Missouri",
+  "degree": "phd",
+  "field": "biology",
+  "admissionModel": "program",
+  "officialUrl": "https://dbbs.wustl.edu/admissions/application-requirements",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application and letters deadline",
+      "date": "2026-11-15",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The page says the application is open through November 15 at 11:59 PM EST. Letters must arrive by then too; applications missing letters are not reviewed."
+    }
+  ],
+  "timeline": {
+    "interviews": "Most applicants hear about interview decisions by the end of December.",
+    "decisions": "Interviewed applicants are notified no later than mid-March."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5.0 (new scale) or 100 (old scale)",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Needed if your first language isn't English. Scores must be under two years old at the deadline, sent officially; superscores such as TOEFL MyBest are not accepted. Some exemptions apply."
+    },
+    "applicationFee": {
+      "amount": 45,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Waivers exist for certain programs and groups; international applicants living outside the US are not eligible."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Two DBBS essays (up to 2 single-spaced pages each)",
+      "Two 25-word research descriptions",
+      "Unofficial transcripts",
+      "Optional CV and publications"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All accepted applicants receive the same funding and financial support."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "No set number of international admits; international students have historically been about 38% of the entering class."
+  },
+  "sources": [
+    {
+      "url": "https://dbbs.wustl.edu/admissions/application-requirements",
+      "label": "WashU DBBS: Application requirements",
+      "checked": "2026-10-17"
+    }
+  ],
+  "lastChecked": "2026-10-17"
+}

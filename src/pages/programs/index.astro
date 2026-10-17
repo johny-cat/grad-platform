@@ -1,0 +1,93 @@
+---
+import Base from '../../layouts/Base.astro';
+import ProgramRow from '../../components/ProgramRow.astro';
+import { getPrograms } from '../../lib/catalog';
+import { CURRENT_CYCLE } from '../../config';
+
+const programs = await getPrograms();
+---
+
+<Base
+  title="Programs"
+  current="programs"
+  description="Deadlines, requirements, funding and live admissions results for graduate programs, checked against official pages."
+>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Programs</h1>
+      <p class="lead">
+        {CURRENT_CYCLE.label}. Biology and biomedical PhDs in the United States to start, with more fields and
+        countries on the way.
+      </p>
+    </header>
+
+    <form class="filters" id="filters" role="search">
+      <div class="search" style="margin-top:0">
+        <label class="visually-hidden" for="filter-q">Search programs</label>
+        <input
+          id="filter-q"
+          name="q"
+          type="search"
+          placeholder="Search by program, university or city"
+          autocomplete="off"
+        />
+      </div>
+      <div class="filters__toggles">
+        <label class="check"><input type="checkbox" name="intl" /> Funding covers international students</label>
+        <label class="check"><input type="checkbox" name="nogre" /> No GRE needed</label>
+        <label class="check"><input type="checkbox" name="waiver" /> Fee waivers open to international applicants</label>
+      </div>
+    </form>
+
+    <p class="count-line" id="count" aria-live="polite">{programs.length} programs</p>
+    <ol class="program-list" id="program-list">
+      {programs.map((program) => <ProgramRow program={program} />)}
+    </ol>
+    <div class="empty" id="no-match" hidden>
+      <p>No programs match. Try fewer filters or a different search.</p>
+    </div>
+    <p class="small muted" style="margin-top:20px">
+      Missing a program? <a href="/about/#corrections">Tell us</a> and we'll add it.
+    </p>
+  </div>
+</Base>
+
+<script>
+  const form = document.getElementById('filters') as HTMLFormElement;
+  const rows = [...document.querySelectorAll<HTMLElement>('#program-list > li')];
+  const count = document.getElementById('count')!;
+  const noMatch = document.getElementById('no-match')!;
+  const query = form.elements.namedItem('q') as HTMLInputElement;
+  const intl = form.elements.namedItem('intl') as HTMLInputElement;
+  const noGre = form.elements.namedItem('nogre') as HTMLInputElement;
+  const waiver = form.elements.namedItem('waiver') as HTMLInputElement;
+  const greFree = ['optional', 'not-required', 'not-accepted'];
+
+  const initial = new URLSearchParams(window.location.search).get('q');
+  if (initial) query.value = initial;
+
+  function apply() {
+    const words = query.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    let shown = 0;
+    for (const row of rows) {
+      const data = row.dataset;
+      const match =
+        words.every((w) => (data.search ?? '').includes(w)) &&
+        (!intl.checked || data.intl === 'yes') &&
+        (!noGre.checked || greFree.includes(data.gre ?? '')) &&
+        (!waiver.checked || data.waiver === 'available');
+      row.hidden = !match;
+      if (match) shown += 1;
+    }
+    count.textContent = `${shown} ${shown === 1 ? 'program' : 'programs'}`;
+    noMatch.hidden = shown > 0;
+    const url = new URL(window.location.href);
+    if (query.value.trim()) url.searchParams.set('q', query.value.trim());
+    else url.searchParams.delete('q');
+    history.replaceState(null, '', url);
+  }
+
+  form.addEventListener('input', apply);
+  form.addEventListener('submit', (event) => event.preventDefault());
+  apply();
+</script>

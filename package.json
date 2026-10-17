@@ -1,0 +1,29 @@
+{
+  "name": "grad-platform",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Free, worldwide home for grad school applicants: programs, deadlines, live results and community.",
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run catalog:sql && astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "catalog:sql": "node scripts/build-catalog-sql.mjs",
+    "test:db": "bash scripts/test-db.sh"
+  },
+  "dependencies": {
+    "@astrojs/preact": "6.1.0",
+    "@fontsource-variable/atkinson-hyperlegible-next": "5.3.0",
+    "@supabase/supabase-js": "2.118.0",
+    "astro": "7.4.0",
+    "preact": "10.29.8"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "typescript": "6.0.3"
+  }
+}

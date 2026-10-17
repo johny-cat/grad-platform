@@ -1,0 +1,57 @@
+{
+  "name": "David Rockefeller Graduate Program in Bioscience",
+  "institution": "The Rockefeller University",
+  "institutionShort": "Rockefeller",
+  "country": "US",
+  "location": "New York, New York",
+  "degree": "phd",
+  "field": "biology",
+  "admissionModel": "program",
+  "officialUrl": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "Applications must be received by December 1, 2026, for entry in September 2027. No time zone is given."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected candidates are invited to on-campus Open House visits in February 2027."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "TOEFL scores are not required."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown"
+    },
+    "letters": { "min": 3, "max": 4 },
+    "note": "Letters should come from people who can judge your research potential."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": { "amount": 55620, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "No tuition is charged. Students receive health, dental and vision insurance and guaranteed subsidized housing."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "An equivalent international qualification is accepted for entry."
+  },
+  "sources": [
+    {
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions",
+      "label": "Rockefeller University: How to Apply",
+      "checked": "2026-10-17"
+    },
+    {
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/student-housing-stipends/",
+      "label": "Rockefeller University: Student Housing and Financial Support",
+      "checked": "2026-10-17"
+    }
+  ],
+  "lastChecked": "2026-10-17"
+}

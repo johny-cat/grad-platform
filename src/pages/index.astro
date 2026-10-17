@@ -1,0 +1,105 @@
+---
+import Base from '../layouts/Base.astro';
+import SeasonStrip from '../components/SeasonStrip';
+import LatestResults from '../islands/LatestResults';
+import { getPrograms, shortName } from '../lib/catalog';
+import { COMMUNITY_NAME, CURRENT_CYCLE, SITE_TAGLINE } from '../config';
+import { formatShortDate } from '../lib/time';
+import { programLabel } from '../lib/labels';
+
+const programs = await getPrograms();
+const deadlines = programs
+  .flatMap((program) => program.data.deadlines.map((deadline) => ({ program, deadline })))
+  .sort((a, b) => a.deadline.date.localeCompare(b.deadline.date));
+const labels = Object.fromEntries(programs.map((p) => [p.id, programLabel(shortName(p), p.data.name)]));
+const cycle = CURRENT_CYCLE;
+const first = deadlines[0]?.deadline.date;
+const last = deadlines.at(-1)?.deadline.date;
+const timelineLabel =
+  `Season timeline from October to April. ` +
+  (first && last
+    ? `${deadlines.length} application deadlines fall between ${formatShortDate(first)} and ${formatShortDate(last)}. `
+    : '') +
+  `Interviews usually run from January to March, offers from February to March, and most programs ask for a reply by ${formatShortDate(cycle.replyBy)}.`;
+---
+
+<Base current="home">
+  <section class="hero wrap" aria-labelledby="hero-title">
+    <h1 id="hero-title">{SITE_TAGLINE}</h1>
+    <p class="lead">
+      Live admissions results from applicants like you, with deadlines and requirements checked against official
+      pages. Free, for everyone still waiting.
+    </p>
+    <form class="search" action="/programs/" method="get" role="search">
+      <label class="visually-hidden" for="q">Search programs or universities</label>
+      <input id="q" name="q" type="search" placeholder="Program or university" />
+      <button class="btn" type="submit">Search</button>
+    </form>
+
+    <p class="season-intro">The {cycle.label} season</p>
+    <SeasonStrip
+      variant="hero"
+      start={cycle.season.start}
+      end={cycle.season.end}
+      phases={cycle.phases}
+      replyBy={cycle.replyBy}
+      deadlines={deadlines.map((d) => d.deadline.date)}
+      label={timelineLabel}
+      showLegend
+    />
+  </section>
+
+  <section class="section wrap" aria-labelledby="latest">
+    <div class="section__head">
+      <h2 id="latest">Latest reports</h2>
+      <a href="/report/">Report a result</a>
+    </div>
+    <LatestResults client:only="preact" cycleId={cycle.id} labels={labels}>
+      <p slot="fallback" class="muted">Loading the latest reports…</p>
+    </LatestResults>
+  </section>
+
+  <section class="section wrap" aria-labelledby="soon">
+    <div class="section__head">
+      <h2 id="soon">Deadlines coming up</h2>
+      <a href="/programs/">All programs</a>
+    </div>
+    <ol class="upcoming" id="upcoming" data-upcoming data-limit="5">
+      {
+        deadlines.map(({ program, deadline }) => (
+          <li
+            data-deadline
+            data-date={deadline.date}
+            data-time={deadline.time}
+            data-tz={deadline.timezone}
+            data-hide-when-passed
+          >
+            <span class="upcoming__date">{formatShortDate(deadline.date)}</span>
+            <a href={`/programs/${program.id}/`}>
+              <strong>{shortName(program)}</strong> {program.data.name}
+            </a>
+            <span class="countdown" data-countdown></span>
+          </li>
+        ))
+      }
+    </ol>
+    <p class="muted" data-upcoming-empty="upcoming" hidden>
+      No deadlines left this season. We add programs all the time.
+    </p>
+  </section>
+
+  <section class="section wrap" aria-labelledby="mission">
+    <div class="mission">
+      <h2 id="mission">For everyone who hasn't made it yet</h2>
+      <p>
+        Maybe you were turned down last year, or the year before. Maybe your grades don't tell your whole story. This
+        site is for you: free, honest about what is known and what isn't, and built so nobody waits alone.
+      </p>
+      <p>
+        Coming next: {COMMUNITY_NAME}, a space to share what you've learned, find a supervisor, and keep each other
+        going.
+      </p>
+      <p><a href="/about/">How the site works</a></p>
+    </div>
+  </section>
+</Base>

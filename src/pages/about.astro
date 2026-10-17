@@ -1,0 +1,66 @@
+---
+import Base from '../layouts/Base.astro';
+import { COMMUNITY_NAME, CONTACT_EMAIL, SITE_NAME } from '../config';
+---
+
+<Base title="About" current="about" description={`How ${SITE_NAME} works: where program details come from, how results are reported, and our promises.`}>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>About {SITE_NAME}</h1>
+      <p class="lead">A free home for everyone waiting to hear from graduate programs, wherever they are in the world.</p>
+    </header>
+
+    <div class="prose">
+      <h2>Why this exists</h2>
+      <p>
+        Every year, applicants rebuild the same spreadsheets to find out who has heard from which program. They break,
+        they get locked, and they disappear when the season ends. {SITE_NAME} keeps that information in one place,
+        organised by program, and keeps it from one year to the next.
+      </p>
+      <p>
+        It is built by and for people who haven't made it yet: those who were rejected before, whose grades don't tell
+        the whole story, or who are applying from far away without anyone to ask. Next comes {COMMUNITY_NAME}, a space
+        to share what you've learned, find a supervisor and support each other.
+      </p>
+
+      <h2>Where program details come from</h2>
+      <ul>
+        <li>Every deadline, requirement and funding detail comes from the program's official pages, linked on each program page with the date we checked.</li>
+        <li>If an official page doesn't say something, we write "Not stated on official pages". We never guess.</li>
+        <li>Programs change details, so always confirm on the program's own site before you apply.</li>
+      </ul>
+
+      <h2>How results work</h2>
+      <ul>
+        <li>Anyone who signs in can report a result: an interview invitation, an offer, a waitlist place or a rejection.</li>
+        <li>Results are anonymous. Others see the decision, the date and anything optional you add, never your name or email.</li>
+        <li>When two or more people report the same decision for the same program within two days, each report shows that others reported it too.</li>
+        <li>Anyone can flag a report as fake or harmful. A report flagged by three different people is hidden until a moderator checks it.</li>
+        <li>"Applied" and "following" numbers count only people who use this site. They are not official totals.</li>
+      </ul>
+
+      <h2>Our promises</h2>
+      <ul>
+        <li>Results, deadlines and discussion stay free.</li>
+        <li>We never sell personal information.</li>
+        <li>We are not affiliated with any university, and we never promise admission.</li>
+        <li>If we ever work with partners, they will be clearly labelled.</li>
+      </ul>
+
+      <h2 id="corrections">Corrections and missing programs</h2>
+      {
+        CONTACT_EMAIL ? (
+          <p>
+            Found a mistake, or want a program added? Email <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> with
+            a link to the official page.
+          </p>
+        ) : (
+          <p>
+            A contact address for corrections and missing programs is being set up. Until then, please check details on
+            the program's official page.
+          </p>
+        )
+      }
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONTACT_EMAIL, SITE_NAME } from '../config';
+---
+
+<Base title="Privacy" description={`What ${SITE_NAME} stores, what is public, and how to delete it.`}>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Privacy</h1>
+      <p class="lead">What we keep, what others can see, and how to remove it. Last updated October 17, 2026.</p>
+    </header>
+    <div class="prose">
+      <h2>What we store</h2>
+      <ul>
+        <li>Your email address, so you can sign in. It is never shown to anyone.</li>
+        <li>A public name we create for you, such as "Steady Otter 0421", which you can change. It appears only on discussion posts.</li>
+        <li>The results you report, the programs you follow, and whether you applied.</li>
+      </ul>
+
+      <h2>What other people can see</h2>
+      <ul>
+        <li>Results, without anything that links them to you.</li>
+        <li>Counts of how many people applied to or follow a program, never who.</li>
+      </ul>
+
+      <h2>What we don't do</h2>
+      <ul>
+        <li>No advertising trackers, and no selling or sharing of personal information.</li>
+        <li>The only thing stored in your browser is your sign-in session.</li>
+      </ul>
+
+      <h2>Who helps us run the site</h2>
+      <p>
+        Pages are served by Cloudflare. Accounts and data are stored with Supabase. Each processes data only to run
+        the site.
+      </p>
+
+      <h2>Removing your data</h2>
+      <p>
+        You can delete any result you reported from <a href="/me/">My programs</a>, and unfollow programs there too.
+        {
+          CONTACT_EMAIL ? (
+            <span>
+              To delete your account and everything linked to it, email <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.
+            </span>
+          ) : (
+            <span>Deleting your whole account from the site is coming soon.</span>
+          )
+        }
+      </p>
+    </div>
+  </div>
+</Base>
