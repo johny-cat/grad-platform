@@ -8,7 +8,6 @@
 import {
   countdownLabel,
   daysBetween,
-  isoDateIn,
   nowMs,
   percent,
   positionInRange,
@@ -29,23 +28,31 @@ function updateDeadlines(today: string) {
   for (const el of document.querySelectorAll<HTMLElement>('[data-deadline]')) {
     const { date, time, tz } = el.dataset;
     if (!date) continue;
-    let days: number;
-    let passed: boolean;
+    // Days are counted to the date the program states (the date shown on the
+    // page), so every "Dec 1" deadline shows the same count. When the page
+    // gives an exact time, that time decides when the deadline has passed.
+    let days = daysBetween(today, date);
+    let passed = days < 0;
+    let label: string | null = null;
     if (time && tz) {
       const instant = zonedTimeToUtc(date, time, tz);
-      passed = instant <= nowMs();
-      days = daysBetween(today, isoDateIn(new Date(instant)));
+      const msLeft = instant - nowMs();
+      passed = msLeft <= 0;
+      if (!passed) {
+        days = Math.max(0, days);
+        if (msLeft < 24 * 3_600_000) {
+          const hours = Math.ceil(msLeft / 3_600_000);
+          label = hours <= 1 ? 'Closes within the hour' : `Closes in ${hours} hours`;
+        }
+      }
       const local = el.querySelector<HTMLElement>('[data-localtime]');
       if (local) {
         local.textContent = `In your time zone: ${localFormat.format(new Date(instant))}`;
         local.hidden = false;
       }
-    } else {
-      days = daysBetween(today, date);
-      passed = days < 0;
     }
     const countdown = el.querySelector<HTMLElement>('[data-countdown]');
-    if (countdown) countdown.textContent = countdownLabel(days, passed);
+    if (countdown) countdown.textContent = label ?? countdownLabel(days, passed);
     el.classList.toggle('is-passed', passed);
     if (passed && el.hasAttribute('data-hide-when-passed')) el.hidden = true;
   }
