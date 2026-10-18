@@ -4,6 +4,24 @@ Newest first. Each entry: what we decided and why.
 
 ## 2026-10-18
 
+- **The season timeline follows what applicants reported.** It now shows
+  interview invites as their own phase (1 December to 31 January), then
+  interviews from 1 January to 15 March and offers from 15 January to
+  15 April. Before, it had no invites phase and started offers on
+  1 February, although about a third of the programs in the Fall 2024
+  sheet made their first offers earlier. The evidence is in
+  `docs/research/`. The phases are a guide; programs differ.
+- **This season's community sheet ("Graduate Admissions 2027-2028") is our
+  up-to-date list of program leads,** and last season's BME sheet tells us
+  how a season unfolds. Same rules as the Fall 2024 sheet: leads only,
+  people's posts never copied, and no results imported from any sheet,
+  because our results count only this site's users. Notes in
+  `docs/research/`.
+- **The Fall 2024 bioscience applicants' sheet is our starting list of
+  programs and ideas.** Junaid picked it. It's a list of leads: every fact
+  on the site still comes from official pages, and people's comments are
+  never copied. What we learned from it, and the program list, are in
+  `docs/research/`.
 - **The sign-in page offers only the email link until custom SMTP is set
   up.** On Supabase's built-in email the templates can't be edited, so the
   emails carry a link and no code, and that link works only in the browser

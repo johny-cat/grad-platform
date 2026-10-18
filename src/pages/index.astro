@@ -15,12 +15,15 @@ const labels = Object.fromEntries(programs.map((p) => [p.id, programLabel(shortN
 const cycle = CURRENT_CYCLE;
 const first = deadlines[0]?.deadline.date;
 const last = deadlines.at(-1)?.deadline.date;
+const phaseSummary = cycle.phases
+  .map((phase) => `${phase.label}: ${formatShortDate(phase.start)} to ${formatShortDate(phase.end)}`)
+  .join('; ');
 const timelineLabel =
   `Season timeline from October to April. ` +
   (first && last
     ? `${deadlines.length} application deadlines fall between ${formatShortDate(first)} and ${formatShortDate(last)}. `
     : '') +
-  `Interviews usually run from January to March, offers from February to March, and most programs ask for a reply by ${formatShortDate(cycle.replyBy)}.`;
+  `Typical dates, which vary by program: ${phaseSummary}. Most programs ask for a reply by ${formatShortDate(cycle.replyBy)}.`;
 ---
 
 <Base current="home">
