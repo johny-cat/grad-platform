@@ -8,7 +8,7 @@ whenever something changes.
 | GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. On 2026-10-18 GitHub suspended the `johny-cat` account (appeal sent); while it lasts, the site is published by hand (section 7). |
 | Automatic checks (GitHub) | Run on every pull request and every push to `main`; program links are also checked every Monday (section 6). |
 | Supabase project `nhebswofygpgxcgvginn` | Database set up on 2026-10-17 (section 2). |
-| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). |
+| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). Since 2026-10-19 the live site is a hand upload of branch `programs/list-this-season` (307 programs; section 7): when GitHub is back, merge that pull request before anything else, or Cloudflare's next build from `main` goes back to 7 programs. |
 | Sign-in | Address settings done on 2026-10-17 (section 3). First sign-in by email link worked on 2026-10-18. |
 | Sign-in emails | Supabase built-in email: a link only, no code, and the templates can't be edited. Reaches project team members only, about 2 per hour. Custom SMTP needed before launch (section 5). |
 | Domain | Not bought yet (site name not final). |
@@ -36,6 +36,11 @@ Run on the live database:
 
 - 2026-10-17: `20261017150000_initial_schema.sql`
 - 2026-10-17: `catalog.sql` (7 programs)
+- 2026-10-19: `catalog.sql` (307 programs), its add-or-update part only,
+  as no program was removed. Run by Claude in the SQL Editor with Junaid's
+  approval, after a rehearsal on a throwaway copy. Checked from outside
+  with the public key: 307 programs, all active, matching the program files
+  exactly.
 
 Checked from outside with the public key: visitors can read programs,
 cycles, the results feed and the counts, and are refused on profiles,
@@ -131,13 +136,19 @@ Cloudflare project from Junaid's Windows computer. Cloudflare's dashboard
 doesn't take drag-and-drop uploads for a project connected to Git, but its
 `wrangler` tool does.
 
-Claude prepares two files: the built site (`dist/`, zipped with the files at
-the top level) and `supabase/seed/catalog.sql` saved as a `.txt` file.
+Claude prepares three files in Junaid's Downloads folder: the built site
+(`dist/`, zipped with the files at the top level), `supabase/seed/catalog.sql`
+saved as a `.txt` file, and `scripts/upload-to-cloudflare.bat`.
 
-1. Supabase, SQL Editor, New query: paste the `.txt` file and Run.
+1. Supabase, SQL Editor, New query: paste the `.txt` file and Run. Claude
+   can do this in the built-in browser once Junaid has signed in to
+   Supabase and approved this step.
 2. Once only: install Node.js (LTS) from https://nodejs.org.
 3. Extract the zip into `Downloads\heardyet-site`.
-4. Open Command Prompt (not PowerShell) and run:
+4. Junaid double-clicks the `.bat` file. It signs in to Cloudflare (the
+   browser opens; click "Allow"), uploads `heardyet-site` and writes what
+   happened to `heardyet-upload-log.txt` next to it. By hand instead, in
+   Command Prompt (not PowerShell):
    ```
    cd %USERPROFILE%\Downloads
    npx wrangler login
@@ -150,5 +161,10 @@ Deployments, choose the previous one, "Rollback to this deployment". When
 GitHub is back, merging the pull request makes Cloudflare build the same
 work from GitHub again.
 
-Uploaded by hand: none yet (the first upload, with 300 new programs, was
-prepared on 2026-10-19).
+Uploaded by hand:
+
+- 2026-10-19: branch `programs/list-this-season` at commit `9c695f5`, 307
+  programs (300 new). Deployment `9e3aed9b`
+  (https://9e3aed9b.grad-platform.pages.dev). Checked afterwards: the
+  programs page lists 307, and every script, style and font, the main
+  pages and a sample of program pages are identical to the build.
