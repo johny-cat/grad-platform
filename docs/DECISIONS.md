@@ -4,6 +4,11 @@ Newest first. Each entry: what we decided and why.
 
 ## 2026-10-18
 
+- **The Fall 2024 bioscience applicants' sheet is our starting list of
+  programs and ideas.** Junaid picked it. It's a list of leads: every fact
+  on the site still comes from official pages, and people's comments are
+  never copied. What we learned from it, and the program list, are in
+  `docs/research/`.
 - **The sign-in page offers only the email link until custom SMTP is set
   up.** On Supabase's built-in email the templates can't be edited, so the
   emails carry a link and no code, and that link works only in the browser

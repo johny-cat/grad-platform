@@ -70,12 +70,15 @@ PUBLIC_DEMO=1 PUBLIC_DEMO_TODAY=2027-02-10 npx astro build --outDir /tmp/preview
 | `supabase/tests/` | Database tests (`npm run test:db`) |
 | `.github/workflows/ci.yml` | Runs check, build and `test:db` on every pull request and push to `main` |
 | `docs/` | Architecture, security, data rules, design, roadmap, setup status, decisions |
+| `docs/research/` | Background research. Start with `fall-2024-bioscience-sheet.md`: what applicants asked for, and a list of candidate programs |
 
 ## Common tasks
 
 **Add a program:** create `src/data/programs/<institution>-<program>-<degree>.json`
 following an existing file and `docs/DATA.md`, run `npm run build`, then apply
 the regenerated `supabase/seed/catalog.sql` in Supabase (until CI does it).
+Candidate programs are listed in `docs/research/fall-2024-sheet-programs.csv`;
+they are leads only, and every fact still comes from the official page.
 
 **Change the database:** new migration file, new tests, `npm run test:db`,
 then apply in Supabase (SQL Editor) and note it in `docs/SETUP.md`.
