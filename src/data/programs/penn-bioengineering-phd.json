@@ -1,0 +1,19 @@
+{
+  "name": "Bioengineering PhD",
+  "institution": "University of Pennsylvania",
+  "institutionShort": "Penn",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://be.engineering.upenn.edu/academics/doctoral/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://be.engineering.upenn.edu/academics/doctoral/",
+      "label": "Penn Engineering Department of Bioengineering: Doctoral Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

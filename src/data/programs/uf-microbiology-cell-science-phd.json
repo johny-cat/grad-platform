@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology and Cell Science PhD",
+  "institution": "University of Florida",
+  "institutionShort": "UF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://microcell.ifas.ufl.edu/academics--teaching/graduate-program/phd-degree-program/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://microcell.ifas.ufl.edu/academics--teaching/graduate-program/phd-degree-program/",
+      "label": "UF Department of Microbiology and Cell Science: PhD Degree Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology Graduate Program (PhD)",
+  "institution": "University of California, Riverside",
+  "institutionShort": "UC Riverside",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://microbiology.ucr.edu",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://microbiology.ucr.edu",
+      "label": "UC Riverside Microbiology Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

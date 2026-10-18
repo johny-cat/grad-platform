@@ -1,0 +1,30 @@
+{
+  "name": "Biological and Biomedical Sciences (BBS)",
+  "institution": "Yale University",
+  "institutionShort": "Yale",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Biochemistry, Quantitative Biology, Biophysics and Structural Biology",
+    "Computational Biology and Biomedical Informatics",
+    "Human Genome Sciences",
+    "Immunology",
+    "Microbiology",
+    "Molecular Cell Biology, Genetics, and Development",
+    "Neuroscience",
+    "Plant Molecular Biology",
+    "Translational Molecular Medicine, Pharmacology, and Physiology"
+  ],
+  "details": "pending",
+  "officialUrl": "https://gsas.yale.edu/programs-of-study/biological-biomedical-sciences-bbs",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gsas.yale.edu/programs-of-study/biological-biomedical-sciences-bbs",
+      "label": "Yale Graduate School of Arts and Sciences: Biological & Biomedical Sciences (BBS)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Interdisciplinary Biomedical Graduate Program (IBGP)",
+  "institution": "University of Pittsburgh",
+  "institutionShort": "Pitt",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gradbiomed.pitt.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gradbiomed.pitt.edu/",
+      "label": "University of Pittsburgh School of Medicine: Interdisciplinary Biomedical Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

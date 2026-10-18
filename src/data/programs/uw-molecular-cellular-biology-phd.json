@@ -1,0 +1,19 @@
+{
+  "name": "Molecular and Cellular Biology (MCB) PhD",
+  "institution": "University of Washington",
+  "institutionShort": "UW",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://grad.uw.edu/programs/interdisciplinary-programs/molecular-and-cellular-biology/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://grad.uw.edu/programs/interdisciplinary-programs/molecular-and-cellular-biology/",
+      "label": "UW Graduate School: Molecular and Cellular Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -5,7 +5,7 @@ Built in layers. Each layer ships before the next starts.
 ## Layer 1: programs and results (target: live by 30 November 2026)
 
 - [x] Program catalog format with official sources (7 programs checked in full)
-- [x] List programs before their details are checked, so people can follow them and report results (169 listed on 2026-10-18)
+- [x] List programs before their details are checked, so people can follow them and report results: every US biology PhD program in this season's sheet, 300 programs (2026-10-18 and 19)
 - [x] Weekly check that every official program link still opens
 - [x] Program list with search and filters
 - [x] Program pages: deadline in the visitor's time zone, requirements, funding, sources
@@ -17,7 +17,7 @@ Built in layers. Each layer ships before the next starts.
 - [x] Database with security tests
 - [x] Site live at grad-platform.pages.dev with the database connected (2026-10-17)
 - [x] Automatic checks on every pull request: code checks, build, database tests
-- [ ] List the rest of this season's US biology PhD programs from the sheet: about 140, UC Davis to Yale (rows marked `to-do` in `docs/research/2027-28-listing.csv`)
+- [ ] Find official pages for the 5 sheet rows marked `not-found` in `docs/research/2027-28-listing.csv` (City of Hope, Georgia State's two programs, MUSC, Pitt Biomedical Informatics)
 - [ ] Check deadlines and requirements for listed programs, the most-followed first
 - [ ] Official announcements on program pages (database ready)
 - [ ] Discussion threads per program and per field (database ready)

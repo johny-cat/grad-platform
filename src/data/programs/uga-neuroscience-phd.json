@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience PhD",
+  "institution": "University of Georgia",
+  "institutionShort": "UGA",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neuroscience.uga.edu/phdprogram",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neuroscience.uga.edu/phdprogram",
+      "label": "University of Georgia Neuroscience: Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

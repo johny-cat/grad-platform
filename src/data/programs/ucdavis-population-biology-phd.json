@@ -1,0 +1,19 @@
+{
+  "name": "Population Biology Graduate Group (PhD)",
+  "institution": "University of California, Davis",
+  "institutionShort": "UC Davis",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://pbg.ucdavis.edu/about",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://pbg.ucdavis.edu/about",
+      "label": "UC Davis Population Biology Graduate Group: Program Overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

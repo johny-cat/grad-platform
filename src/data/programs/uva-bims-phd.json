@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Sciences Graduate Program (BIMS)",
+  "institution": "University of Virginia",
+  "institutionShort": "UVA",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://med.virginia.edu/bims/prospective-students/what-is-bims/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://med.virginia.edu/bims/prospective-students/what-is-bims/",
+      "label": "UVA School of Medicine BIMS: What is BIMS?",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

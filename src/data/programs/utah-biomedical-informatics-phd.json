@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Informatics PhD",
+  "institution": "University of Utah",
+  "institutionShort": "Utah",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://medicine.utah.edu/dbmi/documents/phdprogram2025",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://medicine.utah.edu/dbmi/documents/phdprogram2025",
+      "label": "University of Utah Department of Biomedical Informatics: PhD Program 2025",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

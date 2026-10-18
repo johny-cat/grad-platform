@@ -1,0 +1,19 @@
+{
+  "name": "Tri-Institutional PhD Program in Chemical Biology",
+  "institution": "Weill Cornell Medicine",
+  "institutionShort": "Weill Cornell",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gradschool.weill.cornell.edu/programs/tri-institutional-chemical-biology",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gradschool.weill.cornell.edu/programs/tri-institutional-chemical-biology",
+      "label": "Weill Cornell Graduate School of Medical Sciences: Tri-Institutional Chemical Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

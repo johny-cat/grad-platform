@@ -1,0 +1,19 @@
+{
+  "name": "PhD Program, Van Andel Institute Graduate School",
+  "institution": "Van Andel Institute Graduate School",
+  "institutionShort": "Van Andel Institute",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://vaigs.vai.org/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://vaigs.vai.org/",
+      "label": "Van Andel Institute Graduate School",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

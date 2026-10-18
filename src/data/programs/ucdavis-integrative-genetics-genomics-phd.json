@@ -1,0 +1,19 @@
+{
+  "name": "Integrative Genetics and Genomics (IGG) PhD",
+  "institution": "University of California, Davis",
+  "institutionShort": "UC Davis",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://igg.ucdavis.edu/about",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://igg.ucdavis.edu/about",
+      "label": "UC Davis Integrative Genetics and Genomics: About the Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

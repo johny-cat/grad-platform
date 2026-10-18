@@ -1,0 +1,19 @@
+{
+  "name": "PhD Programs in Biomedical and Biological Sciences (PIBBS)",
+  "institution": "University of Southern California",
+  "institutionShort": "USC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://keck.usc.edu/pibbs/phd-programs",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://keck.usc.edu/pibbs/phd-programs",
+      "label": "USC Keck School of Medicine: PhD Programs in Biomedical and Biological Sciences (PIBBS)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

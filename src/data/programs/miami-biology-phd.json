@@ -1,0 +1,19 @@
+{
+  "name": "Biology graduate programs (PhD)",
+  "institution": "University of Miami",
+  "institutionShort": "Miami",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf",
+      "label": "University of Miami Department of Biology: Graduate Programs Application Guidelines (PDF)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

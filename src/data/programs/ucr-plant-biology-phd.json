@@ -1,0 +1,19 @@
+{
+  "name": "Plant Biology PhD (Department of Botany and Plant Sciences)",
+  "institution": "University of California, Riverside",
+  "institutionShort": "UC Riverside",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://plantbiology.ucr.edu/graduate-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://plantbiology.ucr.edu/graduate-program",
+      "label": "UC Riverside Plant Biology: Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

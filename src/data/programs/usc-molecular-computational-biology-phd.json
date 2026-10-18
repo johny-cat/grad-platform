@@ -1,0 +1,19 @@
+{
+  "name": "Molecular and Computational Biology (MCB) PhD",
+  "institution": "University of Southern California",
+  "institutionShort": "USC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://dornsife.usc.edu/mcb/admissions/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://dornsife.usc.edu/mcb/admissions/",
+      "label": "USC Dornsife Molecular and Computational Biology: Admissions",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

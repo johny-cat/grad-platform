@@ -1,0 +1,25 @@
+{
+  "name": "Molecular and Cellular Biology PhD Program",
+  "institution": "University of Illinois Urbana-Champaign",
+  "institutionShort": "UIUC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Biochemistry",
+    "Cell & Developmental Biology",
+    "Microbiology",
+    "Molecular & Integrative Physiology"
+  ],
+  "details": "pending",
+  "officialUrl": "https://mcb.illinois.edu/graduate/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://mcb.illinois.edu/graduate/",
+      "label": "University of Illinois School of Molecular and Cellular Biology: PhD Programs",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

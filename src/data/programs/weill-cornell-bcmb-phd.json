@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry, Cell & Molecular Biology (BCMB) Allied Program",
+  "institution": "Weill Cornell Medicine",
+  "institutionShort": "Weill Cornell",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gradschool.weill.cornell.edu/bcmb-allied-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gradschool.weill.cornell.edu/bcmb-allied-program",
+      "label": "Weill Cornell Graduate School of Medical Sciences: BCMB Allied Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

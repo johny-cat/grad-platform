@@ -1,0 +1,19 @@
+{
+  "name": "Bioinformatics and Computational Biology (BCB) PhD",
+  "institution": "University of North Carolina at Charlotte",
+  "institutionShort": "UNC Charlotte",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://cci.charlotte.edu/academics/bioinformatics/bcb-phd-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://cci.charlotte.edu/academics/bioinformatics/bcb-phd-program",
+      "label": "UNC Charlotte College of Computing and Informatics: Bioinformatics and Computational Biology Ph.D. Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

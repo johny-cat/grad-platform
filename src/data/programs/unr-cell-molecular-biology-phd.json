@@ -1,0 +1,19 @@
+{
+  "name": "Cell and Molecular Biology PhD",
+  "institution": "University of Nevada, Reno",
+  "institutionShort": "Nevada, Reno",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.unr.edu/molecular-biosciences/student-resources/cmb-program-handbook",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.unr.edu/molecular-biosciences/student-resources/cmb-program-handbook",
+      "label": "University of Nevada, Reno Molecular Biosciences: Cell and Molecular Biology graduate program handbook",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

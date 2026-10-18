@@ -84,8 +84,8 @@ home areas in `tracks` (see `docs/DATA.md`). Candidate programs are listed in
 `docs/research/2027-28-sheet-programs.csv` (this season) and
 `docs/research/fall-2024-sheet-programs.csv`; they are leads only, and every
 fact still comes from the official page. `docs/research/2027-28-listing.csv`
-shows which of this season's US biology rows are listed and which are still
-to do.
+shows what became of each of this season's US biology rows (listed, skipped
+with a reason, or official page not found yet).
 
 **Change the database:** new migration file, new tests, `npm run test:db`,
 then apply in Supabase (SQL Editor) and note it in `docs/SETUP.md`.

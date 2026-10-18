@@ -14,10 +14,17 @@ Newest first. Each entry: what we decided and why.
   time, the most-followed programs first. How it works: `docs/DATA.md`.
 - **One entry per application.** Where applicants send one application and
   choose home areas or tracks inside it (Stanford Biosciences, UCLA's
-  Graduate Programs in Bioscience, UC Irvine's CMB Gateway), the program is
-  listed once and its home areas are named, so search finds them. A program
-  with its own application gets its own entry. An umbrella's results mix
-  its home areas; we can split one later if people ask for it.
+  Graduate Programs in Bioscience, Yale BBS, Penn CAMB, UNC BBSP, UC Irvine's
+  CMB Gateway), the program is listed once and its home areas are named, so
+  search finds them. A program with its own application gets its own entry,
+  even when it also takes students through an umbrella (CU Anschutz). An
+  umbrella's results mix its home areas; we can split one later if people
+  ask for it.
+- **Rows the sheet gets wrong are skipped, not guessed.** Six of the sheet's
+  350 US biology rows name something that isn't a PhD program we could pin
+  down (for example a certificate, a master's, or a department name), and
+  five have no official page we could find yet. Each one, with the reason,
+  is in `docs/research/2027-28-listing.csv`.
 - **Program links are checked automatically.** On every pull request that
   changes programs, and every Monday, a check opens every official link and
   fails if a page is gone, so dead links get fixed before visitors find

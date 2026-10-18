@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Graduate Program (PhD)",
+  "institution": "University of Iowa",
+  "institutionShort": "Iowa",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neuroscience.grad.uiowa.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neuroscience.grad.uiowa.edu/",
+      "label": "University of Iowa Neuroscience Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

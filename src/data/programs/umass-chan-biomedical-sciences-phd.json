@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Sciences PhD (Morningside Graduate School of Biomedical Sciences)",
+  "institution": "UMass Chan Medical School",
+  "institutionShort": "UMass Chan",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://umassmed.edu/gsbs/academics/phd-biomedical-sciences",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://umassmed.edu/gsbs/academics/phd-biomedical-sciences",
+      "label": "UMass Chan Morningside Graduate School of Biomedical Sciences: Biomedical Sciences PhD",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

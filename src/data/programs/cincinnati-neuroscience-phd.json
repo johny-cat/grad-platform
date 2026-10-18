@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Graduate Program (PhD)",
+  "institution": "University of Cincinnati",
+  "institutionShort": "Cincinnati",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://med.uc.edu/education/neurosciencesgrad",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://med.uc.edu/education/neurosciencesgrad",
+      "label": "University of Cincinnati College of Medicine: Neuroscience Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

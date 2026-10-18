@@ -1,0 +1,19 @@
+{
+  "name": "Biological and Environmental Sciences (BES) PhD",
+  "institution": "University of Rhode Island",
+  "institutionShort": "URI",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://web.uri.edu/cels/academics/bes/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://web.uri.edu/cels/academics/bes/",
+      "label": "University of Rhode Island College of the Environment and Life Sciences: Biological and Environmental Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

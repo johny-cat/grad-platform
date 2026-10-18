@@ -1,0 +1,19 @@
+{
+  "name": "Physiology and Neurobiology PhD",
+  "institution": "University of Connecticut",
+  "institutionShort": "UConn",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://pnb.uconn.edu/graduate-programs/graduate-application-and-admission-information",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://pnb.uconn.edu/graduate-programs/graduate-application-and-admission-information",
+      "label": "UConn Physiology and Neurobiology: Graduate Application and Admission Information",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

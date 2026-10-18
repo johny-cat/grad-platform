@@ -1,0 +1,36 @@
+{
+  "name": "Biological and Biomedical Sciences Program (BBSP)",
+  "institution": "University of North Carolina at Chapel Hill",
+  "institutionShort": "UNC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Applied Physical Sciences",
+    "Biochemistry & Biophysics",
+    "Bioinformatics & Computational Biology",
+    "Biology",
+    "Cell Biology & Physiology",
+    "Chemistry",
+    "Genetics & Molecular Biology",
+    "Microbiology & Immunology",
+    "Neuroscience",
+    "Nutrition",
+    "Oral & Craniofacial Biomedicine",
+    "Pathobiology & Translational Science",
+    "Pharmaceutical Sciences",
+    "Pharmacology",
+    "Toxicology & Environmental Medicine"
+  ],
+  "details": "pending",
+  "officialUrl": "https://bbsp.unc.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bbsp.unc.edu/",
+      "label": "UNC Chapel Hill Biological and Biomedical Sciences Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

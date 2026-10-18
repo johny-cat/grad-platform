@@ -1,0 +1,19 @@
+{
+  "name": "Institute for Neuroscience graduate program (PhD)",
+  "institution": "The University of Texas at Austin",
+  "institutionShort": "UT Austin",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neuroscienceinstitute.utexas.edu/how-apply",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neuroscienceinstitute.utexas.edu/how-apply",
+      "label": "UT Austin Institute for Neuroscience: How to Apply",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

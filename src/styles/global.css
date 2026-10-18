@@ -1111,6 +1111,11 @@ textarea::placeholder {
   margin: 0 0 8px;
 }
 
+/* Long area names wrap onto two lines, so these tags are rounded boxes, not pills. */
+.tracks .tag {
+  border-radius: 10px;
+}
+
 .crumbs {
   margin: 0 0 14px;
   font-size: var(--text-s);

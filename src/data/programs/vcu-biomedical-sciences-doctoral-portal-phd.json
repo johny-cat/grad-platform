@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Sciences Doctoral Portal (PhD)",
+  "institution": "Virginia Commonwealth University",
+  "institutionShort": "VCU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://medschool.vcu.edu/education/bsdp/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://medschool.vcu.edu/education/bsdp/",
+      "label": "VCU School of Medicine: Biomedical Sciences Doctoral Portal",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Engineering PhD",
+  "institution": "University of Texas Southwestern Medical Center",
+  "institutionShort": "UT Southwestern",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://utsouthwestern.edu/education/graduate-school/programs/biomedical-engineering",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://utsouthwestern.edu/education/graduate-school/programs/biomedical-engineering",
+      "label": "UT Southwestern Graduate School of Biomedical Sciences: Biomedical Engineering",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

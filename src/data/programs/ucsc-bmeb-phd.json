@@ -1,0 +1,19 @@
+{
+  "name": "Biomolecular Engineering and Bioinformatics (BMEB) PhD track",
+  "institution": "University of California, Santa Cruz",
+  "institutionShort": "UC Santa Cruz",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://pbse.ucsc.edu/bmeb/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://pbse.ucsc.edu/bmeb/index.html",
+      "label": "UC Santa Cruz Program in Biomedical Sciences and Engineering: Biomolecular Engineering and Bioinformatics",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

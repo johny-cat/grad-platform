@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Training Program (NTP) PhD",
+  "institution": "University of Wisconsin–Madison",
+  "institutionShort": "UW–Madison",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://ntp.neuroscience.wisc.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://ntp.neuroscience.wisc.edu/",
+      "label": "UW–Madison Neuroscience Training Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

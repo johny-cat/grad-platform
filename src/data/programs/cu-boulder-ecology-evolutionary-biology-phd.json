@@ -1,0 +1,19 @@
+{
+  "name": "Ecology and Evolutionary Biology (EBIO) PhD",
+  "institution": "University of Colorado Boulder",
+  "institutionShort": "CU Boulder",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.colorado.edu/ebio/graduate-overview",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.colorado.edu/ebio/graduate-overview",
+      "label": "CU Boulder Ecology and Evolutionary Biology: Graduate Overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}
