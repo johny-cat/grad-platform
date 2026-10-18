@@ -2,6 +2,16 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-18
+
+- **The sign-in page offers only the email link until custom SMTP is set
+  up.** On Supabase's built-in email the templates can't be edited, so the
+  emails carry a link and no code, and that link works only in the browser
+  that asked for it. The page says exactly that and hides the code box, so
+  nobody waits for a code that never comes. `SIGN_IN_EMAIL_HAS_CODE` in
+  `src/config.ts` brings the code box back once both the "Confirm sign up"
+  and "Magic link or OTP" templates contain `{{ .Token }}`.
+
 ## 2026-10-17
 
 - **Static Astro site + Preact islands, hosted on Cloudflare Pages.** Pages
