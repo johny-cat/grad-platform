@@ -119,5 +119,6 @@ see what). Merge only when it is green.
 official links. It runs on pull requests that change programs, every Monday
 morning and on demand (Actions tab, "Program links", "Run workflow"). Each
 run's summary page has a table of every link and the title of the page it
-opened. A red cross there means a program page has moved or gone: find the
-new official page and update the program's file.
+opened; on a pull request the same results appear as a comment (the only
+thing this check may write). A red cross there means a program page has
+moved or gone: find the new official page and update the program's file.

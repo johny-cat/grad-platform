@@ -9,9 +9,12 @@
 // gone (404 or 410) or its website doesn't exist; sites that block automated
 // visits (403, 429) or are slow are listed as "couldn't check", not failures.
 //
+// The results go to the run's summary page and, when LINK_REPORT names a
+// file, into that file too (the workflow posts it on the pull request).
+//
 // Run by hand: node scripts/check-program-links.mjs [program-id ...]
 
-import { readdirSync, readFileSync, appendFileSync } from 'node:fs';
+import { readdirSync, readFileSync, appendFileSync, writeFileSync } from 'node:fs';
 import { join, dirname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -105,24 +108,66 @@ for (const row of rows) {
 }
 console.log(`\n${rows.length} links: ${counts.ok} open, ${counts.broken} broken, ${counts.unchecked} couldn't be checked.`);
 
-if (process.env.GITHUB_STEP_SUMMARY) {
-  const cell = (text) => String(text ?? '').replace(/\|/g, '\\|');
+/** Text from other websites goes into a table cell: keep it plain. */
+function cell(text) {
+  return String(text ?? '')
+    .replace(/[\r\n]+/g, ' ')
+    .replace(/[<>]/g, (c) => (c === '<' ? '&lt;' : '&gt;'))
+    .replace(/[|[\]`*_\\]/g, (c) => `\\${c}`);
+}
+
+/** A web address in a table cell, as a plain link. */
+function link(url) {
+  return `<${String(url).replace(/[<>\s]/g, encodeURIComponent).replace(/\|/g, '%7C')}>`;
+}
+
+function report(full) {
+  const bySlug = (a, b) => a.slugs[0].localeCompare(b.slugs[0]);
+  const problems = (verdict) =>
+    rows
+      .filter((row) => row.verdict === verdict)
+      .sort(bySlug)
+      .map((row) => `| ${cell(row.slugs.join(', '))} | ${cell(row.status || row.error)} | ${link(row.url)} |`);
+  const broken = problems('broken');
+  const unchecked = problems('unchecked');
+  const open = rows
+    .filter((row) => row.verdict === 'ok')
+    .sort(bySlug)
+    .map((row) => {
+      const moved = row.finalUrl && row.finalUrl !== row.url ? ` (moved to ${link(row.finalUrl)})` : '';
+      return `| ${cell(row.slugs.join(', '))} | ${cell(row.title) || '(no title)'}${moved} |`;
+    });
   const lines = [
     `### Program links`,
     ``,
     `${rows.length} links: ${counts.ok} open, ${counts.broken} broken, ${counts.unchecked} couldn't be checked (the site blocked the check or was slow).`,
-    ``,
-    `| Result | Program | Page title | Link |`,
-    `| --- | --- | --- | --- |`,
-    ...rows
-      .sort((a, b) => a.verdict.localeCompare(b.verdict) || a.slugs[0].localeCompare(b.slugs[0]))
-      .map(
-        (row) =>
-          `| ${row.verdict === 'ok' ? 'Open' : row.verdict === 'broken' ? '**Broken**' : `Couldn't check (${row.status || row.error})`} | ${cell(row.slugs.join(', '))} | ${cell(row.title)} | ${cell(row.url)} |`,
-      ),
   ];
-  appendFileSync(process.env.GITHUB_STEP_SUMMARY, lines.join('\n') + '\n');
+  if (broken.length > 0) {
+    lines.push(``, `**Broken.** These pages are gone or their websites don't exist. Find each program's new official page and update its file.`, ``);
+    lines.push(`| Program | Result | Link |`, `| --- | --- | --- |`, ...broken);
+  }
+  if (unchecked.length > 0) {
+    lines.push(``, `**Couldn't check.** The website blocked the check or was slow. Open these by hand.`, ``);
+    lines.push(`| Program | Result | Link |`, `| --- | --- | --- |`, ...unchecked);
+  }
+  if (open.length > 0) {
+    const table = [`| Program | Title of the page that opened |`, `| --- | --- |`, ...open].join('\n');
+    // A pull request comment holds about 65,000 characters; the summary page holds far more.
+    const fits = full || lines.join('\n').length + table.length < 60000;
+    lines.push(
+      ``,
+      `<details><summary>${counts.ok} links that opened, with each page's title (check that it's the right program)</summary>`,
+      ``,
+      fits ? table : `Too long to show here: see the summary page of this run.`,
+      ``,
+      `</details>`,
+    );
+  }
+  return lines.join('\n') + '\n';
 }
+
+if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, report(true));
+if (process.env.LINK_REPORT) writeFileSync(process.env.LINK_REPORT, report(false));
 
 if (counts.broken > 0) {
   console.error(`${counts.broken} program links are broken. Find a new official page for each, or fix the address.`);

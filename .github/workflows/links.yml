@@ -1,7 +1,8 @@
 # Checks that every program's official links still open (see
 # scripts/check-program-links.mjs). Runs on pull requests that change program
 # files, every Monday, and on demand. It reads public web pages only; it never
-# touches the live site or the database.
+# touches the live site or the database. On a pull request it also posts the
+# results as a comment, so they can be read without opening the run.
 #
 # Actions are pinned to exact commits, as in ci.yml.
 
@@ -25,6 +26,10 @@ jobs:
     name: Check program links
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      contents: read
+      # Only to post the results comment on the pull request.
+      pull-requests: write
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -36,3 +41,19 @@ jobs:
 
       - name: Open every official program link
         run: node scripts/check-program-links.mjs
+        env:
+          LINK_REPORT: ${{ runner.temp }}/link-report.md
+
+      # Pull requests from forks get a read-only token, so this only runs for
+      # branches of this repository. It updates the same comment on each run.
+      - name: Post the results on the pull request
+        if: >-
+          always() && github.event_name == 'pull_request' &&
+          github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+          REPORT: ${{ runner.temp }}/link-report.md
+        run: |
+          if [ ! -f "$REPORT" ]; then echo "No report was written."; exit 0; fi
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file "$REPORT" --edit-last --create-if-none
