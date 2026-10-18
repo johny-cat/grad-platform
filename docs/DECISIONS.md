@@ -4,6 +4,12 @@ Newest first. Each entry: what we decided and why.
 
 ## 2026-10-18
 
+- **This season's community sheet ("Graduate Admissions 2027-2028") is our
+  up-to-date list of program leads,** and last season's BME sheet tells us
+  how a season unfolds. Same rules as the Fall 2024 sheet: leads only,
+  people's posts never copied, and no results imported from any sheet,
+  because our results count only this site's users. Notes in
+  `docs/research/`.
 - **The Fall 2024 bioscience applicants' sheet is our starting list of
   programs and ideas.** Junaid picked it. It's a list of leads: every fact
   on the site still comes from official pages, and people's comments are

@@ -13,6 +13,7 @@ note, and every link.
   programs.
 - **Program list taken from it:** `fall-2024-sheet-programs.csv` in this
   folder (842 rows).
+- **Other seasons' sheets:** see `README.md` in this folder.
 
 ## Rules for using it
 
