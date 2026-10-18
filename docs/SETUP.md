@@ -86,10 +86,10 @@ Workers & Pages, Create, Pages, Connect to Git, choose `grad-platform`:
 - Build output directory: `dist`
 
 Every push to `main` publishes https://grad-platform.pages.dev
-automatically. Each pull request gets its own preview link, which
-Cloudflare posts on the pull request. The security headers in
-`public/_headers` are applied; a Content-Security-Policy is still to do
-(`docs/SECURITY.md`).
+automatically. Every other branch gets its own preview link; on a pull
+request, the "Cloudflare Pages" check lists it (open the Checks tab). The
+security headers in `public/_headers` are applied; a
+Content-Security-Policy is still to do (`docs/SECURITY.md`).
 
 ## 5. Before public launch
 
