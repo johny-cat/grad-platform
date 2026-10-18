@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'preact/hooks';
+import { SIGN_IN_EMAIL_HAS_CODE } from '../config';
 import { getSupabase, isConnected, isDemo } from '../lib/supabase';
 import { signOut, useSession } from '../lib/session';
 
@@ -16,7 +17,7 @@ export default function SignIn() {
   const { loading, session } = useSession();
   const [email, setEmail] = useState('');
   const [code, setCode] = useState('');
-  const [stage, setStage] = useState<'email' | 'code'>('email');
+  const [stage, setStage] = useState<'email' | 'sent'>('email');
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -83,7 +84,7 @@ export default function SignIn() {
       );
       return;
     }
-    setStage('code');
+    setStage('sent');
   }
 
   async function verifyCode(event: Event) {
@@ -137,7 +138,12 @@ export default function SignIn() {
               onInput={(e) => setEmail((e.target as HTMLInputElement).value)}
               required
             />
-            <p class="hint">We'll email you a sign-in link. No password needed, and your email is never shown.</p>
+            <p class="hint">
+              {SIGN_IN_EMAIL_HAS_CODE
+                ? "We'll email you a sign-in link."
+                : "We'll email you a sign-in link that works only in this browser."}{' '}
+              No password needed, and your email is never shown.
+            </p>
           </div>
           <div>
             <button type="submit" class="btn" disabled={busy}>
@@ -145,7 +151,7 @@ export default function SignIn() {
             </button>
           </div>
         </form>
-      ) : (
+      ) : SIGN_IN_EMAIL_HAS_CODE ? (
         <form class="form" onSubmit={verifyCode} noValidate>
           <div class="notice" role="status">
             <p>
@@ -173,6 +179,24 @@ export default function SignIn() {
             </button>
           </div>
         </form>
+      ) : (
+        <div class="form">
+          <div class="notice" role="status">
+            <p>
+              <strong>Check your inbox.</strong> We sent a sign-in link to {email.trim()}. Open it in this same browser to
+              sign in.
+            </p>
+            <p>
+              If your email app opens links inside the app, copy the link and paste it into this browser's address bar
+              instead.
+            </p>
+          </div>
+          <div>
+            <button type="button" class="btn btn--quiet" onClick={() => setStage('email')}>
+              Use a different email
+            </button>
+          </div>
+        </div>
       )}
 
       <div>
