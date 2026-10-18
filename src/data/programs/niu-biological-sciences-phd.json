@@ -6,14 +6,14 @@
   "degree": "phd",
   "field": "biology",
   "details": "pending",
-  "officialUrl": "https://go.niu.edu/catalog-phd-bio",
+  "officialUrl": "https://www.niu.edu/clas/biology/academics/graduate/index.shtml",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://go.niu.edu/catalog-phd-bio",
-      "label": "Northern Illinois University catalog: Biological Sciences PhD",
-      "checked": "2026-10-18"
+      "url": "https://www.niu.edu/clas/biology/academics/graduate/index.shtml",
+      "label": "Northern Illinois University Department of Biological Sciences: Graduate Programs",
+      "checked": "2026-10-19"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-19"
 }

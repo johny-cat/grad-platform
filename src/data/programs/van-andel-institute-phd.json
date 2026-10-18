@@ -6,14 +6,14 @@
   "degree": "phd",
   "field": "biology",
   "details": "pending",
-  "officialUrl": "https://vaigs.vai.org/",
+  "officialUrl": "https://www.vai.org/graduate-school/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://vaigs.vai.org/",
+      "url": "https://www.vai.org/graduate-school/",
       "label": "Van Andel Institute Graduate School",
-      "checked": "2026-10-18"
+      "checked": "2026-10-19"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-19"
 }

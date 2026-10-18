@@ -6,14 +6,14 @@
   "degree": "phd",
   "field": "biology",
   "details": "pending",
-  "officialUrl": "https://utsouthwestern.edu/education/graduate-school/programs/biomedical-engineering",
+  "officialUrl": "https://gsbs.utsouthwestern.edu/programs/biomedical-engineering/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://utsouthwestern.edu/education/graduate-school/programs/biomedical-engineering",
-      "label": "UT Southwestern Graduate School of Biomedical Sciences: Biomedical Engineering",
-      "checked": "2026-10-18"
+      "url": "https://gsbs.utsouthwestern.edu/programs/biomedical-engineering/",
+      "label": "UT Southwestern Graduate School of Biomedical Sciences: Biomedical Engineering Ph.D. Program",
+      "checked": "2026-10-19"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-19"
 }

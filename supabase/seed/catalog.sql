@@ -9,7 +9,7 @@ values
   ('amnh-comparative-biology-phd', 'Comparative Biology PhD Program (Richard Gilder Graduate School)', 'American Museum of Natural History', 'US', 'biology', 'phd'),
   ('arizona-abbs-phd', 'Arizona Biological and Biomedical Sciences (ABBS)', 'University of Arizona', 'US', 'biology', 'phd'),
   ('arizona-neuroscience-phd', 'Graduate Interdisciplinary Program in Neuroscience (PhD)', 'University of Arizona', 'US', 'biology', 'phd'),
-  ('asu-biomedical-informatics-phd', 'Biomedical Informatics (PhD)', 'Arizona State University', 'US', 'biology', 'phd'),
+  ('asu-biomedical-informatics-phd', 'Biomedical Informatics and Data Science PhD', 'Arizona State University', 'US', 'biology', 'phd'),
   ('augusta-biomedical-sciences-phd', 'Biomedical Sciences PhD Programs', 'Augusta University', 'US', 'biology', 'phd'),
   ('baylor-cancer-cell-biology-phd', 'Cancer & Cell Biology Graduate Program', 'Baylor College of Medicine', 'US', 'biology', 'phd'),
   ('baylor-chemical-physical-structural-biology-phd', 'Chemical, Physical & Structural Biology Graduate Program', 'Baylor College of Medicine', 'US', 'biology', 'phd'),

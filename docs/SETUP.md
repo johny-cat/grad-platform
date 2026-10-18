@@ -5,7 +5,7 @@ whenever something changes.
 
 | Piece | Status |
 | --- | --- |
-| GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. |
+| GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. On 2026-10-18 GitHub suspended the `johny-cat` account (appeal sent); while it lasts, the site is published by hand (section 7). |
 | Automatic checks (GitHub) | Run on every pull request and every push to `main`; program links are also checked every Monday (section 6). |
 | Supabase project `nhebswofygpgxcgvginn` | Database set up on 2026-10-17 (section 2). |
 | Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). |
@@ -122,3 +122,33 @@ run's summary page has a table of every link and the title of the page it
 opened; on a pull request the same results appear as a comment (the only
 thing this check may write). A red cross there means a program page has
 moved or gone: find the new official page and update the program's file.
+
+## 7. Publishing without GitHub (by hand)
+
+Normally Cloudflare builds the site from `main` on GitHub. If GitHub can't be
+used (as since 2026-10-18), the finished site can be uploaded to the same
+Cloudflare project from Junaid's Windows computer. Cloudflare's dashboard
+doesn't take drag-and-drop uploads for a project connected to Git, but its
+`wrangler` tool does.
+
+Claude prepares two files: the built site (`dist/`, zipped with the files at
+the top level) and `supabase/seed/catalog.sql` saved as a `.txt` file.
+
+1. Supabase, SQL Editor, New query: paste the `.txt` file and Run.
+2. Once only: install Node.js (LTS) from https://nodejs.org.
+3. Extract the zip into `Downloads\heardyet-site`.
+4. Open Command Prompt (not PowerShell) and run:
+   ```
+   cd %USERPROFILE%\Downloads
+   npx wrangler login
+   npx wrangler pages deploy heardyet-site --project-name=grad-platform --branch=main
+   ```
+5. Check https://grad-platform.pages.dev/programs/ (the program count).
+
+To undo: Cloudflare dashboard, Workers & Pages, `grad-platform`,
+Deployments, choose the previous one, "Rollback to this deployment". When
+GitHub is back, merging the pull request makes Cloudflare build the same
+work from GitHub again.
+
+Uploaded by hand: none yet (the first upload, with 300 new programs, was
+prepared on 2026-10-19).

@@ -2,6 +2,18 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-19
+
+- **Publish by hand while GitHub is suspended.** GitHub suspended the
+  `johny-cat` account on 2026-10-18, a few minutes after the pull request
+  with 169 programs was opened; Junaid has appealed. Waiting could take weeks
+  in the middle of application season, so the built site is uploaded to the
+  same Cloudflare project from Junaid's computer with Cloudflare's own tool
+  (`docs/SETUP.md`, section 7). Same address, same sign-in. Before each
+  upload Claude opens every program link by hand, since the automatic link
+  check runs on GitHub. We don't open a second GitHub account: GitHub's terms
+  allow one free account per person.
+
 ## 2026-10-18
 
 - **Programs can be listed before their details are checked.** Junaid chose

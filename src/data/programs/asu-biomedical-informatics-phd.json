@@ -1,5 +1,5 @@
 {
-  "name": "Biomedical Informatics (PhD)",
+  "name": "Biomedical Informatics and Data Science PhD",
   "institution": "Arizona State University",
   "institutionShort": "ASU",
   "country": "US",
@@ -11,9 +11,9 @@
   "sources": [
     {
       "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESBMIPHD/biomedical-informatics-phd",
-      "label": "ASU Degree Search: Biomedical Informatics (PhD)",
-      "checked": "2026-10-18"
+      "label": "Arizona State University: Biomedical Informatics and Data Science, PhD",
+      "checked": "2026-10-19"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-19"
 }
