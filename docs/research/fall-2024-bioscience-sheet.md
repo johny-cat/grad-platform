@@ -62,6 +62,12 @@ From Main, using the first date anyone reported for each program:
 - **First interview invite:** 1–15 December: 144 programs; 16–31 December:
   216; 1–15 January: 87; 16–31 January: 52; February: 8. About 7 in 10
   programs sent their first invites in December.
+- **Interview dates** (478 programs gave them; counted on 2026-10-18):
+  first interview 1–15 January: 95; 16–31 January: 192; 1–15 February:
+  125; later February: 20; 1–15 March: 21; December: 22; two in September
+  or October. So interviews ran from early January to mid-March, busiest
+  from mid-January to mid-February; only 4 programs still had interviews
+  after 15 March.
 - **First acceptance:** December: 9; 1–15 January: 9; 16–31 January: 83;
   1–15 February: 101; 16–29 February: 65; 1–15 March: 52; later: 2.
 - **First rejection:** spread from mid-December to mid-March, most of them
@@ -149,14 +155,14 @@ From Main, using the first date anyone reported for each program:
     r/BioGradAdmissions), Discord, X (Twitter), Instagram, last year's sheet,
     and emails to program coordinators. Link to them; don't copy them.
 
-## Suggestions (not done yet)
+## Suggestions
 
-- **Season timeline:** add an "Interview invites" phase from about
-  1 December to 31 January, and start "Offers" in mid-January. Today
-  `src/config.ts` starts interviews on 5 January and offers on 1 February.
-- **Adding programs:** start with the umbrella programs that have the most
-  rows and comments in the sheet, and check each one against its official
-  pages before adding it.
+- **Season timeline (done on 2026-10-18):** `src/config.ts` now has an
+  "Interview invites" phase from 1 December to 31 January, interviews from
+  1 January to 15 March, and offers from 15 January to 15 April.
+- **Adding programs (not done yet):** start with the umbrella programs
+  that have the most rows and comments in the sheet, and check each one
+  against its official pages before adding it.
 
 ## Linked from the sheet (not read yet)
 

@@ -31,12 +31,16 @@ export const CURRENT_CYCLE = {
   season: { start: '2026-10-01', end: '2027-04-30' },
   /**
    * Typical phases of a US PhD cycle, drawn on the season timeline as a guide.
-   * Programs differ; each program page shows its own dates.
+   * Programs differ; each program page shows its own dates. The dates follow
+   * what applicants reported in past seasons' community sheets (see
+   * docs/research/): most interview invites arrive in December and January,
+   * interviews run from January to mid-March, and offers start in mid-January.
    */
   phases: [
     { label: 'Applications due', start: '2026-11-01', end: '2026-12-15' },
-    { label: 'Interviews', start: '2027-01-05', end: '2027-03-10' },
-    { label: 'Offers', start: '2027-02-01', end: '2027-04-01' },
+    { label: 'Interview invites', start: '2026-12-01', end: '2027-01-31' },
+    { label: 'Interviews', start: '2027-01-01', end: '2027-03-15' },
+    { label: 'Offers', start: '2027-01-15', end: '2027-04-15' },
   ],
   /** Most US graduate programs ask admitted students to decide by April 15. */
   replyBy: '2027-04-15',

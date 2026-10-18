@@ -132,13 +132,15 @@ the sheet's users, not totals.
 
 ## For our season timeline
 
-`src/config.ts` today shows interviews from 5 January to 10 March and
-offers from 1 February to 1 April. Both this sheet and the Fall 2024 sheet
-point earlier: invites from early or mid-December to the end of January,
-visits mostly in February and early March, and offers from mid-January
-(some in late December) to April. Suggested phases: invites 1 December to
-31 January, interviews and visits mid-December to mid-March, offers
-mid-January to 15 April.
+Changed on 2026-10-18, using this sheet and the Fall 2024 sheet. Both show
+interview invites from December to the end of January, and offers starting
+in mid-January (a few in late December). The interviews themselves were
+already about right: the Fall 2024 biology programs interviewed from early
+January to mid-March, and many of this sheet's December interviews were
+calls with single professors before the formal rounds. `src/config.ts` now
+shows applications due 1 November to 15 December, interview invites
+1 December to 31 January, interviews 1 January to 15 March, and offers
+15 January to 15 April.
 
 ## BME programs this season's sheet doesn't list yet
 

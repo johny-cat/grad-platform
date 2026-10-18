@@ -4,6 +4,13 @@ Newest first. Each entry: what we decided and why.
 
 ## 2026-10-18
 
+- **The season timeline follows what applicants reported.** It now shows
+  interview invites as their own phase (1 December to 31 January), then
+  interviews from 1 January to 15 March and offers from 15 January to
+  15 April. Before, it had no invites phase and started offers on
+  1 February, although about a third of the programs in the Fall 2024
+  sheet made their first offers earlier. The evidence is in
+  `docs/research/`. The phases are a guide; programs differ.
 - **This season's community sheet ("Graduate Admissions 2027-2028") is our
   up-to-date list of program leads,** and last season's BME sheet tells us
   how a season unfolds. Same rules as the Fall 2024 sheet: leads only,
