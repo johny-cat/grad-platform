@@ -1,0 +1,19 @@
+{
+  "name": "Molecular and Cellular Biology (MCB) PhD Program",
+  "institution": "Dartmouth College",
+  "institutionShort": "Dartmouth",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://graduate.dartmouth.edu/mcb",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://graduate.dartmouth.edu/mcb",
+      "label": "Dartmouth: Molecular and Cellular Biology Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

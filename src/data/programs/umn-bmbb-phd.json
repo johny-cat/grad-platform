@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry, Molecular Biology and Biophysics (BMBB) Graduate Program",
+  "institution": "University of Minnesota",
+  "institutionShort": "Minnesota",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://cbs.umn.edu/bmbb/graduate-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://cbs.umn.edu/bmbb/graduate-program",
+      "label": "University of Minnesota College of Biological Sciences: BMBB Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

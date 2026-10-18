@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Graduate Program (NGP)",
+  "institution": "The Ohio State University",
+  "institutionShort": "Ohio State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://ngp.osu.edu/about-ngp",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://ngp.osu.edu/about-ngp",
+      "label": "The Ohio State University: About the Neuroscience Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

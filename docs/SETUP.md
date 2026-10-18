@@ -6,7 +6,7 @@ whenever something changes.
 | Piece | Status |
 | --- | --- |
 | GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. |
-| Automatic checks (GitHub) | Run on every pull request and every push to `main` (section 6). |
+| Automatic checks (GitHub) | Run on every pull request and every push to `main`; program links are also checked every Monday (section 6). |
 | Supabase project `nhebswofygpgxcgvginn` | Database set up on 2026-10-17 (section 2). |
 | Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). |
 | Sign-in | Address settings done on 2026-10-17 (section 3). First sign-in by email link worked on 2026-10-18. |
@@ -114,3 +114,10 @@ live site or the live database.
 The result shows near the bottom of each pull request: a green tick when
 everything passed, a red cross when something failed (click "Details" to
 see what). Merge only when it is green.
+
+`.github/workflows/links.yml` ("Program links") opens every program's
+official links. It runs on pull requests that change programs, every Monday
+morning and on demand (Actions tab, "Program links", "Run workflow"). Each
+run's summary page has a table of every link and the title of the page it
+opened. A red cross there means a program page has moved or gone: find the
+new official page and update the program's file.

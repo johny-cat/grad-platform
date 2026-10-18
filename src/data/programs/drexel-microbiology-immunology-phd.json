@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology & Immunology PhD (College of Medicine)",
+  "institution": "Drexel University",
+  "institutionShort": "Drexel",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://drexel.edu/medicine/academics/graduate-programs/microbiology-immunology/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://drexel.edu/medicine/academics/graduate-programs/microbiology-immunology/",
+      "label": "Drexel University College of Medicine: Microbiology & Immunology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

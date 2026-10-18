@@ -4,6 +4,24 @@ Newest first. Each entry: what we decided and why.
 
 ## 2026-10-18
 
+- **Programs can be listed before their details are checked.** Junaid chose
+  this so people can follow programs and report results from the start of
+  the season, instead of waiting until every program from this season's
+  sheet has been checked in full. A listed program has its name, its
+  university and its official page, which we opened; its page says "Details
+  being checked" and sends people to the official page. Nothing is guessed.
+  Deadlines and requirements are added from official pages a batch at a
+  time, the most-followed programs first. How it works: `docs/DATA.md`.
+- **One entry per application.** Where applicants send one application and
+  choose home areas or tracks inside it (Stanford Biosciences, UCLA's
+  Graduate Programs in Bioscience, UC Irvine's CMB Gateway), the program is
+  listed once and its home areas are named, so search finds them. A program
+  with its own application gets its own entry. An umbrella's results mix
+  its home areas; we can split one later if people ask for it.
+- **Program links are checked automatically.** On every pull request that
+  changes programs, and every Monday, a check opens every official link and
+  fails if a page is gone, so dead links get fixed before visitors find
+  them.
 - **The season timeline follows what applicants reported.** It now shows
   interview invites as their own phase (1 December to 31 January), then
   interviews from 1 January to 15 March and offers from 15 January to

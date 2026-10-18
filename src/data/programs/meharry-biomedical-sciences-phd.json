@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biomedical Sciences",
+  "institution": "Meharry Medical College",
+  "institutionShort": "Meharry",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://meharry.edu/program/biomedical-science/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://meharry.edu/program/biomedical-science/",
+      "label": "Meharry Medical College: Ph.D. Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

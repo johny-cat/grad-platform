@@ -1,0 +1,19 @@
+{
+  "name": "Quantitative & Computational Biosciences Graduate Program",
+  "institution": "Baylor College of Medicine",
+  "institutionShort": "Baylor",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/quantitative-computational-biosciences",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/quantitative-computational-biosciences",
+      "label": "Baylor College of Medicine: Quantitative & Computational Biosciences Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

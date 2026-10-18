@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Sciences PhD Program",
+  "institution": "Florida State University",
+  "institutionShort": "FSU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://med.fsu.edu/phd/home",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://med.fsu.edu/phd/home",
+      "label": "FSU College of Medicine: Biomedical Sciences Ph.D. Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

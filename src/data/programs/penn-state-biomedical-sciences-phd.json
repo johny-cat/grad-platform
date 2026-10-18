@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Sciences PhD (College of Medicine)",
+  "institution": "The Pennsylvania State University",
+  "institutionShort": "Penn State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://med.psu.edu/education/degree-programs/biomedical-sciences-phd",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://med.psu.edu/education/degree-programs/biomedical-sciences-phd",
+      "label": "Penn State College of Medicine: Biomedical Sciences PhD",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Science PhD",
+  "institution": "Drexel University",
+  "institutionShort": "Drexel",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://drexel.edu/grad/programs/biomed/biomedical-science/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://drexel.edu/grad/programs/biomed/biomedical-science/",
+      "label": "Drexel University: Biomedical Science",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

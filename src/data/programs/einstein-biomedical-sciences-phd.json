@@ -1,0 +1,19 @@
+{
+  "name": "PhD Program in the Biomedical Sciences",
+  "institution": "Albert Einstein College of Medicine",
+  "institutionShort": "Einstein",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://einsteinmed.edu/education/phd/phd-program/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://einsteinmed.edu/education/phd/phd-program/",
+      "label": "Albert Einstein College of Medicine: PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

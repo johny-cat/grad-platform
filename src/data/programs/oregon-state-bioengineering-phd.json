@@ -1,0 +1,19 @@
+{
+  "name": "Bioengineering PhD (joint program with the University of Oregon)",
+  "institution": "Oregon State University",
+  "institutionShort": "Oregon State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate/graduate-program-overview-bioengineering",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate/graduate-program-overview-bioengineering",
+      "label": "Oregon State University College of Engineering: Graduate Program Overview (Bioengineering)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Molecular Genetics PhD",
+  "institution": "The Ohio State University",
+  "institutionShort": "Ohio State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://molgen.osu.edu/graduate-studies-molecular-genetics",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://molgen.osu.edu/graduate-studies-molecular-genetics",
+      "label": "Ohio State Department of Molecular Genetics: Graduate Studies",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

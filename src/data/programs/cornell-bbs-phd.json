@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical and Biological Sciences (BBS) PhD Program",
+  "institution": "Cornell University",
+  "institutionShort": "Cornell",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program",
+      "label": "Cornell College of Veterinary Medicine: Biomedical and Biological Sciences (BBS) PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

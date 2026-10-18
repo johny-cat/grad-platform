@@ -1,0 +1,19 @@
+{
+  "name": "PhD Program in Cancer Engineering",
+  "institution": "Gerstner Sloan Kettering Graduate School of Biomedical Sciences",
+  "institutionShort": "Gerstner Sloan Kettering",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://sloankettering.edu/gerstner/cancer-engineering/overview",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://sloankettering.edu/gerstner/cancer-engineering/overview",
+      "label": "Gerstner Sloan Kettering: Cancer Engineering PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

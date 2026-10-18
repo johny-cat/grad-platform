@@ -1,0 +1,19 @@
+{
+  "name": "Biology PhD",
+  "institution": "California Institute of Technology",
+  "institutionShort": "Caltech",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bbe.caltech.edu/academics/biology/graduate-studies",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bbe.caltech.edu/academics/biology/graduate-studies",
+      "label": "Caltech Biology and Biological Engineering: Biology graduate studies",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

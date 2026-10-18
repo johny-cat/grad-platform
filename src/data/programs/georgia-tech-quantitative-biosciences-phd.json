@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Quantitative Biosciences (QBioS)",
+  "institution": "Georgia Institute of Technology",
+  "institutionShort": "Georgia Tech",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://qbios.gatech.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://qbios.gatech.edu/",
+      "label": "Georgia Tech: Interdisciplinary Graduate Program in Quantitative Biosciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Group in Microbiology (PhD)",
+  "institution": "University of California, Berkeley",
+  "institutionShort": "UC Berkeley",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://plantandmicrobiology.berkeley.edu/ggm",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/ggm",
+      "label": "UC Berkeley Plant and Microbial Biology: Graduate Group in Microbiology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

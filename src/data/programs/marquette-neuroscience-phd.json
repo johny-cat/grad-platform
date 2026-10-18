@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Neuroscience",
+  "institution": "Marquette University",
+  "institutionShort": "Marquette",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.marquette.edu/grad/programs-neuroscience.php",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.marquette.edu/grad/programs-neuroscience.php",
+      "label": "Marquette University Graduate School: Ph.D. in Neuroscience",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

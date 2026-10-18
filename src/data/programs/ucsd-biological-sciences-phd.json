@@ -1,0 +1,19 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of California, San Diego",
+  "institutionShort": "UC San Diego",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biology.ucsd.edu/education/grad/phd/admissions/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biology.ucsd.edu/education/grad/phd/admissions/index.html",
+      "label": "UC San Diego School of Biological Sciences: PhD Admissions",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Computational and Systems Biology (CSB) PhD Program",
+  "institution": "Massachusetts Institute of Technology",
+  "institutionShort": "MIT",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://csbphd.mit.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://csbphd.mit.edu/",
+      "label": "MIT: Computational and Systems Biology PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

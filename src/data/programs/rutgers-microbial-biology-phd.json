@@ -1,0 +1,19 @@
+{
+  "name": "Microbial Biology Graduate Program (PhD)",
+  "institution": "Rutgers University–New Brunswick",
+  "institutionShort": "Rutgers",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://dbm.rutgers.edu/graduate",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://dbm.rutgers.edu/graduate",
+      "label": "Rutgers Department of Biochemistry and Microbiology: Microbial Biology Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

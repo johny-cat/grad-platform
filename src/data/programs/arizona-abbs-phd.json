@@ -1,0 +1,19 @@
+{
+  "name": "Arizona Biological and Biomedical Sciences (ABBS)",
+  "institution": "University of Arizona",
+  "institutionShort": "Arizona",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://abbs.arizona.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://abbs.arizona.edu/",
+      "label": "University of Arizona: Arizona Biological and Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

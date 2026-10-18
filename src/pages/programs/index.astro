@@ -1,10 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ProgramRow from '../../components/ProgramRow.astro';
-import { getPrograms } from '../../lib/catalog';
+import { getPrograms, isPending } from '../../lib/catalog';
 import { CURRENT_CYCLE } from '../../config';
 
 const programs = await getPrograms();
+const pendingCount = programs.filter(isPending).length;
 ---
 
 <Base
@@ -19,6 +20,14 @@ const programs = await getPrograms();
         {CURRENT_CYCLE.label}. Biology and biomedical PhDs in the United States to start, with more fields and
         countries on the way.
       </p>
+      {
+        pendingCount > 0 && (
+          <p class="small muted">
+            Programs marked "Details coming" link to their official pages while we check their deadlines and
+            requirements. You can follow them and report results already.
+          </p>
+        )
+      }
     </header>
 
     <form class="filters" id="filters" role="search">

@@ -1,0 +1,19 @@
+{
+  "name": "PhD Program in Biomedical Sciences",
+  "institution": "Mayo Clinic Graduate School of Biomedical Sciences",
+  "institutionShort": "Mayo Clinic",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/",
+      "label": "Mayo Clinic College of Medicine and Science: Ph.D. Program overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

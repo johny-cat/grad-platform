@@ -1,0 +1,19 @@
+{
+  "name": "Biophysics PhD Program",
+  "institution": "Northeastern University",
+  "institutionShort": "Northeastern",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://cos.northeastern.edu/biophysics-phd",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://cos.northeastern.edu/biophysics-phd",
+      "label": "Northeastern College of Science: Biophysics PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

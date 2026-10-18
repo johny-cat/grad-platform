@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology PhD",
+  "institution": "Cornell University",
+  "institutionShort": "Cornell",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.gradschool.cornell.edu/academics/fields-of-study/subject/microbiology/microbiology-phd-ithaca",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.gradschool.cornell.edu/academics/fields-of-study/subject/microbiology/microbiology-phd-ithaca",
+      "label": "Cornell Graduate School: Microbiology Ph.D. (Ithaca)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

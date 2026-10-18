@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry, Cellular and Molecular Biology (BCMB) PhD Program",
+  "institution": "Johns Hopkins University",
+  "institutionShort": "Johns Hopkins",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bcmb.bs.jhmi.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bcmb.bs.jhmi.edu/",
+      "label": "Johns Hopkins School of Medicine: BCMB Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Brain and Cognitive Sciences PhD Program",
+  "institution": "Massachusetts Institute of Technology",
+  "institutionShort": "MIT",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program",
+      "label": "MIT Brain and Cognitive Sciences: PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

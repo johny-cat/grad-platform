@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry PhD (Molecular Biosciences)",
+  "institution": "Rutgers University–New Brunswick",
+  "institutionShort": "Rutgers",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://molbiosci.rutgers.edu/biochemistry",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://molbiosci.rutgers.edu/biochemistry",
+      "label": "Rutgers Graduate Programs in Molecular Biosciences: Biochemistry",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

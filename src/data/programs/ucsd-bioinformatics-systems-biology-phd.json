@@ -1,0 +1,19 @@
+{
+  "name": "Bioinformatics and Systems Biology PhD",
+  "institution": "University of California, San Diego",
+  "institutionShort": "UC San Diego",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://catalog.ucsd.edu/curric/BIOI-gr.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://catalog.ucsd.edu/curric/BIOI-gr.html",
+      "label": "UC San Diego General Catalog: Bioinformatics and Systems Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Biophysics PhD",
+  "institution": "Princeton University",
+  "institutionShort": "Princeton",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/biophysics",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/biophysics",
+      "label": "Princeton Graduate School: Biophysics",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

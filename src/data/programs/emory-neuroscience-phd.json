@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience PhD Program",
+  "institution": "Emory University",
+  "institutionShort": "Emory",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biomed.emory.edu/PROGRAM_SITES/NS/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biomed.emory.edu/PROGRAM_SITES/NS/",
+      "label": "Emory Graduate Division of Biological and Biomedical Sciences: Neuroscience",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

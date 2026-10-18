@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Quantitative Biomedical Sciences (QBS)",
+  "institution": "Dartmouth College",
+  "institutionShort": "Dartmouth",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://geiselmed.dartmouth.edu/qbs/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://geiselmed.dartmouth.edu/qbs/",
+      "label": "Dartmouth Geisel School of Medicine: Quantitative Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

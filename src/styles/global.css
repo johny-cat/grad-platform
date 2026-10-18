@@ -1103,6 +1103,14 @@ textarea::placeholder {
   margin: 0;
 }
 
+.tracks {
+  margin-top: 14px;
+}
+
+.tracks p {
+  margin: 0 0 8px;
+}
+
 .crumbs {
   margin: 0 0 14px;
   font-size: var(--text-s);
@@ -1136,6 +1144,14 @@ textarea::placeholder {
 .deadline-box {
   display: grid;
   gap: 4px;
+}
+
+.pending-note p {
+  margin: 0 0 12px;
+}
+
+.pending-note p:last-child {
+  margin-bottom: 0;
 }
 
 .deadline-box__date {

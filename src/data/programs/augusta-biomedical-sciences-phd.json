@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Sciences PhD Programs",
+  "institution": "Augusta University",
+  "institutionShort": "Augusta",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.augusta.edu/gradschool/biomed/index.php",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.augusta.edu/gradschool/biomed/index.php",
+      "label": "Augusta University: Biomedical Sciences (PhD) Programs",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

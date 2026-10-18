@@ -1,0 +1,19 @@
+{
+  "name": "Immunology and Molecular Pathogenesis (IMP) PhD Program",
+  "institution": "Emory University",
+  "institutionShort": "Emory",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biomed.emory.edu/PROGRAM_SITES/IMP/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biomed.emory.edu/PROGRAM_SITES/IMP/",
+      "label": "Emory University: Immunology and Molecular Pathogenesis Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

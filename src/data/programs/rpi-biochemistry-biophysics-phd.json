@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biochemistry and Biophysics",
+  "institution": "Rensselaer Polytechnic Institute",
+  "institutionShort": "RPI",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biology.rpi.edu/programs/phd-biochemistry-and-biophysics",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biology.rpi.edu/programs/phd-biochemistry-and-biophysics",
+      "label": "Rensselaer Department of Biological Sciences: Ph.D. in Biochemistry and Biophysics",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

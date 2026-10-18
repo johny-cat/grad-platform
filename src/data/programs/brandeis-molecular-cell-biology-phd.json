@@ -1,0 +1,19 @@
+{
+  "name": "Molecular and Cell Biology PhD Program",
+  "institution": "Brandeis University",
+  "institutionShort": "Brandeis",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.brandeis.edu/molecular-cell-biology/graduate/phd-program/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.brandeis.edu/molecular-cell-biology/graduate/phd-program/index.html",
+      "label": "Brandeis University: MCB PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -30,6 +30,7 @@ export default function ReportForm({ programs, cycleId, cycleLabel }: Props) {
   );
 
   const [program, setProgram] = useState('');
+  const [query, setQuery] = useState('');
   const [decision, setDecision] = useState<Decision | ''>('');
   const [decidedOn, setDecidedOn] = useState(today);
   const [channel, setChannel] = useState('');
@@ -39,6 +40,27 @@ export default function ReportForm({ programs, cycleId, cycleLabel }: Props) {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [done, setDone] = useState<string | null>(null);
+
+  // The list is long, so a search box narrows it. The chosen program always stays in the list.
+  // An umbrella program also matches its home areas or tracks, and then says which one matched.
+  const shown = useMemo(() => {
+    const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const matches: { p: ProgramSummary; track?: string }[] = [];
+    for (const p of sorted) {
+      const base = `${p.short} ${p.name} ${p.institution}`.toLowerCase();
+      if (words.every((w) => base.includes(w))) {
+        matches.push({ p });
+        continue;
+      }
+      const track = p.tracks?.find((t) => {
+        const text = `${base} ${t.toLowerCase()}`;
+        return words.every((w) => text.includes(w));
+      });
+      if (track) matches.push({ p, track });
+      else if (p.slug === program) matches.push({ p });
+    }
+    return matches;
+  }, [sorted, query, program]);
 
   useEffect(() => {
     const slug = new URLSearchParams(window.location.search).get('program');
@@ -128,11 +150,34 @@ export default function ReportForm({ programs, cycleId, cycleLabel }: Props) {
     <form class="form" onSubmit={onSubmit} noValidate>
       <div class="field">
         <label for="program">Program</label>
-        <select id="program" value={program} onChange={(e) => setProgram((e.target as HTMLSelectElement).value)} required>
-          <option value="">Choose a program</option>
-          {sorted.map((p) => (
+        <label class="visually-hidden" for="program-search">
+          Find a program by name or university
+        </label>
+        <input
+          id="program-search"
+          type="search"
+          placeholder="Search by university or program"
+          autocomplete="off"
+          value={query}
+          onInput={(e) => setQuery((e.target as HTMLInputElement).value)}
+        />
+        <select
+          id="program"
+          value={program}
+          onChange={(e) => setProgram((e.target as HTMLSelectElement).value)}
+          required
+        >
+          <option value="">
+            {shown.length === sorted.length
+              ? 'Choose a program'
+              : shown.length === 0
+                ? 'No programs match'
+                : `Choose from ${shown.length} ${shown.length === 1 ? 'match' : 'matches'}`}
+          </option>
+          {shown.map(({ p, track }) => (
             <option value={p.slug}>
               {p.short}: {p.name}
+              {track ? ` (includes ${track})` : ''}
             </option>
           ))}
         </select>

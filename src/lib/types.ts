@@ -37,6 +37,8 @@ export interface ProgramSummary {
   short: string;
   country: string;
   deadline?: { date: string; time?: string; timezone?: string };
+  /** Home areas or tracks inside an umbrella program, for search. */
+  tracks?: string[];
 }
 
 /** A row from the public results_feed view. */

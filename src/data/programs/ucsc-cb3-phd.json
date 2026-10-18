@@ -1,0 +1,19 @@
+{
+  "name": "Chemical Biology, Biochemistry and Biophysics (CB3) PhD track",
+  "institution": "University of California, Santa Cruz",
+  "institutionShort": "UC Santa Cruz",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://pbse.ucsc.edu/cb3",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://pbse.ucsc.edu/cb3",
+      "label": "UC Santa Cruz Program in Biomedical Sciences and Engineering: CB3 Training Track",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

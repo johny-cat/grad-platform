@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biomedical Sciences",
+  "institution": "MD Anderson UTHealth Houston Graduate School of Biomedical Sciences",
+  "institutionShort": "MD Anderson UTHealth GSBS",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gsbs.uth.edu/programs/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gsbs.uth.edu/programs/",
+      "label": "MD Anderson UTHealth Houston Graduate School of Biomedical Sciences: Programs",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

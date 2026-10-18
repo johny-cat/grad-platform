@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biological Sciences",
+  "institution": "Northern Illinois University",
+  "institutionShort": "NIU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://go.niu.edu/catalog-phd-bio",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://go.niu.edu/catalog-phd-bio",
+      "label": "Northern Illinois University catalog: Biological Sciences PhD",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

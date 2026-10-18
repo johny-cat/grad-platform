@@ -1,0 +1,19 @@
+{
+  "name": "Cross-Disciplinary Graduate Program in Biomedical Sciences (XDBio)",
+  "institution": "Johns Hopkins University",
+  "institutionShort": "Johns Hopkins",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://e-catalogue.jhu.edu/medicine/graduate-programs/20cross-disciplinary-program-biomedical-sciences/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://e-catalogue.jhu.edu/medicine/graduate-programs/20cross-disciplinary-program-biomedical-sciences/",
+      "label": "Johns Hopkins e-Catalogue: Cross-Disciplinary Program in Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

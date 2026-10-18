@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Sciences PhD Program",
+  "institution": "University of California, San Diego",
+  "institutionShort": "UC San Diego",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biomedsci.ucsd.edu/about/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biomedsci.ucsd.edu/about/index.html",
+      "label": "UC San Diego Biomedical Sciences Graduate Program: About",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

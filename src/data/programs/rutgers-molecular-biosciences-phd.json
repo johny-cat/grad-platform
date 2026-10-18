@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Programs in Molecular Biosciences (PhD)",
+  "institution": "Rutgers University–New Brunswick",
+  "institutionShort": "Rutgers",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://molbiosci.rutgers.edu/about",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://molbiosci.rutgers.edu/about",
+      "label": "Rutgers Graduate Programs in Molecular Biosciences: About",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

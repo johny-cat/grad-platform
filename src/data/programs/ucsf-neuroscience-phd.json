@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Graduate Program (PhD)",
+  "institution": "University of California, San Francisco",
+  "institutionShort": "UCSF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neurograd.ucsf.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neurograd.ucsf.edu/",
+      "label": "UCSF Neuroscience Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

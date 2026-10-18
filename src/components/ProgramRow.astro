@@ -4,6 +4,7 @@ import {
   firstDeadline,
   formatMoney,
   greNotNeeded,
+  isPending,
   searchText,
   type Program,
 } from '../lib/catalog';
@@ -16,16 +17,18 @@ interface Props {
 
 const { program } = Astro.props;
 const d = program.data;
+const pending = isPending(program);
 const deadline = firstDeadline(program);
 const intl = d.funding?.coversInternational ?? 'unknown';
-const fee = d.requirements.applicationFee;
+const fee = d.requirements?.applicationFee;
+const hasTags = intl === 'yes' || intl === 'limited' || greNotNeeded(program) || Boolean(fee);
 ---
 
 <li
   class="program-row"
   data-search={searchText(program)}
   data-intl={intl}
-  data-gre={d.requirements.gre}
+  data-gre={d.requirements?.gre ?? 'unknown'}
   data-waiver={fee?.waiver ?? 'unknown'}
 >
   <div>
@@ -53,17 +56,23 @@ const fee = d.requirements.applicationFee;
       </div>
     ) : (
       <div class="program-row__deadline">
-        <span class="muted small">Deadline not stated</span>
+        <span class="muted small">{pending ? 'Details coming' : 'Deadline not stated'}</span>
       </div>
     )
   }
 
-  <ul class="tags">
-    {intl === 'yes' && <li class="tag tag--good">Funds international students</li>}
-    {intl === 'limited' && <li class="tag">Limited funding for international students</li>}
-    {greNotNeeded(program) && <li class="tag">{d.requirements.gre === 'optional' ? 'GRE optional' : 'No GRE'}</li>}
-    {fee && <li class="tag">Fee {formatMoney(fee.amount, fee.currency)}</li>}
-  </ul>
+  {
+    hasTags && (
+      <ul class="tags">
+        {intl === 'yes' && <li class="tag tag--good">Funds international students</li>}
+        {intl === 'limited' && <li class="tag">Limited funding for international students</li>}
+        {greNotNeeded(program) && (
+          <li class="tag">{d.requirements?.gre === 'optional' ? 'GRE optional' : 'No GRE'}</li>
+        )}
+        {fee && <li class="tag">Fee {formatMoney(fee.amount, fee.currency)}</li>}
+      </ul>
+    )
+  }
 
   {
     deadline && (

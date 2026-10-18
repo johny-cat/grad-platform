@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biostatistics",
+  "institution": "Georgetown University",
+  "institutionShort": "Georgetown",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biostatistics.georgetown.edu/phd/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biostatistics.georgetown.edu/phd/",
+      "label": "Georgetown University: PhD in Biostatistics",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

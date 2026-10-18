@@ -1,0 +1,19 @@
+{
+  "name": "Harvard PhD Program in Neuroscience (PiN)",
+  "institution": "Harvard University",
+  "institutionShort": "Harvard",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://pinphd.hms.harvard.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://pinphd.hms.harvard.edu/",
+      "label": "Harvard PhD Program in Neuroscience",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

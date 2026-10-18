@@ -1,0 +1,19 @@
+{
+  "name": "Metabolic Biology PhD",
+  "institution": "University of California, Berkeley",
+  "institutionShort": "UC Berkeley",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://grad.berkeley.edu/program/metabolic-biology",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://grad.berkeley.edu/program/metabolic-biology",
+      "label": "UC Berkeley Graduate Division: Metabolic Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

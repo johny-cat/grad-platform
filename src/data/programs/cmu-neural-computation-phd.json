@@ -1,0 +1,19 @@
+{
+  "name": "Program in Neural Computation (PNC) PhD",
+  "institution": "Carnegie Mellon University",
+  "institutionShort": "CMU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.cmu.edu/ni/academics/pnc",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.cmu.edu/ni/academics/pnc",
+      "label": "Carnegie Mellon Neuroscience Institute: Program in Neural Computation",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

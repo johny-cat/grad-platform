@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biomedical Sciences (Vilcek Institute of Graduate Biomedical Sciences)",
+  "institution": "New York University",
+  "institutionShort": "NYU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/phd-biomedical-sciences",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/phd-biomedical-sciences",
+      "label": "NYU Langone Health: PhD in Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

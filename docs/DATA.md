@@ -27,10 +27,53 @@ or from a similar program.
 Pick the safer value (the earlier deadline, the higher test score) and say
 why in the `note`, e.g. MIT's two different deadline times.
 
+## Listing a program before its details are checked
+
+So people can follow a program and report results before we have checked
+its deadline and requirements, a program can be listed with
+`"details": "pending"`. A pending file has only:
+
+- `name`, `institution`, `institutionShort`, `country`, `degree`, `field`
+- `tracks`, for an umbrella program (see below)
+- `officialUrl`: the program's own page, which we opened
+- `cycle`, `sources` (that official page, with the date checked) and
+  `lastChecked`
+
+The build refuses anything else on a pending program, so a half-checked
+program can't slip through. Its page says "Details being checked" and links
+to the official page; the programs list says "Details coming".
+
+To finish a pending program, check everything on its official pages
+(deadlines, requirements, funding, international applicants, how students
+are admitted), fill in those fields and change `details` to `"checked"`, all
+in one go. The build requires `admissionModel` and `requirements` once a
+program is checked.
+
+## Umbrella programs
+
+When one application covers several home areas, tracks or programs (for
+example Stanford Biosciences, or UCLA's Graduate Programs in Bioscience),
+list the program once and name its parts in `tracks`, exactly as its
+official page does. Search then finds it by any of them ("UCLA
+neuroscience"), and the program page lists them. A program with its own
+separate application gets its own file.
+
+## Checking links
+
+`scripts/check-program-links.mjs` opens every official page, application
+page and source. It runs on every pull request that changes programs and
+every Monday (`.github/workflows/links.yml`), and the run's summary page
+shows a table of every link with the title of the page it opened. It fails
+only when a page is certainly gone (404 or 410) or its website doesn't
+exist; sites that block automated visits are listed as "couldn't check".
+Run it by hand with `node scripts/check-program-links.mjs [program-id ...]`.
+
 ## Field guide
 
 | Field | Notes |
 | --- | --- |
+| `details` | `checked` (the default) or `pending` (listed with its basics only, see above) |
+| `tracks` | Home areas or tracks inside an umbrella program, named as on its official page |
 | `deadlines[]` | `date` (YYYY-MM-DD). Add `time` and `timezone` (IANA, e.g. `America/New_York`) only when the page states a time. |
 | `requirements.gre` | `required`, `optional`, `not-required`, `not-accepted` (scores not considered), `unknown` |
 | `requirements.english.toefl` | Text, because TOEFL changed scales on 21 January 2026, e.g. `"5 (new scale) or 100 (old scale)"` |

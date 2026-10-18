@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry, Microbiology, and Molecular Biology (BMMB) PhD",
+  "institution": "The Pennsylvania State University",
+  "institutionShort": "Penn State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://science.psu.edu/bmb/graduate",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://science.psu.edu/bmb/graduate",
+      "label": "Penn State Eberly College of Science: BMMB Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}
