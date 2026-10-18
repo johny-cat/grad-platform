@@ -6,6 +6,7 @@ whenever something changes.
 | Piece | Status |
 | --- | --- |
 | GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. |
+| Automatic checks (GitHub) | Run on every pull request and every push to `main` (section 6). |
 | Supabase project `nhebswofygpgxcgvginn` | Database set up on 2026-10-17 (section 2). |
 | Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). |
 | Sign-in | Address settings done on 2026-10-17 (section 3). First sign-in by email link worked on 2026-10-18. |
@@ -101,3 +102,15 @@ Cloudflare posts on the pull request. The security headers in
 - Contact address for corrections: set `CONTACT_EMAIL` in `src/config.ts`.
 - Optional: Google sign-in (Google Cloud OAuth client, then Supabase,
   Authentication, Providers, Google).
+
+## 6. Automatic checks (GitHub)
+
+`.github/workflows/ci.yml` runs on every pull request and every push to
+`main`. It installs the packages (`npm ci`), checks the code
+(`npm run check`), builds the site (`npm run build`) and tests the database
+rules on a throwaway database (`npm run test:db`). It never changes the
+live site or the live database.
+
+The result shows near the bottom of each pull request: a green tick when
+everything passed, a red cross when something failed (click "Details" to
+see what). Merge only when it is green.

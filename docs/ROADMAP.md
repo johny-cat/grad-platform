@@ -14,6 +14,7 @@ Built in layers. Each layer ships before the next starts.
 - [x] My programs page
 - [x] Database with security tests
 - [x] Site live at grad-platform.pages.dev with the database connected (2026-10-17)
+- [x] Automatic checks on every pull request: code checks, build, database tests
 - [ ] Seed 100 to 150 biology and biomedical PhD programs
 - [ ] Official announcements on program pages (database ready)
 - [ ] Discussion threads per program and per field (database ready)
