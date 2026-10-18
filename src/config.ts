@@ -59,5 +59,17 @@ export const SUPABASE_URL = 'https://nhebswofygpgxcgvginn.supabase.co';
 /** The publishable ("anon") key. Empty means live features show as off. */
 export const SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_NTOGnLAE48DIdVAmhBY44g_rXMT_2S4';
 
+/**
+ * Whether sign-in emails contain a one-time code as well as the link.
+ *
+ * Keep false while the site uses Supabase's built-in email: its templates
+ * can't be edited, so emails carry only a link, and that link works only in
+ * the browser that asked for it. The sign-in page then says so and shows no
+ * code box. Set to true once custom SMTP is live and both the "Confirm sign
+ * up" and "Magic link or OTP" templates contain {{ .Token }}
+ * (docs/SETUP.md, section 3).
+ */
+export const SIGN_IN_EMAIL_HAS_CODE = false;
+
 /** Contact address shown on the site for corrections and safety reports. */
 export const CONTACT_EMAIL = '';

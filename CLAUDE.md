@@ -56,7 +56,7 @@ PUBLIC_DEMO=1 PUBLIC_DEMO_TODAY=2027-02-10 npx astro build --outDir /tmp/preview
 
 | Path | What it is |
 | --- | --- |
-| `src/config.ts` | Site name, current cycle, season dates, public Supabase settings |
+| `src/config.ts` | Site name, current cycle, season dates, public Supabase settings, sign-in email switch |
 | `src/content.config.ts` | Schema every program JSON file must match (build fails otherwise) |
 | `src/data/programs/` | One JSON file per program; the file name is the permanent ID |
 | `src/pages/` | Pages: home, programs list, program page, report, sign-in, me, about, privacy |
@@ -68,6 +68,7 @@ PUBLIC_DEMO=1 PUBLIC_DEMO_TODAY=2027-02-10 npx astro build --outDir /tmp/preview
 | `src/styles/global.css` | Design tokens and all styles (see `docs/DESIGN.md`) |
 | `supabase/migrations/` | Database schema, security rules and functions |
 | `supabase/tests/` | Database tests (`npm run test:db`) |
+| `.github/workflows/ci.yml` | Runs check, build and `test:db` on every pull request and push to `main` |
 | `docs/` | Architecture, security, data rules, design, roadmap, setup status, decisions |
 
 ## Common tasks

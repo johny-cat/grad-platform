@@ -44,7 +44,8 @@ person who posted still sees it, marked as hidden.
 `npm run test:db` runs `supabase/tests/10_security_test.sql` against a local
 Postgres with Supabase-like roles: anonymous visitors can't write, users
 can't read or change each other's data, roles can't be escalated, limits and
-auto-hiding work, and deleting an account removes its results.
+auto-hiding work, and deleting an account removes its results. GitHub runs
+them on every pull request (`.github/workflows/ci.yml`).
 
 ## Still to do
 
