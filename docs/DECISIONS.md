@@ -4,6 +4,13 @@ Newest first. Each entry: what we decided and why.
 
 ## 2026-10-19
 
+- **The programs page lists universities first.** Junaid asked for it: 307
+  rows were too many to scan on a phone. The 121 universities are listed A
+  to Z and open in place to show their programs, using the browser's own
+  open-and-close, so it stays light on slow connections. Searching or
+  filtering opens just the universities with a match, and clearing the
+  search puts the list back as it was. Inside a university, programs with
+  checked deadlines come first.
 - **Publish by hand while GitHub is suspended.** GitHub suspended the
   `johny-cat` account on 2026-10-18, a few minutes after the pull request
   with 169 programs was opened; Junaid has appealed. Waiting could take weeks

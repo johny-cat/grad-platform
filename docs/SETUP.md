@@ -144,17 +144,18 @@ saved as a `.txt` file, and `scripts/upload-to-cloudflare.bat`.
    can do this in the built-in browser once Junaid has signed in to
    Supabase and approved this step.
 2. Once only: install Node.js (LTS) from https://nodejs.org.
-3. Extract the zip into `Downloads\heardyet-site`.
-4. Junaid double-clicks the `.bat` file. It signs in to Cloudflare (the
-   browser opens; click "Allow"), uploads `heardyet-site` and writes what
-   happened to `heardyet-upload-log.txt` next to it. By hand instead, in
-   Command Prompt (not PowerShell):
+3. Junaid double-clicks the `.bat` file. It unpacks the zip into
+   `heardyet-site` (replacing the old copy), signs in to Cloudflare if
+   needed (the browser opens; click "Allow"), uploads the site and writes
+   what happened to `heardyet-upload-log.txt` next to it. By hand instead,
+   extract the zip into `Downloads\heardyet-site`, then in Command Prompt
+   (not PowerShell):
    ```
    cd %USERPROFILE%\Downloads
    npx wrangler login
    npx wrangler pages deploy heardyet-site --project-name=grad-platform --branch=main
    ```
-5. Check https://grad-platform.pages.dev/programs/ (the program count).
+4. Check https://grad-platform.pages.dev/programs/ (the program count).
 
 To undo: Cloudflare dashboard, Workers & Pages, `grad-platform`,
 Deployments, choose the previous one, "Rollback to this deployment". When
@@ -168,3 +169,7 @@ Uploaded by hand:
   (https://9e3aed9b.grad-platform.pages.dev). Checked afterwards: the
   programs page lists 307, and every script, style and font, the main
   pages and a sample of program pages are identical to the build.
+- 2026-10-19, evening: the programs page grouped by university (same
+  branch). Deployment `dd6a62a7`. Checked afterwards: the live programs
+  page is identical to the build and lists 307 programs at 121
+  universities. No database change.

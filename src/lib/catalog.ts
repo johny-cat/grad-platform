@@ -12,8 +12,32 @@ export function firstDeadline(program: Program): Deadline | undefined {
 }
 
 /** Institution name for alphabetical order: "The Ohio State University" sorts under O. */
+/** A university's name for sorting: "The Ohio State University" sorts under O. */
+function universitySortName(name: string): string {
+  return name.replace(/^The /, '');
+}
+
 function sortName(program: Program): string {
-  return program.data.institution.replace(/^The /, '');
+  return universitySortName(program.data.institution);
+}
+
+export interface University {
+  name: string;
+  /** In the same order as getPrograms(): soonest deadline first, then by name. */
+  programs: Program[];
+}
+
+/** Programs grouped by university, universities A to Z. */
+export async function getUniversities(): Promise<University[]> {
+  const groups = new Map<string, Program[]>();
+  for (const program of await getPrograms()) {
+    const list = groups.get(program.data.institution);
+    if (list) list.push(program);
+    else groups.set(program.data.institution, [program]);
+  }
+  return [...groups]
+    .map(([name, programs]) => ({ name, programs }))
+    .sort((a, b) => universitySortName(a.name).localeCompare(universitySortName(b.name)));
 }
 
 /** All programs, soonest deadline first, then by university and program name. */

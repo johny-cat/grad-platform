@@ -1,7 +1,7 @@
 @echo off
 rem Upload the built HeardYet site to Cloudflare Pages from a Windows computer,
 rem for when GitHub can't be used (docs/SETUP.md, section 7). Put this file in
-rem Downloads next to the unzipped "heardyet-site" folder and double-click it.
+rem Downloads next to heardyet-site.zip and double-click it.
 setlocal
 title Upload HeardYet to Cloudflare
 cd /d "%~dp0"
@@ -21,24 +21,37 @@ if errorlevel 1 (
   exit /b 1
 )
 
+rem Unpack the newest site from heardyet-site.zip, replacing the old copy.
+if exist "heardyet-site.zip" (
+  echo  Unpacking heardyet-site.zip...
+  if exist "heardyet-site" rmdir /s /q "heardyet-site"
+  powershell -NoProfile -Command "Expand-Archive -LiteralPath 'heardyet-site.zip' -DestinationPath 'heardyet-site' -Force"
+  echo.
+)
 if not exist "heardyet-site\index.html" (
-  echo  The folder "heardyet-site" is missing from Downloads. Unzip heardyet-site.zip here first.
+  echo  The site is missing. Put heardyet-site.zip in Downloads next to this file and run it again.
   echo.
   pause
   exit /b 1
 )
 
-echo  Step 1 of 2: sign in to Cloudflare.
-echo  Your web browser will open. Sign in if it asks, then click "Allow".
+echo  Step 1 of 2: signing in to Cloudflare.
 echo  (The first time, it also downloads Cloudflare's upload tool. Please wait.)
 echo.
-call npx --yes wrangler@4 login
+call npx --yes wrangler@4 whoami 2>&1 | findstr /i /c:"not authenticated" >nul
 if errorlevel 1 (
+  echo  Already signed in.
+) else (
+  echo  Your web browser will open. Sign in if it asks, then click "Allow".
   echo.
-  echo  Signing in didn't finish. Close this window and double-click the file again.
-  echo.
-  pause
-  exit /b 1
+  call npx --yes wrangler@4 login
+  if errorlevel 1 (
+    echo.
+    echo  Signing in didn't finish. Close this window and double-click the file again.
+    echo.
+    pause
+    exit /b 1
+  )
 )
 
 echo.

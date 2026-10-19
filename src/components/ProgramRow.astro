@@ -13,9 +13,11 @@ import { CURRENT_CYCLE } from '../config';
 
 interface Props {
   program: Program;
+  /** Listed under its university's name, so the name isn't shown again (screen readers still hear it). */
+  inUniversity?: boolean;
 }
 
-const { program } = Astro.props;
+const { program, inUniversity = false } = Astro.props;
 const d = program.data;
 const pending = isPending(program);
 const deadline = firstDeadline(program);
@@ -34,7 +36,7 @@ const hasTags = intl === 'yes' || intl === 'limited' || greNotNeeded(program) ||
   <div>
     <h2 class="program-row__title">
       <a href={`/programs/${program.id}/`}>
-        <span class="program-row__institution">{d.institution}</span>
+        <span class:list={['program-row__institution', { 'visually-hidden': inUniversity }]}>{d.institution}</span>
         <span class="program-row__name">{d.name}</span>
       </a>
     </h2>

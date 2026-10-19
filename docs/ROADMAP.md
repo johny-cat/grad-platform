@@ -8,7 +8,7 @@ Built in layers. Each layer ships before the next starts.
 - [x] List programs before their details are checked, so people can follow them and report results: every US biology PhD program in this season's sheet, 300 programs (2026-10-18 and 19; live on the site and in the database since 2026-10-19)
 - [x] Weekly check that every official program link still opens
 - [x] Program list with search and filters
-- [ ] Programs page grouped by university (Junaid, 2026-10-19): 121 universities instead of 307 rows; tap a university to see its programs on the same page; search and filters open the universities with a match
+- [x] Programs page grouped by university: 121 universities instead of 307 rows; tap a university to see its programs on the same page; search and filters open the universities with a match (2026-10-19)
 - [x] Program pages: deadline in the visitor's time zone, requirements, funding, sources
 - [x] Season timeline
 - [x] Report a result (anonymous), results feed, "others reported this too"

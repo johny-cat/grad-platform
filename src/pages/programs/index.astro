@@ -1,11 +1,13 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ProgramRow from '../../components/ProgramRow.astro';
-import { getPrograms, isPending } from '../../lib/catalog';
+import { getUniversities, isPending } from '../../lib/catalog';
 import { CURRENT_CYCLE } from '../../config';
 
-const programs = await getPrograms();
+const universities = await getUniversities();
+const programs = universities.flatMap((u) => u.programs);
 const pendingCount = programs.filter(isPending).length;
+const plural = (n: number, one: string, many: string) => `${n} ${n === 1 ? one : many}`;
 ---
 
 <Base
@@ -48,9 +50,29 @@ const pendingCount = programs.filter(isPending).length;
       </div>
     </form>
 
-    <p class="count-line" id="count" aria-live="polite">{programs.length} programs</p>
-    <ol class="program-list" id="program-list">
-      {programs.map((program) => <ProgramRow program={program} />)}
+    <p class="count-line" id="count" aria-live="polite">
+      {plural(programs.length, 'program', 'programs')} at {plural(universities.length, 'university', 'universities')}
+    </p>
+    <ol class="uni-list" id="university-list">
+      {
+        universities.map((university) => (
+          <li class="uni">
+            <details class="uni__details">
+              <summary class="uni__summary">
+                <span class="uni__name">{university.name}</span>
+                <span class="uni__count" data-count>
+                  {plural(university.programs.length, 'program', 'programs')}
+                </span>
+              </summary>
+              <ol class="uni__programs">
+                {university.programs.map((program) => (
+                  <ProgramRow program={program} inUniversity />
+                ))}
+              </ol>
+            </details>
+          </li>
+        ))
+      }
     </ol>
     <div class="empty" id="no-match" hidden>
       <p>No programs match. Try fewer filters or a different search.</p>
@@ -63,7 +85,12 @@ const pendingCount = programs.filter(isPending).length;
 
 <script>
   const form = document.getElementById('filters') as HTMLFormElement;
-  const rows = [...document.querySelectorAll<HTMLElement>('#program-list > li')];
+  const groups = [...document.querySelectorAll<HTMLElement>('#university-list > li')].map((item) => ({
+    item,
+    details: item.querySelector('details')!,
+    count: item.querySelector<HTMLElement>('[data-count]')!,
+    rows: [...item.querySelectorAll<HTMLElement>('.program-row')],
+  }));
   const count = document.getElementById('count')!;
   const noMatch = document.getElementById('no-match')!;
   const query = form.elements.namedItem('q') as HTMLInputElement;
@@ -71,25 +98,49 @@ const pendingCount = programs.filter(isPending).length;
   const noGre = form.elements.namedItem('nogre') as HTMLInputElement;
   const waiver = form.elements.namedItem('waiver') as HTMLInputElement;
   const greFree = ['optional', 'not-required', 'not-accepted'];
+  const plural = (n: number, one: string, many: string) => `${n} ${n === 1 ? one : many}`;
 
   const initial = new URLSearchParams(window.location.search).get('q');
   if (initial) query.value = initial;
 
+  // Which universities the visitor had open before searching, so clearing
+  // the search puts the list back the way they left it.
+  let openBefore: boolean[] | null = null;
+
   function apply() {
     const words = query.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    let shown = 0;
-    for (const row of rows) {
-      const data = row.dataset;
-      const match =
-        words.every((w) => (data.search ?? '').includes(w)) &&
-        (!intl.checked || data.intl === 'yes') &&
-        (!noGre.checked || greFree.includes(data.gre ?? '')) &&
-        (!waiver.checked || data.waiver === 'available');
-      row.hidden = !match;
-      if (match) shown += 1;
-    }
-    count.textContent = `${shown} ${shown === 1 ? 'program' : 'programs'}`;
-    noMatch.hidden = shown > 0;
+    const filtering = words.length > 0 || intl.checked || noGre.checked || waiver.checked;
+    if (filtering && !openBefore) openBefore = groups.map((group) => group.details.open);
+
+    let programs = 0;
+    let universities = 0;
+    groups.forEach((group, i) => {
+      let shown = 0;
+      for (const row of group.rows) {
+        const data = row.dataset;
+        const match =
+          words.every((w) => (data.search ?? '').includes(w)) &&
+          (!intl.checked || data.intl === 'yes') &&
+          (!noGre.checked || greFree.includes(data.gre ?? '')) &&
+          (!waiver.checked || data.waiver === 'available');
+        row.hidden = !match;
+        if (match) shown += 1;
+      }
+      const all = group.rows.length;
+      group.item.hidden = shown === 0;
+      group.count.textContent =
+        shown < all ? `${shown} of ${plural(all, 'program', 'programs')}` : plural(all, 'program', 'programs');
+      if (filtering) group.details.open = shown > 0;
+      else if (openBefore) group.details.open = openBefore[i] ?? false;
+      if (shown > 0) {
+        programs += shown;
+        universities += 1;
+      }
+    });
+    if (!filtering) openBefore = null;
+
+    count.textContent = `${plural(programs, 'program', 'programs')} at ${plural(universities, 'university', 'universities')}`;
+    noMatch.hidden = programs > 0;
     const url = new URL(window.location.href);
     if (query.value.trim()) url.searchParams.set('q', query.value.trim());
     else url.searchParams.delete('q');
