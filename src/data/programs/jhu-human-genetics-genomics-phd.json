@@ -3,17 +3,97 @@
   "institution": "Johns Hopkins University",
   "institutionShort": "Johns Hopkins",
   "country": "US",
+  "location": "Baltimore, Maryland",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD training in human genetics and genomics at the Johns Hopkins School of Medicine. You apply to the program, complete three research rotations, then choose a thesis lab.",
   "officialUrl": "https://e-catalogue.jhu.edu/medicine/graduate-programs/human-genetics-genomics-phd/",
+  "applyUrl": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-15",
+      "note": "The Human Genetics and Genomics apply page says December 15 is the deadline for the application and for receipt of all application materials; the School of Medicine dates table gives December 15, 2026. No time of day is given. The catalogue adds that to be considered for the Vivien Thomas Scholars Initiative, all application and supplementary materials must be received by December 1st."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations go out by January 15. Interviews are held on Zoom in mid-February, usually in two afternoon groups, and offers follow shortly after the last group.",
+    "decisions": "Acceptance, wait list and rejection letters come by email. Applicants must accept or reject an offer by April 15, when accepted offers become binding."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "International applicants whose native language isn't English need a TOEFL or IELTS score; no minimum score is stated. The School of Medicine waives the TOEFL for a degree completed at a US institution, or one that will be earned at a US university before starting at Johns Hopkins. Scores must arrive before the deadline."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "One fee covers up to four School of Medicine PhD programs. Waivers: US citizens and permanent residents whose household income is at most 200% of the US poverty guideline; current or former US military; alumni of a Johns Hopkins or Kennedy Krieger summer internship or postbaccalaureate program, or of any undergraduate college in Maryland. Applicants who are not US citizens or permanent residents but qualify as alumni should email Gradadmissions@jhmi.edu."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Transcript from every college or university attended",
+      "CV",
+      "Personal statement on your interest in human genetics and genomics, research experience and career objectives",
+      "Details of any prior research experience"
+    ],
+    "note": "GRE scores are recommended but not required, and applications without them receive full consideration. A bachelor's degree is required to start; the catalogue looks for a strong foundation in biology, chemistry and quantitative analysis. In 2026 the program admitted five students from a pool of 194 applicants."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "stipend": { "amount": 52000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "The School of Medicine guarantees PhD students support under the PhD union's contract, with minimum pay of $52,000 in 2026-27 and tuition covered. The catalogue says the program's NIGMS training-grant fellowships, which cover tuition, health insurance and a stipend in year one, are restricted to US citizens and permanent residents; for students who are not eligible, tuition and health care are also covered. Once a student joins a thesis lab, the mentor is responsible for funding until the student finishes."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The University sponsors visas for accepted students, though a visa is not guaranteed."
+  },
   "sources": [
     {
       "url": "https://e-catalogue.jhu.edu/medicine/graduate-programs/human-genetics-genomics-phd/",
       "label": "Johns Hopkins e-Catalogue: Human Genetics and Genomics, PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/genetic-medicine/education-training/human-genetics-genomics-graduate-program/apply",
+      "label": "Johns Hopkins Department of Genetic Medicine: Human Genetics and Genomics Graduate Program, Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2026/human-genetics--genomics-september-2026.pdf",
+      "label": "Johns Hopkins School of Medicine: Admissions Information for the PhD in Human Genetics & Genomics (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/on-campus-programs",
+      "label": "Johns Hopkins School of Medicine: On-Campus Programs (application dates)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2025/application-fees-and-fee-waiver-request-instructions-2025.pdf",
+      "label": "Johns Hopkins School of Medicine: Application Fees and Fee Waiver Request Instructions (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions",
+      "label": "Johns Hopkins School of Medicine: Graduate Admissions (FAQ)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/financial",
+      "label": "Johns Hopkins School of Medicine: Financial Aid",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
+      "label": "Johns Hopkins Graduate Admissions: application portal for School of Medicine programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

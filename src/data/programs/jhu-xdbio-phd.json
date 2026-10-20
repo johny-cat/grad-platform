@@ -3,17 +3,102 @@
   "institution": "Johns Hopkins University",
   "institutionShort": "Johns Hopkins",
   "country": "US",
+  "location": "Baltimore, Maryland",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Johns Hopkins School of Medicine PhD for interdisciplinary biomedical research, with a personalized curriculum. There is no required number of rotations, and students can train in Johns Hopkins labs or at HHMI's Janelia Research Campus.",
   "officialUrl": "https://e-catalogue.jhu.edu/medicine/graduate-programs/20cross-disciplinary-program-biomedical-sciences/",
+  "applyUrl": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The XDBio How To Apply page says the application is open from 9/8/2026 to 12/1/2026 and that all components must be received before the deadline. The School of Medicine dates table lists December 1, 2026. No time of day is given."
+    }
+  ],
+  "timeline": {
+    "interviews": "The program contacts the applicants it invites. Interviews will be in person or possibly by Zoom in February 2027, and the program reimburses travel and accommodation for the interview.",
+    "decisions": "Acceptance, wait list and rejection letters come by email. Applicants must accept or reject an offer by April 15, when accepted offers become binding."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "International applicants whose native language isn't English need a TOEFL or IELTS score; no minimum score is stated. The School of Medicine waives the TOEFL for a degree completed at a US institution, or one that will be earned at a US university before starting at Johns Hopkins. Scores must arrive before the deadline."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "One fee covers up to four School of Medicine PhD programs. Waivers: US citizens and permanent residents whose household income is at most 200% of the US poverty guideline; current or former US military; alumni of a Johns Hopkins or Kennedy Krieger summer internship or postbaccalaureate program, or of any undergraduate college in Maryland. Applicants who are not US citizens or permanent residents but qualify as alumni should email Gradadmissions@jhmi.edu."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Transcript from every college or university attended",
+      "CV",
+      "Three personal statements: a formative experience (1 page), research projects you have worked on (1-2 pages), and your PhD training goals and vision",
+      "Details of any prior research experience"
+    ],
+    "note": "The third personal statement also asks you to name faculty at Johns Hopkins and/or Janelia you would like to rotate or do thesis work with. In 2026 the program admitted 4 students from a pool of 214 applicants."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": { "amount": 52000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "The School of Medicine guarantees PhD students support under the PhD union's contract: minimum pay of $52,000 in 2026-27, tuition covered, and health benefits for eligible students. It also says accepted PhD applicants receive a tuition scholarship, health insurance and a stipend. No page says whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The University sponsors visas for accepted students, though a visa is not guaranteed."
+  },
   "sources": [
     {
       "url": "https://e-catalogue.jhu.edu/medicine/graduate-programs/20cross-disciplinary-program-biomedical-sciences/",
       "label": "Johns Hopkins e-Catalogue: Cross-Disciplinary Program in Biomedical Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://xdbio.jhmi.edu/",
+      "label": "Johns Hopkins XDBio: Home",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://xdbio.jhmi.edu/admissions/",
+      "label": "Johns Hopkins XDBio: How To Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2026/xdbio---phd-admissions-requirements-september-2026.pdf",
+      "label": "Johns Hopkins School of Medicine: Admissions Information for the PhD in XDBio (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/on-campus-programs",
+      "label": "Johns Hopkins School of Medicine: On-Campus Programs (application dates)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2025/application-fees-and-fee-waiver-request-instructions-2025.pdf",
+      "label": "Johns Hopkins School of Medicine: Application Fees and Fee Waiver Request Instructions (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions",
+      "label": "Johns Hopkins School of Medicine: Graduate Admissions (FAQ)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/financial",
+      "label": "Johns Hopkins School of Medicine: Financial Aid",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
+      "label": "Johns Hopkins Graduate Admissions: application portal for School of Medicine programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
