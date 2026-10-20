@@ -3,17 +3,101 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD in neuroscience with about 10 to 12 entering students a year. Most students do three 10-week lab rotations in the first year; a direct-admit route into a specific lab is open only to applicants invited by a faculty member.",
   "officialUrl": "https://grad.berkeley.edu/program/neuroscience-phd/",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-19",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The program says 8:59pm Pacific Time (11:59pm Eastern Time) on Thursday, November 19, 2026, and strongly encourages applying no later than 12:00pm Pacific Time that day. Late applications are not accepted or reviewed, and letters should be in by the deadline. The Graduate Division lists the same date."
+    }
+  ],
+  "timeline": {
+    "interviews": "Top applicants are invited to one of two in-person visits: January 31 to February 2, or February 21 to 23, 2027.",
+    "decisions": "Final decisions are made shortly after the second visit, and official offers are sent by early March. Admitted applicants who accept complete the Statement of Intent to Register by April 15."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5, with Speaking 6 and Writing 4.5 (tests from 21 Jan 2026); 90, with Speaking 26 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "The program's speaking minimums are higher than the Graduate Division's: IELTS Speaking 8, TOEFL Speaking 26 (tests before 21 Jan 2026) or 6 (tests from 21 Jan 2026). IELTS tests from 21 January 2026 also need Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. The program sends applicants to the Graduate Division for exemptions: a degree from a country where English is the main language, a degree taught in English at a regionally accredited US institution, or at least a year of full-time study at such an institution with grades of B or better."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 for US citizens and permanent residents and $155 for everyone else, plus a 4.22% payment processing fee. Waivers are for US citizens and permanent residents, and are handled by the Graduate Division, not the program."
+    },
+    "letters": { "min": 3, "max": 3 },
+    "documents": [
+      "Statement of purpose (2 to 3 double-spaced pages)",
+      "Personal history statement (1 to 3 double-spaced pages)",
+      "Résumé or CV",
+      "Unofficial transcripts from every institution attended",
+      "Scanned degree certificates (international applicants)"
+    ],
+    "note": "Applicants need a bachelor's degree or equivalent with a minimum GPA of 3.0 and at least two years of laboratory research experience; part-time experience counts, lab classes do not. Letters should come from people who have supervised your work in a laboratory, research or academic setting. Direct admission to a specific faculty lab is only for applicants a faculty member has invited to apply this way; they are also considered for general admission."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants pay the $155 fee and upload scanned copies of their degree certificates with their transcripts."
+  },
   "sources": [
     {
       "url": "https://grad.berkeley.edu/program/neuroscience-phd/",
       "label": "UC Berkeley Graduate Division: Neuroscience PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.berkeley.edu/grad",
+      "label": "UC Berkeley Neuroscience: Graduate Program",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.berkeley.edu/grad/admissions",
+      "label": "UC Berkeley Neuroscience: PhD Program Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.berkeley.edu/grad/admissions/requirements",
+      "label": "UC Berkeley Neuroscience: Application Requirements and Instructions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.berkeley.edu/academics/graduate-program/phd-admissions/general-and-direct-admission",
+      "label": "UC Berkeley Neuroscience: General and Direct Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.berkeley.edu/grad/admissions/steps-phd",
+      "label": "UC Berkeley Neuroscience: Steps to a PhD (rotations)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.berkeley.edu/grad/admissions/review",
+      "label": "UC Berkeley Neuroscience: Review Process (interviews, decisions)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/our-programs/",
+      "label": "UC Berkeley Graduate Division: Programs and Application Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

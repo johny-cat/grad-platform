@@ -3,17 +3,97 @@
   "institution": "Johns Hopkins University",
   "institutionShort": "Johns Hopkins",
   "country": "US",
+  "location": "Baltimore, Maryland",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Johns Hopkins School of Medicine PhD that trains scientists in translational, bench-to-bedside research. You apply to the program rather than a lab, rotate in at least two labs, then choose a thesis advisor.",
   "officialUrl": "https://e-catalogue.jhu.edu/medicine/graduate-programs/cellular-molecular-medicine-phd/",
+  "applyUrl": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The CMM page says December 1, 2026 is the deadline for receipt of all application materials for a start in August 2027, and the School of Medicine dates table lists the same date. The application opens September 8, 2026. No time of day is given."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected applicants are invited to a two-day virtual interview event in February, and offers follow over the next month. Accepted applicants can visit the campus in March, with travel costs covered by the program.",
+    "decisions": "Acceptance, wait list and rejection letters come by email. Applicants must accept or reject an offer by April 15, when accepted offers become binding."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "International applicants whose native language isn't English need a TOEFL or IELTS score; no minimum score is stated. The CMM page asks for the TOEFL whenever undergraduate instruction was not in English. The School of Medicine waives it for a degree completed at a US institution, or one that will be earned at a US university before starting at Johns Hopkins. Scores must arrive before the deadline."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "One fee covers up to four School of Medicine PhD programs. Waivers: US citizens and permanent residents whose household income is at most 200% of the US poverty guideline; current or former US military; alumni of a Johns Hopkins or Kennedy Krieger summer internship or postbaccalaureate program, or of any undergraduate college in Maryland. Applicants who are not US citizens or permanent residents but qualify as alumni should email Gradadmissions@jhmi.edu."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Transcript from every college or university attended",
+      "CV",
+      "One-page personal statement",
+      "Details of any prior research experience"
+    ],
+    "note": "GRE: the School of Medicine PDF and the CMM page say scores are optional and applications are fully considered without them, while the catalogue says the program does not require or review GRE scores. A bachelor's degree is required. The catalogue expects courses in biology, inorganic chemistry, organic chemistry, physical chemistry, physics and calculus (the CMM page calls them recommended) and recommends cell biology and/or biochemistry. It calls prior research experience paramount, along with letters from research mentors. In 2026 the program admitted 10 students from more than 400 applicants."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": { "amount": 52000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "The catalogue says each student is provided a stipend, health and dental insurance, and tuition. The program covers these in the first year; in later years the research advisor is responsible. The School of Medicine guarantees PhD students support under the PhD union's contract, with minimum pay of $52,000 in 2026-27. No page says whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The University sponsors visas for accepted students, though a visa is not guaranteed. The CMM page says the program accepts a very limited number of international students."
+  },
   "sources": [
     {
       "url": "https://e-catalogue.jhu.edu/medicine/graduate-programs/cellular-molecular-medicine-phd/",
       "label": "Johns Hopkins e-Catalogue: Cellular and Molecular Medicine, PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cmm.jhmi.edu/index.php/application-information/",
+      "label": "Johns Hopkins CMM Program: Application Information for the Doctoral Degree",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2026/cmm---phd-admissions-requirements_fall-2026.pdf",
+      "label": "Johns Hopkins School of Medicine: Admissions Information for the PhD in Cellular and Molecular Medicine (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/on-campus-programs",
+      "label": "Johns Hopkins School of Medicine: On-Campus Programs (application dates)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2025/application-fees-and-fee-waiver-request-instructions-2025.pdf",
+      "label": "Johns Hopkins School of Medicine: Application Fees and Fee Waiver Request Instructions (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions",
+      "label": "Johns Hopkins School of Medicine: Graduate Admissions (FAQ)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/financial",
+      "label": "Johns Hopkins School of Medicine: Financial Aid",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
+      "label": "Johns Hopkins Graduate Admissions: application portal for School of Medicine programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

@@ -3,17 +3,127 @@
   "institution": "Cornell University",
   "institutionShort": "Cornell",
   "country": "US",
+  "location": "Ithaca, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Cornell's PhD field in biochemistry, molecular and cell biology (BMCB). Applicants choose the Biochemistry or the Molecular and Cell Biology degree, rotate through three research labs in the first year, and teach for one semester in the second year.",
   "officialUrl": "https://cals.cornell.edu/education/degrees-programs/graduate-field-biochemistry-molecular-cell-biology",
+  "applyUrl": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The Graduate School's list of revised deadlines gives December 1, 2026 for both Biochemistry (PhD) and Molecular and Cell Biology (PhD), and the department's admissions page says the deadline for fall admission is December 1, with no spring admission. No time of day is stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "A select number of applicants are invited to interview at on-campus Recruitment events in March. Those who can't attend, for example some international applicants living outside the US, are offered Zoom interviews.",
+    "decisions": "Admissions decisions are made by early to mid-March, once all interviews have taken place."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "All applicants must show English proficiency with TOEFL iBT or IELTS Academic scores unless they meet one of the Graduate School's exemptions (for example, a bachelor's degree from an accredited US college). Duolingo and other tests aren't accepted. Scores must be valid on the application deadline (two years from the test date). The Graduate School says the minimums it publishes apply to Summer and Fall 2026 admission only and are expected to rise for Fall 2027, and its page said to check back in mid-October for an update, so no minimums are listed here. The department's page lists TOEFL section minimums of Reading 20, Writing 20, Listening 15 and Speaking 22, and an IELTS overall score of 7.0 or higher. Self-report your scores in the application; official scores are needed before any offer."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Nonrefundable, and the same for international applicants. The Graduate School can waive it in exceptional cases of financial hardship and lists economic conditions in your home country among the factors it weighs. Requests are approved only for applicants to fully funded doctoral or research master's programs, or those who will submit a FAFSA. Ask on the payment page, and submit your application at least three business days before the deadline. The department says fields can't issue waivers; the Graduate School also considers requests from pipeline-program participants."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Academic statement of purpose",
+      "Personal statement",
+      "Résumé or CV",
+      "Transcripts from all colleges attended"
+    ],
+    "note": "Applications are judged as a whole: grades, the statement of purpose and, especially, the letters of recommendation. Statements run up to 1,200 words (academic) and 1,000 words (personal). Official transcripts aren't needed to apply, but upload transcripts from every college attended, even without a degree. A résumé or CV is required for BMCB. When applying, choose the Biochemistry PhD or the Molecular and Cell Biology PhD based on your research interests; students can move between BMCB and GGD at the end of the first year if their interests change."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All matriculating students receive full support for the time typically needed to finish (5 to 6 years) while making satisfactory progress: a stipend, full tuition and individual medical insurance. In later years, support generally comes from graduate research or teaching assistantships, and many students win their own fellowships. The pages give no stipend amount; the Graduate School's minimum for assistantships in 2026-27 is $36,684 for 9 months or $48,912 for 12 months (2027-28 rates aren't posted yet)."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://cals.cornell.edu/education/degrees-programs/graduate-field-biochemistry-molecular-cell-biology",
       "label": "Cornell CALS: Graduate Field of Biochemistry, Molecular and Cell Biology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate",
+      "label": "Cornell CALS Molecular Biology and Genetics: Graduate programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate/admissions",
+      "label": "Cornell CALS Molecular Biology and Genetics: Graduate admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate/admissions/application-requirements",
+      "label": "Cornell CALS Molecular Biology and Genetics: Application requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate/prospective-students",
+      "label": "Cornell CALS Molecular Biology and Genetics: Prospective students",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate/admissions/financial-support",
+      "label": "Cornell CALS Molecular Biology and Genetics: Financial support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate/admissions/faqs",
+      "label": "Cornell CALS Molecular Biology and Genetics: Admissions FAQs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/biochemistry-phd/",
+      "label": "Cornell University Catalog: Biochemistry PhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/degrees-fields/cugradfos/",
+      "label": "Cornell Graduate School: Fields of Study (revised application deadlines)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Cornell Graduate School: Pay Fees",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/international/",
+      "label": "Cornell Graduate School: Admissions Costs for International Students",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+      "label": "Cornell Graduate School: English Language Proficiency Requirement",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/financial-support/stipend-rates/",
+      "label": "Cornell Graduate School: Stipend Rates",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
+      "label": "Cornell Graduate School: Apply Now",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

@@ -3,17 +3,111 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD in microbiology run through the Department of Plant and Microbial Biology. Students are admitted to the program rather than a lab, do three five-week rotations in the first semester, and join a thesis lab by the start of the second semester.",
   "officialUrl": "https://plantandmicrobiology.berkeley.edu/ggm",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-16",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The department says 8:59pm Pacific Standard Time on November 16, 2026, for Fall 2027 entry, and the Graduate Division lists the same date. The department says you don't have to wait for your letters of recommendation before submitting the online application."
+    }
+  ],
+  "timeline": {
+    "interviews": "The PMB interview weekend is January 21 to 24, 2027. Applicants who are not selected for an interview are told in early January.",
+    "decisions": "Final admission decisions are made in mid-February 2027, shortly after the interview weekend. Admitted students must accept or decline by April 15, 2027."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5, with Speaking and Writing 4.5 (tests from 21 Jan 2026); 90 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "The department requires it of applicants whose undergraduate education was not in English. IELTS tests from 21 January 2026 also need Speaking and Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. Not needed with a degree from a country where English is the main language, a degree taught in English at a regionally accredited US institution, or at least a year of full-time study at such an institution with grades of B or better. The department's pages still list the older iBT 90 and no IELTS minimum; the Graduate Division's current minimums are shown here."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 for US citizens and permanent residents and $155 for international applicants, plus a 4.22% payment processing fee. Waivers are for US citizens and permanent residents who show financial need."
+    },
+    "letters": { "min": 3, "max": 3 },
+    "documents": [
+      "Statement of purpose (1 to 2 pages)",
+      "Personal statement (1 to 2 pages)",
+      "Résumé or CV",
+      "Unofficial transcripts from every institution attended after high school"
+    ],
+    "note": "At least two of the three letters must come from science faculty who know your scholarly or research abilities. You may add publications, posters or other scholarly work, but not unrelated writing samples. GRE scores are not reviewed or considered, even if submitted. The committee looks at your statements, research experience, coursework and grades, and letters. Applicants should have a solid foundation in general chemistry and introductory biology (both with lab), physics and mathematics, usually with a GPA of at least 3.0. You may apply to only one UC Berkeley program per cycle."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 52000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "The FAQ says all admitted students receive five full years of funding, contingent on satisfactory academic progress. It calls about $52,000 the estimated funding offer for 2026-2027, with tuition and fees covered separately by the program and also guaranteed for five years. Each student serves as a Graduate Student Instructor for about 20 hours a week for two semesters."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The FAQ says the department generally admits one international student per program per year, and that competition is stiffer for international students. International students with an outside fellowship, such as a Fulbright, are included with domestic applicants."
+  },
   "sources": [
     {
       "url": "https://plantandmicrobiology.berkeley.edu/ggm",
       "label": "UC Berkeley Plant and Microbial Biology: Graduate Group in Microbiology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/microbiology",
+      "label": "UC Berkeley Plant and Microbial Biology: Microbiology PhD Program",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/admissions",
+      "label": "UC Berkeley Plant and Microbial Biology: Graduate Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/application-requirements",
+      "label": "UC Berkeley Plant and Microbial Biology: Application Requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/application-steps-and-instructions",
+      "label": "UC Berkeley Plant and Microbial Biology: Application Steps and Instructions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/admissions/admissions-timeline-and-important-dates",
+      "label": "UC Berkeley Plant and Microbial Biology: Admissions Timeline and Important Dates",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/frequently-asked-questions",
+      "label": "UC Berkeley Plant and Microbial Biology: Graduate FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/program/microbiology-phd/",
+      "label": "UC Berkeley Graduate Division: Microbiology PhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/our-programs/",
+      "label": "UC Berkeley Graduate Division: Programs and Application Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

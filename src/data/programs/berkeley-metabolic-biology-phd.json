@@ -3,17 +3,100 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD on metabolism and nutrition, with faculty from UC Berkeley and UCSF. Students are admitted to the program rather than a lab, do three lab rotations, and settle on an adviser by the end of the first year.",
   "officialUrl": "https://grad.berkeley.edu/program/metabolic-biology-phd/",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The program says 8:59 PM Pacific Standard Time on Tuesday, December 1, 2026 for the 2027-2028 academic year, that the online application locks then, and that late applications are not accepted. The Graduate Division lists the same date."
+    }
+  ],
+  "timeline": {
+    "interviews": "Invited applicants visit in January for an interview weekend that includes one-on-one faculty interviews. The visit is by invitation only.",
+    "decisions": "The program's goal is to make final decisions by the end of March."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5, with Speaking and Writing 4.5 (tests from 21 Jan 2026); 90 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "The program requires it of applicants whose undergraduate education was not in English. IELTS tests from 21 January 2026 also need Speaking and Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. The Graduate Division's exemptions: a degree from a country where English is the main language, a degree taught in English at a regionally accredited US institution, or at least a year of full-time study at such an institution with grades of B or better."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 for US citizens and permanent residents and $155 for international applicants, plus a 4.22% payment processing fee. Waivers are for US citizens and permanent residents (and AB540 students) who show financial need or take part in qualifying programs."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose (1 to 2 pages)",
+      "Personal statement (1 to 2 pages)",
+      "Résumé or CV",
+      "Unofficial transcripts from every institution attended after high school",
+      "Names of faculty whose research interests you"
+    ],
+    "note": "At least two of the three letters must come from science faculty who know your scholarly or research abilities, and late letters are not accepted. You don't have to contact faculty before applying. The program looks for a solid background in general chemistry, introductory biology, physics and mathematics, usually with a GPA of at least 3.0. The program's pages differ on the GRE: Application Requirements says scores are not required and will not be considered, while the admissions overview says competitive scores can strengthen an application. No page says it is required."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The FAQ says financial support for the PhD program includes an annual stipend (about $40,000 to $52,000 per year) and full tuition, fees and health insurance for 5 years. It gives no year for the amount, and it doesn't say whether every admitted student gets this or whether it covers international students and non-resident tuition. Students are encouraged to seek their own fellowships or scholarships."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants pay the $155 fee. The pages don't say anything about funding for international students."
+  },
   "sources": [
     {
       "url": "https://grad.berkeley.edu/program/metabolic-biology-phd/",
       "label": "UC Berkeley Graduate Division: Metabolic Biology PhD",
-      "checked": "2026-10-19"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mbn.berkeley.edu/graduate-programs/metabolic-biology",
+      "label": "UC Berkeley Metabolic Biology and Nutrition: Metabolic Biology Graduate Program",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mbn.berkeley.edu/graduate-programs/metabolic-biology/metabolic-biology-admissions-0",
+      "label": "UC Berkeley Metabolic Biology and Nutrition: Metabolic Biology Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mbn.berkeley.edu/graduate-programs/metabolic-biology/met-bio-admissions/application-requirements",
+      "label": "UC Berkeley Metabolic Biology and Nutrition: Application Requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mbn.berkeley.edu/graduate-programs/metabolic-biology/met-bio-admissions/how-apply",
+      "label": "UC Berkeley Metabolic Biology and Nutrition: How to Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mbn.berkeley.edu/graduate-programs/metabolic-biology/met-bio-admissions/admissions-faq",
+      "label": "UC Berkeley Metabolic Biology and Nutrition: Admissions FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/our-programs/",
+      "label": "UC Berkeley Graduate Division: Programs and Application Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-19"
+  "lastChecked": "2026-10-20"
 }

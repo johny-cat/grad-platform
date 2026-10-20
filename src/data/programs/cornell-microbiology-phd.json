@@ -3,17 +3,102 @@
   "institution": "Cornell University",
   "institutionShort": "Cornell",
   "country": "US",
+  "location": "Ithaca, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Cornell's PhD field in microbiology, with a strong emphasis on bacteria and archaea. Students do three rotations among more than 40 labs in their first year before choosing a major advisor.",
   "officialUrl": "https://www.gradschool.cornell.edu/academics/fields-of-study/subject/microbiology/microbiology-phd-ithaca",
+  "applyUrl": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The field's page gives the fall admission period as September 1 to December 1, and the Graduate School's Microbiology page says \"Fall, Dec. 1; no spring admission\". Neither prints a year; for Fall 2027 entry that is December 1, 2026, and the Graduate School's list of revised deadlines doesn't include this field. Applications received after the deadline are unlikely to receive full consideration. No time of day is stated."
+    }
+  ],
+  "timeline": {
+    "decisions": "Decisions come directly from the field. The Graduate School says that in most cases, offers that include funding are made no later than April 1."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "All applicants must show English proficiency with TOEFL iBT or IELTS Academic scores unless they meet one of the Graduate School's exemptions (for example, a bachelor's degree from an accredited US college). Duolingo and other tests aren't accepted. Scores must be valid on the application deadline (two years from the test date). The Graduate School says the minimums it publishes apply to Summer and Fall 2026 admission only and are expected to rise for Fall 2027, and its page said to check back in mid-October for an update, so no minimums are listed here. The field's page names TOEFL or IELTS for applicants whose native language is not English and gives no scores."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Nonrefundable, and the same for international applicants. The Graduate School can waive it in exceptional cases of financial hardship and lists economic conditions in your home country among the factors it weighs. Requests are approved only for applicants to fully funded doctoral or research master's programs, or those who will submit a FAFSA. Ask on the payment page, and submit your application at least three business days before the deadline. The field's page also mentions qualified participants of certain special programs."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Academic statement of purpose",
+      "Personal statement",
+      "Résumé",
+      "Transcripts"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Accepted students get full tuition, student health insurance and a full stipend. The field's page points to the Graduate School's stipend rates; the Graduate School's minimum for assistantships in 2026-27 is $36,684 for 9 months or $48,912 for 12 months (2027-28 rates aren't posted yet)."
+  },
   "sources": [
     {
       "url": "https://www.gradschool.cornell.edu/academics/fields-of-study/subject/microbiology/microbiology-phd-ithaca",
       "label": "Cornell Graduate School: Microbiology Ph.D. (Ithaca)",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/microbiology/academics/graduate",
+      "label": "Cornell CALS Microbiology: Graduate field admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/degrees-fields/cugradfos/",
+      "label": "Cornell Graduate School: Fields of Study (revised application deadlines)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Cornell Graduate School: Pay Fees",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/international/",
+      "label": "Cornell Graduate School: Admissions Costs for International Students",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+      "label": "Cornell Graduate School: English Language Proficiency Requirement",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/financial-support/stipend-rates/",
+      "label": "Cornell Graduate School: Stipend Rates",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/financial-support/graduate-funding-and-enrollment/",
+      "label": "Cornell Graduate School: Graduate Funding and Enrollment",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/application-review/",
+      "label": "Cornell Graduate School: Application Review",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
+      "label": "Cornell Graduate School: Apply Now",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

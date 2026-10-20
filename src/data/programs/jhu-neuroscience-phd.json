@@ -3,17 +3,102 @@
   "institution": "Johns Hopkins University",
   "institutionShort": "Johns Hopkins",
   "country": "US",
+  "location": "Baltimore, Maryland",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD in the Solomon H. Snyder Department of Neuroscience at the Johns Hopkins School of Medicine. You apply to the training program, rotate through labs, then begin in a dissertation lab; Janelia Research Campus labs are an option.",
   "officialUrl": "https://neuroscience.jhu.edu/academics.php",
+  "applyUrl": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The Neuroscience How to Apply page says completed applications, including letters of recommendation, are due December 1, 2026, and the School of Medicine dates table lists the same date. No time of day is given."
+    }
+  ],
+  "timeline": {
+    "interviews": "The program contacts strong applicants by mid-January. Interviews are typically in early February (tentatively February 1-2, 2027) and are expected to be virtual; the interview event is by invitation only.",
+    "decisions": "All candidates are told the Admissions Committee's decision by April 15. Applicants must accept or reject an offer by April 15, when accepted offers become binding."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "International applicants whose native language isn't English need a TOEFL or IELTS score; no minimum score is stated. The School of Medicine waives the TOEFL for a degree completed at a US institution, or one that will be earned at a US university before starting at Johns Hopkins. The program page also waives it for a degree from an institution where English was the main language of instruction, and for study in Puerto Rico. Scores must arrive before the deadline."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "One fee covers up to four School of Medicine PhD programs. Waivers: US citizens and permanent residents whose household income is at most 200% of the US poverty guideline; current or former US military; alumni of a Johns Hopkins or Kennedy Krieger summer internship or postbaccalaureate program, or of any undergraduate college in Maryland. Applicants who are not US citizens or permanent residents but qualify as alumni should email Gradadmissions@jhmi.edu."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Transcript from every college or university attended",
+      "CV (2 pages maximum)",
+      "Statement of interest and career objectives (1 page maximum)",
+      "Personal statement (1 page maximum)"
+    ],
+    "note": "A B.S. or B.A. is expected before enrolling, and lab research experience is desirable. The application asks you to choose one of five research areas. In 2026 the program admitted 6 students from a pool of 724 applicants."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "stipend": { "amount": 52000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "The program page says all accepted students receive a stipend, full tuition waiver, and health and dental insurance. The School of Medicine guarantees PhD students support under the PhD union's contract, with minimum pay of $52,000 in 2026-27. The program page adds that funding for international students is more limited, because only US citizens, non-citizen nationals and permanent residents are eligible for US NIH funding."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The University sponsors visas for accepted students, though a visa is not guaranteed. The program says outside funding for graduate study is not required but can be an advantage for international applicants."
+  },
   "sources": [
     {
       "url": "https://neuroscience.jhu.edu/academics.php",
       "label": "Johns Hopkins Neuroscience: Welcome to the Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.jhu.edu/graduate/apply",
+      "label": "Johns Hopkins Neuroscience: How to Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://neuroscience.jhu.edu/graduate/curriculum",
+      "label": "Johns Hopkins Neuroscience: Curriculum",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2026/neuroscience-september-2026.pdf",
+      "label": "Johns Hopkins School of Medicine: Admissions Information for the PhD in Neuroscience Training Program (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/on-campus-programs",
+      "label": "Johns Hopkins School of Medicine: On-Campus Programs (application dates)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2025/application-fees-and-fee-waiver-request-instructions-2025.pdf",
+      "label": "Johns Hopkins School of Medicine: Application Fees and Fee Waiver Request Instructions (PDF)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions",
+      "label": "Johns Hopkins School of Medicine: Graduate Admissions (FAQ)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/financial",
+      "label": "Johns Hopkins School of Medicine: Financial Aid",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
+      "label": "Johns Hopkins Graduate Admissions: application portal for School of Medicine programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

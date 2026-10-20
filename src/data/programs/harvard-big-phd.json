@@ -3,17 +3,132 @@
   "institution": "Harvard University",
   "institutionShort": "Harvard",
   "country": "US",
+  "location": "Boston, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary PhD track at Harvard Medical School that trains researchers in bioinformatics and genomics. You apply to Biomedical Informatics, choose the BIG track, and do at least two lab rotations before picking an advisor.",
   "officialUrl": "https://dbmi.hms.harvard.edu/education/bioinformatics-and-integrative-genomics-phd-big",
+  "applyUrl": "https://apply.gsas.harvard.edu/portal/apply_degree",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "The BIG application page says December 1, 2026 at 5pm ET, and the Griffin GSAS program page lists Dec 01, 2026, 5:00 pm. GSAS says all parts of the application are due by 5:00 p.m. Eastern Time on the deadline date."
+    }
+  ],
+  "timeline": {
+    "interviews": "Personal interviews are part of the application: after an initial review, a group of applicants is invited. GSAS says invitations usually go out between late December and early January, depending on the program."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5 overall, Speaking 4.5 (tests from 21 Jan 2026); 100 overall, Speaking 23 (earlier tests)",
+      "ielts": 7,
+      "note": "IELTS Speaking minimum 6.5. Not needed with an undergraduate degree from an institution where English is the main language of instruction (graduate degrees do not count). For Fall 2027, tests taken before January 5, 2025 must be retaken."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers are for applicants for whom paying would be financially challenging; request one in the Applicant Fee section of the application. The fee is not refundable."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Unofficial transcripts"
+    ],
+    "note": "In the Griffin GSAS application, choose Biomedical Informatics as the degree program, then the Bioinformatics and Integrative Genomics (BIG) track on its tab. You don't need a dissertation advisor before applying. Letters must be submitted online; paper letters are not accepted."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Successful applicants are fully funded while making satisfactory progress: tuition, health insurance and fees, plus a monthly stipend. The program pays for the first two years; from the third year the thesis advisor takes over. No stipend amount is stated. GSAS lists six years of funding for Biomedical Informatics and says immigration status doesn't factor into financial aid decisions."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://dbmi.hms.harvard.edu/education/bioinformatics-and-integrative-genomics-phd-big",
       "label": "Harvard Medical School DBMI: Bioinformatics and Integrative Genomics (BIG) PhD Track",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bmiphd.hms.harvard.edu/",
+      "label": "Harvard Biomedical Informatics PhD: Home",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bmiphd.hms.harvard.edu/apply",
+      "label": "Harvard Biomedical Informatics PhD: Applying to BIG and FAQs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bmiphd.hms.harvard.edu/big-track/welcome-big",
+      "label": "Harvard Biomedical Informatics PhD: Welcome to BIG",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bmiphd.hms.harvard.edu/resources/financial-support",
+      "label": "Harvard Biomedical Informatics PhD: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/program/biomedical-informatics",
+      "label": "Harvard Griffin GSAS: Biomedical Informatics (BIG and AIM tracks)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Harvard Griffin GSAS: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs",
+      "label": "Harvard Griffin GSAS: Applying to Degree Programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application",
+      "label": "Harvard Griffin GSAS: Completing Your Application (fee and waivers)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Harvard Griffin GSAS: English Proficiency",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/letters-recommendation",
+      "label": "Harvard Griffin GSAS: Letters of Recommendation",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/transcripts",
+      "label": "Harvard Griffin GSAS: Transcripts",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support",
+      "label": "Harvard Griffin GSAS: Support for the Natural Sciences, Engineering and Applied Sciences, and Medical Sciences",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/financial-support/funding-and-aid",
+      "label": "Harvard Griffin GSAS: Funding and Aid",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.gsas.harvard.edu/portal/apply_degree",
+      "label": "Harvard Griffin GSAS: Applicant portal for degree programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

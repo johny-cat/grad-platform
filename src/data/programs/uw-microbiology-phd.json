@@ -3,17 +3,102 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, Washington",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "A PhD in the UW Department of Microbiology. You apply to the program, rotate through three labs for 10 weeks each in your first year, and choose a thesis lab in spring quarter.",
   "officialUrl": "https://microbiology.washington.edu/graduate-program-overview",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The department's admission page gives an application period of September 1 to December 1 for domestic and international applicants and lists December 1 as the deadline. The UW Graduate School's program listing shows 12/01/2026 for Autumn 2027, domestic and international. The department recommends that international applicants apply by November 1. No time of day is stated for this program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are by invitation only and are normally held in late January or early February.",
+    "decisions": "Offers of admission are generally released 3 to 4 weeks after the interviews."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.0 (tests from 21 Jan 2026); 80 (earlier tests)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "The department page lists the English tests for international applicants and points to the UW Graduate School rules, which ask every applicant whose native language isn't English for a qualifying degree taught in English (Policy 3.2) or a test score. These are the Graduate School minimums; below them an application isn't considered. TOEFL 4.5 (92 for earlier tests), IELTS 7.0 or Duolingo 130 or higher meet the requirement without conditions; admitted students scoring lower must take UW Academic English courses. Duolingo: the requirements page says 110 (recommended 125), Policy 3.2 says 115 (recommended 130); the higher figures are shown. Scores are valid for two years."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The fee is set by the UW Graduate School and each application needs its own fee. The department says waivers come through the Graduate School for domestic students on a needs basis and are not available for international students; the Graduate School's waiver is for U.S. citizens, permanent residents and undocumented applicants (and McNair Scholars and PPIA Fellows), not for F-1 or J-1 applicants. The department also asks you to email its graduate program adviser (microgpa@uw.edu) about waivers and says funding decides whether it can offer any. Ask at least seven days before the deadline."
+    },
+    "letters": { "min": 3, "max": 3 },
+    "documents": [
+      "Unofficial transcripts uploaded in the application (no paper copies)",
+      "Resume",
+      "Short-answer questions, used instead of a personal statement"
+    ],
+    "note": "Interviews are by invitation only. The department strongly recommends undergraduate courses in biochemistry, physics, general and organic chemistry, microbiology, molecular biology and cell biology, and undergraduate research. You must have a bachelor's or advanced degree by the time you start. Study is full time only, and there is no master's program. You don't need to contact professors before applying."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Most students are paid as research assistants from departmental funds in their first year; after that, depending on funding, by their advisor's grants, a training grant or a fellowship. Assistantships carry a monthly stipend, a tuition waiver and health benefits, and students pay a student activity fee each quarter. The FAQ says international students are often not eligible for training grants and fellowships, and that a teaching assistantship can't be awarded to foreign applicants unless they scored above 580 on the TOEFL (the page's own wording). No stipend amount is stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The application period and the December 1 deadline are the same for domestic and international applicants; the department recommends that international applicants apply by November 1."
+  },
   "sources": [
     {
       "url": "https://microbiology.washington.edu/graduate-program-overview",
       "label": "UW Department of Microbiology: Graduate Program Overview",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://microbiology.washington.edu/admission-process-and-faqs",
+      "label": "UW Department of Microbiology: Admission Process and FAQs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://microbiology.washington.edu/funding-hr",
+      "label": "UW Department of Microbiology: Funding and Human Resources",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://microbiology.washington.edu/equity-diversity-inclusion/graduate-program-application-waivers",
+      "label": "UW Department of Microbiology: Graduate Program Application Waivers",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-Y-MICROM-00-41",
+      "label": "UW Graduate School: Find a Program, Microbiology (PhD)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now (application fee)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/requirements/",
+      "label": "UW Graduate School: Requirements (GPA and English proficiency)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "UW Graduate School: Policy 3.2, English Language Proficiency Requirements",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

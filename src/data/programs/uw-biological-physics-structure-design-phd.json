@@ -3,17 +3,114 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, Washington",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "An entry program for PhD students working where physical and biological sciences meet, such as how proteins, nucleic acids and lipids work. You apply to BPSD directly, rotate through labs in your first three quarters, then earn your PhD from your advisor's department.",
   "officialUrl": "https://grad.uw.edu/programs/interdisciplinary-programs/biological-physics-structure-and-design-2",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The BPSD Application Criteria page lists December 1, 2026 (11:59 p.m. Pacific Time) for both domestic and international Autumn 2027 applications. The UW Graduate School's program listing shows 12/01/2026 for both."
+    }
+  ],
+  "timeline": {
+    "interviews": "The admissions committee reviews applications first and recommends some applicants for personal interviews; if recommended, you are invited to meet in person with faculty of interest to you. No dates are stated."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.5 or higher (tests from 21 Jan 2026); 92 or higher (earlier tests)",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Needed if English isn't your native language, unless you have a qualifying degree taught in English (UW Graduate School Policy 3.2). BPSD requires the Graduate School's recommended score (English proficiency satisfied without conditions) on the TOEFL, Duolingo or IELTS to be considered. Duolingo: the Graduate School's requirements page says 125 or higher, Policy 3.2 says 130 or higher; the higher figure is shown. Only official scores are accepted: TOEFL to UW institution code 4854 and IELTS to organization ID 365."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The fee is set by the UW Graduate School; BPSD's application page points to the Graduate School for fee waiver information. The Graduate School's waivers are for U.S. citizens, permanent residents and undocumented applicants with financial need (and McNair Scholars and PPIA Fellows); applicants who hold or expect F-1 or J-1 status aren't eligible. Ask at least seven days before the deadline, and don't pay the fee if you have asked."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Unofficial transcripts (paper transcripts are not accepted)",
+      "Statement of purpose answering four prompts (why a PhD and BPSD, research experience, a challenge you overcame, and your perspectives on diversity of thinking and backgrounds)",
+      "CV",
+      "Professor list (named as an application material by the Graduate School)"
+    ],
+    "note": "The Graduate School's 3.0 GPA minimum applies. You need a bachelor's or advanced degree by the time you start; degrees emphasizing biology, physical sciences and mathematics are preferred. The most competitive applicants have studied general, organic and physical chemistry, a year of physics, a year of calculus (multivariable calculus and/or linear algebra strongly recommended), and a year of general biology plus one advanced biology or biochemistry course, and have undergraduate research experience. The program says not to contact professors for support; the committee decides who is invited to interview. Non-matriculated students are not accepted."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The program offers full financial support for the first three quarters of the first year (salary, tuition waiver and student-only health insurance). When a student joins their thesis lab in the summer of the first year, the thesis advisor takes over their support, as long as the student makes satisfactory progress. The page gives a current first-year salary of $4,035 a month, without a year; after joining a lab the salary follows the degree-granting department's rate, which can be lower. Students pay quarterly fees of about $900 a year. The FAQ says domestic students may apply for a variety of training grants and TA positions are also available; international students who are not native English speakers must meet English proficiency requirements before receiving a TA position."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Domestic and international applications have the same December 1, 2026 deadline. The spoken-English requirement for TA appointments (Graduate School Policy 5.2) does not have to be met until after you are accepted and at the university."
+  },
   "sources": [
     {
       "url": "https://grad.uw.edu/programs/interdisciplinary-programs/biological-physics-structure-and-design-2",
       "label": "UW Graduate School: Biological Physics, Structure and Design",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://depts.washington.edu/bpsd/",
+      "label": "UW Biological Physics, Structure and Design: Home",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://depts.washington.edu/bpsd/prospective-students-2/application-criteria/",
+      "label": "UW Biological Physics, Structure and Design: Application Criteria",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://depts.washington.edu/bpsd/prospective-students-2/application-process/",
+      "label": "UW Biological Physics, Structure and Design: Application Process",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://depts.washington.edu/bpsd/prospective-students-2/faq/",
+      "label": "UW Biological Physics, Structure and Design: Frequently Asked Questions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://depts.washington.edu/bpsd/for-current-students/student-support/",
+      "label": "UW Biological Physics, Structure and Design: Student Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-R-BPSD-00-30",
+      "label": "UW Graduate School: Find a Program, Biological Physics, Structure & Design (PhD)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now (application fee)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/requirements/",
+      "label": "UW Graduate School: Requirements (GPA and English proficiency)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "UW Graduate School: Policy 3.2, English Language Proficiency Requirements",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

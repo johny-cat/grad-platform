@@ -3,17 +3,124 @@
   "institution": "Harvard University",
   "institutionShort": "Harvard",
   "country": "US",
+  "location": "Cambridge, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "PhD in organismic and evolutionary biology with direct admission: you are admitted to work with a specific faculty member, and students do not normally do rotations. Contact prospective advisors before you apply.",
   "officialUrl": "https://gsas.harvard.edu/program/organismic-and-evolutionary-biology",
+  "applyUrl": "https://apply.gsas.harvard.edu/portal/apply_degree",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "The Griffin GSAS program page lists Dec 01, 2026, 5:00 pm. OEB's own admissions page says 5:00 PM Eastern Time on December 1, without a year."
+    }
+  ],
+  "timeline": {
+    "interviews": "Applicants are told in January if they are invited to the OEB interview event, held in late January or early February at Harvard, by invitation only. The visiting-days page still shows January 22–23, 2026.",
+    "decisions": "OEB says final admissions decisions are made in late February or early March."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5 overall, Speaking 4.5 (tests from 21 Jan 2026); 95 overall, Speaking 23 (earlier tests)",
+      "ielts": 7,
+      "note": "These are the Griffin GSAS minimums; OEB's pages list none of their own. IELTS Speaking minimum 6.5. Not needed with an undergraduate degree from an institution where English is the main language of instruction (graduate degrees do not count). For Fall 2027, tests must be taken no earlier than January 5, 2025. GSAS says some degree programs may require higher scores, and other GSAS program pages list 100 for earlier TOEFL tests, so check with OEB if your old-scale score is 95 to 99."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waiver eligibility is worked out by questions in the Application Fee section of the application. The fee is not refundable."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Unofficial transcripts"
+    ],
+    "note": "OEB is a direct-admission program, so contact prospective advisors before applying; OEB calls this a key part of a successful application. OEB's admissions page also says that for the 2026–27 cycle, GSAS programs at Harvard are accepting a substantially reduced cohort size than usual, and advises checking the faculty website for who may be considering new students."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Provided satisfactory progress, all admitted students receive full financial support for six academic years, including summers: full tuition and fees, a stipend and health insurance, through a mix of stipends, teaching fellowships and research assistantships. OEB's funding page states a 2024–25 stipend rate of $50,000 in total compensation ($4,803/month) and gives no later rate."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Griffin GSAS says immigration status does not factor into admissions or financial aid decisions, and visa documents are not needed to apply."
+  },
   "sources": [
     {
       "url": "https://gsas.harvard.edu/program/organismic-and-evolutionary-biology",
       "label": "Harvard Kenneth C. Griffin Graduate School of Arts and Sciences: Organismic and Evolutionary Biology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://oeb.harvard.edu/graduate-studies",
+      "label": "Harvard OEB: Graduate Studies",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://admissions.oeb.harvard.edu/home",
+      "label": "Harvard OEB: Graduate Admissions home",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://admissions.oeb.harvard.edu/admissions",
+      "label": "Harvard OEB: Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://admissions.oeb.harvard.edu/invited-visiting-days",
+      "label": "Harvard OEB: Invited visiting days",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://admissions.oeb.harvard.edu/funding",
+      "label": "Harvard OEB: Funding",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Harvard Griffin GSAS: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs",
+      "label": "Harvard Griffin GSAS: Applying to Degree Programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application",
+      "label": "Harvard Griffin GSAS: Completing Your Application (fee and waivers)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Harvard Griffin GSAS: English Proficiency",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/letters-recommendation",
+      "label": "Harvard Griffin GSAS: Letters of Recommendation",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/transcripts",
+      "label": "Harvard Griffin GSAS: Transcripts",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.gsas.harvard.edu/portal/apply_degree",
+      "label": "Harvard Griffin GSAS: Applicant portal for degree programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

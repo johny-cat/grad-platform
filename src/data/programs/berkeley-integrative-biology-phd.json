@@ -3,17 +3,101 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "PhD-only program that studies whole organisms, from genomes to ecosystems. Students are admitted directly into a faculty member's lab, with no rotations, so applicants are strongly encouraged to contact faculty before applying.",
   "officialUrl": "https://grad.berkeley.edu/program/integrative-biology-phd/",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-19",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The Graduate Division lists November 19, 2026 for the fall term and says applications are due by 8:59 PM PST on the deadline date. The program's own pages give no date; they point to the Graduate Division's list and say letters of recommendation are due the same day."
+    }
+  ],
+  "timeline": {
+    "interviews": "The program's FAQ says there is usually an interview weekend in late January. Selected candidates are invited, and not being invited doesn't mean you aren't being considered.",
+    "decisions": "The FAQ says most admission decisions are made by late February or early March, and all offers by mid-April."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5, with Speaking and Writing 4.5 (tests from 21 Jan 2026); 90 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "The program lists proof of English proficiency for applicants who don't speak English as a native language; the Graduate Division's rules, shown here, decide who is exempt. IELTS tests from 21 January 2026 also need Speaking and Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. Not needed with a degree from a country where English is the main language, a degree taught in English at a regionally accredited US institution, or at least a year of full-time study at such an institution with grades of B or better."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 for US citizens and permanent residents and $155 for everyone else, plus a 4.22% payment processing fee. Waivers are for US citizens and permanent residents with financial need or from eligible programs."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal history statement",
+      "Letters of recommendation (due by the application deadline)",
+      "Unofficial transcripts",
+      "Proof of English proficiency, if English isn't your first language",
+      "Names of IB faculty you would like to work with"
+    ],
+    "note": "The pages don't say how many letters are needed. Contacting potential faculty mentors before you apply is strongly encouraged; the FAQ says their input has significant influence on the review, and not all faculty recruit students every year. Applicants are expected to have the equivalent of a major in a biological science. The FAQ says the GRE is optional, with no minimum score."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "For students entering in Fall 2026 or later, the department guarantees income for 5 years as long as they meet basic program requirements. The page says this results in at least $37,000 a year plus tuition, fees and health insurance, without naming an academic year for the amount; the guarantee covers in-state tuition and fees. International students are charged non-resident tuition: the FAQ says the program covers it for the first two semesters, then the student makes a funding plan with their faculty mentor, and after advancing to candidacy (in IB, typically after the second year) it can be reduced 100% for up to three years (6 semesters)."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The FAQ says the department is committed to financially supporting all admitted students, including international students."
+  },
   "sources": [
     {
       "url": "https://grad.berkeley.edu/program/integrative-biology-phd/",
       "label": "UC Berkeley Graduate Division: Integrative Biology PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ib.berkeley.edu/grad/",
+      "label": "UC Berkeley Integrative Biology: Graduate Program",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ib.berkeley.edu/grad/admissions/index.php",
+      "label": "UC Berkeley Integrative Biology: Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ib.berkeley.edu/grad/admissions/faq.php",
+      "label": "UC Berkeley Integrative Biology: Admissions FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ib.berkeley.edu/grad/fees",
+      "label": "UC Berkeley Integrative Biology: Funding and Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/our-programs/",
+      "label": "UC Berkeley Graduate Division: Programs and Application Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/",
+      "label": "UC Berkeley Graduate Division: Application Process (deadline time)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

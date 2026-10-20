@@ -3,17 +3,92 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California (joint with UCSF)",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Joint PhD of UC Berkeley and UCSF for students from computational, health and other interdisciplinary backgrounds. Applicants name up to three possible faculty mentors, and admitted students are supported for five years.",
   "officialUrl": "https://computationalhealth.berkeley.edu/phd-program/",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The program page says applications and all supporting materials are due by 8:59 pm PST on December 1, 2026. The Graduate Division lists the same date."
+    }
+  ],
+  "timeline": {
+    "interviews": "In early January the committee invites a number of students to interview.",
+    "decisions": "All admission offers are made in early February."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5, with Speaking and Writing 4.5 (tests from 21 Jan 2026); 90 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "The program page sends applicants to the Graduate Division for its English requirements, whose minimums are shown here. IELTS tests from 21 January 2026 also need Speaking and Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. Not needed with a degree from a country where English is the main language, a degree taught in English at a regionally accredited US institution, or at least a year of full-time study at such an institution with grades of B or better."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$135 for US citizens and permanent residents and $155 for everyone else. US citizens and permanent residents can request a waiver through the Graduate Division. The program also has a limited number of waivers for international students; requests are due by November 2, 2026."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Résumé or CV",
+      "Statement of purpose and objectives (2 pages maximum, single spaced)",
+      "Personal history statement (2 pages maximum, single spaced)",
+      "Unofficial transcripts",
+      "Relevant coursework",
+      "Names of up to three potential faculty mentors (at least one is required)"
+    ],
+    "note": "Research experience and a writing sample are optional. The GRE is not required, and scores are not evaluated or considered if submitted. Faculty aren't expected to commit to advising you at this stage. The page lists three core areas of preparation: mathematics with statistics and probability, programming, and biological or health sciences. Applicants may apply to one program per University of California campus."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Admitted students are financially supported for 5 years (the anticipated time to completion), including tuition, fees and stipend, as long as they make satisfactory academic progress. The page gives an initial stipend of $18,250 for the first semester (or quarter, for students based at UCSF) and names no year. After that, students move to a graduate student researcher or instructor appointment, generally at 50% effort, paid on the UC Academic Salary Scale. Admitted international students get full financial support, including supplemental non-resident tuition."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The program has a limited number of application fee waivers for international students."
+  },
   "sources": [
     {
       "url": "https://computationalhealth.berkeley.edu/phd-program/",
       "label": "UC Berkeley–UCSF Computational Precision Health: PhD Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://computationalhealth.berkeley.edu/admissions/",
+      "label": "UC Berkeley–UCSF Computational Precision Health: PhD Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://computationalhealth.berkeley.edu/financial-support/",
+      "label": "UC Berkeley–UCSF Computational Precision Health: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/program/computational-precision-health-joint-ucsf-jtphd/",
+      "label": "UC Berkeley Graduate Division: Computational Precision Health (joint UCSF) JtPhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/our-programs/",
+      "label": "UC Berkeley Graduate Division: Programs and Application Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
