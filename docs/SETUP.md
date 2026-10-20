@@ -41,6 +41,11 @@ Run on the live database:
   approval, after a rehearsal on a throwaway copy. Checked from outside
   with the public key: 307 programs, all active, matching the program files
   exactly.
+- 2026-10-20: Vanderbilt's new name ("Interdisciplinary Graduate Pathway
+  (IGP) in Biological and Biomedical Sciences", from pull request #5), as
+  a one-line update of the `vanderbilt-igp-phd` row instead of the whole
+  `catalog.sql`. Run by Junaid in the SQL Editor. Checked from outside
+  with the public key: the row shows the new name and is still active.
 
 Checked from outside with the public key: visitors can read programs,
 cycles, the results feed and the counts, and are refused on profiles,
