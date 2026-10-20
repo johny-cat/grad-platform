@@ -1,0 +1,15 @@
+{
+  "about": "Pages that open for people but answer the automatic link check with 'not found' (their websites turn away automated visits). Each was opened by hand on the date given. The check lists them as 'couldn't check' for 60 days after that date, then as broken again, so someone opens them again and updates the date.",
+  "pages": {
+    "https://eeb.ucsc.edu/academics/graduate/program-details/index.html": "2026-10-20",
+    "https://grad.msu.edu/departments/microbiology-and-molecular-genetics-college-natural-science": "2026-10-20",
+    "https://gradschool.weill.cornell.edu/bcmb-allied-program": "2026-10-20",
+    "https://graduate.umaryland.edu/academics/programs/molecular-medicine-doctoralphd": "2026-10-20",
+    "https://mbsb.pitt.edu/index.php/program-information": "2026-10-20",
+    "https://mcb.illinois.edu/graduate/": "2026-10-20",
+    "https://neuroscienceinstitute.utexas.edu/how-apply": "2026-10-20",
+    "https://pbse.ucsc.edu/bmeb/index.html": "2026-10-20",
+    "https://www.feinberg.northwestern.edu/sites/graduate-research/programs/dgp.html": "2026-10-20",
+    "https://www.ttuhsc.edu/biomedical-sciences/program/": "2026-10-20"
+  }
+}

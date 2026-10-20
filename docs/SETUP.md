@@ -8,7 +8,7 @@ whenever something changes.
 | GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. GitHub suspended the `johny-cat` account on 2026-10-18 and restored it on 2026-10-20; in between, the site was published by hand (section 7). |
 | Automatic checks (GitHub) | Run on every pull request and every push to `main`; program links are also checked every Monday (section 6). |
 | Supabase project `nhebswofygpgxcgvginn` | Database set up on 2026-10-17 (section 2). |
-| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). While GitHub was suspended (2026-10-18 to 2026-10-20), the site was uploaded by hand (section 7); merging pull request #3 brings `main` up to date with what's live. Until then, merge nothing else: Cloudflare's next build from `main` would go back to 7 programs. |
+| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). While GitHub was suspended (2026-10-18 to 2026-10-20), the site was uploaded by hand (section 7); pull request #3, merged on 2026-10-20, brought `main` up to date with it, and Cloudflare builds from `main` again. |
 | Sign-in | Address settings done on 2026-10-17 (section 3). First sign-in by email link worked on 2026-10-18. |
 | Sign-in emails | Supabase built-in email: a link only, no code, and the templates can't be edited. Reaches project team members only, about 2 per hour. Custom SMTP needed before launch (section 5). |
 | Domain | Not bought yet (site name not final). |

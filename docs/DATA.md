@@ -68,6 +68,12 @@ only when a page is certainly gone (404 or 410) or its website doesn't
 exist; sites that block automated visits are listed as "couldn't check".
 Run it by hand with `node scripts/check-program-links.mjs [program-id ...]`.
 
+Some websites answer the check with "not found" although the page opens
+for people. After opening such a page by hand, add it to
+`scripts/links-checked-by-hand.json` with the date. The check then lists it
+as "couldn't check" for 60 days and as broken after that, so someone opens
+it again and updates the date.
+
 ## Field guide
 
 | Field | Notes |
