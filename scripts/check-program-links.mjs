@@ -8,6 +8,9 @@
 // change programs, and once a week. It fails only when a page is certainly
 // gone (404 or 410) or its website doesn't exist; sites that block automated
 // visits (403, 429) or are slow are listed as "couldn't check", not failures.
+// So are pages that answer "not found" to this check but open for people:
+// scripts/links-checked-by-hand.json lists them with the date someone opened
+// them, and they count as broken again 60 days after that date.
 //
 // The results go to the run's summary page and, when LINK_REPORT names a
 // file, into that file too (the workflow posts it on the pull request).
@@ -29,6 +32,14 @@ const HEADERS = {
   'accept-language': 'en-US,en;q=0.9',
 };
 const TIMEOUT_MS = 25000;
+const BY_HAND_DAYS = 60;
+const byHand = JSON.parse(readFileSync(join(root, 'scripts', 'links-checked-by-hand.json'), 'utf8')).pages;
+
+/** Opened by hand recently enough to trust over this check's "not found". */
+function openedByHand(url) {
+  const date = byHand[url];
+  return Boolean(date) && Date.now() - Date.parse(date) < BY_HAND_DAYS * 24 * 60 * 60 * 1000;
+}
 const PARALLEL = 6;
 
 /** Every link to check, with the programs that use it. */
@@ -81,9 +92,10 @@ async function check(url) {
   }
 }
 
-function verdict(result) {
+function verdict(url, result) {
   if (result.status >= 200 && result.status < 400) return 'ok';
-  if (result.status === 404 || result.status === 410 || result.error === 'ENOTFOUND') return 'broken';
+  if (result.status === 404 || result.status === 410) return openedByHand(url) ? 'unchecked' : 'broken';
+  if (result.error === 'ENOTFOUND') return 'broken';
   return 'unchecked';
 }
 
@@ -97,7 +109,7 @@ async function worker() {
 }
 await Promise.all(Array.from({ length: PARALLEL }, worker));
 
-const rows = [...links.entries()].map(([url, slugs]) => ({ url, slugs, ...results.get(url), verdict: verdict(results.get(url)) }));
+const rows = [...links.entries()].map(([url, slugs]) => ({ url, slugs, ...results.get(url), verdict: verdict(url, results.get(url)) }));
 const counts = { ok: 0, broken: 0, unchecked: 0 };
 for (const row of rows) {
   counts[row.verdict] += 1;
@@ -127,7 +139,10 @@ function report(full) {
     rows
       .filter((row) => row.verdict === verdict)
       .sort(bySlug)
-      .map((row) => `| ${cell(row.slugs.join(', '))} | ${cell(row.status || row.error)} | ${link(row.url)} |`);
+      .map((row) => {
+        const result = row.verdict === 'unchecked' && byHand[row.url] ? `${row.status}, opened by hand ${byHand[row.url]}` : row.status || row.error;
+        return `| ${cell(row.slugs.join(', '))} | ${cell(result)} | ${link(row.url)} |`;
+      });
   const broken = problems('broken');
   const unchecked = problems('unchecked');
   const open = rows
@@ -147,7 +162,7 @@ function report(full) {
     lines.push(`| Program | Result | Link |`, `| --- | --- | --- |`, ...broken);
   }
   if (unchecked.length > 0) {
-    lines.push(``, `**Couldn't check.** The website blocked the check or was slow. Open these by hand.`, ``);
+    lines.push(``, `**Couldn't check.** The website blocked the check or was slow. Open these by hand. Pages marked "opened by hand" answer this check with "not found" but opened for a person on that date (\`scripts/links-checked-by-hand.json\`).`, ``);
     lines.push(`| Program | Result | Link |`, `| --- | --- | --- |`, ...unchecked);
   }
   if (open.length > 0) {
