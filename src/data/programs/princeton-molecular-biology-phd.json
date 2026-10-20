@@ -3,17 +3,81 @@
   "institution": "Princeton University",
   "institutionShort": "Princeton",
   "country": "US",
+  "location": "Princeton, New Jersey",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "admissionModel": "program",
+  "summary": "PhD program of Princeton's Department of Molecular Biology. First-year students complete three lab rotations of about eight weeks each; advisers can come from the department or from affiliated faculty in other departments.",
   "officialUrl": "https://molbio.princeton.edu/graduate",
+  "applyUrl": "https://gradschool.princeton.edu/admission-onboarding/apply",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The Graduate School gives December 1, 11:59 p.m. Eastern Standard Time, for enrollment in fall 2027; the department page gives December 1, 2026."
+    }
+  ],
+  "timeline": {
+    "interviews": "Promising applicants are invited to interview. Interviews are generally held in late January."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "TOEFL, IELTS or Duolingo if your primary language isn't English, unless your undergraduate teaching was entirely in English or you have two years of full-time graduate study in English. There is no minimum score. Scores must still be valid when the application opens (September 15); send them at least three weeks before the deadline. Speaking scores below TOEFL 5.5 (27 on the old scale), IELTS 8.0 or Duolingo Conversation 125 mean an English assessment when you arrive."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers for financial hardship, listed programs (such as McNair, NSF-REU, Fulbright, QuestBridge or the US military) and some recruiting events. Request one at least two business days before the deadline; a decision takes 2 to 3 business days."
+    },
+    "letters": { "min": 3 },
+    "note": "There are no fixed course prerequisites; students from chemistry, physics or mathematics can apply. Promising applicants are invited for an interview."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 55440, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "All students admitted to the program receive tuition, health insurance and a stipend."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Applicants from outside the United States are encouraged to apply."
+  },
   "sources": [
+    {
+      "url": "https://molbio.princeton.edu/graduate/admission",
+      "label": "Princeton Department of Molecular Biology: Admission & Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/molecular-biology",
+      "label": "Princeton Graduate School: Molecular Biology",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://molbio.princeton.edu/graduate/requirements",
+      "label": "Princeton Department of Molecular Biology: Graduate Requirements (rotations)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee",
+      "label": "Princeton Graduate School: Application Fee",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/english-proficiency",
+      "label": "Princeton Graduate School: English Proficiency",
+      "checked": "2026-10-20"
+    },
     {
       "url": "https://molbio.princeton.edu/graduate",
       "label": "Princeton Department of Molecular Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

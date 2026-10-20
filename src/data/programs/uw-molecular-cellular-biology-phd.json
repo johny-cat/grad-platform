@@ -3,17 +3,86 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, Washington",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "admissionModel": "program",
+  "summary": "Joint PhD program of the University of Washington and Fred Hutch, with partner research institutes in Seattle. First-year students do lab rotations and choose a permanent lab by the last Friday of May.",
   "officialUrl": "https://grad.uw.edu/programs/interdisciplinary-programs/molecular-and-cellular-biology/",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "International applicants",
+      "date": "2026-11-02",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "For Autumn 2027 entry: 11:59 p.m. Pacific Time, Monday, November 2, 2026. English test scores must be in by then too."
+    },
+    {
+      "label": "Domestic applicants",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "For Autumn 2027 entry: 11:59 p.m. Pacific Time, Tuesday, December 1, 2026."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected applicants are invited to interview in person in January and February."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "92, with Speaking 26 (internet-based test)",
+      "ielts": 7,
+      "note": "If English isn't your native language. IELTS also needs Speaking 7, and Duolingo isn't accepted. Not needed with a bachelor's degree from an accredited US institution or an English-medium institution in a listed country (such as Canada, the UK, Ireland, Australia, Nigeria, Kenya, Ghana, Singapore or South Africa), or a US PhD or JD; a master's degree doesn't count. Scores must arrive by the international deadline."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Waivers come through the UW Graduate School and only for US citizens with financial need, plus current McNair Scholars and PPIA Fellows. Request one at least two weeks before the deadline. MCB has no waivers of its own."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Short-answer questions about your research, why MCB, and a challenge you faced",
+      "Unofficial transcripts from every college attended",
+      "Resume or CV",
+      "Lists of six UW and six Fred Hutch faculty you'd like to meet"
+    ],
+    "note": "At least two letters should come from people who know your research well. International applicants need at least one year of research in a US-based lab, or must explain equivalent experience. The UW Graduate School requires a 3.0 GPA; applicants with about 3.5 tend to be well prepared. You don't need to contact faculty before applying."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 49392, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "A 12-month salary of $49,392 from July 1, 2026 ($4,116 a month), the same for all students regardless of citizenship, with an expected 3% raise each year. Also a tuition waiver (not the $259 quarterly student fees) and medical, dental and vision benefits. Funding is guaranteed with satisfactory progress."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants have an earlier deadline (November 2) and need a year of research in a US-based lab."
+  },
   "sources": [
+    {
+      "url": "https://mcb-seattle.edu/application-process/",
+      "label": "UW Molecular & Cellular Biology Graduate Program: Application Process",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mcb-seattle.edu/program-requirements/",
+      "label": "UW Molecular & Cellular Biology Graduate Program: Program Requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now (application fee)",
+      "checked": "2026-10-20"
+    },
     {
       "url": "https://grad.uw.edu/programs/interdisciplinary-programs/molecular-and-cellular-biology/",
       "label": "UW Graduate School: Molecular and Cellular Biology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

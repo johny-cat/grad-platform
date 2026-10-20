@@ -3,17 +3,96 @@
   "institution": "Columbia University",
   "institutionShort": "Columbia",
   "country": "US",
+  "location": "New York, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "admissionModel": "program",
+  "summary": "PhD program of the Department of Biological Sciences on Columbia's Morningside campus. Students are admitted to the program, not to a particular lab, and do lab rotations in their first year.",
   "officialUrl": "https://www.gsas.columbia.edu/content/biological-sciences",
+  "applyUrl": "https://apply.gsas.columbia.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-02",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The Graduate School lists 12/2/2026, and all its deadlines are 11:59 pm Eastern Time. The department's FAQ still shows last year's date (December 2, 2025, for Fall 2026)."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews take place at two open houses, usually in early and mid February. Invitations go out by email at least two weeks before each one.",
+    "decisions": "Decisions are made in a single batch near the beginning of March."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.5 (tests after 21 Jan 2026) or 100 (earlier tests)",
+      "ielts": 7.5,
+      "duolingo": 135,
+      "note": "Needed if your undergraduate degree is from a country where English is not the only official language, whatever your citizenship; a US master's degree doesn't count. Scores must be under two years old and arrive within two weeks of the deadline."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers for financial need or hardship, research pathways programs, some fellowship organizations such as Fulbright, and US military service. Request one after submitting the application, and don't pay while the request is pending."
+    },
+    "letters": { "min": 3, "max": 4 },
+    "documents": [
+      "Statement of academic purpose",
+      "Resume or CV",
+      "Transcripts",
+      "Names of at least three program faculty who could be your adviser"
+    ],
+    "note": "At least two letters must come from academic recommenders, and at least one should be from a research supervisor who can comment on your aptitude for research. No writing sample. The incoming class is about 20, so applying late lowers the chance of an opening."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 48551, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "All students receive a stipend adjusted each year, full tuition, health insurance and fees, and guaranteed Columbia housing while making timely progress. The FAQ gives the 2026-27 amount as an estimated 12-month stipend."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "There is no official limit; the FAQ says last year's incoming class had 9 international students."
+  },
   "sources": [
     {
       "url": "https://www.gsas.columbia.edu/content/biological-sciences",
       "label": "Columbia University GSAS: Biological Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/admissions-deadlines",
+      "label": "Columbia University GSAS: Admissions Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/application-fee",
+      "label": "Columbia University GSAS: Application Fee",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/application-fee-waivers",
+      "label": "Columbia University GSAS: Application Fee Waivers",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/information-international-applicants",
+      "label": "Columbia University GSAS: Information for International Applicants",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://biology.columbia.edu/content/phd-program",
+      "label": "Columbia Department of Biological Sciences: PhD Program",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://biology.columbia.edu/content/phd-program-faq",
+      "label": "Columbia Department of Biological Sciences: PhD Program FAQ",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

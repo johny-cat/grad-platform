@@ -3,17 +3,108 @@
   "institution": "University of Michigan",
   "institutionShort": "Michigan",
   "country": "US",
+  "location": "Ann Arbor, Michigan",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "tracks": [
+    "Bioinformatics",
+    "Biological Chemistry",
+    "Cancer Biology",
+    "Cell & Developmental Biology",
+    "Cellular & Molecular Biology",
+    "Genetics and Genomics",
+    "Health Infrastructures & Learning Systems",
+    "Immunology",
+    "Microbiology & Immunology",
+    "Molecular, Cellular & Developmental Biology",
+    "Molecular & Cellular Pathology",
+    "Molecular & Integrative Physiology",
+    "Neuroscience",
+    "Pharmacology"
+  ],
+  "admissionModel": "program",
+  "summary": "One application covers 14 PhD programs at the University of Michigan Medical School. First-year students do four lab rotations, two in each of the Fall and Winter terms, choosing from more than 500 labs.",
   "officialUrl": "https://medschool.umich.edu/programs-admissions/phd-programs/pibs",
+  "applyUrl": "https://www.applyweb.com/forms/umgrad",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The page says applications for the PIBS class of 2027 are due December 1, 2026, at 11:59 pm EST. All materials, including letters, are due then."
+    }
+  ],
+  "timeline": {
+    "interviews": "After review, every applicant is either invited to interview or told they weren't admitted. The 2027 interview weekends are January 25–27 and February 4–6, 2027, in person in Ann Arbor.",
+    "decisions": "Offers are decided after the interviews, and applicants are contacted as soon as possible."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "If your native language isn't English, you must show English proficiency, usually with the TOEFL, unless you meet one of the Rackham Graduate School's exemptions. No minimum score is stated. Scores are valid for two years and must arrive from the testing agency by the deadline."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$75 for US citizens and permanent residents, $90 for everyone else. Rackham's waivers are for US citizens and permanent residents with financial need (a Pell Grant or a Student Aid Index under $1,500); some individual programs and U-M preparatory programs have their own."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose (up to two pages)",
+      "Personal statement (up to 500 words)",
+      "Scanned official transcripts",
+      "Two program choices, in rank order"
+    ],
+    "note": "Submit only one application; if you send more, only the first is considered. The Rackham Graduate School no longer includes GRE scores in doctoral admissions. Strong candidates have extensive lab research experience and letters from research mentors."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "note": "All graduate students in good academic standing are supported for their whole degree with tuition, an annual stipend of $43,788 (the page gives no year) and health care. Five programs are funded by federal training grants that only US citizens and permanent residents can hold, so they don't take international applicants through PIBS."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "PIBS admits 5% or fewer of its international applicants. Cancer Biology, Cellular & Molecular Biology, Immunology, Molecular, Cellular & Developmental Biology, and Molecular & Cellular Pathology don't accept international applicants through PIBS; Microbiology & Immunology accepts only international students already studying in the US on an F-1 visa."
+  },
   "sources": [
+    {
+      "url": "https://medschool.umich.edu/programs-admissions/phd-programs/phd-program-admissions-overview",
+      "label": "Michigan Medical School: PhD Program Admissions Overview (PIBS)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://medschool.umich.edu/programs-admissions/phd-programs/admissions-overview/phd-interview-weekends",
+      "label": "Michigan Medical School: PhD Interview Weekends",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://medschool.umich.edu/programs-admissions/phd-programs/phd-program-stipend-benefits",
+      "label": "Michigan Medical School: PhD Program Stipend & Benefits",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://medschool.umich.edu/programs-admissions/phd-programs/phd-program-curriculum",
+      "label": "Michigan Medical School: PhD Program Curriculum (rotations)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://rackham.umich.edu/admissions/applying/tests/",
+      "label": "Rackham Graduate School: Tests (GRE and English)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://rackham.umich.edu/admissions/application-fee-and-payment",
+      "label": "Rackham Graduate School: Application Fee and Payment",
+      "checked": "2026-10-20"
+    },
     {
       "url": "https://medschool.umich.edu/programs-admissions/phd-programs/pibs",
       "label": "University of Michigan Medical School: PhD Programs in Biomedical Science (PIBS)",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

@@ -3,17 +3,89 @@
   "institution": "California Institute of Technology",
   "institutionShort": "Caltech",
   "country": "US",
+  "location": "Pasadena, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://bbe.caltech.edu/academics/biology/graduate-studies",
+  "admissionModel": "program",
+  "summary": "PhD in the Biology option of Caltech's Division of Biology and Biological Engineering. First-year students do at least two lab rotations (three are recommended), in any Caltech lab, and choose a thesis lab by the end of June.",
+  "officialUrl": "https://www.bbe.caltech.edu/academics/biology/graduate-studies",
+  "applyUrl": "https://apply.graduate.caltech.edu/apply/",
   "cycle": "fall-2027",
-  "sources": [
+  "deadlines": [
     {
-      "url": "https://bbe.caltech.edu/academics/biology/graduate-studies",
-      "label": "Caltech Biology and Biological Engineering: Biology graduate studies",
-      "checked": "2026-10-18"
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "Caltech's pages give December 1 each year, for entry the following September, without a year or time. Late applications may be reviewed as space allows, but at a disadvantage."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "timeline": {
+    "interviews": "The Biology page's timeline gives no year: Zoom interview invitations December 10 and Zoom interviews December 11–12; in-person invitations December 22 and in-person interviews January 29–30. Confirm the dates with the program.",
+    "decisions": "Biology decisions come in early to mid-February. Caltech posts all decisions by April 1."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "Not required, and there is no minimum score. If your native language isn't English and your degree wasn't taught in English, you're encouraged to show strong English, for example by self-reporting TOEFL, IELTS, PTE or Duolingo scores. Admitted students with limited English instruction have an English evaluation at orientation and may be asked to take an ESL course."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "If the fee is a serious financial burden, request a waiver inside the application; waivers are decided case by case."
+    },
+    "letters": { "min": 3, "max": 3 },
+    "documents": [
+      "Statement of purpose",
+      "CV or resume",
+      "Transcripts from every college attended (scanned copies are fine for applying)"
+    ],
+    "note": "The GRE General Test is strongly recommended; a subject test is encouraged but not required. Caltech has no minimum GPA. You can apply to only one Caltech program each year."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 50000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "All PhD students making satisfactory progress get full tuition and mandatory fees plus a 12-month stipend, $50,000 from September 1, 2026. First-year students are guaranteed campus housing. Most funding sources require work authorization, so starting the PhD requires evidence of it unless the program arranges otherwise."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbe.caltech.edu/academics/biology/graduate-admissions",
+      "label": "Caltech Biology: Graduate Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.bbe.caltech.edu/academics/applying-to-caltech-2026-2027",
+      "label": "Caltech Biology and Biological Engineering: Applying to Caltech 2026-2027",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.bbe.caltech.edu/academics/biology/graduate-studies",
+      "label": "Caltech Biology: Graduate Studies (rotations)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/admissions/faq-applicants",
+      "label": "Caltech Graduate Studies Office: FAQ for Applicants",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/financialsupport",
+      "label": "Caltech Graduate Studies Office: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/admissions",
+      "label": "Caltech Graduate Studies Office: Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/documents/35494/UPDATED_Application_Deadlines_2026-27.pdf",
+      "label": "Caltech Graduate Studies Office: Application Deadlines (PDF)",
+      "checked": "2026-10-20"
+    }
+  ],
+  "lastChecked": "2026-10-20"
 }

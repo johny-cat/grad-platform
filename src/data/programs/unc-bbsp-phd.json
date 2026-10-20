@@ -3,6 +3,7 @@
   "institution": "University of North Carolina at Chapel Hill",
   "institutionShort": "UNC",
   "country": "US",
+  "location": "Chapel Hill, North Carolina",
   "degree": "phd",
   "field": "biology",
   "tracks": [
@@ -22,15 +23,77 @@
     "Pharmacology",
     "Toxicology & Environmental Medicine"
   ],
-  "details": "pending",
+  "admissionModel": "program",
+  "summary": "One application covers 15 life-science PhD programs at UNC-Chapel Hill. First-year students do three lab rotations of about eleven weeks each, choosing from more than 300 labs, then join a thesis lab and its PhD program.",
   "officialUrl": "https://bbsp.unc.edu/",
+  "applyUrl": "https://applynow.unc.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Final deadline",
+      "date": "2026-11-17",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The 2027 application page says nothing is accepted after 11:59pm EST on Tuesday, November 17th, 2026. Letters should arrive by then too; the application isn't reviewed until all three are in."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations go out on a rolling basis between late December and mid-January. Interviews are required and take place from late January through February. If you haven't heard by mid-January, you're unlikely to be invited.",
+    "decisions": "Offers are made on a rolling basis after each interview weekend, until mid-March. Admitted students decide by April 15."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "90 (internet-based test)",
+      "ielts": 7,
+      "note": "Required of all international applicants, unless you're from a country where English is the sole official language, or you have or will have a degree from an accredited US university or one where English is the sole language of instruction. No other English tests are accepted. Scores must be official and under two years old; take the test by October."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Set by the UNC Graduate School. Waivers come only through the Graduate School and only for domestic applicants; BBSP has no waivers of its own."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose in three labeled sections: research, motivation and future interests, and resilience (about three pages)",
+      "CV listing all research experience",
+      "One unofficial transcript from each university attended",
+      "One to five research areas of interest"
+    ],
+    "note": "Admitted students typically have at least 5 months of full-time research experience (the median is 24 months). There is no single type of successful applicant; each application is reviewed in its own context."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "stipend": { "amount": 38500, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "Full support for all graduate students in good standing: the stipend plus tuition (including out-of-state tuition when it applies), fees and health insurance, which the program puts at more than $54,000 in total. First-year students also get a one-time $1,500 startup bonus. Funding constraints limit the number of international students in each class."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Funding constraints limit how many international students are admitted. Successful international applicants often have co-authored publications or extensive research experience."
+  },
   "sources": [
+    {
+      "url": "https://bbsp.unc.edu/prospective-students/apply/",
+      "label": "UNC BBSP: Apply (2027 application information)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bbsp.unc.edu/prospective-students/financial-support/",
+      "label": "UNC BBSP: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bbsp.unc.edu/prospective-students/how-does-bbsp-work/",
+      "label": "UNC BBSP: How Does BBSP Work? (rotations)",
+      "checked": "2026-10-20"
+    },
     {
       "url": "https://bbsp.unc.edu/",
       "label": "UNC Chapel Hill Biological and Biomedical Sciences Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

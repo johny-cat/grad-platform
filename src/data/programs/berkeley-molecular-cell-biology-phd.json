@@ -3,17 +3,95 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "admissionModel": "program",
+  "summary": "The Department of Molecular and Cell Biology admits PhD students for the fall only. First-year students complete three 10-week lab rotations before choosing a thesis adviser.",
   "officialUrl": "https://mcb.berkeley.edu/grad/prospective-students",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-19",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The page says 11:59:59 pm Eastern Time on November 19, 2026. Letters and all other documents must arrive by then too; late applications are not accepted."
+    }
+  ],
+  "timeline": {
+    "interviews": "Applicants invited to interview are contacted by mid-January. In-person interviews are January 31 to February 2 or February 21 to 23, 2027.",
+    "decisions": "Offers are made from late February through mid-March 2027; all decisions are final by mid-March."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5, with Speaking and Writing 4.5 (tests from 21 Jan 2026); 90 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "IELTS tests from 21 January 2026 also need Speaking and Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. Not needed with a degree from a country where English is the main language, a degree from an accredited English-language US institution, or a year of full-time study at a US university with grades of B or better."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 for US citizens and permanent residents and $155 for everyone else, plus a 4.22% payment processing fee. Waivers are for US citizens and permanent residents with financial need or from eligible programs."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose (1 to 2 pages)",
+      "Personal statement (1 to 2 pages)",
+      "Unofficial transcripts",
+      "Names of 1 to 3 faculty whose research interests you"
+    ],
+    "note": "Admission also depends on faculty interviews. You don't have to contact faculty before applying. Review starts as soon as your file is complete, so applying early is encouraged."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 46126, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "Five and a half years of support for all students in good standing, including international students: a yearly funding guarantee plus all fees and non-resident tuition. Fees cover health and dental insurance."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International students were 12% of the class that started in 2025."
+  },
   "sources": [
+    {
+      "url": "https://mcb.berkeley.edu/grad/prospective-students/admissions-and-recruitment",
+      "label": "UC Berkeley MCB: Admissions and Recruitment",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mcb.berkeley.edu/grad/application-requirements",
+      "label": "UC Berkeley MCB: Application Requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mcb.berkeley.edu/grad/frequently-asked-questions",
+      "label": "UC Berkeley MCB: Frequently Asked Questions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mcb.berkeley.edu/grad/financial-support-0",
+      "label": "UC Berkeley MCB: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://mcb.berkeley.edu/grad/academic-milestones",
+      "label": "UC Berkeley MCB: Academic Milestones and Policies (rotations)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
+    },
     {
       "url": "https://mcb.berkeley.edu/grad/prospective-students",
       "label": "UC Berkeley Department of Molecular and Cell Biology: Prospective Graduate Students",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

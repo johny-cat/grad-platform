@@ -1,19 +1,105 @@
 {
-  "name": "Interdisciplinary Graduate Program (IGP) in the Biological and Biomedical Sciences",
+  "name": "Interdisciplinary Graduate Pathway (IGP) in Biological and Biomedical Sciences",
   "institution": "Vanderbilt University",
   "institutionShort": "Vanderbilt",
   "country": "US",
+  "location": "Nashville, Tennessee",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "tracks": [
+    "Biochemistry",
+    "Biological Sciences",
+    "Cancer Biology",
+    "Cell and Developmental Biology",
+    "Chemical and Physical Biology",
+    "Human Genetics",
+    "Microbe-Host Interactions",
+    "Molecular Pathology and Immunology",
+    "Molecular Physiology and Biophysics",
+    "Neuroscience",
+    "Pharmacology"
+  ],
+  "admissionModel": "program",
+  "summary": "One application leads to 11 PhD programs at Vanderbilt. First-year students take core coursework and rotate through four labs before choosing a thesis lab and joining its program.",
   "officialUrl": "https://medschool.vanderbilt.edu/igp/igp-program-overview/",
+  "applyUrl": "https://medschool.vanderbilt.edu/igp/online-application-and-application-instructions/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Priority deadline",
+      "date": "2026-11-15",
+      "note": "For Fall 2027. Complete applications submitted by November 15 get early review, and only these are considered for the Graduate School's supplemental honors awards (with an optional essay of up to 400 words). No time is given."
+    },
+    {
+      "label": "Final deadline",
+      "date": "2026-12-01",
+      "time": "00:00",
+      "timezone": "America/Chicago",
+      "note": "The pages say midnight on December 1, US Central time (UTC-6). That could mean the start or the end of December 1, so this shows the earlier one; finishing by the end of November 30 is safest. Only complete applications, with all three letters, are reviewed."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations go out on a rolling basis into February; if you haven't been invited by March 15, you're not being considered. Fall 2027 interviews are in person in Nashville between January and March, with travel, hotel and meals paid; a virtual day is offered to those who can't travel.",
+    "decisions": "Admitted students decide by April 15."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "89 (internet-based test); 100 is highly desired",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Required of international applicants unless their degree is from a country where English is the main language or from a university that teaches in English. Official scores must arrive by the deadline."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Anyone who has done research funded by a US source gets an automatic waiver, whatever their citizenship. Need-based waivers are for US citizens and permanent residents; a small number of other waivers go to international applicants with complete applications. One fee covers up to two programs a year."
+    },
+    "letters": { "min": 3, "max": 5 },
+    "documents": [
+      "Statement of purpose",
+      "CV or resume, plus the application's Experiences section with research hours",
+      "Unofficial transcripts"
+    ],
+    "note": "There is no minimum GPA, and you don't need a faculty sponsor before applying. Applications are reviewed in weekly batches from early December. In the online application, choose \"IGP in Biomedical and Biological Sciences\", not \"Biological Sciences\" or \"Biomedical Sciences\"."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 40000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "Plus a $2,000 relocation bonus, full tuition, student fees, and health and dental coverage. First-year funding is guaranteed with good progress. International students get the same package; the program funds them through their second year, and after that their lab's principal investigator may fund them through institutional support, grants and teaching."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "About 10% of recent IGP and QCB incoming classes combined have been international students, and about a third of IGP applicants are international."
+  },
   "sources": [
     {
       "url": "https://medschool.vanderbilt.edu/igp/igp-program-overview/",
-      "label": "Vanderbilt Interdisciplinary Graduate Program: Program Overview",
-      "checked": "2026-10-18"
+      "label": "Vanderbilt IGP: Pathway Overview",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/igp/online-application-and-application-instructions/",
+      "label": "Vanderbilt IGP: Online Application and Application Instructions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/igp/financial-support/",
+      "label": "Vanderbilt IGP: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/igp/international-candidates/",
+      "label": "Vanderbilt IGP: International Candidates",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/igp/frequently-asked-questions/",
+      "label": "Vanderbilt IGP: Frequently Asked Questions",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
