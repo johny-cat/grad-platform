@@ -3,17 +3,84 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Laboratory-based PhD in the School of Public Health on infectious diseases and immunology. Students take classes and do three lab rotations in the first year, then may join any affiliated lab for their thesis research.",
   "officialUrl": "https://grad.berkeley.edu/program/infectious-diseases-and-immunity-phd/",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The School of Public Health's dates for the Summer/Fall 2027 cycle say December 1, 2026 at 8:59pm PST, and the Graduate Division lists December 1, 2026. The program's own page still shows last season's deadline (December 1, 2025, for Fall 2026 admission). Applications submitted after December 1 are not accepted."
+    }
+  ],
+  "timeline": {
+    "interviews": "Admission review is in mid-December and January, and shortlisted applicants are invited to a required interview. The program page still shows last season's interview date (February 9, 2026)."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5, with Speaking and Writing 4.5 (tests from 21 Jan 2026); 90 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "IELTS tests from 21 January 2026 also need Speaking and Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. Not needed with a degree from a country where English is the main language, a degree taught in English at a regionally accredited US institution, or at least a year of full-time study at such an institution with grades of B or better. The School of Public Health's page still lists the older iBT 90 (and a paper-test 570); the Graduate Division's current minimums are shown here."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 for US citizens and permanent residents and $155 for everyone else, plus a 4.22% payment processing fee. Waivers are requested through the Graduate Division and are for US citizens and permanent residents with financial need or from eligible programs."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose (limit 1,000 words)",
+      "Personal history statement (500 to 1,000 words)",
+      "Résumé or CV",
+      "Unofficial transcripts from every college you attended"
+    ],
+    "note": "Letters can come from a mix of professional and academic recommenders; the School recommends at least one academic letter. Admission is for the fall term only, with no rolling applications. The School's page gives an expected entering cohort of 2 students for the Fall 2026 cycle."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The program page says students are fully funded throughout their time in the program and receive a competitive monthly stipend. The School of Public Health says its PhD programs are fully funded for up to 5 years, covering regular tuition, fees, student health insurance and a salary or stipend while in good academic standing, but not housing. No amount or year is given, and neither page says whether funding covers non-resident tuition for international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants pay the $155 fee and follow extra instructions if their bachelor's degree is from a non-US institution."
+  },
   "sources": [
     {
       "url": "https://grad.berkeley.edu/program/infectious-diseases-and-immunity-phd/",
       "label": "UC Berkeley Graduate Division: Infectious Diseases and Immunity PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://publichealth.berkeley.edu/academics/programs/infectious-diseases-and-immunity-phd",
+      "label": "UC Berkeley School of Public Health: Infectious Diseases and Immunity PhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://publichealth.berkeley.edu/admissions/on-campus-non-sophas",
+      "label": "UC Berkeley School of Public Health: Graduate Program Admissions (Non-SOPHAS)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/our-programs/",
+      "label": "UC Berkeley Graduate Division: Programs and Application Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

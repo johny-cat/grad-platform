@@ -3,17 +3,89 @@
   "institution": "University of California, Berkeley",
   "institutionShort": "UC Berkeley",
   "country": "US",
+  "location": "Berkeley, California",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD at the interface of computation and biology, with faculty from many UC Berkeley departments. Students take coursework and do research rotations, and can't choose a PhD adviser until the end of the first year.",
   "officialUrl": "https://ccb.berkeley.edu/academics/computational-biology-phd",
+  "applyUrl": "https://gradapp.berkeley.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-30",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The program page says 8:59 pm Pacific Standard Time on November 30, 2026, and that the application locks at 9 pm Pacific. Letters should also be in by then, because review starts in early December. The Graduate Division lists the same date."
+    }
+  ],
+  "timeline": {
+    "interviews": "Top applicants are invited to virtual interviews with faculty, probably in mid-January. Invitations to an in-person Admit Day visit follow by late January, and the visit itself is in spring 2027 (exact dates to be announced). An interview invitation is not a guarantee of admission."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5, with Speaking and Writing 4.5 (tests from 21 Jan 2026); 90 (tests from 1 Jun 2025 to 20 Jan 2026)",
+      "ielts": 7,
+      "note": "The program says applicants from countries where English is not the official language must show English proficiency, and sends them to the Graduate Division for minimum scores. IELTS tests from 21 January 2026 also need Speaking and Writing 6.5. Tests taken before 1 June 2025 are not accepted, and neither is Duolingo. Not needed with a degree from a country where English is the main language, a degree taught in English at a regionally accredited US institution, or at least a year of full-time study at such an institution with grades of B or better. Take the test by the deadline; self-reported scores are accepted for review while official scores are processed."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 for US citizens and permanent residents and $155 for everyone else, plus a 4.22% payment processing fee. US citizens and permanent residents can request a waiver in the online application. The program page says there are no waivers and no exceptions for international applicants."
+    },
+    "letters": { "min": 3, "max": 5 },
+    "documents": [
+      "Statement of purpose (2 to 3 pages)",
+      "Personal statement (1 to 2 pages)",
+      "Unofficial transcripts",
+      "Names of 7 to 10 faculty you would like to do research or rotations with"
+    ],
+    "note": "A CV can be uploaded, but not full publications. Applicants need a bachelor's degree or equivalent with a minimum GPA of 3.0, balanced training across the core disciplines of computational biology, and basic research experience. The GRE is not required and the review committee won't see scores, even if sent to Berkeley. Contacting faculty about openings won't improve your chances. There is no master's degree."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Students making satisfactory academic progress get full funding for five to five and a half years: a competitive stipend plus full payment of fees and non-resident tuition (which includes health care). The program supports students in the first year, and the PI or mentor from the second year on. Part of the support is salary from teaching as a Graduate Student Instructor. The page gives no stipend amount. The program admits few international students (about two a year), and those admitted get the same full support."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The program admits few international students; the average is two per year."
+  },
   "sources": [
     {
       "url": "https://ccb.berkeley.edu/academics/computational-biology-phd",
       "label": "UC Berkeley Center for Computational Biology: Computational Biology PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ccb.berkeley.edu/academics/computational-biology-phd/phd-admissions",
+      "label": "UC Berkeley Center for Computational Biology: PhD Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ccb.berkeley.edu/academics/computational-biology-phd/financial-support",
+      "label": "UC Berkeley Center for Computational Biology: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/program/computational-biology-phd/",
+      "label": "UC Berkeley Graduate Division: Computational Biology PhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/our-programs/",
+      "label": "UC Berkeley Graduate Division: Programs and Application Deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "UC Berkeley Graduate Division: Admissions Requirements (fee, English tests)",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
