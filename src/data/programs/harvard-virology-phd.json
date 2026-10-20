@@ -3,17 +3,124 @@
   "institution": "Harvard University",
   "institutionShort": "Harvard",
   "country": "US",
+  "location": "Boston, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "One of the few virology PhD programs in the US, based at Harvard Medical School. You apply through Harvard Griffin GSAS, rotate through three labs, then choose a dissertation lab.",
   "officialUrl": "https://gsas.harvard.edu/program/virology",
+  "applyUrl": "https://apply.gsas.harvard.edu/portal/apply_degree",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "The Virology apply page says 5:00 PM ET, Tuesday, December 1, 2026 for Fall 2027, matching the Griffin GSAS program page (Dec 01, 2026, 5:00 pm)."
+    }
+  ],
+  "timeline": {
+    "interviews": "Personal interviews are part of the application. GSAS says invitations usually go out between late December and early January, depending on the program."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5 overall, Speaking 4.5 (tests from 21 Jan 2026); 100 overall, Speaking 23 (earlier tests)",
+      "ielts": 7,
+      "note": "IELTS Speaking minimum 6.5. Not needed with an undergraduate degree from an institution where English is the main language of instruction (a master's degree does not count). The Virology page says tests taken before September 1, 2025 must be retaken for Fall 2027, while GSAS accepts tests taken no earlier than January 5, 2025; a test from September 2025 or later meets both."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers are for applicants for whom paying would be financially challenging. The program cannot authorise waivers directly; eligibility is worked out inside the application."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Unofficial transcripts"
+    ],
+    "note": "Paper letters of recommendation are not accepted. Students are expected to choose a dissertation lab by July 1 as they begin their second year."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 50460, "currency": "USD", "period": "year", "year": "2025-26" },
+    "note": "All students, regardless of citizenship, who join one of the Harvard Medical School Office for Graduate Education PhD programs are fully funded while registered and in good standing. The 2025–26 total is $51,500 over 12 months: a $50,460 stipend plus a $1,040 dental and transportation subsidy. GSAS lists six years of funding for Virology."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Griffin GSAS says immigration status does not factor into admissions or financial aid decisions, and visa documents are not needed to apply."
+  },
   "sources": [
     {
       "url": "https://gsas.harvard.edu/program/virology",
       "label": "Harvard Kenneth C. Griffin Graduate School of Arts and Sciences: Virology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://virologyphd.hms.harvard.edu/",
+      "label": "Harvard Virology PhD Program: Home",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://virologyphd.hms.harvard.edu/apply",
+      "label": "Harvard Virology PhD Program: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://virologyphd.hms.harvard.edu/program/lab-rotations",
+      "label": "Harvard Virology PhD Program: Lab Rotations",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://virologyphd.hms.harvard.edu/resources/financial-support",
+      "label": "Harvard Virology PhD Program: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ogephd.hms.harvard.edu/",
+      "label": "Harvard Medical School Office for Graduate Education: PhD programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ogephd.hms.harvard.edu/financial-support",
+      "label": "Harvard Medical School Office for Graduate Education: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Harvard Griffin GSAS: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs",
+      "label": "Harvard Griffin GSAS: Applying to Degree Programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Harvard Griffin GSAS: English Proficiency",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/transcripts",
+      "label": "Harvard Griffin GSAS: Transcripts",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support",
+      "label": "Harvard Griffin GSAS: Support for the Natural Sciences, Engineering and Applied Sciences, and Medical Sciences",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.gsas.harvard.edu/portal/apply_degree",
+      "label": "Harvard Griffin GSAS: Applicant portal for degree programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

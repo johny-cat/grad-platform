@@ -87,6 +87,9 @@ fact still comes from the official page. `docs/research/2027-28-listing.csv`
 shows what became of each of this season's US biology rows (listed, skipped
 with a reason, or official page not found yet).
 
+**Check a pending program's details:** follow `docs/CHECKING-PROGRAMS.md`, and
+record the source sentence for every fact in `docs/evidence/`.
+
 **Change the database:** new migration file, new tests, `npm run test:db`,
 then apply in Supabase (SQL Editor) and note it in `docs/SETUP.md`.
 

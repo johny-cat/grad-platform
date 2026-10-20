@@ -3,17 +3,113 @@
   "institution": "Harvard University",
   "institutionShort": "Harvard",
   "country": "US",
+  "location": "Cambridge, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Basic-science PhD program on Harvard's Cambridge campus, covering biology from individual genes and molecules to organismal behavior and evolution. First-year students complete at least three 8-week lab rotations before choosing a thesis lab.",
   "officialUrl": "https://www.mcb.harvard.edu/graduate/mco/",
+  "applyUrl": "https://apply.gsas.harvard.edu/portal/apply_degree",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "The MCB dates page says the deadline for Fall 2027 admissions is December 1, 2026 with no exceptions, and its FAQ gives 5:00pm EST. The Griffin GSAS program page lists Dec 01, 2026, 5:00 pm. The MCO page itself still says the 2027 application 'will be announced next summer', which is out of date."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews for Fall 2027 admission are at the end of January 2027. Applicants chosen to interview are notified in late December.",
+    "decisions": "The page says the application review process typically takes about 3 months."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5 overall, Speaking 4.5 (tests from 21 Jan 2026); 100 overall, Speaking 23 (earlier tests)",
+      "ielts": 7,
+      "note": "IELTS Speaking minimum 6.5. The MCB pages give only 'a minimum of 100' for the TOEFL iBT and 7 for IELTS; the Griffin GSAS program page adds the new-scale score and the Speaking minimums. Not needed with an undergraduate degree from an institution where English is the main language of instruction. For Fall 2027, tests must be taken no earlier than January 5, 2025."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waiver eligibility is worked out by questions in the Application Fee section of the application. The fee is not refundable."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Unofficial transcripts"
+    ],
+    "note": "In the Griffin GSAS application, choose Molecular and Cellular Biology as the program and Molecules, Cells and Organisms as the area of study. The statement of purpose answers three prompts (limits of 200, 500 and 300 words); a personal statement is not accepted. Admission is for the fall term only. You don't need a faculty advisor to apply, and contacting faculty doesn't affect your chances."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The MCB financial support page says all admitted students receive full financial support for five years, including full tuition and fees, a competitive stipend and health insurance, provided satisfactory progress; support can continue with department and advisor approval. GSAS lists six years for Molecular and Cellular Biology. No stipend amount is stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "There is no fixed number of places for international students; domestic and international applicants are reviewed in the same manner."
+  },
   "sources": [
     {
       "url": "https://www.mcb.harvard.edu/graduate/mco/",
       "label": "Harvard Department of Molecular and Cellular Biology: MCO graduate program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.mcb.harvard.edu/graduate/dates-and-deadlines/",
+      "label": "Harvard MCB: Graduate dates and deadlines",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.mcb.harvard.edu/graduate/application-requirements",
+      "label": "Harvard MCB: Graduate application requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.mcb.harvard.edu/graduate/admissions-faqs/",
+      "label": "Harvard MCB: Graduate admissions FAQs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.mcb.harvard.edu/graduate/financial-support/",
+      "label": "Harvard MCB: Graduate financial support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/program/molecular-and-cellular-biology",
+      "label": "Harvard Griffin GSAS: Molecular and Cellular Biology",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Harvard Griffin GSAS: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application",
+      "label": "Harvard Griffin GSAS: Completing Your Application (fee and waivers)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Harvard Griffin GSAS: English Proficiency",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support",
+      "label": "Harvard Griffin GSAS: Support for the Natural Sciences, Engineering and Applied Sciences, and Medical Sciences",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.gsas.harvard.edu/portal/apply_degree",
+      "label": "Harvard Griffin GSAS: Applicant portal for degree programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

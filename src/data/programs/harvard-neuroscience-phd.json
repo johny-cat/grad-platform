@@ -3,17 +3,110 @@
   "institution": "Harvard University",
   "institutionShort": "Harvard",
   "country": "US",
+  "location": "Boston, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Full-time, lab-based neuroscience PhD with a core curriculum, drawing on more than 150 faculty at hospitals and campuses across the Boston area. First-year students rotate through labs before starting dissertation research.",
   "officialUrl": "https://pinphd.hms.harvard.edu/",
+  "applyUrl": "https://apply.gsas.harvard.edu/portal/apply_degree",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "PiN's apply page says December 1 at 5:00pm EST, without a year; its timeline lists a January 2027 interview weekend. The Griffin GSAS program page lists Dec 01, 2026, 5:00 pm."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations go out in late December. The interview weekend is January 21–23, 2027 in Boston; each applicant has five faculty interviews and one student interview.",
+    "decisions": "GSAS sends offers in mid-February, waitlist offers follow in March and April, and admitted students must decide by April 15."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5 overall, Speaking 4.5 (tests from 21 Jan 2026); 100 overall, Speaking 23 (earlier tests)",
+      "ielts": 7,
+      "note": "IELTS Speaking minimum 6.5. Required if English isn't your native language and your undergraduate degree wasn't taught in English. PiN accepts no other proof, a graduate degree does not count, and the rule applies whatever your citizenship. For Fall 2027, tests must be taken no earlier than January 5, 2025."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waiver eligibility is worked out by questions in the Application Fee section of the application. The fee is not refundable."
+    },
+    "letters": { "min": 3, "max": 4 },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Unofficial transcripts"
+    ],
+    "note": "The statement of purpose is limited to 1000 words and the personal statement to 500. Only students who enroll send official transcripts (due in July). A committee of PiN faculty reads every section in a holistic review, and letters from research advisors are the most informative."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 50460, "currency": "USD", "period": "year", "year": "2025-26" },
+    "note": "All PiN students, regardless of citizenship status, get full tuition support, a monthly stipend, health coverage and a relocation allowance while enrolled and making satisfactory progress. The 2025–26 total is $51,500 over 12 months: a $50,460 stipend plus a $1,040 dental and transportation subsidy. GSAS lists six years of funding for Neuroscience."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "All applicants are reviewed in the same pool with no demographic quotas. PiN says about 30% of its current students are international."
+  },
   "sources": [
     {
       "url": "https://pinphd.hms.harvard.edu/",
       "label": "Harvard PhD Program in Neuroscience",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://pinphd.hms.harvard.edu/apply",
+      "label": "Harvard PiN: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://pinphd.hms.harvard.edu/frequently-asked-questions",
+      "label": "Harvard PiN: Frequently Asked Questions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://pinphd.hms.harvard.edu/student-resources/financial-support",
+      "label": "Harvard PiN: Financial Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/program/neuroscience",
+      "label": "Harvard Griffin GSAS: Neuroscience",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Harvard Griffin GSAS: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application",
+      "label": "Harvard Griffin GSAS: Completing Your Application (fee and waivers)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Harvard Griffin GSAS: English Proficiency",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support",
+      "label": "Harvard Griffin GSAS: Support for the Natural Sciences, Engineering and Applied Sciences, and Medical Sciences",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.gsas.harvard.edu/portal/apply_degree",
+      "label": "Harvard Griffin GSAS: Applicant portal for degree programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

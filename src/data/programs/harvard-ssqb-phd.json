@@ -3,17 +3,133 @@
   "institution": "Harvard University",
   "institutionShort": "Harvard",
   "country": "US",
+  "location": "Boston, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD program that uses mathematics, statistics, computer science and new experimental techniques to study how biological systems are organized. Students try several labs in the first year before choosing a dissertation lab.",
   "officialUrl": "https://ssqbiophd.hms.harvard.edu/",
+  "applyUrl": "https://apply.gsas.harvard.edu/portal/apply_degree",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "The SSQB apply page says December 1, 2026 at 5pm EST, and the Griffin GSAS program page lists Dec 01, 2026, 5:00 pm."
+    }
+  ],
+  "timeline": {
+    "interviews": "The admissions committee reviews applications in December and early January. Selected applicants are notified if they are chosen for an on-campus interview; applicants overseas may interview remotely."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5 overall, Speaking 4.5 (tests from 21 Jan 2026); 95 overall, Speaking 23 (earlier tests)",
+      "ielts": 7,
+      "note": "These are the Griffin GSAS minimums; SSQB's pages list none of their own. IELTS Speaking minimum 6.5. Not needed with an undergraduate degree from an institution where English is the main language of instruction (graduate degrees do not count). For Fall 2027, tests must be taken no earlier than January 5, 2025. GSAS says some degree programs may require higher scores, and other GSAS program pages list 100 for earlier TOEFL tests, so check with SSQB if your old-scale score is 95 to 99."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The SSQB FAQ says waivers are for those for whom paying would be financially challenging; eligibility is worked out by questions in the Application Fee section of the application. The fee is not refundable."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Unofficial transcripts"
+    ],
+    "note": "List the faculty who interest you in the application; contacting them first is optional. You need the equivalent of a US bachelor's degree (three- or four-year) from a recognized institution. The FAQ gives cohort sizes of around 7 to 12 students. The old program website linked here says it is being phased out; the current site is ssqbphd.hsites.harvard.edu."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Provided satisfactory progress, all students accepted into the program are awarded full support, including a stipend, full tuition and health insurance. No stipend amount or year is stated. GSAS lists six years of funding for Systems, Synthetic, and Quantitative Biology and says immigration status doesn't factor into financial aid decisions."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Griffin GSAS says immigration status does not factor into admissions or financial aid decisions, and visa documents are not needed to apply."
+  },
   "sources": [
     {
       "url": "https://ssqbiophd.hms.harvard.edu/",
-      "label": "Harvard Medical School: Systems, Synthetic, and Quantitative Biology PhD Program",
-      "checked": "2026-10-18"
+      "label": "Harvard Medical School: Systems, Synthetic, and Quantitative Biology PhD Program (old site)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ssqbphd.hsites.harvard.edu/",
+      "label": "Harvard SSQB PhD Program: new website",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ssqbphd.hsites.harvard.edu/apply",
+      "label": "Harvard SSQB: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ssqbphd.hsites.harvard.edu/faq",
+      "label": "Harvard SSQB: FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ssqbphd.hsites.harvard.edu/rotations",
+      "label": "Harvard SSQB: Rotations",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://ssqbphd.hsites.harvard.edu/financial-support-and-tax-information",
+      "label": "Harvard SSQB: Financial support and tax information",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/program/systems-synthetic-and-quantitative-biology",
+      "label": "Harvard Griffin GSAS: Systems, Synthetic, and Quantitative Biology",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Harvard Griffin GSAS: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs",
+      "label": "Harvard Griffin GSAS: Applying to Degree Programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application",
+      "label": "Harvard Griffin GSAS: Completing Your Application (fee and waivers)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Harvard Griffin GSAS: English Proficiency",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/letters-recommendation",
+      "label": "Harvard Griffin GSAS: Letters of Recommendation",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/transcripts",
+      "label": "Harvard Griffin GSAS: Transcripts",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support",
+      "label": "Harvard Griffin GSAS: Support for the Natural Sciences, Engineering and Applied Sciences, and Medical Sciences",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.gsas.harvard.edu/portal/apply_degree",
+      "label": "Harvard Griffin GSAS: Applicant portal for degree programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

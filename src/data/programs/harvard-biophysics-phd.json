@@ -3,17 +3,123 @@
   "institution": "Harvard University",
   "institutionShort": "Harvard",
   "country": "US",
+  "location": "Boston, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "PhD for students who want to use physics and other quantitative sciences to understand biological systems, with broad training in biophysical, chemical and molecular methods. Based jointly at Harvard's Faculty of Arts and Sciences and Harvard Medical School.",
   "officialUrl": "https://gsas.harvard.edu/program/biophysics",
+  "applyUrl": "https://apply.gsas.harvard.edu/portal/apply_degree",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "The Biophysics FAQ gives December 1, 2026 for entry in Fall 2027. The requirements page says materials must be in by 5:00 pm Eastern Standard Time and that late applications will not be considered."
+    }
+  ],
+  "timeline": {
+    "interviews": "A faculty committee meets in December to choose applicants to invite to the in-person interview and recruitment visit weekend. Fall 2027 dates were still being decided; the previous weekend was February 5–6, 2026."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5 overall, Speaking 4.5 (tests from 21 Jan 2026); 95 overall, Speaking 23 (earlier tests)",
+      "ielts": 7,
+      "note": "IELTS Speaking minimum 6.5. Not needed with an undergraduate degree from an institution where English is the main language of instruction (graduate degrees do not count). For Fall 2027, tests must be taken no earlier than January 5, 2025. GSAS says some degree programs may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waiver eligibility is worked out by questions in the Application Fee section of the application. The fee is non-refundable."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Unofficial transcripts"
+    ],
+    "note": "The letters must come from three faculty members and be submitted through the recommender portal by the deadline. Every application is read in full and discussed by the Faculty Admissions Review Committee; GRE scores and GPA are never used to triage applications. A CV or résumé is the only optional document allowed."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 50460, "currency": "USD", "period": "year", "year": "2025-26" },
+    "note": "Accepted students, whether US citizens or foreign nationals, are guaranteed full financial support (stipend, tuition and health insurance) through their years in the program, provided satisfactory progress. The 2025–26 figure is a $50,460 stipend plus $1,040 in dental and transportation subsidies ($51,500 in all, over 12 months); 2026–27 rates were still to be set. GSAS lists six years of funding for Biophysics."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://gsas.harvard.edu/program/biophysics",
       "label": "Harvard Kenneth C. Griffin Graduate School of Arts and Sciences: Biophysics",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://biophysics.fas.harvard.edu/applying-biophysics",
+      "label": "Harvard Biophysics: Applying to Biophysics",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://biophysics.fas.harvard.edu/requirements",
+      "label": "Harvard Biophysics: Requirements for Applicants",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://biophysics.fas.harvard.edu/application-process",
+      "label": "Harvard Biophysics: Application Process",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://biophysics.fas.harvard.edu/faqs",
+      "label": "Harvard Biophysics: FAQs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://biophysics.fas.harvard.edu/financial-aid",
+      "label": "Harvard Biophysics: Financial Aid",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Harvard Griffin GSAS: Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs",
+      "label": "Harvard Griffin GSAS: Applying to Degree Programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application",
+      "label": "Harvard Griffin GSAS: Completing Your Application (fee and waivers)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Harvard Griffin GSAS: English Proficiency",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/transcripts",
+      "label": "Harvard Griffin GSAS: Transcripts",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/natural-sciences-engineering-and-applied-sciences-and-medical-sciences-support",
+      "label": "Harvard Griffin GSAS: Support for the Natural Sciences, Engineering and Applied Sciences, and Medical Sciences",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.gsas.harvard.edu/portal/apply_degree",
+      "label": "Harvard Griffin GSAS: Applicant portal for degree programs",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
