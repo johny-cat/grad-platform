@@ -3,17 +3,104 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, Washington",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "An interdisciplinary PhD program run with the UW School of Medicine, Seattle Children's Research Institute and Fred Hutch, linking lab science to human disease. Each student has a research mentor and a clinical mentor and joins a lab in the summer of the first year.",
   "officialUrl": "https://sites.uw.edu/m3d/m3d-phd-program",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The M3D Application page says applications for Autumn 2027 enrollment open September 1, 2026 and must be fully submitted by December 1, 2026. The UW Graduate School's program listing shows 12/01/2026, domestic and international. No time of day is stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "Invitations are sent by early January. Top applicants interview with the program in the first week of February 2027, and invited applicants must attend in-person recruitment activities in early February.",
+    "decisions": "The first round of admissions decisions is made in late February 2027, and offers continue until April 15."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.0 (tests from 21 Jan 2026); 80 (earlier tests)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Needed if English isn't your native language, unless you have a qualifying degree taught in English (UW Graduate School Policy 3.2). M3D points to the Graduate School rules and sets no higher score, though its FAQ says programs may require higher ones. These are the Graduate School minimums; below them an application isn't considered. TOEFL 4.5 (92 for earlier tests), IELTS 7.0 or Duolingo 130 or higher meet the requirement without conditions. Duolingo: the requirements page says 110 (recommended 125), Policy 3.2 says 115 (recommended 130); the higher figures are shown. TOEFL reports must be sent directly by ETS (UW code 4854; use department code 99 if one is asked for)."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The UW Graduate School, not M3D, decides waivers. M3D says the only applicants who don't qualify on immigration or residency grounds are those on or expecting F or J visas; the Graduate School's own page lists U.S. citizens, permanent residents and undocumented applicants with financial need (and McNair Scholars and PPIA Fellows). Plan to submit your application 7 days before the deadline if you will ask for a waiver."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Unofficial transcripts",
+      "CV or resume, with publications, presentations and other achievements",
+      "Statement of purpose (2 pages, single spaced; the program sets no prompts)",
+      "Names of five M3D faculty whose research interests you"
+    ],
+    "note": "There are no required prerequisite courses and you don't need a master's degree; the program expects solid STEM coursework and weighs research experience and aptitude most. The Graduate School's 3.0 GPA minimum applies, but applications are reviewed holistically and applicants below 3.0 are invited to contact m3d@uw.edu. All three letters must arrive by the deadline. Contacting faculty before applying is not necessary."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "stipend": { "amount": 48420, "currency": "USD", "period": "year", "year": "2025-26" },
+    "note": "The program fully supports students for the first three quarters of the first year; they then join a lab in the summer and their PI takes over their support, from a mix of program funds, lab research funds and independent fellowships. The FAQ gives the 2025-26 M3D salary as $48,420 ($4,035 a month) and says tuition and benefits are covered while in the PhD program. International students are paid by the program for the same three quarters; after that the PI needs funding an international student can receive, and some internal streams, such as NSF GRFP and training grants, are typically only for domestic students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants have the same December 1 deadline. The program advises international students to talk with potential PIs early to make sure they have funding an international student can receive."
+  },
   "sources": [
     {
       "url": "https://sites.uw.edu/m3d/m3d-phd-program",
       "label": "UW Molecular Medicine and Mechanisms of Disease: M3D PhD Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://sites.uw.edu/m3d/prospective-students/application/",
+      "label": "UW Molecular Medicine and Mechanisms of Disease: Application",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://sites.uw.edu/m3d/prospective-students/admission-faq/",
+      "label": "UW Molecular Medicine and Mechanisms of Disease: Admission FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.m3d.uw.edu/prospective-students/required-materials/",
+      "label": "UW Molecular Medicine and Mechanisms of Disease: Required Materials",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-Y-MOLMED-10-41",
+      "label": "UW Graduate School: Find a Program, Molecular Medicine and Mechanisms of Disease - PhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now (application fee)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/requirements/",
+      "label": "UW Graduate School: Requirements (GPA and English proficiency)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "UW Graduate School: Policy 3.2, English Language Proficiency Requirements",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

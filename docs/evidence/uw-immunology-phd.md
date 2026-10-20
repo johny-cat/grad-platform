@@ -1,5 +1,6 @@
 # uw-immunology-phd
-Checked 2026-10-20 by opening the pages in a headless browser (Chromium) and saving their full text; quotes are copied from that text. Central University of Washington pages are in `_uw-central.md`. The department's pages were read without clicking their menus (the page fetcher's menu clicks moved it to another page of the site); the officialUrl https://immunology.washington.edu/graduate-program opens https://www.immunology.washington.edu/graduate-program/.
+Checked 2026-10-20 by opening the pages in a headless browser (Chromium) and saving their full text; quotes are copied from that text. Central University of Washington pages are in `_uw-central.md`.
+The department's pages were read without clicking their menus (the page fetcher's menu clicks moved it to another page of the site); the officialUrl https://immunology.washington.edu/graduate-program opens https://www.immunology.washington.edu/graduate-program/.
 
 ## Facts
 - name unchanged (Immunology PhD): https://www.immunology.washington.edu/graduate-program/ — "The UW Immunology Ph.D. program provides comprehensive, rigorous training in the discipline of immunology" ; the Graduate School lists it as "Immunology PhD Program" (https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-Y-IMMUN-00-41)

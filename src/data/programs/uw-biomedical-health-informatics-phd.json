@@ -3,17 +3,108 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, Washington",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "A research-focused, in-person PhD in biomedical and health informatics in the UW Department of Biomedical Informatics and Medical Education. You apply to the program through the UW Graduate School and name faculty whose work fits your goals.",
   "officialUrl": "https://bime.uw.edu/education-programs/research-phd",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The BHI Apply page says the Fall 2027 application cycle opens November 1, 2026 and closes December 1, 2026 at 11:59 PM (Pacific Standard Time); the UW Graduate School's program listing shows 12/01/2026 for Autumn 2027, domestic and international. Late or incomplete applications are not reviewed."
+    }
+  ],
+  "timeline": {
+    "interviews": "The admissions committee interviews a select number of applicants in late January.",
+    "decisions": "Accepted students are notified in February and invited to virtual visit days in early March; all other applicants are notified by about mid-April."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5.0 (tests from 21 Jan 2026); 102 (earlier tests)",
+      "note": "Only the TOEFL is accepted; IELTS and Duolingo scores are not, and the department's minimum is higher than the UW Graduate School's. The page words it as the score needed to be exempt from Academic English Program requirements. Scores must be from the past 2 years and sent to UW institution code 4854. TOEFL is required for all international applicants unless they hold a bachelor's, master's or doctoral degree from a regionally accredited U.S. institution where English is the medium of instruction, or from an English-medium institution in Australia, the Bahamas, Canada, Ireland, Jamaica, Kenya, New Zealand, Singapore, South Africa, Trinidad and Tobago or the United Kingdom, where the student lived on campus."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The fee is paid to the UW Graduate School and applies to domestic and international applicants. The program says waivers may be available for eligible U.S. citizens, permanent residents and undocumented applicants; the Graduate School does not offer them to applicants who hold or expect F-1 or J-1 status. Ask at least seven days before the deadline, and don't pay the fee if you have asked."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Curriculum vitae (CV)",
+      "Unofficial transcripts (official ones are needed once admitted)",
+      "List of completed prerequisites",
+      "Personal statement"
+    ],
+    "note": "Prerequisite college courses, verified by transcripts: one in calculus or above (or statistics/biostatistics), two in programming, and one in biology. You can apply with some missing and finish them before enrolling. The Graduate School's 3.0 GPA minimum applies, counted over the last 90 quarter or 60 semester credits. Letters can't be sent through Interfolio, and the upload limit is 500KB."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "The department can't guarantee financial support with admission offers, but most BIME students are paid through research assistantships, and a few are supported by a National Library of Medicine training grant (U.S. citizens and permanent residents only). Admission decisions are made before and separately from funding decisions, and the department offers no teaching assistantships. It says it has no guaranteed funding for international students, and the Graduate School listing says funding for admissible international applicants is limited. No stipend amount is stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants use the same Graduate School application, fee and December 1 deadline. Applicants requesting an F-1 or J-1 visa must show enough funds for tuition, fees and living costs in their first year."
+  },
   "sources": [
     {
       "url": "https://bime.uw.edu/education-programs/research-phd",
-      "label": "UW Department of Biomedical Informatics and Medical Education: Research PhD",
-      "checked": "2026-10-18"
+      "label": "UW Biomedical Informatics and Medical Education: Research PhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bime.uw.edu/apply/",
+      "label": "UW Biomedical Informatics and Medical Education: Apply to BHI Graduate Programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bime.uw.edu/bime-admission-requirements/",
+      "label": "UW Biomedical Informatics and Medical Education: Admission Requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bime.uw.edu/application-overview-for-all-programs/",
+      "label": "UW Biomedical Informatics and Medical Education: Application Overview for All Programs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bime.uw.edu/curriculum/",
+      "label": "UW Biomedical Informatics and Medical Education: BHI Curriculum, MS and PhD Requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bime.uw.edu/funding-and-tuition/",
+      "label": "UW Biomedical Informatics and Medical Education: MS & PhD Funding and Tuition",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bime.uw.edu/faq/",
+      "label": "UW Biomedical Informatics and Medical Education: MS & PhD FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-Y-BHI-00-41",
+      "label": "UW Graduate School: Find a Program, Biomedical & Health Informatics (PhD)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now (application fee)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
