@@ -5,10 +5,10 @@ whenever something changes.
 
 | Piece | Status |
 | --- | --- |
-| GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. On 2026-10-18 GitHub suspended the `johny-cat` account (appeal sent); while it lasts, the site is published by hand (section 7). |
+| GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. GitHub suspended the `johny-cat` account on 2026-10-18 and restored it on 2026-10-20; in between, the site was published by hand (section 7). |
 | Automatic checks (GitHub) | Run on every pull request and every push to `main`; program links are also checked every Monday (section 6). |
 | Supabase project `nhebswofygpgxcgvginn` | Database set up on 2026-10-17 (section 2). |
-| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). Since 2026-10-19 the live site is a hand upload of branch `programs/list-this-season` (307 programs; section 7): when GitHub is back, merge that pull request before anything else, or Cloudflare's next build from `main` goes back to 7 programs. |
+| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). While GitHub was suspended (2026-10-18 to 2026-10-20), the site was uploaded by hand (section 7); merging pull request #3 brings `main` up to date with what's live. Until then, merge nothing else: Cloudflare's next build from `main` would go back to 7 programs. |
 | Sign-in | Address settings done on 2026-10-17 (section 3). First sign-in by email link worked on 2026-10-18. |
 | Sign-in emails | Supabase built-in email: a link only, no code, and the templates can't be edited. Reaches project team members only, about 2 per hour. Custom SMTP needed before launch (section 5). |
 | Domain | Not bought yet (site name not final). |
@@ -131,7 +131,7 @@ moved or gone: find the new official page and update the program's file.
 ## 7. Publishing without GitHub (by hand)
 
 Normally Cloudflare builds the site from `main` on GitHub. If GitHub can't be
-used (as since 2026-10-18), the finished site can be uploaded to the same
+used (as from 2026-10-18 to 2026-10-20), the finished site can be uploaded to the same
 Cloudflare project from Junaid's Windows computer. Cloudflare's dashboard
 doesn't take drag-and-drop uploads for a project connected to Git, but its
 `wrangler` tool does.
