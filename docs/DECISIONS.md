@@ -2,6 +2,23 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-20
+
+- **A graduate school's current deadline counts even when the program's own
+  page is out of date.** Columbia's biology FAQ and Duke CMB's admissions
+  page still show last season's dates, but the graduate schools that run
+  their admissions list this cycle's deadline, so we use that date and say
+  so in the deadline's note. A program with no current deadline on any
+  official page stays "details being checked".
+- **"Midnight" on a date is shown at the start of that day.** Vanderbilt
+  says its final deadline is December 1 at midnight, Central time, which
+  could mean either end of the day. Following the safer-value rule in
+  `docs/DATA.md`, the site shows the earlier reading and the note explains.
+- **A stipend whose page gives no year goes in the funding note.** Michigan
+  PIBS states $43,788 a year without saying which year, so the amount is in
+  the note as stated, and the stipend field (which always shows a year) is
+  left out rather than guessed.
+
 ## 2026-10-19
 
 - **The programs page lists universities first.** Junaid asked for it: 307

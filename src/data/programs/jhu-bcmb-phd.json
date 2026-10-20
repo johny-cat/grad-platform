@@ -3,17 +3,81 @@
   "institution": "Johns Hopkins University",
   "institutionShort": "Johns Hopkins",
   "country": "US",
+  "location": "Baltimore, Maryland",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "admissionModel": "program",
+  "summary": "Multidisciplinary PhD program at the Johns Hopkins University School of Medicine. First-year students do research in three different labs, then choose one for their thesis.",
   "officialUrl": "https://bcmb.bs.jhmi.edu/",
+  "applyUrl": "https://applygrad.jhu.edu/apply/?sr=0b3080fc-b167-4145-a853-6f81895e9e44",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The application is open from 9/8/2026 to 12/1/2026; no time is given. Every part of the application, including English test scores, must arrive by the deadline."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations go out by late December or early January. The first round is virtual; applicants who advance are invited to a required second-round interview.",
+    "decisions": "Acceptance, waitlist and rejection letters come by email. Admitted students decide by April 15."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL or IELTS for international applicants whose native language isn't English; no minimum score is stated. Not needed with a degree from a US institution, current study toward a US degree, or a degree from a country whose official language is English. Scores must arrive before the deadline."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "One fee covers up to four School of Medicine programs. US citizens and permanent residents who meet the School of Medicine's rules may get a waiver; other applicants are asked to check the School of Medicine's fee and waiver instructions."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "CV",
+      "One-page personal statement",
+      "Transcript from every college attended",
+      "Details of any prior research experience"
+    ],
+    "note": "There is no minimum GPA; applications are read as a whole. In 2026 the program admitted 13 of 542 applicants."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 52000, "currency": "USD", "period": "year", "year": "2026-27" },
+    "note": "School of Medicine PhD students get guaranteed support under the PhD union's contract: minimum pay of $52,000 in 2026-27, tuition, and health benefits for eligible students. The FAQ says international students also receive a stipend, full tuition, and health and dental coverage. There is no graduate student housing."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The university sponsors visas for accepted students. Several places are held for international candidates each year."
+  },
   "sources": [
+    {
+      "url": "https://bcmb.bs.jhmi.edu/how-to-apply/",
+      "label": "Johns Hopkins BCMB: How To Apply",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bcmb.bs.jhmi.edu/faq-2/",
+      "label": "Johns Hopkins BCMB: FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://bcmb.bs.jhmi.edu/first-year-requirements/",
+      "label": "Johns Hopkins BCMB: First Year Requirements (rotations)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/on-campus-programs",
+      "label": "Johns Hopkins School of Medicine: On-Campus Programs (application dates)",
+      "checked": "2026-10-20"
+    },
     {
       "url": "https://bcmb.bs.jhmi.edu/",
       "label": "Johns Hopkins School of Medicine: BCMB Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

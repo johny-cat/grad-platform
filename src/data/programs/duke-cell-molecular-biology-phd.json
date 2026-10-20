@@ -3,17 +3,92 @@
   "institution": "Duke University",
   "institutionShort": "Duke",
   "country": "US",
+  "location": "Durham, North Carolina",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary PhD program at Duke, run with the Department of Cell Biology. Students do research in three or more labs of their choice before selecting an advisor.",
   "officialUrl": "https://medschool.duke.edu/education/biomedical-phd-programs/program-cell-and-molecular-biology",
+  "applyUrl": "https://gradschool.duke.edu/admissions/application-instructions/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The Graduate School lists 12/01/2026 for fall 2027 entry, at 11:59:59 p.m. Eastern. The CMB admissions page still refers to Fall 2026 admission."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected applicants are invited to interview online with faculty and current students. The program page still shows last season's recruitment date (February 19–21, 2026)."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5 (tests from 21 Jan 2026) or 90 (earlier tests)",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "If your first language isn't English. These are the Graduate School's usual minimums; admitted students average higher. Duolingo reports must include subscores. For Fall 2027, scores must be dated August 1, 2024 or later. Waived after two years of full-time study at a college where English is the only language of instruction, in a country where English is the main spoken language. Admitted international students take English placement exams on arrival."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Graduate School waivers are for US citizens and permanent residents who meet its conditions, first come, first served. The CMB page says fee waivers aren't available to international applicants."
+    },
+    "letters": { "min": 3 },
+    "documents": [
+      "Statement of purpose",
+      "Résumé",
+      "Unofficial transcripts"
+    ],
+    "note": "Review is holistic: research and other experience, writing and communication, persistence and motivation, and coursework and GPA. No writing sample is needed, and CMB doesn't review video essays."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All PhD students in their five-year guaranteed funding period receive 12-month stipends, with tuition, fees and health insurance premiums covered. First-year CMB students are supported by Graduate School fellowships; after that, by their mentor's research grants, teaching assistantships or outside fellowships."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
+    {
+      "url": "https://medschool.duke.edu/education/biomedical-phd-programs/program-cell-and-molecular-biology/cmb-admissions",
+      "label": "Duke CMB: Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.duke.edu/academics/programs-degrees/cell-and-molecular-biology",
+      "label": "Duke Graduate School: Ph.D. in Cell and Molecular Biology",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-deadlines/",
+      "label": "Duke Graduate School: Application Deadlines (fall 2027)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/application-fee/",
+      "label": "Duke Graduate School: Application Fee",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/",
+      "label": "Duke Graduate School: English Language Proficiency Test Scores",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.duke.edu/financial-support",
+      "label": "Duke Graduate School: Financial Support",
+      "checked": "2026-10-20"
+    },
     {
       "url": "https://medschool.duke.edu/education/biomedical-phd-programs/program-cell-and-molecular-biology",
       "label": "Duke University School of Medicine: Program in Cell and Molecular Biology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

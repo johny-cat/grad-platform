@@ -300,7 +300,7 @@ values
   ('uw-molecular-engineering-phd', 'Molecular Engineering PhD', 'University of Washington', 'US', 'biology', 'phd'),
   ('uw-neuroscience-phd', 'Graduate Program in Neuroscience (PhD)', 'University of Washington', 'US', 'biology', 'phd'),
   ('van-andel-institute-phd', 'PhD Program, Van Andel Institute Graduate School', 'Van Andel Institute Graduate School', 'US', 'biology', 'phd'),
-  ('vanderbilt-igp-phd', 'Interdisciplinary Graduate Program (IGP) in the Biological and Biomedical Sciences', 'Vanderbilt University', 'US', 'biology', 'phd'),
+  ('vanderbilt-igp-phd', 'Interdisciplinary Graduate Pathway (IGP) in Biological and Biomedical Sciences', 'Vanderbilt University', 'US', 'biology', 'phd'),
   ('vanderbilt-quantitative-chemical-biology-phd', 'Quantitative and Chemical Biology (QCB) PhD', 'Vanderbilt University', 'US', 'biology', 'phd'),
   ('vcu-biomedical-sciences-doctoral-portal-phd', 'Biomedical Sciences Doctoral Portal (PhD)', 'Virginia Commonwealth University', 'US', 'biology', 'phd'),
   ('wake-forest-biology-phd', 'Biology PhD', 'Wake Forest University', 'US', 'biology', 'phd'),
