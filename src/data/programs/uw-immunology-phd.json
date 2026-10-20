@@ -3,17 +3,102 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, Washington",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "A PhD in immunology run by the UW Department of Immunology, which enrolls about 6 to 8 new students a year. You apply to the program; first-year students rotate through three labs and choose a thesis lab by the end of the year.",
   "officialUrl": "https://immunology.washington.edu/graduate-program",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-15",
+      "note": "The department's Admissions page (November 15, annually) and its FAQ (November 15 for all applicants, including receipt of all 3 letters) give the same date, and the UW Graduate School's program listing shows 11/15/2026 for Autumn 2027, domestic and international. Two older lines elsewhere mention other dates: an FAQ answer on TOEFL dates refers to an application deadline of November 1, and the Graduate School listing mentions December 1 for letters and supporting documents. Questions go to the program advisor (immgpa@uw.edu). No time of day is stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "Within two weeks of the U.S. deadline the admissions committee picks top-ranked applicants for a Zoom interview, possibly followed by an in-person visit to the department in Seattle in late January or early February. The program tries to send invitations before the end of December; if you haven't heard by early January, an invitation is unlikely."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "92 (internet-based test)",
+      "note": "Only the TOEFL is accepted; the program says not to substitute another exam. The Graduate School listing gives the program's minimum as 92, while the department FAQ lists 80 as the minimum required and 92 or higher as recommended; the higher figure is shown. Neither page mentions the new scoring scale used for tests from 21 January 2026; the Graduate School's recommended TOEFL score is 4.5 on the new scale (92 on the old one). Scores must be less than 2 years old at the deadline, and international applicants must have ETS send them to code 4854 by the deadline."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The fee is set by the UW Graduate School and each application needs its own fee. The department says waivers are based on financial need or on being a McNair Scholar or PPIA Fellow, and that applicants on F or J visas aren't eligible. Ask at least seven days before the deadline."
+    },
+    "letters": { "min": 3, "max": 3 },
+    "documents": [
+      "Personal statement of purpose",
+      "Unofficial transcripts uploaded online (no mailed copies)",
+      "Resume or CV",
+      "List of publications and awards",
+      "List of five or six UW Immunology faculty members whose research interests you"
+    ],
+    "note": "The Graduate School's 3.0 GPA minimum applies; the department says enrolled students have averaged 3.65 since 1989, which is not a requirement. Letters must be uploaded by your recommenders in the online application, and the department accepts only 3. The department enrolls students only into the PhD program and offers no master's degree."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "note": "The department says it supports its graduate students for their whole time in the program with a stipend, health care benefits and paid tuition, as long as they stay in good standing. First-year students are paid from departmental resources or training grants; after that they are expected to apply for competitive awards, and if none comes, faculty grants or departmental resources pay. No stipend amount is stated. The FAQ says the department supports all enrolled students regardless of national origin, but that funding sources differ for international and U.S. students. The Graduate School's listing says funding is extremely limited for international students because most funding comes from the U.S. government."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants have the same November 15 deadline. The Graduate School listing says they must email immgpa@uw.edu for financial information and instructions before submitting an application, and should seriously consider outside funding, such as from their own government or a private foundation."
+  },
   "sources": [
     {
       "url": "https://immunology.washington.edu/graduate-program",
       "label": "UW Department of Immunology: Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.immunology.washington.edu/graduate-program/admissions/",
+      "label": "UW Department of Immunology: Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.immunology.washington.edu/graduate-program/admissions/admissions-faqs/",
+      "label": "UW Department of Immunology: Admissions FAQs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.immunology.washington.edu/graduate-program/program-description/",
+      "label": "UW Department of Immunology: Program Description",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.immunology.washington.edu/graduate-program/student-funding/",
+      "label": "UW Department of Immunology: Student Funding",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-Y-IMMUN-00-41",
+      "label": "UW Graduate School: Find a Program, Immunology PhD Program",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now (application fee)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "UW Graduate School: Policy 3.2, English Language Proficiency Requirements",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
