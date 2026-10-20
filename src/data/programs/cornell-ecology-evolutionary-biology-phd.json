@@ -3,17 +3,111 @@
   "institution": "Cornell University",
   "institutionShort": "Cornell",
   "country": "US",
+  "location": "Ithaca, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "Cornell's PhD program in ecology and evolutionary biology, covering the origins, maintenance and consequences of organic diversity. Students are admitted to work with one or two faculty advisors, so contacting potential advisors before applying matters.",
   "officialUrl": "https://ecologyandevolution.cornell.edu/graduate",
+  "applyUrl": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The EEB page says there is a single application deadline each year on December 1, for the application and all supporting material including letters of recommendation, and the Graduate School's Ecology and Evolutionary Biology pages say \"Fall, Dec. 1; no spring admission\". Neither prints a year; for Fall 2027 entry that is December 1, 2026, and the Graduate School's list of revised deadlines doesn't include this field. No time of day is stated."
+    }
+  ],
+  "timeline": {
+    "decisions": "Decisions come directly from the field. The Graduate School says that in most cases, offers that include funding are made no later than April 1."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "All applicants must show English proficiency with TOEFL iBT or IELTS Academic scores unless they meet one of the Graduate School's exemptions (for example, a bachelor's degree from an accredited US college). Duolingo and other tests aren't accepted. Scores must be valid on the application deadline (two years from the test date). The Graduate School says the minimums it publishes apply to Summer and Fall 2026 admission only and are expected to rise for Fall 2027, and its page said to check back in mid-October for an update, so no minimums are listed here. The EEB page gives no English-test details; the Graduate School's field page lists its English proficiency requirement for all applicants."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Nonrefundable, and the same for international applicants. The Graduate School can waive it in exceptional cases of financial hardship and lists economic conditions in your home country among the factors it weighs. Requests are approved only for applicants to fully funded doctoral or research master's programs, or those who will submit a FAFSA. Ask on the payment page, and submit your application at least three business days before the deadline. The EEB page also mentions applicants who took part in pipeline programs."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Academic statement of purpose",
+      "Personal statement",
+      "Unofficial transcripts, with English translations if needed"
+    ],
+    "note": "Letters are due December 1 and should come from people who can speak to your academic aptitude and research ability. The field says it is important to connect with potential advisors before applying. The Graduate School's Ecology PhD page says GRE scores are no longer accepted or reviewed; its Evolutionary Biology page doesn't mention the GRE."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The field guarantees six years of support (tuition, stipend and health insurance), including six years of summer support, to all incoming PhD students. Support comes from teaching assistantships and fellowships (on average about half the time each) and sometimes graduate research assistantships. The page still quotes a 2024-25 9-month stipend of $33,930 plus summer support; the Graduate School's minimum for assistantships in 2026-27 is $36,684 for 9 months or $48,912 for 12 months (2027-28 rates aren't posted yet)."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The EEB page describes its students as coming from US and international backgrounds."
+  },
   "sources": [
     {
       "url": "https://ecologyandevolution.cornell.edu/graduate",
       "label": "Cornell Ecology and Evolutionary Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/academics/fields-of-study/subject/ecology-and-evolutionary-biology/ecology-phd-ithaca/",
+      "label": "Cornell Graduate School: Ecology Ph.D. (Ithaca)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/academics/fields-of-study/subject/ecology-and-evolutionary-biology/evolutionary-biology-phd-ithaca/",
+      "label": "Cornell Graduate School: Evolutionary Biology Ph.D. (Ithaca)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/ecology-phd/",
+      "label": "Cornell University Catalog: Ecology PhD",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/degrees-fields/cugradfos/",
+      "label": "Cornell Graduate School: Fields of Study (revised application deadlines)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Cornell Graduate School: Pay Fees",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/international/",
+      "label": "Cornell Graduate School: Admissions Costs for International Students",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+      "label": "Cornell Graduate School: English Language Proficiency Requirement",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/financial-support/stipend-rates/",
+      "label": "Cornell Graduate School: Stipend Rates",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/application-review/",
+      "label": "Cornell Graduate School: Application Review",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
+      "label": "Cornell Graduate School: Apply Now",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

@@ -3,17 +3,101 @@
   "institution": "Cornell University",
   "institutionShort": "Cornell",
   "country": "US",
+  "location": "Ithaca, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Cornell's PhD field in computational biology, an interdisciplinary program joining biology, computation and mathematics, with field faculty from sixteen departments. Students do lab rotations in their first year.",
   "officialUrl": "https://gradschool.cornell.edu/academics/fields-of-study/subject/computational-biology/computational-biology-phd-ithaca",
+  "applyUrl": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The field's admissions page says the Fall 2027 application system opens September 15, 2026 and all applications are due December 1 for the upcoming fall semester. The field also wants TOEFL/IELTS scores by December 1, with no exceptions. No time of day is stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations are sent in early January. The field's timeline shows selected applicants interviewed during an Open House around February.",
+    "decisions": "The field's timeline shows acceptance notifications around March, and April 15 as the day students accept offers."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "All applicants must show English proficiency with TOEFL iBT or IELTS Academic scores unless they meet one of the Graduate School's exemptions (for example, a bachelor's degree from an accredited US college). Duolingo and other tests aren't accepted. Scores must be valid on the application deadline (two years from the test date). The Graduate School says the minimums it publishes apply to Summer and Fall 2026 admission only and are expected to rise for Fall 2027, and its page said to check back in mid-October for an update, so no minimums are listed here. The field's page cites \"speaking 22, reading 20, listening 15, writing 20\" as Cornell's minimum for TOEFL or IELTS and wants all TOEFL/IELTS scores by December 1 (no exceptions)."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Nonrefundable, and the same for international applicants. The Graduate School can waive it in exceptional cases of financial hardship and lists economic conditions in your home country among the factors it weighs. Requests are approved only for applicants to fully funded doctoral or research master's programs, or those who will submit a FAFSA. Ask on the payment page, and submit your application at least three business days before the deadline."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Résumé",
+      "Unofficial transcripts"
+    ],
+    "note": "Admission is based purely on academic merit and research experience, and financial need plays no role. The field strongly recommends contacting field members whose interests match yours before you apply. Official transcripts are needed only if you're offered admission."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted PhD students are fully funded while they stay in good academic standing. Support from Cornell covers tuition, stipend and health insurance, through teaching assistantships, graduate research assistantships and fellowships. The field gives no stipend amount; the Graduate School's minimum for assistantships in 2026-27 is $36,684 for 9 months or $48,912 for 12 months (2027-28 rates aren't posted yet)."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://gradschool.cornell.edu/academics/fields-of-study/subject/computational-biology/computational-biology-phd-ithaca",
       "label": "Cornell Graduate School: Computational Biology Ph.D. (Ithaca)",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/computational-biology/academics/graduate/cb-admissions",
+      "label": "Cornell Computational Biology: Graduate admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://cals.cornell.edu/computational-biology/academics/graduate/cb-program-details",
+      "label": "Cornell Computational Biology: Graduate program details",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/degrees-fields/cugradfos/",
+      "label": "Cornell Graduate School: Fields of Study (revised application deadlines)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Cornell Graduate School: Pay Fees",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/international/",
+      "label": "Cornell Graduate School: Admissions Costs for International Students",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+      "label": "Cornell Graduate School: English Language Proficiency Requirement",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/financial-support/stipend-rates/",
+      "label": "Cornell Graduate School: Stipend Rates",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
+      "label": "Cornell Graduate School: Apply Now",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }

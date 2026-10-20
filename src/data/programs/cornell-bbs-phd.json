@@ -3,17 +3,126 @@
   "institution": "Cornell University",
   "institutionShort": "Cornell",
   "country": "US",
+  "location": "Ithaca, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary PhD program in Cornell's College of Veterinary Medicine, on the Ithaca campus. Students are admitted to the first-year cohort rather than a lab, choose a concentration, and do three lab rotations before joining a lab.",
   "officialUrl": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program",
+  "applyUrl": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The BBS admissions page gives December 1 for admission in the following fall (the FAQ says December 1 annually) without printing a year; for Fall 2027 entry that is December 1, 2026. The Graduate School's list of revised deadlines doesn't include BBS. At least two recommendation letters must also arrive by December 1. No time of day is stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "After initial admissions decisions, virtual interviews are held in January. Admitted students are then invited to campus for an in-person visit in March.",
+    "decisions": "The Graduate School says that in most cases, offers that include funding are made no later than April 1."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "All applicants must show English proficiency with TOEFL iBT or IELTS Academic scores unless they meet one of the Graduate School's exemptions (for example, a bachelor's degree from an accredited US college). Duolingo and other tests aren't accepted. Scores must be valid on the application deadline (two years from the test date). The Graduate School says the minimums it publishes apply to Summer and Fall 2026 admission only and are expected to rise for Fall 2027, and its page said to check back in mid-October for an update, so no minimums are listed here. The BBS page lists IELTS Academic 7.0 overall and TOEFL iBT Speaking 22, Reading 20, Listening 15 and Writing 20. Unofficial scores can be used in the first review; official TOEFL scores (code 2098) are needed to matriculate."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Nonrefundable, and the same for international applicants. The Graduate School can waive it in exceptional cases of financial hardship and lists economic conditions in your home country among the factors it weighs. Requests are approved only for applicants to fully funded doctoral or research master's programs, or those who will submit a FAFSA. Ask on the payment page, and submit your application at least three business days before the deadline. The BBS FAQ also mentions participation in a pathways program."
+    },
+    "letters": {
+      "min": 2,
+      "max": 4
+    },
+    "documents": [
+      "Academic statement of purpose",
+      "Personal statement",
+      "Résumé",
+      "Unofficial transcripts",
+      "GPA converted to a 4.0 scale"
+    ],
+    "note": "Applicants name at least three BBS faculty they'd like to work with, in the application and in the statement of purpose, and choose one of five concentrations (which they can change after the three rotations). The BBS FAQ says it doesn't accept GRE scores at all; the Graduate School's page says only that they're no longer required. The BBS admissions page says a résumé is required, while the Graduate School's page for the program says it's optional."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 48912,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-27"
+    },
+    "note": "Every admitted student, domestic or international, is guaranteed funding for the length of the program while making satisfactory progress: full tuition, student health insurance and a living stipend. The BBS Program pays during rotations; after the first year the faculty mentor secures funding and must pay at least the BBS minimum stipend. The stipend shown is that minimum. The funding page writes the year as \"202-27\", read here as 2026-27 because the Graduate School's 2026-27 table gives the same $48,912 for 12 months. The BBS FAQ still shows an older figure ($45,240 for 2024-25)."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Applicants with foreign credentials need a degree equivalent to a US bachelor's."
+  },
   "sources": [
     {
       "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program",
       "label": "Cornell College of Veterinary Medicine: Biomedical and Biological Sciences (BBS) PhD Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/prospective-students/admissions",
+      "label": "Cornell BBS: Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/prospective-students/admissions/faq",
+      "label": "Cornell BBS: Admissions FAQ",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/current-students/funding",
+      "label": "Cornell BBS: Funding",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/academics/fields-of-study/subject/biomedical-and-biological-sciences/biomedical-sciences-phd-ithaca/",
+      "label": "Cornell Graduate School: Biomedical Sciences Ph.D. (Ithaca)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/degrees-fields/cugradfos/",
+      "label": "Cornell Graduate School: Fields of Study (revised application deadlines)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Cornell Graduate School: Pay Fees",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/international/",
+      "label": "Cornell Graduate School: Admissions Costs for International Students",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+      "label": "Cornell Graduate School: English Language Proficiency Requirement",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/financial-support/stipend-rates/",
+      "label": "Cornell Graduate School: Stipend Rates",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/application-review/",
+      "label": "Cornell Graduate School: Application Review",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/apply-now/",
+      "label": "Cornell Graduate School: Apply Now",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
