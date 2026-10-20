@@ -2,8 +2,52 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-19
+
+- **The programs page lists universities first.** Junaid asked for it: 307
+  rows were too many to scan on a phone. The 121 universities are listed A
+  to Z and open in place to show their programs, using the browser's own
+  open-and-close, so it stays light on slow connections. Searching or
+  filtering opens just the universities with a match, and clearing the
+  search puts the list back as it was. Inside a university, programs with
+  checked deadlines come first.
+- **Publish by hand while GitHub is suspended.** GitHub suspended the
+  `johny-cat` account on 2026-10-18, a few minutes after the pull request
+  with 169 programs was opened; Junaid has appealed. Waiting could take weeks
+  in the middle of application season, so the built site is uploaded to the
+  same Cloudflare project from Junaid's computer with Cloudflare's own tool
+  (`docs/SETUP.md`, section 7). Same address, same sign-in. Before each
+  upload Claude opens every program link by hand, since the automatic link
+  check runs on GitHub. We don't open a second GitHub account: GitHub's terms
+  allow one free account per person.
+
 ## 2026-10-18
 
+- **Programs can be listed before their details are checked.** Junaid chose
+  this so people can follow programs and report results from the start of
+  the season, instead of waiting until every program from this season's
+  sheet has been checked in full. A listed program has its name, its
+  university and its official page, which we opened; its page says "Details
+  being checked" and sends people to the official page. Nothing is guessed.
+  Deadlines and requirements are added from official pages a batch at a
+  time, the most-followed programs first. How it works: `docs/DATA.md`.
+- **One entry per application.** Where applicants send one application and
+  choose home areas or tracks inside it (Stanford Biosciences, UCLA's
+  Graduate Programs in Bioscience, Yale BBS, Penn CAMB, UNC BBSP, UC Irvine's
+  CMB Gateway), the program is listed once and its home areas are named, so
+  search finds them. A program with its own application gets its own entry,
+  even when it also takes students through an umbrella (CU Anschutz). An
+  umbrella's results mix its home areas; we can split one later if people
+  ask for it.
+- **Rows the sheet gets wrong are skipped, not guessed.** Six of the sheet's
+  350 US biology rows name something that isn't a PhD program we could pin
+  down (for example a certificate, a master's, or a department name), and
+  five have no official page we could find yet. Each one, with the reason,
+  is in `docs/research/2027-28-listing.csv`.
+- **Program links are checked automatically.** On every pull request that
+  changes programs, and every Monday, a check opens every official link and
+  fails if a page is gone, so dead links get fixed before visitors find
+  them.
 - **The season timeline follows what applicants reported.** It now shows
   interview invites as their own phase (1 December to 31 January), then
   interviews from 1 January to 15 March and offers from 15 January to

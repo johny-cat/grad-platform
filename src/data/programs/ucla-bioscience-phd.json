@@ -1,0 +1,33 @@
+{
+  "name": "Graduate Programs in Bioscience",
+  "institution": "University of California, Los Angeles",
+  "institutionShort": "UCLA",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Biochemistry, Biophysics & Structural Biology",
+    "Bioinformatics",
+    "Cell & Developmental Biology",
+    "Gene Regulation, Epigenomics & Transcriptomics",
+    "Genetics & Genomics",
+    "Immunity, Microbes & Molecular Pathogenesis",
+    "Medical Informatics",
+    "Molecular Pharmacology",
+    "Molecular, Cellular & Integrative Physiology",
+    "Neuroscience",
+    "Physics & Biology in Medicine",
+    "Systems Biology"
+  ],
+  "details": "pending",
+  "officialUrl": "https://bioscience.ucla.edu/home-areas",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bioscience.ucla.edu/home-areas",
+      "label": "UCLA Bioscience: Home Areas",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

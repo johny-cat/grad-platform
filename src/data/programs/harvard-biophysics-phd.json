@@ -1,0 +1,19 @@
+{
+  "name": "Biophysics PhD",
+  "institution": "Harvard University",
+  "institutionShort": "Harvard",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gsas.harvard.edu/program/biophysics",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gsas.harvard.edu/program/biophysics",
+      "label": "Harvard Kenneth C. Griffin Graduate School of Arts and Sciences: Biophysics",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

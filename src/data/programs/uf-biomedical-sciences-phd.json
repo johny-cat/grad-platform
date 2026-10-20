@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Program in Biomedical Sciences (PhD)",
+  "institution": "University of Florida",
+  "institutionShort": "UF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biomed.med.ufl.edu/about/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biomed.med.ufl.edu/about/",
+      "label": "UF College of Medicine Graduate Program in Biomedical Sciences: About",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

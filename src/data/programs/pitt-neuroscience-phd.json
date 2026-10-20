@@ -1,0 +1,19 @@
+{
+  "name": "Center for Neuroscience Program (CNUP) PhD",
+  "institution": "University of Pittsburgh",
+  "institutionShort": "Pitt",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.cnup.pitt.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.cnup.pitt.edu/",
+      "label": "University of Pittsburgh Center for Neuroscience",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

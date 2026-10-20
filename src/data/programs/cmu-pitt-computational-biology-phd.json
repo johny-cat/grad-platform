@@ -1,0 +1,19 @@
+{
+  "name": "Joint CMU-Pitt PhD Program in Computational Biology",
+  "institution": "Carnegie Mellon University",
+  "institutionShort": "CMU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.cmu.edu/compbio/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.cmu.edu/compbio/",
+      "label": "Carnegie Mellon University: Joint CMU-Pitt Ph.D. Program in Computational Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

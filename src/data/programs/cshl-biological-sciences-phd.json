@@ -1,0 +1,19 @@
+{
+  "name": "PhD Program, School of Biological Sciences",
+  "institution": "Cold Spring Harbor Laboratory",
+  "institutionShort": "CSHL",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.cshl.edu/gradschool",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.cshl.edu/gradschool",
+      "label": "Cold Spring Harbor Laboratory: School of Biological Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

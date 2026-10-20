@@ -4,6 +4,7 @@ import {
   firstDeadline,
   formatMoney,
   greNotNeeded,
+  isPending,
   searchText,
   type Program,
 } from '../lib/catalog';
@@ -12,26 +13,30 @@ import { CURRENT_CYCLE } from '../config';
 
 interface Props {
   program: Program;
+  /** Listed under its university's name, so the name isn't shown again (screen readers still hear it). */
+  inUniversity?: boolean;
 }
 
-const { program } = Astro.props;
+const { program, inUniversity = false } = Astro.props;
 const d = program.data;
+const pending = isPending(program);
 const deadline = firstDeadline(program);
 const intl = d.funding?.coversInternational ?? 'unknown';
-const fee = d.requirements.applicationFee;
+const fee = d.requirements?.applicationFee;
+const hasTags = intl === 'yes' || intl === 'limited' || greNotNeeded(program) || Boolean(fee);
 ---
 
 <li
   class="program-row"
   data-search={searchText(program)}
   data-intl={intl}
-  data-gre={d.requirements.gre}
+  data-gre={d.requirements?.gre ?? 'unknown'}
   data-waiver={fee?.waiver ?? 'unknown'}
 >
   <div>
     <h2 class="program-row__title">
       <a href={`/programs/${program.id}/`}>
-        <span class="program-row__institution">{d.institution}</span>
+        <span class:list={['program-row__institution', { 'visually-hidden': inUniversity }]}>{d.institution}</span>
         <span class="program-row__name">{d.name}</span>
       </a>
     </h2>
@@ -53,17 +58,23 @@ const fee = d.requirements.applicationFee;
       </div>
     ) : (
       <div class="program-row__deadline">
-        <span class="muted small">Deadline not stated</span>
+        <span class="muted small">{pending ? 'Details coming' : 'Deadline not stated'}</span>
       </div>
     )
   }
 
-  <ul class="tags">
-    {intl === 'yes' && <li class="tag tag--good">Funds international students</li>}
-    {intl === 'limited' && <li class="tag">Limited funding for international students</li>}
-    {greNotNeeded(program) && <li class="tag">{d.requirements.gre === 'optional' ? 'GRE optional' : 'No GRE'}</li>}
-    {fee && <li class="tag">Fee {formatMoney(fee.amount, fee.currency)}</li>}
-  </ul>
+  {
+    hasTags && (
+      <ul class="tags">
+        {intl === 'yes' && <li class="tag tag--good">Funds international students</li>}
+        {intl === 'limited' && <li class="tag">Limited funding for international students</li>}
+        {greNotNeeded(program) && (
+          <li class="tag">{d.requirements?.gre === 'optional' ? 'GRE optional' : 'No GRE'}</li>
+        )}
+        {fee && <li class="tag">Fee {formatMoney(fee.amount, fee.currency)}</li>}
+      </ul>
+    )
+  }
 
   {
     deadline && (

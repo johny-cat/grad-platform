@@ -1,0 +1,19 @@
+{
+  "name": "Neurosciences Graduate Program (PhD)",
+  "institution": "University of California, San Diego",
+  "institutionShort": "UC San Diego",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neurograd.ucsd.edu/about-us/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neurograd.ucsd.edu/about-us/index.html",
+      "label": "UC San Diego: About the Neurosciences Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

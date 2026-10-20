@@ -1,0 +1,19 @@
+{
+  "name": "Cancer & Cell Biology Graduate Program",
+  "institution": "Baylor College of Medicine",
+  "institutionShort": "Baylor",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/cancer-cell-biology",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/cancer-cell-biology",
+      "label": "Baylor College of Medicine: Cancer & Cell Biology Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

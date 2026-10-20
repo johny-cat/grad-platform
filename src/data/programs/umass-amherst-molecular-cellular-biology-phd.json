@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Molecular and Cellular Biology",
+  "institution": "University of Massachusetts Amherst",
+  "institutionShort": "UMass Amherst",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.umass.edu/natural-sciences/academics/phd-molecular-and-cellular-biology",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.umass.edu/natural-sciences/academics/phd-molecular-and-cellular-biology",
+      "label": "UMass Amherst College of Natural Sciences: PhD in Molecular and Cellular Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

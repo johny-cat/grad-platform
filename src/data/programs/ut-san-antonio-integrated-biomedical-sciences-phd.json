@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Integrated Biomedical Sciences",
+  "institution": "The University of Texas at San Antonio (UT Health San Antonio)",
+  "institutionShort": "UT San Antonio",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated",
+      "label": "UT San Antonio Graduate School of Biomedical Sciences: Ph.D. in Integrated Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -11,13 +11,46 @@ export function firstDeadline(program: Program): Deadline | undefined {
   return [...program.data.deadlines].sort((a, b) => a.date.localeCompare(b.date))[0];
 }
 
-/** All programs, soonest deadline first. */
+/** Institution name for alphabetical order: "The Ohio State University" sorts under O. */
+/** A university's name for sorting: "The Ohio State University" sorts under O. */
+function universitySortName(name: string): string {
+  return name.replace(/^The /, '');
+}
+
+function sortName(program: Program): string {
+  return universitySortName(program.data.institution);
+}
+
+export interface University {
+  name: string;
+  /** In the same order as getPrograms(): soonest deadline first, then by name. */
+  programs: Program[];
+}
+
+/** Programs grouped by university, universities A to Z. */
+export async function getUniversities(): Promise<University[]> {
+  const groups = new Map<string, Program[]>();
+  for (const program of await getPrograms()) {
+    const list = groups.get(program.data.institution);
+    if (list) list.push(program);
+    else groups.set(program.data.institution, [program]);
+  }
+  return [...groups]
+    .map(([name, programs]) => ({ name, programs }))
+    .sort((a, b) => universitySortName(a.name).localeCompare(universitySortName(b.name)));
+}
+
+/** All programs, soonest deadline first, then by university and program name. */
 export async function getPrograms(): Promise<Program[]> {
   const all = await getCollection('programs');
   return all.sort((a, b) => {
     const da = firstDeadline(a)?.date ?? '9999-12-31';
     const db = firstDeadline(b)?.date ?? '9999-12-31';
-    return da.localeCompare(db) || a.data.institution.localeCompare(b.data.institution);
+    return (
+      da.localeCompare(db) ||
+      sortName(a).localeCompare(sortName(b)) ||
+      a.data.name.localeCompare(b.data.name)
+    );
   });
 }
 
@@ -37,6 +70,7 @@ export function toSummary(program: Program): ProgramSummary {
     deadline: deadline
       ? { date: deadline.date, time: deadline.time, timezone: deadline.timezone }
       : undefined,
+    ...(program.data.tracks ? { tracks: program.data.tracks } : {}),
   };
 }
 
@@ -49,7 +83,12 @@ export const GRE_LABELS: Record<string, string> = {
 };
 
 export function greNotNeeded(program: Program): boolean {
-  return ['optional', 'not-required', 'not-accepted'].includes(program.data.requirements.gre);
+  return ['optional', 'not-required', 'not-accepted'].includes(program.data.requirements?.gre ?? 'unknown');
+}
+
+/** Listed with only its basics; deadline and requirements not checked yet. */
+export function isPending(program: Program): boolean {
+  return program.data.details === 'pending';
 }
 
 export const WAIVER_LABELS: Record<string, string> = {
@@ -91,7 +130,7 @@ export function fieldLabel(field: string): string {
 /** Lowercase text used by the search box on the programs page. */
 export function searchText(program: Program): string {
   const d = program.data;
-  return [d.name, d.institution, d.institutionShort, d.location, countryName(d.country), fieldLabel(d.field)]
+  return [d.name, d.institution, d.institutionShort, ...(d.tracks ?? []), d.location, countryName(d.country), fieldLabel(d.field)]
     .filter(Boolean)
     .join(' ')
     .toLowerCase();

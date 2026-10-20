@@ -1,0 +1,19 @@
+{
+  "name": "Biological Chemistry Program (PhD)",
+  "institution": "University of Utah",
+  "institutionShort": "Utah",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bioscience.utah.edu/biological-chemistry/index.php",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bioscience.utah.edu/biological-chemistry/index.php",
+      "label": "University of Utah Bioscience Graduate Programs: Biological Chemistry Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

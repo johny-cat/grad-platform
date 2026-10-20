@@ -1,0 +1,19 @@
+{
+  "name": "PhD Programs (Jefferson College of Life Sciences)",
+  "institution": "Thomas Jefferson University",
+  "institutionShort": "Jefferson",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.jefferson.edu/academics/colleges-schools-institutes/life-sciences/degrees-programs/phd-programs.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.jefferson.edu/academics/colleges-schools-institutes/life-sciences/degrees-programs/phd-programs.html",
+      "label": "Jefferson College of Life Sciences: PhD Programs",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

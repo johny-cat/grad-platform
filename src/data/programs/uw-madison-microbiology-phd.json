@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology Doctoral Training Program (MDTP)",
+  "institution": "University of Wisconsin–Madison",
+  "institutionShort": "UW–Madison",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://microbiology.wisc.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://microbiology.wisc.edu/",
+      "label": "UW–Madison Microbiology Doctoral Training Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

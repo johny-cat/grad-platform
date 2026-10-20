@@ -1,0 +1,19 @@
+{
+  "name": "Molecular Biology, Cell Biology, and Biochemistry (MCB) PhD Program",
+  "institution": "Brown University",
+  "institutionShort": "Brown",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://mcbgrad.brown.edu/degree-programs/phd-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://mcbgrad.brown.edu/degree-programs/phd-program",
+      "label": "Brown MCB Graduate Program: PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

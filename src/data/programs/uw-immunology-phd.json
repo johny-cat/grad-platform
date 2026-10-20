@@ -1,0 +1,19 @@
+{
+  "name": "Immunology PhD",
+  "institution": "University of Washington",
+  "institutionShort": "UW",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://immunology.washington.edu/graduate-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://immunology.washington.edu/graduate-program",
+      "label": "UW Department of Immunology: Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

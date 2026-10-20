@@ -1,0 +1,351 @@
+sheet_row,institution,program,status,program_id,note
+3,Albert Einstein College of Medicine,Biomedical Sciences,listed,einstein-biomedical-sciences-phd,
+4,Arizona State University (ASU),Biomedical Informatics,listed,asu-biomedical-informatics-phd,
+5,Augusta University,BMSC,listed,augusta-biomedical-sciences-phd,
+6,Baylor College of Medicine,Cancer and Cell Biology,listed,baylor-cancer-cell-biology-phd,
+7,Baylor College of Medicine,"Chemical, Physical & Structural Biology Graduate Program",listed,baylor-chemical-physical-structural-biology-phd,
+8,Baylor College of Medicine,"Development, Disease Modeling & Therapeutics (DDMT)",listed,baylor-development-disease-models-therapeutics-phd,
+9,Baylor College of Medicine,Genetics and Genomics,listed,baylor-genetics-genomics-phd,
+10,Baylor College of Medicine,Quantitative and Computational Biosciences,listed,baylor-quantitative-computational-biosciences-phd,
+11,Boston College (BC),Molecular & Cell Biology,listed,bc-molecular-cellular-biology-phd,
+12,Boston University (BU),Bioinformatics PhD,listed,bu-bioinformatics-phd,
+13,Boston University (BU),Biology,listed,bu-biology-phd,
+14,Boston University (BU),Molecular & Cell Biology,listed,bu-mcbb-phd,rows 14 and 15 are the same program
+15,Boston University (BU),"Molecular Biology, Cell Biology & Biochemistry (MCBB)",listed,bu-mcbb-phd,rows 14 and 15 are the same program
+16,Boston University (BU),Neuroscience (GPN),listed,bu-neuroscience-phd,
+17,Boston University (BU),PiBS,listed,bu-pibs-phd,
+18,Brandeis University,Molecular and Cell Biology,listed,brandeis-molecular-cell-biology-phd,
+19,Brown University,Computational Biology (CCMB),listed,brown-computational-biology-phd,
+20,Brown University,"Ecology, Evolution and Organismal Biology",listed,brown-eeob-phd,
+21,Brown University,MCBGP,listed,brown-mcb-phd,
+22,Brown University,Neuroscience (GPN),listed,brown-neuroscience-phd,
+23,California Institute of Technology (Caltech),Biochemistry and Molecular Biophysics,listed,caltech-bmb-phd,
+24,California Institute of Technology (Caltech),Biology,listed,caltech-biology-phd,
+25,California Institute of Technology (Caltech),Neurobiology,listed,caltech-neurobiology-phd,
+26,Carnegie Mellon University (CMU),Biological Sciences,listed,cmu-biological-sciences-phd,
+27,Carnegie Mellon University (CMU),Computational Biology (Joint with UPitt),listed,cmu-pitt-computational-biology-phd,
+28,Carnegie Mellon University (CMU),Neural Computation / Systems Neuroscience,listed,cmu-neural-computation-phd,
+29,Case Western Reserve University (CWRU),Biology,listed,case-western-biology-phd,
+30,Case Western Reserve University (CWRU),Biomedical Sciences,listed,case-western-bstp-phd,
+31,Case Western Reserve University (CWRU),Molecular Medcine,listed,case-western-molecular-medicine-phd,
+32,City of Hope,Biological Sciences,not-found,,no official page found yet
+33,Clemson University,Biology,listed,clemson-biological-sciences-phd,
+34,Clemson University,Genetics,listed,clemson-genetics-phd,
+35,Cold Spring Harbor Laboratory (CSHL),Biological Sciences,listed,cshl-biological-sciences-phd,
+36,Colorado State University (CSU),Cell and Molecular Biology,listed,colorado-state-cell-molecular-biology-phd,
+37,Columbia University,biological sciences,listed,columbia-biological-sciences-phd,
+38,Columbia University,Biomedical Informatics (DBMI),listed,columbia-biomedical-informatics-phd,
+39,Columbia University,Biomedical Life Sciences,skipped,,unclear which Columbia program the row means
+40,Columbia University,Neurobiology,listed,columbia-neurobiology-behavior-phd,
+41,Cornell University,Biomedical and Biological Sciences (BBS),listed,cornell-bbs-phd,
+42,Cornell University,Biophysics,listed,cornell-biophysics-phd,
+43,Cornell University,BMCB,listed,cornell-bmcb-phd,
+44,Cornell University,Computational Biology,listed,cornell-computational-biology-phd,
+45,Cornell University,Ecology and Evolutionary Biology,listed,cornell-ecology-evolutionary-biology-phd,
+46,Cornell University,GGD,listed,cornell-genetics-genomics-development-phd,
+47,Cornell University,Microbiology,listed,cornell-microbiology-phd,
+48,Dartmouth College,Molecular and Cellular Biology,listed,dartmouth-molecular-cellular-biology-phd,
+49,Dartmouth College,Quantitative Biomedical Sciences,listed,dartmouth-quantitative-biomedical-sciences-phd,
+51,Drexel University,Biomedical Science,listed,drexel-biomedical-science-phd,
+52,Drexel University,Biostatistics,listed,drexel-biostatistics-phd,
+53,Drexel University,Microbiology and Immunology (College of Medicine),listed,drexel-microbiology-immunology-phd,
+55,Duke University,Cell and Molecular Biology,listed,duke-cell-molecular-biology-phd,
+56,Duke University,"Computational Biology and Bioinformatics, PhD (CBB)",listed,duke-computational-biology-bioinformatics-phd,
+57,Duke University,Molecular Cancer Biology,listed,duke-molecular-cancer-biology-phd,
+58,Duke University,Neurobiology,listed,duke-neurobiology-phd,
+59,Duke University,UPGG,listed,duke-genetics-genomics-phd,
+61,Emory University,BBS: Neuroscience,listed,emory-neuroscience-phd,
+62,Emory University,Immunology and Molecular Pathogenesis,listed,emory-immunology-molecular-pathogenesis-phd,
+64,Florida State University (FSU),Biomedical Sciences,listed,fsu-biomedical-sciences-phd,
+66,George Washington University (GW),"Genomics & Bioinformatics, PhD",listed,gwu-genomics-bioinformatics-phd,
+67,George Washington University (GW),Integrated Biological Sciences (IBS),listed,gwu-biomedical-sciences-phd,
+68,Georgetown University,Biostatistics,listed,georgetown-biostatistics-phd,
+69,Georgetown University,Neuroscience,listed,georgetown-neuroscience-phd,
+70,Georgetown University,Tumor Biology,listed,georgetown-tumor-biology-phd,
+71,Georgia Institute of Technology (Georgia Tech),Quantitative Biosciences,listed,georgia-tech-quantitative-biosciences-phd,
+72,Georgia State University (GSU),Neuroscience,not-found,,no official page found yet
+73,Georgia State University (GSU),Translational Biomedical Sciences,not-found,,no official page found yet
+74,Gerstner Sloan Kettering Graduate School of Biomedical Sciences,Cancer Biology,listed,gsk-cancer-biology-phd,
+75,Gerstner Sloan Kettering Graduate School of Biomedical Sciences,Cancer Engineering,listed,gsk-cancer-engineering-phd,
+76,Harvard University,BIG (Bioinformatics & Integrative Genomics),listed,harvard-big-phd,
+77,Harvard University,Biological and Biomedical Sciences,already-listed,harvard-bbs-phd,covered by a program checked in full
+78,Harvard University,Biophysics,listed,harvard-biophysics-phd,
+79,Harvard University,"Molecules, Cells, and Organisms (MCO)",listed,harvard-mco-phd,the GSAS page for MCO now redirects to Molecular and Cellular Biology; the department page names the program MCO
+80,Harvard University,Neuroscience (PiN),listed,harvard-neuroscience-phd,
+81,Harvard University,OEB,listed,harvard-oeb-phd,
+82,Harvard University,"Systems, Synthetic, and Quantitative Biology",listed,harvard-ssqb-phd,
+83,Harvard University,Virology,listed,harvard-virology-phd,
+84,Icahn School of Medicine at Mount Sinai,Neuroscience,listed,mount-sinai-neuroscience-phd,
+85,Icahn School of Medicine at Mount Sinai,Program in Biomedical Sciences,listed,mount-sinai-biomedical-sciences-phd,
+87,Indiana University Bloomington (IU Bloomington),"Evolution, Ecology, and Behavior",listed,iu-evolution-ecology-behavior-phd,
+88,Johns Hopkins University (JHU),"BCMB (Biochem, Cell & Molec. Bio)",listed,jhu-bcmb-phd,
+89,Johns Hopkins University (JHU),BMB (Biochemistry and Molecular Biology [Bloomberg]),listed,jhu-biochemistry-molecular-biology-phd,
+90,Johns Hopkins University (JHU),Cellular and Molecular Medicine (CMM),listed,jhu-cellular-molecular-medicine-phd,
+91,Johns Hopkins University (JHU),"Human Genetics and Genomics, PhD",listed,jhu-human-genetics-genomics-phd,
+92,Johns Hopkins University (JHU),Neuroscience,listed,jhu-neuroscience-phd,
+93,Johns Hopkins University (JHU),XDBio,listed,jhu-xdbio-phd,
+96,Loyola University Chicago,Integrated Program in Biomedical Sciences PhD,listed,loyola-chicago-biomedical-sciences-phd,
+98,Marquette University,Neuroscience PhD,listed,marquette-neuroscience-phd,
+99,Mayo Clinic Graduate School of Biomedical Sciences,Biomedical Science,listed,mayo-biomedical-sciences-phd,
+102,Medical College of Wisconsin,Interdisciplinary Doctoral Program in Biomedical Sciences,listed,mcw-biomedical-sciences-phd,
+103,Medical College of Wisconsin,Neuroscience Doctoral Program,listed,mcw-neuroscience-phd,
+104,Medical University of South Carolina (MUSC),Biomedical Sciences,not-found,,no official page found yet
+105,Meharry Medical College,Biomedical sciences,listed,meharry-biomedical-sciences-phd,
+106,Michigan State University (MSU),Integrative Biology,listed,msu-integrative-biology-phd,
+107,Michigan State University (MSU),Microbiology & Molecular Genetics,listed,msu-microbiology-molecular-genetics-phd,
+108,Michigan State University (MSU),Plant Biology,listed,msu-plant-biology-phd,
+110,University of Minnesota,"Biochemistry, Molecular Biology, and Biophysics",listed,umn-bmbb-phd,
+111,University of Minnesota,"Molecular, Cellular, Developmental Biology, and Genetics (MCGD&B)",listed,umn-mcdbg-phd,
+112,University of Minnesota,Neuroscience (GPN),listed,umn-neuroscience-phd,
+113,University of Texas MD Anderson Cancer Center (MD Anderson),Graduate School of Biomedical Sciences,listed,md-anderson-uthealth-biomedical-sciences-phd,
+116,Massachusetts Institute of Technology (MIT),Computational and Systems Biology,listed,mit-computational-systems-biology-phd,
+117,Massachusetts Institute of Technology (MIT),Biology,already-listed,mit-biology-phd,covered by a program checked in full
+118,Massachusetts Institute of Technology (MIT),Brain and Cognitive Sciences,listed,mit-brain-cognitive-sciences-phd,
+119,Massachusetts Institute of Technology (MIT),Microbiology,listed,mit-microbiology-phd,
+120,Montana State University,Microbiology,listed,montana-state-microbiology-cell-biology-phd,
+121,New York University (NYU),Vilcek Biological Sciences,listed,nyu-biomedical-sciences-phd,
+122,New York University (NYU),Neural Science,listed,nyu-neural-science-phd,
+123,New York University (NYU),Biology PhD (GSAS),listed,nyu-biology-phd,
+124,Northeastern University,Biophysics PhD,listed,northeastern-biophysics-phd,
+126,Northern Illinois University (NIU),Biological Science,listed,niu-biological-sciences-phd,
+127,Northwestern University,Biomedical sciences (Driskill),listed,northwestern-driskill-life-sciences-phd,
+128,Northwestern University,Neuroscience (NUIN),listed,northwestern-neuroscience-phd,
+129,Northwestern University,Interdisciplinary Biological Sciences (IBiS),listed,northwestern-ibis-phd,
+130,Northwestern University,Health Sciences Integrated Program (HSIP),listed,northwestern-health-sciences-integrated-phd,
+131,The Ohio State University (OSU),Biophysics,listed,ohio-state-biophysics-phd,
+132,The Ohio State University (OSU),Neuroscience,listed,ohio-state-neuroscience-phd,
+133,The Ohio State University (OSU),Molecular Genetics,listed,ohio-state-molecular-genetics-phd,
+134,The Ohio State University (OSU),MCDB,listed,ohio-state-mcdb-phd,
+135,The Ohio State University (OSU),Microbiology,listed,ohio-state-microbiology-phd,
+136,Oregon State University (OSU) / University of Oregon (UO) [joint listing; verify program],Bioengineering,listed,oregon-state-bioengineering-phd,
+138,Oregon Health & Science University (OHSU),Graduate Program in Biomedical Sciences (PBMS),listed,ohsu-biomedical-sciences-phd,rows 138 and 139 are the same program
+139,Oregon Health & Science University (OHSU),Graduate Program in Biomedical Sciences (PBMS),listed,ohsu-biomedical-sciences-phd,rows 138 and 139 are the same program
+140,Pennsylvania State University (Penn State),"Bioinformatics and Genomics, PhD",listed,penn-state-bioinformatics-genomics-phd,
+142,Pennsylvania State University (Penn State),Biomedical Sciences,listed,penn-state-biomedical-sciences-phd,
+143,Pennsylvania State University (Penn State),Neuroscience,listed,penn-state-neuroscience-phd,
+144,Pennsylvania State University (Penn State),"Biochemistry, Microbiology, and Molecular Biology",listed,penn-state-bmmb-phd,
+145,Princeton University,Ecology and Evolutionary Biology,listed,princeton-ecology-evolutionary-biology-phd,
+146,Princeton University,Molecular Biology,listed,princeton-molecular-biology-phd,
+147,Princeton University,Neuroscience,listed,princeton-neuroscience-phd,
+148,Princeton University,LSI Biophysics,listed,princeton-biophysics-phd,
+149,Princeton University,Quantitative and Computational Biology (QCB),listed,princeton-quantitative-computational-biology-phd,
+150,Purdue University,PULSE (life sciences),listed,purdue-pulse-phd,
+151,Purdue University,Biological Science,listed,purdue-biological-sciences-phd,
+152,Rensselaer Polytechnic Institute (RPI),"biochemistry & biophysics, PhD",listed,rpi-biochemistry-biophysics-phd,
+153,[UNRESOLVED: RGGS; verify institution],Comparative Biology,listed,amnh-comparative-biology-phd,sheet lists the school as RGGS
+154,Rice University,Biochemistry & Cell Biology (BCB/BIOC),listed,rice-biochemistry-cell-biology-phd,
+155,Rice University,"Systems, Synthetic, and Physical Biology (SSPB)",listed,rice-systems-synthetic-physical-biology-phd,
+156,Rockefeller University,Bioscience,already-listed,rockefeller-bioscience-phd,covered by a program checked in full
+157,Rutgers University–New Brunswick,Molecular Bioscience,listed,rutgers-molecular-biosciences-phd,
+158,Rutgers University–New Brunswick,Biochemistry,listed,rutgers-biochemistry-phd,
+159,Rutgers University–New Brunswick,Microbial Biology,listed,rutgers-microbial-biology-phd,
+160,Stanford University,nebr,already-listed,stanford-biosciences-phd,covered by a program checked in full
+161,Stanford University,Biochemistry,already-listed,stanford-biosciences-phd,covered by a program checked in full
+162,Stanford University,Cancer Biology,already-listed,stanford-biosciences-phd,covered by a program checked in full
+163,Stanford University,Neuroscience,already-listed,stanford-biosciences-phd,covered by a program checked in full
+164,Stanford University,Biomedical Data Science,already-listed,stanford-biosciences-phd,covered by a program checked in full
+165,Stanford University,Biophysics,already-listed,stanford-biosciences-phd,covered by a program checked in full
+166,Stanford University,Genetics,already-listed,stanford-biosciences-phd,covered by a program checked in full
+167,Stanford University,Microbiology and Immunology,already-listed,stanford-biosciences-phd,covered by a program checked in full
+168,Stanford University,Immunology,already-listed,stanford-biosciences-phd,covered by a program checked in full
+169,Scripps Research – Skaggs Graduate School of Chemical and Biological Sciences,Chemical and Biological Science,already-listed,scripps-research-phd,covered by a program checked in full
+170,Texas A&M University (TAMU) – College Station,Ecology and Conservation Biology,listed,tamu-ecology-conservation-biology-phd,
+171,Texas A&M University (TAMU) – College Station,"Genetics and Genomics, PhD",listed,tamu-genetics-genomics-phd,
+173,Texas Tech University Health Sciences Center (TTUHSC),Biomedical sciences,listed,ttuhsc-biomedical-sciences-phd,
+174,Thomas Jefferson University,"Biomedical Sciences, PhD",listed,jefferson-biomedical-sciences-phd,"sheet row says Biomedical Sciences, PhD; the official page lists the college's PhD programs"
+175,Tufts University,"Genetics, Cell, and Molecular Biology PhD: Mammalian Genetics at JAX Track",listed,tufts-mammalian-genetics-jax-phd,
+177,Tufts University,GSBS immunology,listed,tufts-immunology-phd,
+178,Tufts University,Neuroscience,listed,tufts-neuroscience-phd,
+179,Tulane University,Biomedical Sciences,listed,tulane-biomedical-sciences-phd,
+182,University at Buffalo (SUNY Buffalo; UB),Biomedical Sciences,listed,buffalo-biomedical-sciences-phd,
+186,University of Arizona,Neuroscience,listed,arizona-neuroscience-phd,
+187,University of Arizona,Biomedical Sciences,listed,arizona-abbs-phd,sheet row says Biomedical Sciences
+188,University of Alabama at Birmingham (UAB),Cancer Biology,listed,uab-cancer-biology-phd,
+189,"University of California, Berkeley (UC Berkeley)",Neuroscience,listed,berkeley-neuroscience-phd,
+190,"University of California, Berkeley (UC Berkeley)",Metabolic Biology,listed,berkeley-metabolic-biology-phd,
+191,"University of California, Berkeley (UC Berkeley)",Infectious Diseases and Immunity,listed,berkeley-infectious-diseases-immunity-phd,
+192,"University of California, Berkeley (UC Berkeley)",Integrative Biology,listed,berkeley-integrative-biology-phd,
+193,"University of California, Berkeley (UC Berkeley)",Molecular and Cell Biology,listed,berkeley-molecular-cell-biology-phd,
+194,"University of California, Berkeley (UC Berkeley)",Computational Precision Health (joint UCSF),listed,berkeley-computational-precision-health-phd,
+195,"University of California, Berkeley (UC Berkeley)",Computational Biology,listed,berkeley-computational-biology-phd,
+196,"University of California, Berkeley (UC Berkeley)",Microbiology,listed,berkeley-microbiology-phd,
+197,"University of California, Irvine (UC Irvine)","Structural Biology, Biochemistry, and Biophysics PhD Program",listed,uci-cellular-molecular-biosciences-phd,"row 197 (Structural Biology, Biochemistry and Biophysics) is a research area of the CMB Gateway Program"
+198,"University of California, Irvine (UC Irvine)",Interdepartmental Neuroscience Gateway Program,listed,uci-neuroscience-phd,
+199,"University of California, Irvine (UC Irvine)",Cellular and Molecular Biosciences Gateway Program,listed,uci-cellular-molecular-biosciences-phd,"row 197 (Structural Biology, Biochemistry and Biophysics) is a research area of the CMB Gateway Program"
+200,"University of California, Irvine (UC Irvine)","Mathematical, Computational, & Systems Biology",listed,uci-mathematical-computational-systems-biology-phd,
+201,"University of California, Los Angeles (UCLA)",Ecology and Evolutionary Biology,listed,ucla-ecology-evolutionary-biology-phd,
+202,"University of California, Los Angeles (UCLA)",Neuroscience Interdepartmental Program,listed,ucla-bioscience-phd,"one entry for UCLA Bioscience, where applicants send one application and choose home areas; the sheet lists Neuroscience, Immunity, Microbes and Molecular Pathogenesis, Medical Informatics, Molecular, Cellular and Integrative Physiology, Genetics and Genomics, and Bioinformatics separately"
+203,"University of California, Los Angeles (UCLA)","Biochemistry, Molecular and Structural Biology",listed,ucla-bmsb-phd,
+204,"University of California, Los Angeles (UCLA)",Bioscience,listed,ucla-bioscience-phd,"one entry for UCLA Bioscience, where applicants send one application and choose home areas; the sheet lists Neuroscience, Immunity, Microbes and Molecular Pathogenesis, Medical Informatics, Molecular, Cellular and Integrative Physiology, Genetics and Genomics, and Bioinformatics separately"
+205,"University of California, Los Angeles (UCLA)","Immunity, Microbes, and Molecular Pathogenesis",listed,ucla-bioscience-phd,"one entry for UCLA Bioscience, where applicants send one application and choose home areas; the sheet lists Neuroscience, Immunity, Microbes and Molecular Pathogenesis, Medical Informatics, Molecular, Cellular and Integrative Physiology, Genetics and Genomics, and Bioinformatics separately"
+206,"University of California, Los Angeles (UCLA)",Medical Informatics,listed,ucla-bioscience-phd,"one entry for UCLA Bioscience, where applicants send one application and choose home areas; the sheet lists Neuroscience, Immunity, Microbes and Molecular Pathogenesis, Medical Informatics, Molecular, Cellular and Integrative Physiology, Genetics and Genomics, and Bioinformatics separately"
+207,"University of California, Los Angeles (UCLA)","Molecular, Cellular & Integrative Physiology",listed,ucla-bioscience-phd,"one entry for UCLA Bioscience, where applicants send one application and choose home areas; the sheet lists Neuroscience, Immunity, Microbes and Molecular Pathogenesis, Medical Informatics, Molecular, Cellular and Integrative Physiology, Genetics and Genomics, and Bioinformatics separately"
+208,"University of California, Los Angeles (UCLA)",Biomathematics (Computational Medicine),listed,ucla-biomathematics-phd,
+209,"University of California, Los Angeles (UCLA)",Genetics and Genomics,listed,ucla-bioscience-phd,"one entry for UCLA Bioscience, where applicants send one application and choose home areas; the sheet lists Neuroscience, Immunity, Microbes and Molecular Pathogenesis, Medical Informatics, Molecular, Cellular and Integrative Physiology, Genetics and Genomics, and Bioinformatics separately"
+210,"University of California, Los Angeles (UCLA)",Biosciences - Bioinformatics,listed,ucla-bioscience-phd,"one entry for UCLA Bioscience, where applicants send one application and choose home areas; the sheet lists Neuroscience, Immunity, Microbes and Molecular Pathogenesis, Medical Informatics, Molecular, Cellular and Integrative Physiology, Genetics and Genomics, and Bioinformatics separately"
+212,"University of California, San Diego (UC San Diego; UCSD)",Biochemistry and Molecular Biophysics PhD Program,listed,ucsd-biochemistry-molecular-biophysics-phd,
+213,"University of California, San Diego (UC San Diego; UCSD)",Bioinformatics & Systems Biology,listed,ucsd-bioinformatics-systems-biology-phd,
+214,"University of California, San Diego (UC San Diego; UCSD)",Biomedical Sciences,listed,ucsd-biomedical-sciences-phd,
+215,"University of California, San Diego (UC San Diego; UCSD)",Biological Sciences,listed,ucsd-biological-sciences-phd,
+216,"University of California, San Diego (UC San Diego; UCSD)",Neurosciences,listed,ucsd-neurosciences-phd,
+217,"University of California, San Francisco (UCSF)",Neuroscience,listed,ucsf-neuroscience-phd,
+218,"University of California, San Francisco (UCSF)",Biophysics,listed,ucsf-biophysics-phd,
+219,"University of California, San Francisco (UCSF)",Pharmacogenomics,listed,ucsf-pspg-phd,
+220,"University of California, San Francisco (UCSF)",Biomedical informatics,listed,ucsf-biological-medical-informatics-phd,
+221,"University of California, San Francisco (UCSF)",Biomedical Sciences,already-listed,ucsf-bms-phd,covered by a program checked in full
+222,"University of California, San Francisco (UCSF)",Developmental and Stem Cell Biology,listed,ucsf-developmental-stem-cell-biology-phd,
+223,"University of California, San Francisco (UCSF)",Tetrad,listed,ucsf-tetrad-phd,
+224,"University of California, Santa Cruz (UC Santa Cruz)",CB3,listed,ucsc-cb3-phd,
+225,"University of California, Santa Cruz (UC Santa Cruz)",BMEB,listed,ucsc-bmeb-phd,
+226,"University of California, Santa Cruz (UC Santa Cruz)",EEB,listed,ucsc-ecology-evolutionary-biology-phd,
+227,"University of California, Davis (UC Davis)",Animal Biology,listed,ucdavis-animal-biology-phd,
+228,"University of California, Davis (UC Davis)",Immunology,listed,ucdavis-immunology-phd,
+229,"University of California, Davis (UC Davis)",Microbiology,listed,ucdavis-microbiology-phd,
+230,"University of California, Davis (UC Davis)",Integrative Genetics & Genomics,listed,ucdavis-integrative-genetics-genomics-phd,
+231,"University of California, Davis (UC Davis)",Biomedical Engineering,listed,ucdavis-biomedical-engineering-phd,
+232,University of Chicago (UChicago),Biomedical Sciences,skipped,,no University of Chicago PhD program has this name; its Biological Sciences Division programs are listed one by one
+233,University of Chicago (UChicago),GGSB,listed,uchicago-ggsb-phd,
+234,University of Chicago (UChicago),PME,listed,uchicago-molecular-engineering-phd,
+235,University of Chicago (UChicago),Biophysical Sciences,listed,uchicago-biophysical-sciences-phd,
+236,University of Chicago (UChicago),Neurobiology,listed,uchicago-neurobiology-phd,
+237,University of Colorado Boulder,Biochemistry,listed,cu-boulder-biochemistry-phd,
+238,University of Colorado Boulder,IQ Biology Certificate Program,skipped,,"a graduate certificate taken alongside a PhD, not a PhD program"
+239,University of Colorado Boulder,"Molecular, Cellular & Developmental Biology",listed,cu-boulder-mcdb-phd,
+240,University of Colorado Boulder,Microbiology,skipped,,no microbiology PhD found at CU Boulder; CU Anschutz Microbiology is listed
+241,University of Colorado Anschutz Medical Campus,Molecular Biology,listed,cu-anschutz-molecular-biology-phd,
+242,University of Colorado Anschutz Medical Campus,Integrated Physiology,listed,cu-anschutz-integrated-physiology-phd,
+243,University of Colorado Anschutz Medical Campus,Biomedical Sciences,listed,cu-anschutz-biomedical-sciences-phd,umbrella: students choose one of these programs after rotations; tracks from the participating programs page
+244,University of Colorado Anschutz Medical Campus,Cancer Biology,listed,cu-anschutz-cancer-biology-phd,
+245,University of Colorado Anschutz Medical Campus,"Cell Biology, Stem Cells, and Development (CSD)",listed,cu-anschutz-cell-biology-stem-cells-development-phd,
+246,University of Colorado Anschutz Medical Campus,Computational Bioscience,listed,cu-anschutz-computational-bioscience-phd,
+247,University of Colorado Anschutz Medical Campus,"Structural Biology, Biochemistry, and Biophysics",listed,cu-anschutz-structural-biology-biochemistry-phd,
+248,University of Colorado Anschutz Medical Campus,Immunology,listed,cu-anschutz-immunology-phd,
+249,University of Colorado Anschutz Medical Campus,Microbiology,listed,cu-anschutz-microbiology-phd,
+250,University of Colorado Anschutz Medical Campus,Ecology and Evolutionary Biology (EBIO),listed,cu-boulder-ecology-evolutionary-biology-phd,the sheet lists it under CU Anschutz; the program is at CU Boulder
+252,University of Connecticut,Physiology and Neurobiology,listed,uconn-physiology-neurobiology-phd,
+253,University of Cincinnati,Neuroscience,listed,cincinnati-neuroscience-phd,
+254,University of Denver,Biological Sciences,listed,denver-biological-sciences-phd,
+255,University of Florida,Microbiology and Cell Science,listed,uf-microbiology-cell-science-phd,
+256,University of Florida,Plant Molecule & Cellular Biology,listed,uf-plant-molecular-cellular-biology-phd,
+257,University of Florida,Biomedical Sciences,listed,uf-biomedical-sciences-phd,
+263,University of Georgia (UGA),Neuroscience and Neurotechnology,listed,uga-neuroscience-phd;georgia-tech-neuroscience-neurotechnology-phd,"the sheet names 'Neuroscience and Neurotechnology', which is the name of Georgia Tech's PhD; both are listed"
+264,University of Illinois Chicago (UIC),Graduate Education in Biomedical Science (GEMS),listed,uic-gems-phd,
+265,University of Illinois Chicago (UIC),Neuroscience PhD,listed,uic-neuroscience-phd,
+266,University of Illinois Chicago (UIC),Biological Sciences,listed,uic-biological-sciences-phd,
+267,University of Iowa,Neuroscience PhD,listed,iowa-neuroscience-phd,
+268,University of Illinois Urbana-Champaign (UIUC),Molecular and Cellular Biology,listed,uiuc-mcb-phd,one shared application for the school's four departmental PhDs
+269,University of Illinois Urbana-Champaign (UIUC),Neuroscience PhD,listed,uiuc-neuroscience-phd,
+270,University of Illinois Urbana-Champaign (UIUC),"Biophysics & Quantitative Biology, PhD",listed,uiuc-biophysics-quantitative-biology-phd,
+271,University of Kansas Medical Center (KUMC),Interdisciplinary Graduate program in biomedical sciences,listed,kumc-igpbs-phd,
+272,University of Kentucky,Intergrated Biomediacl Sciences,listed,kentucky-integrated-biomedical-sciences-phd,
+273,University of Maine,Molecular and Biomedical Sciences,skipped,,the name of a department with several graduate programs; unclear which PhD the row means
+274,"University of Maryland, College Park (UMD)",Molecular and Cellular Biology,listed,umd-biological-sciences-phd,the sheet's row is the MOCB concentration
+275,"University of Maryland, Baltimore (UMB) – School of Medicine",Molecular Medicine (Genome track),listed,umb-molecular-medicine-phd,rows 275 and 276 are two tracks of this program
+276,"University of Maryland, Baltimore (UMB) – School of Medicine",Molecular Medicine (Cancer track),listed,umb-molecular-medicine-phd,rows 275 and 276 are two tracks of this program
+277,"University of Maryland, Baltimore (UMB) – School of Medicine",Neuroscience,listed,umb-neuroscience-phd,
+278,UMass Chan Medical School,Biomedical Sciences,listed,umass-chan-biomedical-sciences-phd,
+279,University of Miami,Biology,listed,miami-biology-phd,the only official page found is the department's application guidelines
+280,University of Miami,PIBs,listed,miami-pibs-phd,
+281,University of Miami,"Human Genetics and Genomics, PhD",listed,miami-human-genetics-genomics-phd,
+282,University of Michigan–Ann Arbor (UMich),Program in Biomedical Sciences,listed,umich-pibs-phd,
+284,University of Massachusetts Amherst (UMass),Neuroscience and Behavior,listed,umass-amherst-neuroscience-behavior-phd,
+285,University of Massachusetts Amherst (UMass),Molecular and Cellular Biology,listed,umass-amherst-molecular-cellular-biology-phd,
+286,"University of Nevada, Reno",Cell & Molecular Biology,listed,unr-cell-molecular-biology-phd,
+288,University of North Carolina at Charlotte (UNC Charlotte),Bioinformatics and Computational Biology,listed,unc-charlotte-bioinformatics-computational-biology-phd,
+289,University of North Carolina at Chapel Hill (UNC–Chapel Hill),BBSP: Genetics and Molecular Biology,listed,unc-bbsp-phd,umbrella: students choose a PhD program after rotations; the sheet lists four of them separately; tracks from bbsp.unc.edu/phd-programs/
+290,University of North Carolina at Chapel Hill (UNC–Chapel Hill),BBSP: Neuroscience,listed,unc-bbsp-phd,umbrella: students choose a PhD program after rotations; the sheet lists four of them separately; tracks from bbsp.unc.edu/phd-programs/
+291,University of North Carolina at Chapel Hill (UNC–Chapel Hill),BBSP: Immunology,listed,unc-bbsp-phd,umbrella: students choose a PhD program after rotations; the sheet lists four of them separately; tracks from bbsp.unc.edu/phd-programs/
+292,University of North Carolina at Chapel Hill (UNC–Chapel Hill),BBSP: Biology,listed,unc-bbsp-phd,umbrella: students choose a PhD program after rotations; the sheet lists four of them separately; tracks from bbsp.unc.edu/phd-programs/
+293,University of Notre Dame,Biological Sciences,listed,notre-dame-biological-sciences-phd,
+294,University of Pennsylvania (UPenn; Penn),Genetics and Computational Biology (GCB),listed,penn-genomics-computational-biology-phd,
+295,University of Pennsylvania (UPenn; Penn),Bioengineering,listed,penn-bioengineering-phd,
+296,University of Pennsylvania (UPenn; Penn),"Biochemistry, Biophysics, and Chemical Biology",listed,penn-bbcb-phd,rows 296 and 300 are the same graduate group
+297,University of Pennsylvania (UPenn; Penn),BGS CAMB: Cancer Biology (CB),listed,penn-camb-phd,one graduate group; the sheet lists its six programs separately
+298,University of Pennsylvania (UPenn; Penn),"BGS CAMB: Cell Biology, Physiology, and Metabolism (CPM)",listed,penn-camb-phd,one graduate group; the sheet lists its six programs separately
+299,University of Pennsylvania (UPenn; Penn),"BGS CAMB: Developmental, Stem Cell, and Regenerative Biology",listed,penn-camb-phd,one graduate group; the sheet lists its six programs separately
+300,University of Pennsylvania (UPenn; Penn),"BGS BBCB: Biochemistry, Biophysics, and Chemical Biology",listed,penn-bbcb-phd,rows 296 and 300 are the same graduate group
+301,University of Pennsylvania (UPenn; Penn),BGS CAMB: Genetics and Epigenetics (G&E),listed,penn-camb-phd,one graduate group; the sheet lists its six programs separately
+302,University of Pennsylvania (UPenn; Penn),BGS CAMB: Gene Therapy and Vaccines (GTV),listed,penn-camb-phd,one graduate group; the sheet lists its six programs separately
+303,University of Pennsylvania (UPenn; Penn),"BGS CAMB: Microbiology, Virology, and Parasitology (MVP)",listed,penn-camb-phd,one graduate group; the sheet lists its six programs separately
+304,University of Pennsylvania (UPenn; Penn),Immunology,listed,penn-immunology-phd,
+305,University of Pennsylvania (UPenn; Penn),Neuroscience,listed,penn-neuroscience-phd,
+306,University of Pittsburgh (Pitt),"Human Genetics, PhD",listed,pitt-human-genetics-phd,
+307,University of Pittsburgh (Pitt),Cell Molecular and Systems Biology (CMSB),listed,pitt-cell-molecular-systems-biology-phd,
+308,University of Pittsburgh (Pitt),Molecular Biophysics and Structural Biology (MBSB),listed,pitt-mbsb-phd,
+309,University of Pittsburgh (Pitt),Microbiology and Immunology,listed,pitt-microbiology-immunology-phd,
+310,University of Pittsburgh (Pitt),IBGP,listed,pitt-ibgp-phd,
+311,University of Pittsburgh (Pitt),Biomedical Informatics,not-found,,no official page for a PhD program found yet
+312,University of Pittsburgh (Pitt),Neuroscience,listed,pitt-neuroscience-phd,
+313,University of Rhode Island,BES (MCB),listed,uri-biological-environmental-sciences-phd,the sheet row is the cell and molecular biology area of BES
+315,University of Rochester,Translational Biomedical Sciences,listed,rochester-translational-biomedical-science-phd,
+316,University of Rochester,"Biophysics, Structural & Computational Biology",listed,rochester-biophysics-structural-computational-biology-phd,
+317,University of South Florida (USF),Neuroscience,listed,usf-medical-sciences-phd,row 317 (Neuroscience) is a concentration of this PhD
+318,University of South Florida (USF),Bioinformatics,skipped,,"USF offers bioinformatics as a master's program, not a PhD"
+319,University of South Florida (USF),Medical Sciences,listed,usf-medical-sciences-phd,row 317 (Neuroscience) is a concentration of this PhD
+320,University of South Florida (USF),Cancer Immunology and Imuunotherapy,listed,usf-cancer-immunology-immunotherapy-phd,
+321,University of Southern California (USC),Neuroscience,listed,usc-neuroscience-phd,
+322,University of Southern California (USC),Computational Biology and Bioinformatics,listed,usc-computational-biology-bioinformatics-phd,
+323,University of Southern California (USC),Molecular and Computational Biology,listed,usc-molecular-computational-biology-phd,
+324,University of Southern California (USC),PIBBS,listed,usc-pibbs-phd,
+325,University of Southern California (USC),Marine and Environmental Biology,listed,usc-marine-environmental-biology-phd,
+326,University of Southern California (USC),Biomedical Engineering,listed,usc-biomedical-engineering-phd,
+327,"University of Tennessee, Knoxville",Microbiology,listed,utk-microbiology-phd,
+329,University of Texas Southwestern Medical Center (UT Southwestern; UTSW),Basic Biomedical Science,listed,utsw-basic-science-phd,
+330,University of Texas Southwestern Medical Center (UT Southwestern; UTSW),BME,listed,utsw-biomedical-engineering-phd,
+331,University of Texas at Austin (UT Austin),Neuroscience (INP),listed,ut-austin-neuroscience-phd,
+332,University of Texas at Austin (UT Austin),Microbiology,listed,ut-austin-microbiology-phd,
+333,University of Texas at Austin (UT Austin),Cell and Molecular Biology,listed,ut-austin-cell-molecular-biology-phd,
+334,University of Texas at Austin (UT Austin),Biochemistry,listed,ut-austin-biochemistry-phd,
+335,University of Texas at Dallas (UT Dallas; UTD),Cognition and Neuroscience,listed,ut-dallas-cognition-neuroscience-phd,
+339,University of Utah,Molecular Biology,listed,utah-molecular-biology-phd,
+340,University of Utah,Biomedical Informatics,listed,utah-biomedical-informatics-phd,
+341,University of Utah,Biological Chemistry,listed,utah-biological-chemistry-phd,
+342,University of Virginia (UVA),BIMS (Biomedical Sciences Grad Program),listed,uva-bims-phd,
+343,University of Washington (UW) – Seattle,MCB (Molecular and Cellular Bio),listed,uw-molecular-cellular-biology-phd,
+344,University of Washington (UW) – Seattle,Genome Sciences,listed,uw-genome-sciences-phd,
+345,University of Washington (UW) – Seattle,Immunology,listed,uw-immunology-phd,
+346,University of Washington (UW) – Seattle,Neuroscience,listed,uw-neuroscience-phd,
+347,University of Washington (UW) – Seattle,Microbiology,listed,uw-microbiology-phd,
+348,University of Washington (UW) – Seattle,Molecular Engineering,listed,uw-molecular-engineering-phd,
+349,University of Washington (UW) – Seattle,Molecular Medicine and Mechanisms of Disease (M3D),listed,uw-m3d-phd,
+350,University of Washington (UW) – Seattle,Biomedical & Health Informatics (BHI),listed,uw-biomedical-health-informatics-phd,
+351,University of Washington (UW) – Seattle,"Biological Physics, Structure, & Design",listed,uw-biological-physics-structure-design-phd,
+352,University of Wisconsin–Madison (UW–Madison),Biomedical Data Science,listed,uw-madison-biomedical-data-science-phd,
+353,University of Wisconsin–Madison (UW–Madison),Cancer Biology (CB),listed,uw-madison-cancer-biology-phd,
+354,University of Wisconsin–Madison (UW–Madison),Cellular and Molecular Biology (CMB),listed,uw-madison-cellular-molecular-biology-phd,
+355,University of Wisconsin–Madison (UW–Madison),Cellular and Molecular Pathology (CMP),listed,uw-madison-cellular-molecular-pathology-phd,
+356,University of Wisconsin–Madison (UW–Madison),Comparative Biomedical Sciences (CBMS),listed,uw-madison-comparative-biomedical-sciences-phd,
+357,University of Wisconsin–Madison (UW–Madison),Endocrinology and Reproductive Physiology (ERP),listed,uw-madison-endocrinology-reproductive-physiology-phd,
+358,University of Wisconsin–Madison (UW–Madison),Integrated Program in Biochemistry (IPiB),listed,uw-madison-biochemistry-phd,
+359,University of Wisconsin–Madison (UW–Madison),Integrative Biology (iBio),listed,uw-madison-integrative-biology-phd,
+360,University of Wisconsin–Madison (UW–Madison),Microbiology Doctoral Training Program (MDTP),listed,uw-madison-microbiology-phd,
+361,University of Wisconsin–Madison (UW–Madison),Neuroscience Training Program (NTP),listed,uw-madison-neuroscience-phd,
+362,University of Wisconsin–Madison (UW–Madison),Botany,listed,uw-madison-botany-phd,
+363,University of Wisconsin–Madison (UW–Madison),Plant Pathology,listed,uw-madison-plant-pathology-phd,
+364,University of Wyoming,Zoology and Physiology,listed,wyoming-zoology-physiology-phd,
+365,Van Andel Institute (VAI),Biomedical Graduate Program,listed,van-andel-institute-phd,
+366,Vanderbilt University,Quantitative and Chemical Biology (QCB),listed,vanderbilt-quantitative-chemical-biology-phd,
+367,Vanderbilt University,Biological and Biomedical Sciences (IGP),listed,vanderbilt-igp-phd,
+368,Virginia Commonwealth University (VCU),Biomedical Sciences Doctoral Portal (BSDP),listed,vcu-biomedical-sciences-doctoral-portal-phd,
+369,Wake Forest University,Biology,listed,wake-forest-biology-phd,
+370,Wake Forest University,Neuroscience,listed,wake-forest-neuroscience-phd,
+371,Washington University in St. Louis (WashU; WUSTL),Ecology and Evolutionary Biology,already-listed,washu-dbbs-phd,covered by a program checked in full
+372,Washington University in St. Louis (WashU; WUSTL),Division of Biology & Biomedical Sciences (DBBS),already-listed,washu-dbbs-phd,covered by a program checked in full
+373,Weill Cornell Medicine,"Physiology, Biophysics & Systems Biology (NewYork)",listed,weill-cornell-pbsb-phd,rows 373 (New York) and 376 (Houston Methodist) are two locations of this program
+375,Weill Cornell Medicine,IMP,listed,weill-cornell-immunology-microbial-pathogenesis-phd,
+376,Weill Cornell Medicine,"Physiology, Biophysics & Systems Biology (Houston Methodist)",listed,weill-cornell-pbsb-phd,rows 373 (New York) and 376 (Houston Methodist) are two locations of this program
+377,Weill Cornell Medicine,Tri-I Chem Bio,listed,tri-institutional-chemical-biology-phd,
+378,Weill Cornell Medicine,Tri-I Comp Bio,listed,tri-institutional-computational-biology-medicine-phd,
+379,Weill Cornell Medicine,"BCMB (Biochem, Cell & Molec. Bio) Allied Program",listed,weill-cornell-bcmb-phd,
+380,West Virginia University (WVU),Neuroscience,listed,wvu-neuroscience-phd,
+381,Yale University,"Translational Molecular Medicine, Pharmacology, and Physiology",listed,yale-bbs-phd,one application with a track choice; the sheet lists three tracks separately
+382,Yale University,Plant Molecular Biology,listed,yale-bbs-phd,one application with a track choice; the sheet lists three tracks separately
+383,Yale University,BBS (excluding plant molecular bio),listed,yale-bbs-phd,one application with a track choice; the sheet lists three tracks separately
+384,Yale University,Ecology and Evolutionary Biology (EEB),listed,yale-ecology-evolutionary-biology-phd,
+385,Yale University,Computational Biology and Biomedical Informatics (CBB),listed,yale-bbs-phd,one application with a track choice; the sheet lists three tracks separately
+387,"University of California, Davis (UC Davis)",Population Biology,listed,ucdavis-population-biology-phd,
+390,UT Health San Antonio,Integrated Biomedical Sciences,listed,ut-san-antonio-integrated-biomedical-sciences-phd,
+391,"University of California, Riverside (UC Riverside)",Microbiology,listed,ucr-microbiology-phd,
+392,"University of California, Riverside (UC Riverside)",Plant Sciences,listed,ucr-plant-biology-phd,the sheet says Plant Sciences
+393,Rush University,Integrated Biomedical Sciences,listed,rush-integrated-biomedical-sciences-phd,
+394,"University of California, Santa Barbara (UC Santa Barbara)",Interdisciplinary Program in Quantitative Biosciences,listed,ucsb-quantitative-biosciences-phd,

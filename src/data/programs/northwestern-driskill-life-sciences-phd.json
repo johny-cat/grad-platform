@@ -1,0 +1,19 @@
+{
+  "name": "Driskill Graduate Program in Life Sciences (DGP)",
+  "institution": "Northwestern University",
+  "institutionShort": "Northwestern",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.feinberg.northwestern.edu/sites/graduate-research/programs/dgp.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.feinberg.northwestern.edu/sites/graduate-research/programs/dgp.html",
+      "label": "Northwestern Feinberg School of Medicine: Driskill Graduate Program in Life Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

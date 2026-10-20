@@ -1,0 +1,19 @@
+{
+  "name": "Virology PhD",
+  "institution": "Harvard University",
+  "institutionShort": "Harvard",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gsas.harvard.edu/program/virology",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gsas.harvard.edu/program/virology",
+      "label": "Harvard Kenneth C. Griffin Graduate School of Arts and Sciences: Virology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

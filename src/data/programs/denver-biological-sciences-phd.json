@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biological Sciences",
+  "institution": "University of Denver",
+  "institutionShort": "Denver",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://science.du.edu/biology/academics/degree-programs/gr/phd-biological-sciences",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://science.du.edu/biology/academics/degree-programs/gr/phd-biological-sciences",
+      "label": "University of Denver Department of Biological Sciences: PhD in Biological Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

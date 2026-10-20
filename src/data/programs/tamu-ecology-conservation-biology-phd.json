@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Ecology and Conservation Biology",
+  "institution": "Texas A&M University",
+  "institutionShort": "Texas A&M",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://eccb.tamu.edu/ph-d-in-ecology-and-conservation-biology/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://eccb.tamu.edu/ph-d-in-ecology-and-conservation-biology/",
+      "label": "Texas A&M Department of Ecology and Conservation Biology: Ph.D. in Ecology and Conservation Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

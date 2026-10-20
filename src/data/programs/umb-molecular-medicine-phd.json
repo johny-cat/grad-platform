@@ -1,0 +1,19 @@
+{
+  "name": "Molecular Medicine PhD",
+  "institution": "University of Maryland, Baltimore",
+  "institutionShort": "UMB",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://graduate.umaryland.edu/academics/programs/molecular-medicine-doctoralphd",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://graduate.umaryland.edu/academics/programs/molecular-medicine-doctoralphd",
+      "label": "University of Maryland, Baltimore Graduate School: Molecular Medicine, PhD",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

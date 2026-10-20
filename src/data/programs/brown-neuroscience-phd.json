@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Graduate Program",
+  "institution": "Brown University",
+  "institutionShort": "Brown",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neuroscience-gp.brown.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neuroscience-gp.brown.edu/",
+      "label": "Brown University: Neuroscience Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

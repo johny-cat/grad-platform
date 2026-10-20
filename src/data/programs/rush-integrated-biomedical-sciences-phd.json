@@ -1,0 +1,19 @@
+{
+  "name": "Integrated Biomedical Sciences PhD",
+  "institution": "Rush University",
+  "institutionShort": "Rush",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://rushu.rush.edu/degree-programs/graduate-college/integrated-biomedical-sciences",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://rushu.rush.edu/degree-programs/graduate-college/integrated-biomedical-sciences",
+      "label": "Rush University Graduate College: Integrated Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

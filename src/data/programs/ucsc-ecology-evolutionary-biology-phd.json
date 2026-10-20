@@ -1,0 +1,19 @@
+{
+  "name": "Ecology and Evolutionary Biology PhD",
+  "institution": "University of California, Santa Cruz",
+  "institutionShort": "UC Santa Cruz",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://eeb.ucsc.edu/academics/graduate/program-details/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://eeb.ucsc.edu/academics/graduate/program-details/index.html",
+      "label": "UC Santa Cruz Ecology and Evolutionary Biology: Graduate Program Description",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

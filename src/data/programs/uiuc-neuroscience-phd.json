@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Program (PhD)",
+  "institution": "University of Illinois Urbana-Champaign",
+  "institutionShort": "UIUC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neuroscience.illinois.edu/graduate/graduate-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neuroscience.illinois.edu/graduate/graduate-program",
+      "label": "University of Illinois Neuroscience Program: Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

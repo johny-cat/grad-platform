@@ -1,0 +1,25 @@
+{
+  "name": "Biological Sciences (BISI) PhD",
+  "institution": "University of Maryland, College Park",
+  "institutionShort": "UMD",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Behavior, Ecology, Evolution, and Systematics (BEES)",
+    "Computational Biology, Bioinformatics, and Genomics (CBBG)",
+    "Molecular and Cell Biology (MOCB)",
+    "Physiological Systems (PSYS)"
+  ],
+  "details": "pending",
+  "officialUrl": "https://academiccatalog.umd.edu/graduate/programs/biological-sciences-bisi/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://academiccatalog.umd.edu/graduate/programs/biological-sciences-bisi/",
+      "label": "University of Maryland Graduate Catalog: Biological Sciences (BISI)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

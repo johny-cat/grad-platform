@@ -1,0 +1,19 @@
+{
+  "name": "Biomathematics PhD (Department of Computational Medicine)",
+  "institution": "University of California, Los Angeles",
+  "institutionShort": "UCLA",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.compmed.ucla.edu/phd/overview",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.compmed.ucla.edu/phd/overview",
+      "label": "UCLA Department of Computational Medicine: PhD Program Overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

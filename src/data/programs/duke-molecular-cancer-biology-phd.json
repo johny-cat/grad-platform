@@ -1,0 +1,19 @@
+{
+  "name": "Molecular Cancer Biology PhD Program",
+  "institution": "Duke University",
+  "institutionShort": "Duke",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://pcb.duke.edu/education-training/molecular-cancer-biology-phd-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://pcb.duke.edu/education-training/molecular-cancer-biology-phd-program",
+      "label": "Duke Pharmacology & Cancer Biology: Molecular Cancer Biology PhD Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

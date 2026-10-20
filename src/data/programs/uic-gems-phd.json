@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Education in Biomedical Sciences (GEMS) PhD",
+  "institution": "University of Illinois Chicago",
+  "institutionShort": "UIC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://chicago.medicine.uic.edu/gems/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://chicago.medicine.uic.edu/gems/",
+      "label": "UIC College of Medicine: Graduate Education in Biomedical Sciences (GEMS)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

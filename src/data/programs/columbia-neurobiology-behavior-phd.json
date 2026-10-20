@@ -1,0 +1,19 @@
+{
+  "name": "Doctoral Program in Neurobiology and Behavior (NB&B)",
+  "institution": "Columbia University",
+  "institutionShort": "Columbia",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.neurosciencephd.columbia.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.neurosciencephd.columbia.edu/",
+      "label": "Columbia University: Welcome to Columbia's NB&B Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

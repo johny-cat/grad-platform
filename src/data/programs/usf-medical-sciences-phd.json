@@ -1,0 +1,27 @@
+{
+  "name": "PhD in Medical Sciences",
+  "institution": "University of South Florida",
+  "institutionShort": "USF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Allergy, Immunology and Infectious Diseases",
+    "Molecular Medicine",
+    "Cardiovascular Biology",
+    "Molecular Pharmacology & Physiology",
+    "Neuroscience",
+    "Pathology & Cell Biology"
+  ],
+  "details": "pending",
+  "officialUrl": "https://health.usf.edu/medicine/graduatestudies/phd/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://health.usf.edu/medicine/graduatestudies/phd/",
+      "label": "USF Health Morsani College of Medicine: PhD in Medical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

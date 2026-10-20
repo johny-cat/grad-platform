@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Tumor Biology",
+  "institution": "Georgetown University",
+  "institutionShort": "Georgetown",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://tumorbiology.georgetown.edu/phd/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://tumorbiology.georgetown.edu/phd/",
+      "label": "Georgetown University: Ph.D. in Tumor Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry and Molecular Biophysics PhD",
+  "institution": "University of California, San Diego",
+  "institutionShort": "UC San Diego",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bmb.ucsd.edu/graduates",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bmb.ucsd.edu/graduates",
+      "label": "UC San Diego: Biochemistry and Molecular Biophysics PhD",
+      "checked": "2026-10-19"
+    }
+  ],
+  "lastChecked": "2026-10-19"
+}

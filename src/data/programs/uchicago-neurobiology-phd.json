@@ -1,0 +1,19 @@
+{
+  "name": "PhD Program in Neurobiology",
+  "institution": "University of Chicago",
+  "institutionShort": "UChicago",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neurograd.uchicago.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neurograd.uchicago.edu/",
+      "label": "University of Chicago: PhD Program in Neurobiology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

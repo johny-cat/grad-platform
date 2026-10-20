@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry and Molecular Biophysics (BMB) PhD",
+  "institution": "California Institute of Technology",
+  "institutionShort": "Caltech",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bbe.caltech.edu/academics/biochemistry-and-molecular-biophysics-bmb",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bbe.caltech.edu/academics/biochemistry-and-molecular-biophysics-bmb",
+      "label": "Caltech Biology and Biological Engineering: Biochemistry and Molecular Biophysics",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

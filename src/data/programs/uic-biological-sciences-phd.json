@@ -1,0 +1,19 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Illinois Chicago",
+  "institutionShort": "UIC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bios.uic.edu/academics/graduate-studies/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bios.uic.edu/academics/graduate-studies/",
+      "label": "UIC Department of Biological Sciences: Graduate Studies",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

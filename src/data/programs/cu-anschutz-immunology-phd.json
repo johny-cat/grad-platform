@@ -1,0 +1,19 @@
+{
+  "name": "Immunology PhD",
+  "institution": "University of Colorado Anschutz Medical Campus",
+  "institutionShort": "CU Anschutz",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.cuanschutz.edu/graduate-programs/immunology/about",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.cuanschutz.edu/graduate-programs/immunology/about",
+      "label": "CU Anschutz Graduate School: Immunology, About",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

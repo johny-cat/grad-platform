@@ -1,0 +1,19 @@
+{
+  "name": "Interdisciplinary Biological Sciences (IBiS) PhD Program",
+  "institution": "Northwestern University",
+  "institutionShort": "Northwestern",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://ibis.northwestern.edu/about/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://ibis.northwestern.edu/about/",
+      "label": "Northwestern IBiS: About the Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

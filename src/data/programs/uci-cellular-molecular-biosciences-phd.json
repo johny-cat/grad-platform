@@ -1,0 +1,26 @@
+{
+  "name": "Cellular and Molecular Biosciences (CMB) Gateway Program",
+  "institution": "University of California, Irvine",
+  "institutionShort": "UC Irvine",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Cancer and Cell Biology",
+    "Developmental and Stem Cell Biology",
+    "Genetics, Epigenetics and Genomics",
+    "Immunology and Microbiology",
+    "Structural Biology, Biochemistry and Biophysics"
+  ],
+  "details": "pending",
+  "officialUrl": "https://cmb.uci.edu",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://cmb.uci.edu",
+      "label": "UC Irvine Cellular and Molecular Biosciences Gateway Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Interdisciplinary Graduate Program (IGP) in the Biological and Biomedical Sciences",
+  "institution": "Vanderbilt University",
+  "institutionShort": "Vanderbilt",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://medschool.vanderbilt.edu/igp/igp-program-overview/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://medschool.vanderbilt.edu/igp/igp-program-overview/",
+      "label": "Vanderbilt Interdisciplinary Graduate Program: Program Overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

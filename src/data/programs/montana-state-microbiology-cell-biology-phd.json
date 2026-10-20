@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology and Cell Biology PhD",
+  "institution": "Montana State University",
+  "institutionShort": "Montana State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.montana.edu/academics/microbiology-cell-biology-graduate/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.montana.edu/academics/microbiology-cell-biology-graduate/",
+      "label": "Montana State University: Microbiology and Cell Biology (Graduate)",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

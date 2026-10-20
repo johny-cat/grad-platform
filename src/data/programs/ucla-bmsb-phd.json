@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry, Molecular, and Structural Biology (BMSB) PhD",
+  "institution": "University of California, Los Angeles",
+  "institutionShort": "UCLA",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bmsb.chem.ucla.edu",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bmsb.chem.ucla.edu",
+      "label": "UCLA Department of Chemistry and Biochemistry: Biochemistry, Molecular, and Structural Biology Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

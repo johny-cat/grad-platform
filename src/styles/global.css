@@ -980,6 +980,96 @@ textarea::placeholder {
   color: var(--muted);
 }
 
+/* ---------- Programs grouped by university ---------- */
+
+.uni-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--rule);
+}
+
+.uni {
+  border-bottom: 1px solid var(--rule);
+}
+
+.uni__summary {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 56px;
+  padding: 10px 4px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.uni__summary::-webkit-details-marker {
+  display: none;
+}
+
+/* A chevron that points down when closed and up when open. */
+.uni__summary::after {
+  content: '';
+  flex: none;
+  width: 9px;
+  height: 9px;
+  margin: 0 6px 4px 0;
+  border-right: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+  transform: rotate(45deg);
+}
+
+.uni__details[open] > .uni__summary::after {
+  margin-bottom: -4px;
+  transform: rotate(225deg);
+}
+
+.uni__name {
+  flex: 1;
+  font-size: var(--text-m);
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.uni__summary:hover .uni__name {
+  text-decoration: underline;
+}
+
+.uni__count {
+  color: var(--muted);
+  font-size: var(--text-s);
+  white-space: nowrap;
+}
+
+.uni__programs {
+  list-style: none;
+  margin: 0 0 14px;
+  padding: 0 14px;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-m);
+  background: var(--surface);
+}
+
+.uni__programs > .program-row:last-child {
+  border-bottom: 0;
+}
+
+.uni__programs .program-row__name {
+  font-weight: 700;
+}
+
+@media (min-width: 760px) {
+  .uni__summary {
+    padding-inline: 8px;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .uni__summary::after {
+    transition: transform 0.15s ease;
+  }
+}
+
 /* ---------- Results feed ---------- */
 
 .results {
@@ -1103,6 +1193,19 @@ textarea::placeholder {
   margin: 0;
 }
 
+.tracks {
+  margin-top: 14px;
+}
+
+.tracks p {
+  margin: 0 0 8px;
+}
+
+/* Long area names wrap onto two lines, so these tags are rounded boxes, not pills. */
+.tracks .tag {
+  border-radius: 10px;
+}
+
 .crumbs {
   margin: 0 0 14px;
   font-size: var(--text-s);
@@ -1136,6 +1239,14 @@ textarea::placeholder {
 .deadline-box {
   display: grid;
   gap: 4px;
+}
+
+.pending-note p {
+  margin: 0 0 12px;
+}
+
+.pending-note p:last-child {
+  margin-bottom: 0;
 }
 
 .deadline-box__date {

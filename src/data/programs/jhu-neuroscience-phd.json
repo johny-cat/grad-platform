@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience PhD (Neuroscience Training Program)",
+  "institution": "Johns Hopkins University",
+  "institutionShort": "Johns Hopkins",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neuroscience.jhu.edu/academics.php",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neuroscience.jhu.edu/academics.php",
+      "label": "Johns Hopkins Neuroscience: Welcome to the Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

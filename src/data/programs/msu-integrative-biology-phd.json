@@ -1,0 +1,19 @@
+{
+  "name": "Integrative Biology PhD",
+  "institution": "Michigan State University",
+  "institutionShort": "Michigan State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://integrativebiology.natsci.msu.edu/graduate-program-1/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://integrativebiology.natsci.msu.edu/graduate-program-1/",
+      "label": "Michigan State University Integrative Biology: Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

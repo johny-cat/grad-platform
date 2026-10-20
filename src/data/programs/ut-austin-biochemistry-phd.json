@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry PhD",
+  "institution": "The University of Texas at Austin",
+  "institutionShort": "UT Austin",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://ils.utexas.edu/biochemistry/biochemistry-program-overview",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://ils.utexas.edu/biochemistry/biochemistry-program-overview",
+      "label": "UT Austin Biochemistry: Program Overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

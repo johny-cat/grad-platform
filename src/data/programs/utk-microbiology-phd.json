@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology PhD",
+  "institution": "University of Tennessee, Knoxville",
+  "institutionShort": "UT Knoxville",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://artsci.utk.edu/academics/graduate-programs/microbiology-phd/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://artsci.utk.edu/academics/graduate-programs/microbiology-phd/",
+      "label": "University of Tennessee, Knoxville College of Arts and Sciences: Microbiology PhD",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

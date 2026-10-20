@@ -1,0 +1,19 @@
+{
+  "name": "Biology PhD",
+  "institution": "Wake Forest University",
+  "institutionShort": "Wake Forest",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://biology.wfu.edu/graduate/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://biology.wfu.edu/graduate/",
+      "label": "Wake Forest University Department of Biology: Graduate Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

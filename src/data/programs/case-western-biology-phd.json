@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biology",
+  "institution": "Case Western Reserve University",
+  "institutionShort": "Case Western",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bulletin.case.edu/arts-sciences/biology/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bulletin.case.edu/arts-sciences/biology/",
+      "label": "Case Western Reserve University Bulletin: Department of Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

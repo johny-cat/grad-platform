@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biomedical Engineering",
+  "institution": "University of Southern California",
+  "institutionShort": "USC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bme.usc.edu/academics/graduate-programs/doctor-philosophy-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bme.usc.edu/academics/graduate-programs/doctor-philosophy-program",
+      "label": "USC Viterbi Department of Biomedical Engineering: Doctor of Philosophy (Ph.D.) in Biomedical Engineering",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biological Sciences",
+  "institution": "University of Notre Dame",
+  "institutionShort": "Notre Dame",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://science.nd.edu/academics/degree-programs/phd-in-biological-sciences/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://science.nd.edu/academics/degree-programs/phd-in-biological-sciences/",
+      "label": "Notre Dame College of Science: PhD in Biological Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Translational Biomedical Science PhD",
+  "institution": "University of Rochester",
+  "institutionShort": "Rochester",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.urmc.rochester.edu/education/graduate/phd/translational-biomedical-science",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/translational-biomedical-science",
+      "label": "University of Rochester Medical Center: Translational Biomedical Science PhD",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

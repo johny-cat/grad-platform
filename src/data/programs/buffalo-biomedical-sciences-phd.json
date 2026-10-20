@@ -1,0 +1,19 @@
+{
+  "name": "PhD Programs in Biomedical Sciences",
+  "institution": "University at Buffalo",
+  "institutionShort": "Buffalo",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.buffalo.edu/grad/programs/phd-programs-in-biomedical-sciences-phd.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.buffalo.edu/grad/programs/phd-programs-in-biomedical-sciences-phd.html",
+      "label": "University at Buffalo Graduate School: PhD Programs in Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

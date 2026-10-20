@@ -24,6 +24,7 @@ They are never a source of program facts.
 | `fall-2024-sheet-programs.csv` | 842 programs from that sheet |
 | `2027-28-admissions-sheet.md` | This season's sheet (Fall 2027 entry, the season our site serves): layout, house rules, programs. No results yet |
 | `2027-28-sheet-programs.csv` | 580 biology, biomedical, pharmacology and bioengineering programs from this season's sheet |
+| `2027-28-listing.csv` | The sheet's 350 US biology PhD rows and what became of each: `listed` (with the program file it went into; several rows can share one, and one row naming two possible programs lists both, separated by `;`), `already-listed`, `not-found` (no official page found yet) or `skipped` (not a PhD program we could pin down, with the reason) |
 | `bme-2026-27-sheet.md` | Last season's biomedical engineering sheet, with results: timing, stipends and what people asked |
 
 ## The community sheets, season by season

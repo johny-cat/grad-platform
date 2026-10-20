@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Program in Neuroscience (GPN) PhD",
+  "institution": "University of Minnesota",
+  "institutionShort": "Minnesota",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.neuroscience.umn.edu/admissions/phd-program-overview",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.neuroscience.umn.edu/admissions/phd-program-overview",
+      "label": "University of Minnesota Graduate Program in Neuroscience: Ph.D. Program Overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

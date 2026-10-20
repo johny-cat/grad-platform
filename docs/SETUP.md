@@ -5,10 +5,10 @@ whenever something changes.
 
 | Piece | Status |
 | --- | --- |
-| GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. |
-| Automatic checks (GitHub) | Run on every pull request and every push to `main` (section 6). |
+| GitHub repository `johny-cat/grad-platform` | Created (public). Claude GitHub App installed; code pushed to `main` on 2026-10-17. GitHub suspended the `johny-cat` account on 2026-10-18 and restored it on 2026-10-20; in between, the site was published by hand (section 7). |
+| Automatic checks (GitHub) | Run on every pull request and every push to `main`; program links are also checked every Monday (section 6). |
 | Supabase project `nhebswofygpgxcgvginn` | Database set up on 2026-10-17 (section 2). |
-| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). |
+| Cloudflare Pages | Connected to `main` on 2026-10-17. Live at https://grad-platform.pages.dev (section 4). While GitHub was suspended (2026-10-18 to 2026-10-20), the site was uploaded by hand (section 7); merging pull request #3 brings `main` up to date with what's live. Until then, merge nothing else: Cloudflare's next build from `main` would go back to 7 programs. |
 | Sign-in | Address settings done on 2026-10-17 (section 3). First sign-in by email link worked on 2026-10-18. |
 | Sign-in emails | Supabase built-in email: a link only, no code, and the templates can't be edited. Reaches project team members only, about 2 per hour. Custom SMTP needed before launch (section 5). |
 | Domain | Not bought yet (site name not final). |
@@ -36,6 +36,11 @@ Run on the live database:
 
 - 2026-10-17: `20261017150000_initial_schema.sql`
 - 2026-10-17: `catalog.sql` (7 programs)
+- 2026-10-19: `catalog.sql` (307 programs), its add-or-update part only,
+  as no program was removed. Run by Claude in the SQL Editor with Junaid's
+  approval, after a rehearsal on a throwaway copy. Checked from outside
+  with the public key: 307 programs, all active, matching the program files
+  exactly.
 
 Checked from outside with the public key: visitors can read programs,
 cycles, the results feed and the counts, and are refused on profiles,
@@ -114,3 +119,57 @@ live site or the live database.
 The result shows near the bottom of each pull request: a green tick when
 everything passed, a red cross when something failed (click "Details" to
 see what). Merge only when it is green.
+
+`.github/workflows/links.yml` ("Program links") opens every program's
+official links. It runs on pull requests that change programs, every Monday
+morning and on demand (Actions tab, "Program links", "Run workflow"). Each
+run's summary page has a table of every link and the title of the page it
+opened; on a pull request the same results appear as a comment (the only
+thing this check may write). A red cross there means a program page has
+moved or gone: find the new official page and update the program's file.
+
+## 7. Publishing without GitHub (by hand)
+
+Normally Cloudflare builds the site from `main` on GitHub. If GitHub can't be
+used (as from 2026-10-18 to 2026-10-20), the finished site can be uploaded to the same
+Cloudflare project from Junaid's Windows computer. Cloudflare's dashboard
+doesn't take drag-and-drop uploads for a project connected to Git, but its
+`wrangler` tool does.
+
+Claude prepares three files in Junaid's Downloads folder: the built site
+(`dist/`, zipped with the files at the top level), `supabase/seed/catalog.sql`
+saved as a `.txt` file, and `scripts/upload-to-cloudflare.bat`.
+
+1. Supabase, SQL Editor, New query: paste the `.txt` file and Run. Claude
+   can do this in the built-in browser once Junaid has signed in to
+   Supabase and approved this step.
+2. Once only: install Node.js (LTS) from https://nodejs.org.
+3. Junaid double-clicks the `.bat` file. It unpacks the zip into
+   `heardyet-site` (replacing the old copy), signs in to Cloudflare if
+   needed (the browser opens; click "Allow"), uploads the site and writes
+   what happened to `heardyet-upload-log.txt` next to it. By hand instead,
+   extract the zip into `Downloads\heardyet-site`, then in Command Prompt
+   (not PowerShell):
+   ```
+   cd %USERPROFILE%\Downloads
+   npx wrangler login
+   npx wrangler pages deploy heardyet-site --project-name=grad-platform --branch=main
+   ```
+4. Check https://grad-platform.pages.dev/programs/ (the program count).
+
+To undo: Cloudflare dashboard, Workers & Pages, `grad-platform`,
+Deployments, choose the previous one, "Rollback to this deployment". When
+GitHub is back, merging the pull request makes Cloudflare build the same
+work from GitHub again.
+
+Uploaded by hand:
+
+- 2026-10-19: branch `programs/list-this-season` at commit `9c695f5`, 307
+  programs (300 new). Deployment `9e3aed9b`
+  (https://9e3aed9b.grad-platform.pages.dev). Checked afterwards: the
+  programs page lists 307, and every script, style and font, the main
+  pages and a sample of program pages are identical to the build.
+- 2026-10-19, evening: the programs page grouped by university (same
+  branch). Deployment `dd6a62a7`. Checked afterwards: the live programs
+  page is identical to the build and lists 307 programs at 121
+  universities. No database change.

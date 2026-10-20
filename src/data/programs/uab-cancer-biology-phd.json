@@ -1,0 +1,19 @@
+{
+  "name": "Cancer Biology PhD (Graduate Biomedical Sciences)",
+  "institution": "University of Alabama at Birmingham",
+  "institutionShort": "UAB",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.uab.edu/gbs/home/themes/cancer",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.uab.edu/gbs/home/themes/cancer",
+      "label": "UAB Graduate Biomedical Sciences: Cancer Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

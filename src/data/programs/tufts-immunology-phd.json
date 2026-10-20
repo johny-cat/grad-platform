@@ -1,0 +1,19 @@
+{
+  "name": "Immunology PhD",
+  "institution": "Tufts University",
+  "institutionShort": "Tufts",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gsbs.tufts.edu/academics/immunology",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gsbs.tufts.edu/academics/immunology",
+      "label": "Tufts Graduate School of Biomedical Sciences: Immunology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

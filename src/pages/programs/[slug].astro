@@ -10,6 +10,7 @@ import {
   countryName,
   formatMoney,
   getPrograms,
+  isPending,
   shortName,
   type Program,
 } from '../../lib/catalog';
@@ -27,17 +28,18 @@ interface Props {
 
 const { program } = Astro.props;
 const d = program.data;
+const pending = isPending(program);
 const r = d.requirements;
 const cycle = CURRENT_CYCLE;
 const place = [d.location, countryName(d.country)].filter(Boolean).join(', ');
 const deadlineDates = d.deadlines.map((x) => x.date);
-const english = r.english;
+const english = r?.english;
 const englishParts = [
   english?.toefl && `TOEFL ${english.toefl}`,
   english?.ielts && `IELTS ${english.ielts}`,
   english?.duolingo && `Duolingo ${english.duolingo}`,
 ].filter(Boolean) as string[];
-const letters = r.letters
+const letters = r?.letters
   ? r.letters.max && r.letters.max !== r.letters.min
     ? `${r.letters.min} to ${r.letters.max}`
     : `${r.letters.min}`
@@ -49,7 +51,11 @@ const unknown = 'Not stated on official pages';
 
 <Base
   title={`${shortName(program)} ${d.name}`}
-  description={`Deadline, requirements, funding and live admissions results for ${d.name} at ${d.institution}.`}
+  description={
+    pending
+      ? `Live admissions results for ${d.name} at ${d.institution}, with a link to its official page.`
+      : `Deadline, requirements, funding and live admissions results for ${d.name} at ${d.institution}.`
+  }
   current="programs"
 >
   <div class="wrap">
@@ -59,11 +65,38 @@ const unknown = 'Not stated on official pages';
       <h1>{d.name}</h1>
       <p class="muted" style="margin-bottom:6px">{place}</p>
       {d.summary && <p>{d.summary}</p>}
+      {
+        d.tracks && (
+          <div class="tracks">
+            <p class="small muted">Includes these areas, as named on the official page:</p>
+            <ul class="tags">
+              {d.tracks.map((track) => (
+                <li class="tag">{track}</li>
+              ))}
+            </ul>
+          </div>
+        )
+      }
     </header>
 
     <div class="program-layout">
       <aside class="program-layout__aside" aria-label="Deadline and your status">
         <div class="panel">
+          {
+            pending && (
+              <div class="pending-note">
+                <p>
+                  <strong>Details being checked.</strong> We haven't checked this program's deadline and requirements
+                  yet. Until we do, see its official page.
+                </p>
+                <p>
+                  <a class="btn btn--small" href={d.officialUrl} rel="noopener">
+                    Official program page
+                  </a>
+                </p>
+              </div>
+            )
+          }
           {
             d.deadlines.map((deadline) => (
               <div
@@ -86,7 +119,7 @@ const unknown = 'Not stated on official pages';
               </div>
             ))
           }
-          {d.deadlines.length === 0 && <p class="muted">Deadline not stated on official pages.</p>}
+          {!pending && d.deadlines.length === 0 && <p class="muted">Deadline not stated on official pages.</p>}
 
           <div style="margin-top:18px">
             <ProgramActions client:only="preact" slug={program.id} cycleId={cycle.id}>
@@ -94,17 +127,19 @@ const unknown = 'Not stated on official pages';
             </ProgramActions>
           </div>
 
-          <p style="margin:16px 0 0">
-            <a href={d.officialUrl} rel="noopener">Official program page</a>
-            {
-              d.applyUrl && (
-                <>
-                  <br />
-                  <a href={d.applyUrl} rel="noopener">Application portal</a>
-                </>
-              )
-            }
-          </p>
+          {
+            !pending && (
+              <p style="margin:16px 0 0">
+                <a href={d.officialUrl} rel="noopener">Official program page</a>
+                {d.applyUrl && (
+                  <>
+                    <br />
+                    <a href={d.applyUrl} rel="noopener">Application portal</a>
+                  </>
+                )}
+              </p>
+            )
+          }
         </div>
       </aside>
 
@@ -134,109 +169,130 @@ const unknown = 'Not stated on official pages';
 
       <section aria-labelledby="facts-heading">
         <h2 id="facts-heading">Requirements and funding</h2>
-        <dl class="facts">
-          <div>
-            <dt>GRE</dt>
-            <dd>
-              {r.gre === 'unknown' ? <span class="unknown">{unknown}</span> : GRE_LABELS[r.gre]}
-            </dd>
-          </div>
-          <div>
-            <dt>English tests</dt>
-            <dd>
-              {englishParts.length > 0 && <span>Minimum {englishParts.join('; ')}.</span>}
-              {english?.note && <span> {english.note}</span>}
-              {englishParts.length === 0 && !english?.note && <span class="unknown">{unknown}</span>}
-            </dd>
-          </div>
-          <div>
-            <dt>Application fee</dt>
-            <dd>
-              {
-                r.applicationFee ? (
-                  <>
-                    {formatMoney(r.applicationFee.amount, r.applicationFee.currency)}.{' '}
-                    {WAIVER_LABELS[r.applicationFee.waiver]}.
-                    {r.applicationFee.note && <span> {r.applicationFee.note}</span>}
-                  </>
-                ) : (
-                  <span class="unknown">{unknown}</span>
-                )
-              }
-            </dd>
-          </div>
-          <div>
-            <dt>Recommendation letters</dt>
-            <dd>{letters ?? <span class="unknown">{unknown}</span>}</dd>
-          </div>
-          {
-            r.documents && r.documents.length > 0 && (
+        {
+          !r && (
+            <p>
+              Not checked yet. We add deadlines, requirements and funding from official pages a batch at a time,
+              starting with the programs most people follow.
+            </p>
+          )
+        }
+        {
+          r && (
+            <dl class="facts">
               <div>
-                <dt>Also needed</dt>
+                <dt>GRE</dt>
                 <dd>
-                  <ul>
-                    {r.documents.map((doc) => (
-                      <li>{doc}</li>
-                    ))}
-                  </ul>
+                  {r.gre === 'unknown' ? <span class="unknown">{unknown}</span> : GRE_LABELS[r.gre]}
                 </dd>
               </div>
-            )
-          }
-          <div>
-            <dt>Funding</dt>
-            <dd>
-              {funding?.allFunded && <span>All students in good standing are funded. </span>}
-              <span>{INTERNATIONAL_FUNDING_LABELS[funding?.coversInternational ?? 'unknown']}.</span>
+              <div>
+                <dt>English tests</dt>
+                <dd>
+                  {englishParts.length > 0 && <span>Minimum {englishParts.join('; ')}.</span>}
+                  {english?.note && <span> {english.note}</span>}
+                  {englishParts.length === 0 && !english?.note && <span class="unknown">{unknown}</span>}
+                </dd>
+              </div>
+              <div>
+                <dt>Application fee</dt>
+                <dd>
+                  {
+                    r.applicationFee ? (
+                      <>
+                        {formatMoney(r.applicationFee.amount, r.applicationFee.currency)}.{' '}
+                        {WAIVER_LABELS[r.applicationFee.waiver]}.
+                        {r.applicationFee.note && <span> {r.applicationFee.note}</span>}
+                      </>
+                    ) : (
+                      <span class="unknown">{unknown}</span>
+                    )
+                  }
+                </dd>
+              </div>
+              <div>
+                <dt>Recommendation letters</dt>
+                <dd>{letters ?? <span class="unknown">{unknown}</span>}</dd>
+              </div>
               {
-                stipend && (
-                  <span>
-                    {' '}
-                    Stipend {formatMoney(stipend.amount, stipend.currency)} a {stipend.period} ({stipend.year}).
-                  </span>
+                r.documents && r.documents.length > 0 && (
+                  <div>
+                    <dt>Also needed</dt>
+                    <dd>
+                      <ul>
+                        {r.documents.map((doc) => (
+                          <li>{doc}</li>
+                        ))}
+                      </ul>
+                    </dd>
+                  </div>
                 )
               }
-              {funding?.note && <span> {funding.note}</span>}
-            </dd>
-          </div>
-          <div>
-            <dt>International applicants</dt>
-            <dd>
-              {
-                d.international?.accepted === 'yes'
-                  ? 'Accepted.'
-                  : d.international?.accepted === 'no'
-                    ? 'Not accepted.'
-                    : <span class="unknown">{unknown}</span>
-              }
-              {d.international?.note && <span> {d.international.note}</span>}
-            </dd>
-          </div>
-          <div>
-            <dt>Interviews</dt>
-            <dd>{d.timeline?.interviews ?? <span class="unknown">{unknown}</span>}</dd>
-          </div>
-          <div>
-            <dt>Decisions</dt>
-            <dd>{d.timeline?.decisions ?? <span class="unknown">{unknown}</span>}</dd>
-          </div>
-          {
-            r.note && (
               <div>
-                <dt>Good to know</dt>
-                <dd>{r.note}</dd>
+                <dt>Funding</dt>
+                <dd>
+                  {funding?.allFunded && <span>All students in good standing are funded. </span>}
+                  <span>{INTERNATIONAL_FUNDING_LABELS[funding?.coversInternational ?? 'unknown']}.</span>
+                  {
+                    stipend && (
+                      <span>
+                        {' '}
+                        Stipend {formatMoney(stipend.amount, stipend.currency)} a {stipend.period} ({stipend.year}).
+                      </span>
+                    )
+                  }
+                  {funding?.note && <span> {funding.note}</span>}
+                </dd>
               </div>
-            )
-          }
-        </dl>
+              <div>
+                <dt>International applicants</dt>
+                <dd>
+                  {
+                    d.international?.accepted === 'yes'
+                      ? 'Accepted.'
+                      : d.international?.accepted === 'no'
+                        ? 'Not accepted.'
+                        : <span class="unknown">{unknown}</span>
+                  }
+                  {d.international?.note && <span> {d.international.note}</span>}
+                </dd>
+              </div>
+              <div>
+                <dt>Interviews</dt>
+                <dd>{d.timeline?.interviews ?? <span class="unknown">{unknown}</span>}</dd>
+              </div>
+              <div>
+                <dt>Decisions</dt>
+                <dd>{d.timeline?.decisions ?? <span class="unknown">{unknown}</span>}</dd>
+              </div>
+              {
+                r.note && (
+                  <div>
+                    <dt>Good to know</dt>
+                    <dd>{r.note}</dd>
+                  </div>
+                )
+              }
+            </dl>
+          )
+        }
       </section>
 
       <section class="sources" aria-labelledby="sources-heading">
         <h2 id="sources-heading">Where this comes from</h2>
-        <p>
-          Checked against official pages on {formatShortDateYear(d.lastChecked)}. Programs change details, so always
-          confirm on the program's own site before you apply.
-        </p>
+        {
+          pending ? (
+            <p>
+              We confirmed this program's official page on {formatShortDateYear(d.lastChecked)}. Its deadline and
+              requirements haven't been checked yet, so always confirm on the program's own site before you apply.
+            </p>
+          ) : (
+            <p>
+              Checked against official pages on {formatShortDateYear(d.lastChecked)}. Programs change details, so always
+              confirm on the program's own site before you apply.
+            </p>
+          )
+        }
         <ul>
           {
             d.sources.map((source) => (

@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Program in Neuroscience (PhD)",
+  "institution": "University of Illinois Chicago",
+  "institutionShort": "UIC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://gpn.uic.edu/about",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gpn.uic.edu/about",
+      "label": "UIC Graduate Program in Neuroscience: About",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

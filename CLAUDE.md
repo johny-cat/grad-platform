@@ -69,6 +69,7 @@ PUBLIC_DEMO=1 PUBLIC_DEMO_TODAY=2027-02-10 npx astro build --outDir /tmp/preview
 | `supabase/migrations/` | Database schema, security rules and functions |
 | `supabase/tests/` | Database tests (`npm run test:db`) |
 | `.github/workflows/ci.yml` | Runs check, build and `test:db` on every pull request and push to `main` |
+| `.github/workflows/links.yml` | Opens every program's official links (`scripts/check-program-links.mjs`) on pull requests that change programs and every Monday |
 | `docs/` | Architecture, security, data rules, design, roadmap, setup status, decisions |
 | `docs/research/` | What applicants track and ask, from their community sheets, plus lists of candidate programs. Start with `docs/research/README.md` |
 
@@ -77,9 +78,14 @@ PUBLIC_DEMO=1 PUBLIC_DEMO_TODAY=2027-02-10 npx astro build --outDir /tmp/preview
 **Add a program:** create `src/data/programs/<institution>-<program>-<degree>.json`
 following an existing file and `docs/DATA.md`, run `npm run build`, then apply
 the regenerated `supabase/seed/catalog.sql` in Supabase (until CI does it).
-Candidate programs are listed in `docs/research/2027-28-sheet-programs.csv`
-(this season) and `docs/research/fall-2024-sheet-programs.csv`; they are
-leads only, and every fact still comes from the official page.
+To list a program before its details are checked, give only the basics and
+its official page with `"details": "pending"`; an umbrella program names its
+home areas in `tracks` (see `docs/DATA.md`). Candidate programs are listed in
+`docs/research/2027-28-sheet-programs.csv` (this season) and
+`docs/research/fall-2024-sheet-programs.csv`; they are leads only, and every
+fact still comes from the official page. `docs/research/2027-28-listing.csv`
+shows what became of each of this season's US biology rows (listed, skipped
+with a reason, or official page not found yet).
 
 **Change the database:** new migration file, new tests, `npm run test:db`,
 then apply in Supabase (SQL Editor) and note it in `docs/SETUP.md`.

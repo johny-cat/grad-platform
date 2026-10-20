@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Biological Sciences",
+  "institution": "Carnegie Mellon University",
+  "institutionShort": "CMU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.cmu.edu/bio/graduate/phd_bs/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.cmu.edu/bio/graduate/phd_bs/index.html",
+      "label": "Carnegie Mellon University: Ph.D. in Biological Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

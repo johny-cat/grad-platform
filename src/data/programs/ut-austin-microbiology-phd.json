@@ -1,0 +1,19 @@
+{
+  "name": "Microbiology PhD",
+  "institution": "The University of Texas at Austin",
+  "institutionShort": "UT Austin",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://ils.utexas.edu/microbiology/microbiology-program-overview",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://ils.utexas.edu/microbiology/microbiology-program-overview",
+      "label": "UT Austin Microbiology: Program Overview",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

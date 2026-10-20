@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Interdisciplinary Program in Neuroscience (PhD)",
+  "institution": "University of Arizona",
+  "institutionShort": "Arizona",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://neuroscience.arizona.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://neuroscience.arizona.edu/",
+      "label": "University of Arizona: Graduate Interdisciplinary Program in Neuroscience",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

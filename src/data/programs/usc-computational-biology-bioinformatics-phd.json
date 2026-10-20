@@ -1,0 +1,19 @@
+{
+  "name": "PhD in Computational Biology and Bioinformatics",
+  "institution": "University of Southern California",
+  "institutionShort": "USC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.qcb-dornsife.usc.edu/phd",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.qcb-dornsife.usc.edu/phd",
+      "label": "USC Dornsife Department of Quantitative and Computational Biology: Ph.D. in Computational Biology and Bioinformatics",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

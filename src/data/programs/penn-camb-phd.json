@@ -1,0 +1,27 @@
+{
+  "name": "Cell and Molecular Biology (CAMB) Graduate Group",
+  "institution": "University of Pennsylvania",
+  "institutionShort": "Penn",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Cancer Biology (CB)",
+    "Cell Biology, Physiology, and Metabolism (CPM)",
+    "Developmental, Stem Cell, and Regenerative Biology (DSRB)",
+    "Genetics and Epigenetics (G&E)",
+    "Gene Therapy and Vaccines (GTV)",
+    "Microbiology, Virology, and Parasitology (MVP)"
+  ],
+  "details": "pending",
+  "officialUrl": "https://www.med.upenn.edu/camb/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.med.upenn.edu/camb/",
+      "label": "Penn Cell and Molecular Biology Graduate Group",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

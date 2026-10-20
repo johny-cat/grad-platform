@@ -1,0 +1,19 @@
+{
+  "name": "Neuroscience Graduate Program (NGP) PhD",
+  "institution": "University of Southern California",
+  "institutionShort": "USC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://ngp.usc.edu/about-ngp/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://ngp.usc.edu/about-ngp/",
+      "label": "USC Neuroscience Graduate Program: About NGP",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

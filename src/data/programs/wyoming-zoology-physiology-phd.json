@@ -1,0 +1,19 @@
+{
+  "name": "Zoology and Physiology PhD",
+  "institution": "University of Wyoming",
+  "institutionShort": "Wyoming",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.uwyo.edu/zoology/students/grad-degrees/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.uwyo.edu/zoology/students/grad-degrees/index.html",
+      "label": "University of Wyoming Department of Zoology and Physiology: Graduate Degree Information",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Evolution, Ecology, and Behavior PhD",
+  "institution": "Indiana University Bloomington",
+  "institutionShort": "IU Bloomington",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bio.indiana.edu/graduate/evolution-ecology-behavior/index.html",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bio.indiana.edu/graduate/evolution-ecology-behavior/index.html",
+      "label": "Indiana University Biology: Evolution, Ecology, and Behavior graduate program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

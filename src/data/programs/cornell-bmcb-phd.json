@@ -1,0 +1,19 @@
+{
+  "name": "Biochemistry, Molecular and Cell Biology (BMCB) PhD",
+  "institution": "Cornell University",
+  "institutionShort": "Cornell",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://cals.cornell.edu/education/degrees-programs/graduate-field-biochemistry-molecular-cell-biology",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://cals.cornell.edu/education/degrees-programs/graduate-field-biochemistry-molecular-cell-biology",
+      "label": "Cornell CALS: Graduate Field of Biochemistry, Molecular and Cell Biology",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Computational Biology and Bioinformatics (CBB) PhD Program",
+  "institution": "Duke University",
+  "institutionShort": "Duke",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://medschool.duke.edu/education/biomedical-phd-programs/computational-biology-and-bioinformatics-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://medschool.duke.edu/education/biomedical-phd-programs/computational-biology-and-bioinformatics-program",
+      "label": "Duke University School of Medicine: Computational Biology and Bioinformatics Program",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

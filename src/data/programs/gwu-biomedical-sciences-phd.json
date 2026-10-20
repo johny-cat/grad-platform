@@ -1,0 +1,19 @@
+{
+  "name": "Institute for Biomedical Sciences (IBS) PhD Programs",
+  "institution": "George Washington University",
+  "institutionShort": "GW",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://ibs.smhs.gwu.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://ibs.smhs.gwu.edu/",
+      "label": "GW School of Medicine and Health Sciences: Institute for Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

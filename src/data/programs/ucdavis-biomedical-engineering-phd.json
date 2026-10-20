@@ -1,0 +1,19 @@
+{
+  "name": "Biomedical Engineering Graduate Group (PhD)",
+  "institution": "University of California, Davis",
+  "institutionShort": "UC Davis",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bmegg.ucdavis.edu/",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://bmegg.ucdavis.edu/",
+      "label": "UC Davis Biomedical Engineering Graduate Group",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Molecular and Cell Biology PhD",
+  "institution": "University of California, Berkeley",
+  "institutionShort": "UC Berkeley",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://mcb.berkeley.edu/grad/prospective-students",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://mcb.berkeley.edu/grad/prospective-students",
+      "label": "UC Berkeley Department of Molecular and Cell Biology: Prospective Graduate Students",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}

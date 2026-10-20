@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Program in Biomedical Sciences (PBMS)",
+  "institution": "Oregon Health & Science University",
+  "institutionShort": "OHSU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://www.ohsu.edu/school-of-medicine/biomedical-sciences-graduate-program",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.ohsu.edu/school-of-medicine/biomedical-sciences-graduate-program",
+      "label": "OHSU School of Medicine: Graduate Program in Biomedical Sciences",
+      "checked": "2026-10-18"
+    }
+  ],
+  "lastChecked": "2026-10-18"
+}
