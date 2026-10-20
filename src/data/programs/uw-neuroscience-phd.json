@@ -3,17 +3,114 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, Washington",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "A PhD program that draws on faculty from over 35 UW departments and partner institutes. You apply to the program, not a lab: first-year students do three lab rotations, then join a lab where the faculty member agrees and has funding.",
   "officialUrl": "https://gpneuro.uw.edu/",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-12",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "The Neuroscience Admissions page says the deadline for all 2027 applicants is November 12, 2026 (11:59 pm PT), for the Autumn 2027 cohort. The UW Graduate School's program listing shows the same date for domestic and international applicants. The application opened August 1, 2026."
+    }
+  ],
+  "timeline": {
+    "interviews": "Applicants chosen for an interview are told the week of December 14. Interviews are virtual, on February 9 to 10 or February 10 to 11, 2027, and no other dates are offered. The program tries to arrange interviews with five of the faculty you list.",
+    "decisions": "The program plans to send offers the week after the interviews (around February 17 to 19, 2027)."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.5 or higher (tests from 21 Jan 2026); 92 or higher (earlier tests)",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Needed if English isn't your native language, unless you have a qualifying degree taught in English (UW Graduate School Policy 3.2). The program requires the Graduate School's recommended score on whichever test you take. Duolingo: the Graduate School's requirements page says 125 or higher, Policy 3.2 says 130 or higher; the higher figure is shown. Scores are valid for two years."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The fee is set by the UW Graduate School and each application needs its own fee. The program has no waiver of its own, but the Graduate School has a need-based process for U.S. citizens, permanent residents and undocumented applicants (and for McNair Scholars and PPIA Fellows). Applicants who hold or expect F-1 or J-1 status aren't eligible. Ask at least seven days before the deadline, and don't pay the fee if you have asked."
+    },
+    "letters": { "min": 2 },
+    "documents": [
+      "Unofficial transcripts from every college or university attended, including any where you did not earn a degree",
+      "Resume or CV as a PDF, with all research experience, posters, presentations and publications",
+      "Short-answer responses (five questions, plus one optional)",
+      "Your research experience entered in the application (dates, employer, hours)",
+      "A ranked list of 3 to 5 interest areas",
+      "At least 5 Neuroscience faculty you would like to work with, with a reason for each"
+    ],
+    "note": "The program expects 12 months (2,080 hours) of full-time research experience by the time you apply; with less, it will still consider your application if the optional essay points to conferences, presentations or publications. Two letters must arrive by the deadline (a third is optional), and applications without both are not reviewed. The Graduate School's 3.0 GPA minimum applies. Non-matriculated applicants are not accepted."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": { "amount": 4116, "currency": "USD", "period": "month", "year": "2026-27" },
+    "note": "The program guarantees full tuition and stipend support for all entering students. It pays for the first three quarters (September 16 to June 15) while students rotate; after that the lab's PI pays, and students without a lab placement are not eligible for ongoing program support. Students are paid the Biomedical Research Departments variable-rate RA salary (Sch. 1&3), which the Graduate School lists at $4,116 a month for 2026-27. Tuition is waived (including the non-resident part) and health insurance is free for eligible students; students usually pay only student activity fees and the U-PASS. The Graduate School's listing warns that many funding sources are highly restricted by citizenship and permanent residency."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The Graduate School lists the same November 12 deadline for international applicants. Admitted students who need an F-1 or J-1 visa must show proof of financial support to the Graduate School."
+  },
   "sources": [
     {
       "url": "https://gpneuro.uw.edu/",
-      "label": "UW Graduate Program in Neuroscience",
-      "checked": "2026-10-18"
+      "label": "UW Graduate Program in Neuroscience: Home",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gpneuro.uw.edu/prospective-students/admissions/",
+      "label": "UW Graduate Program in Neuroscience: Admissions",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gpneuro.uw.edu/prospective-students/finances-and-student-support/",
+      "label": "UW Graduate Program in Neuroscience: Finances and Student Support",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gpneuro.uw.edu/prospective-students/faqs/",
+      "label": "UW Graduate Program in Neuroscience: FAQs",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-R-NEURO-00-41",
+      "label": "UW Graduate School: Find a Program, Neuroscience (PhD)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now (application fee)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/requirements/",
+      "label": "UW Graduate School: Requirements (GPA and English proficiency)",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "UW Graduate School: Policy 3.2, English Language Proficiency Requirements",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://facstaff.grad.uw.edu/wp-content/uploads/2026-27_variable-RA-salary-schedule.pdf",
+      "label": "UW Graduate School: 2026-27 Variable Rate RA Salary Schedule",
+      "checked": "2026-10-20"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-20"
 }
