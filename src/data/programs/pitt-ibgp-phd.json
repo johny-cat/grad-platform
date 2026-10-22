@@ -5,15 +5,83 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://gradbiomed.pitt.edu/",
+  "details": "checked",
+  "officialUrl": "https://www.gradbiomed.pitt.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://gradbiomed.pitt.edu/",
-      "label": "University of Pittsburgh School of Medicine: Interdisciplinary Biomedical Graduate Program",
-      "checked": "2026-10-18"
+      "url": "https://learn.hs.pitt.edu/portal/gr_app",
+      "label": "IBGP linked Graduate Application portal",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.gradbiomed.pitt.edu/",
+      "label": "IBGP home and rotations",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.gradbiomed.pitt.edu/admissions",
+      "label": "IBGP Fall 2027 admissions and funding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.gradbiomed.pitt.edu/admissions/admissions-faqs",
+      "label": "IBGP admissions FAQs",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://somgrad.pitt.edu/prospective-students/admission-process",
+      "label": "School of Medicine application requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://somgrad.pitt.edu/prospective-students/phd-programs",
+      "label": "School of Medicine PhD program directory",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "admissionModel": "program",
+  "tracks": [
+    "Cellular and Molecular Pathology",
+    "Molecular Pharmacology"
+  ],
+  "summary": "An interdisciplinary PhD entry program with first-year laboratory rotations, followed by specialization in pathology or pharmacology.",
+  "applyUrl": "https://learn.hs.pitt.edu/portal/gr_app",
+  "location": "Pittsburgh, Pennsylvania",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5 (tests after January 21, 2026); 100 (tests on or before January 21, 2026)",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "English test exemptions apply for a US degree or other approved English-instructed institutions; confirm eligibility with the program."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown"
+    },
+    "documents": [
+      "Personal statement",
+      "CV or resume",
+      "Academic records/transcripts from all post-secondary institutions; certified English translations if applicable",
+      "Letters of reference submitted electronically"
+    ],
+    "note": "School of Medicine states each program requires a minimum of 2–3 letters; confirm the IBGP count."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All full-time graduate students receive a stipend, full tuition remission, and individual health insurance. The published 2026–2027 stipend is not copied as a Fall 2027 stipend."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }
