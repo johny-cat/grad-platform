@@ -3,17 +3,114 @@
   "institution": "Duke University",
   "institutionShort": "Duke",
   "country": "US",
+  "location": "Durham, North Carolina",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "An umbrella PhD program in genetics and genomics spanning basic science and clinical departments. Students typically rotate through three or four labs.",
   "officialUrl": "https://medschool.duke.edu/education/biomedical-phd-programs/university-program-genetics-and-genomics",
+  "applyUrl": "https://gradschool.duke.edu/admissions/application-instructions/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The Graduate School explicitly lists December 1, 2026 for Fall 2027 entry, with a deadline of 11:59:59 p.m. Eastern Standard Time."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5 (tests on or after 21 Jan 2026) or 90 (earlier tests)",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "Required if your first language is not English. These are the Graduate School's usual score guidelines; admitted students average higher. Duolingo reports must include subscores. For Fall 2027, scores must be dated August 1, 2024 or later. A waiver requires at least two years of full-time study, completed before the program starts, at a college or university where English is the sole language of instruction and in a country where English is the primary spoken language. Admitted international students whose first language is not English take placement exams at matriculation, even if their test requirement was waived."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Graduate School waivers are limited, first come, first served, and normally require US citizenship or permanent residence plus the listed eligibility conditions. Its FAQ allows exceptions for DACA and undocumented applicants who meet the other conditions. Departments may have limited waivers for applicants who do not qualify; availability is not confirmed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Life Experiences Statement (maximum one page, single spaced)",
+      "Résumé",
+      "Unofficial transcripts"
+    ],
+    "note": "An undergraduate GPA calculated on a 4.0 scale is required. No writing sample is required. Although the Graduate School lists an optional video essay, UPGG says it will not view applicant videos for the 2026–2027 admissions application. UPGG does not require subject GRE scores. The Graduate School's current TOEFL guidance distinguishes tests before and from January 21, 2026; the UPGG FAQ still lists older TOEFL scales."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "note": "The Graduate School guarantees all PhD students a 12-month stipend, tuition and mandatory fees for the first five years. It covers medical and dental insurance premiums for the first six years while students are on Duke's plans. Support beyond the guaranteed period varies by program. UPGG's FAQ warns that funding for applicants who are neither US citizens nor permanent residents is extremely limited, making admission more competitive for foreign applicants. This program-specific warning is retained despite the Graduate School's general guarantee."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "UPGG discusses foreign student applications but warns that funding for applicants who are neither US citizens nor permanent residents is extremely limited."
+  },
   "sources": [
     {
       "url": "https://medschool.duke.edu/education/biomedical-phd-programs/university-program-genetics-and-genomics",
       "label": "Duke University School of Medicine: University Program in Genetics and Genomics",
-      "checked": "2026-10-18"
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/academics/programs-degrees/genetics-and-genomics/",
+      "label": "Duke Graduate School: Ph.D. in Genetics and Genomics",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://medschool.duke.edu/education/biomedical-phd-programs/university-program-genetics-and-genomics/academics/prospective",
+      "label": "Duke UPGG: How to Apply",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://medschool.duke.edu/education/biomedical-phd-programs/university-program-genetics-and-genomics/academics/prospective-0",
+      "label": "Duke UPGG: Prospective Student FAQs",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-deadlines/",
+      "label": "Duke Graduate School: Application Deadlines (Fall 2027)",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/",
+      "label": "Duke Graduate School: Application Instructions (2027 admission)",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/life-experiences-statement/",
+      "label": "Duke Graduate School: Life Experiences Statement",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/application-fee/",
+      "label": "Duke Graduate School: Application Fee",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/admissions-faqs/",
+      "label": "Duke Graduate School: Admissions FAQs",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/",
+      "label": "Duke Graduate School: English Language Proficiency Test Scores",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.duke.edu/financial-support/phd-financial-support/",
+      "label": "Duke Graduate School: Ph.D. Financial Support",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22"
 }
