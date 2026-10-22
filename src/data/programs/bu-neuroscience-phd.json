@@ -5,15 +5,74 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.bu.edu/grad/why-bu/phd-program-profiles/graduate-program-for-neuroscience/",
+  "details": "checked",
+  "officialUrl": "https://www.bu.edu/neuro/academics/graduate/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.bu.edu/grad/why-bu/phd-program-profiles/graduate-program-for-neuroscience/",
-      "label": "Boston University Graduate Education: PhD Profile for Graduate Program for Neuroscience",
-      "checked": "2026-10-18"
+      "url": "https://www.bu.edu/neuro/academics/graduate/",
+      "label": "Official program page",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bumc.bu.edu/gms/admissions/application-deadlines/",
+      "label": "GMS current deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bumc.bu.edu/gms/admissions/how-to-apply/",
+      "label": "GMS application requirements and fee",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bumc.bu.edu/gms/admissions/international-applicants/",
+      "label": "GMS English",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bumc.bu.edu/gms/admissions/application-fee-waiver/",
+      "label": "GMS waiver",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/neuro/apply/request-for-application-materials/",
+      "label": "Program application",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/neuro/academics/graduate/curriculum/",
+      "label": "Program rotations",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Application",
+      "date": "2026-12-15",
+      "note": "Current GMS Fall 2027 table supplies the deadline; the program application page still lists December 15, 2025."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.0 on the new scale starting January 2026; 100 on the old scale",
+      "ielts": 7,
+      "note": "GMS states an older-test overall range of 97\u2013100, minimum 20 each section. Safer 100 used. Confirm whether GPN accepts Duolingo."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only"
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial English transcripts",
+      "Personal statement",
+      "CV or resume"
+    ]
+  }
 }

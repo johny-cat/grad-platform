@@ -5,15 +5,90 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.bu.edu/academics/grs/departments/molecular-biology-cell-biology-biochemistry",
+  "details": "checked",
+  "officialUrl": "https://www.bu.edu/academics/grs/departments/molecular-biology-cell-biology-biochemistry/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.bu.edu/academics/grs/departments/molecular-biology-cell-biology-biochemistry",
-      "label": "Boston University Bulletin: Molecular Biology, Cell Biology & Biochemistry",
-      "checked": "2026-10-18"
+      "url": "https://www.bu.edu/academics/grs/departments/molecular-biology-cell-biology-biochemistry/",
+      "label": "Official program page",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/apply/",
+      "label": "GRS current deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/apply/application-checklist/",
+      "label": "GRS application fee",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/international-students/",
+      "label": "GRS English and funding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/",
+      "label": "GRS waiver scope",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/mcbb/apply/",
+      "label": "Program application requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/mcbb/graduate-application-fee-waiver-for-non-us-citizens/",
+      "label": "Non-US fee waiver form",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/mcbb/programs/phd/",
+      "label": "PhD rotations and funding",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Application",
+      "date": "2026-12-02",
+      "time": "23:59",
+      "timezone": "America/New_York"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.0 on the 1\u20136 scale for tests on or after January 21, 2026; 100 on the 0\u2013120 scale for earlier tests",
+      "ielts": 7,
+      "duolingo": 130
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central GRS waivers are domestic-only. The program has a non-US waiver form listing November 12, 2026 at 11:59 p.m., but it also says the Fall 2027 request deadline has passed. Confirm availability with the program before relying on it."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Personal statement or statement of purpose",
+      "CV"
+    ],
+    "note": "Include research interests and prior research experience in the statement."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Full-time PhD students admitted with full fellowship aid. Funding continues subject to satisfactory performance; no 2027\u201328 stipend amount stated."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }
