@@ -3,17 +3,146 @@
   "institution": "Princeton University",
   "institutionShort": "Princeton",
   "country": "US",
+  "location": "Princeton, New Jersey",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary PhD training combines biology with quantitative science and computation. Students complete three first-year research rotations to explore possible advisers.",
   "officialUrl": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/quantitative-and-computational-biology",
+  "applyUrl": "https://gradschool.princeton.edu/admission-onboarding/apply",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The Graduate School explicitly identifies this as the Fall 2027 entry deadline. The institute's application page calls the season 'fall 2026-27'."
+    }
+  ],
+  "timeline": {
+    "decisions": "Admission decisions are emailed from the end of January through March 15. Waitlisted applicants may receive a final decision closer to April 15."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL, IELTS or Duolingo is required if your primary language is not English, unless your undergraduate instruction was entirely in English, with the degree awarded before anticipated enrollment, or you completed at least two full-time academic years of graduate study entirely in English. The institution must certify English instruction; the graduate-study exemption must be met when the application opens. The Graduate School has no minimum score."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The Graduate School lists waivers for financial hardship, participation in specified programs, recruiting events and virtual workshops, but the pages reviewed do not explicitly confirm international applicants' eligibility. Request a waiver at least two business days before the program deadline; decisions take 2–3 business days."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Academic statement of purpose (in English, maximum 1,000 words)",
+      "Personal statement (in English, maximum 250 words)",
+      "Resume or curriculum vitae",
+      "Unofficial transcripts, including the transcript key, from each current or previous institution; official English translations for records in other languages",
+      "Fall semester grades if currently enrolled and the institution provides them; upload when available"
+    ],
+    "note": "Applicants select up to three faculty members whose research aligns with their interests. Applications go through the Graduate School; the institute and individual labs do not accept applications."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted QCB students receive tuition, a stipend and health benefits for the duration of their PhD. Princeton's funding guarantee is contingent on satisfactory academic performance. No Fall 2027 stipend amount was confirmed."
+  },
+  "international": {
+    "accepted": "unknown",
+    "note": "The program pages reviewed do not explicitly state international applicant eligibility. The Graduate School currently states that it cannot process applications from individuals located in, or ordinarily resident in, Iran; check its eligibility page for updates."
+  },
   "sources": [
     {
       "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/quantitative-and-computational-biology",
       "label": "Princeton Graduate School: Quantitative and Computational Biology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://lsi.princeton.edu/education/quantitative-computational-biology-graduate-program",
+      "label": "Princeton Lewis-Sigler Institute: Graduate Program in Quantitative and Computational Biology",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://lsi.princeton.edu/education/quantitative-computational-biology-graduate-program/how-apply",
+      "label": "Princeton Lewis-Sigler Institute: QCB How to Apply",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://lsi.princeton.edu/education/quantitative-computational-biology-graduate-program/financial-support",
+      "label": "Princeton Lewis-Sigler Institute: QCB Financial Support",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/apply",
+      "label": "Princeton Graduate School: Apply",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee",
+      "label": "Princeton Graduate School: Application Fee",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/english-proficiency",
+      "label": "Princeton Graduate School: English Proficiency",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/letters-recommendation",
+      "label": "Princeton Graduate School: Letters of Recommendation",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/academic-statement-purpose",
+      "label": "Princeton Graduate School: Academic Statement of Purpose",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/personal-statement",
+      "label": "Princeton Graduate School: Personal Statement",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/resume-curriculum-vitae",
+      "label": "Princeton Graduate School: Resume / Curriculum Vitae",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/transcripts",
+      "label": "Princeton Graduate School: Transcripts",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/financial-support/financial-support-model",
+      "label": "Princeton Graduate School: Financial Support Model",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/apply/decision-notification",
+      "label": "Princeton Graduate School: Decision Notification",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding",
+      "label": "Princeton Graduate School: Admission and Onboarding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/fall-semester-grades",
+      "label": "Princeton Graduate School: Fall Semester Grades",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare",
+      "label": "Princeton Graduate School: Prepare Your Application — Eligibility",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22"
 }
