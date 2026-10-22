@@ -9,3 +9,7 @@ Exact deadline text: “DEADLINE FOR APPLICATIONS IS DECEMBER 1.”
 Official admissions page provides an evergreen deadline without an entry year. No Fall 2027 deadline established. Requirements are accessible, but pending schema prohibits partial additions. Program JSON remains unchanged. Old about URL failed twice. Graduate School directory links the current Structural Biology, Biochemistry, and Biophysics home, which opened; School of Medicine catalog also opened, without a dated Fall 2027 deadline.
 
 Shared source checks are in _cu-anschutz-central.md. No admissions claims were added to pending JSON. No evergreen deadline assigned a year, no old-cycle stipend copied.
+
+## 2026-10-22 — pending listing link repair
+
+Reopened https://www.cuanschutz.edu/graduate-programs/structural-biology-biochemistry-biophysics/home successfully. Exact page heading: “Structural Biology, Biochemistry, and Biophysics”. Updated displayed name to include Biophysics, preserving permanent ID. Replaced inaccessible old officialUrl and source with this opened official page; updated check dates. Status remains pending because no dated Fall 2027 deadline was established. This is a listing URL/title repair, with no partial admissions fields.

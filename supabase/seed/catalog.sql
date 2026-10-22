@@ -68,7 +68,7 @@ values
   ('cu-anschutz-integrated-physiology-phd', 'Integrated Physiology PhD', 'University of Colorado Anschutz Medical Campus', 'US', 'biology', 'phd'),
   ('cu-anschutz-microbiology-phd', 'Microbiology Program (PhD)', 'University of Colorado Anschutz Medical Campus', 'US', 'biology', 'phd'),
   ('cu-anschutz-molecular-biology-phd', 'Molecular Biology Program (PhD)', 'University of Colorado Anschutz Medical Campus', 'US', 'biology', 'phd'),
-  ('cu-anschutz-structural-biology-biochemistry-phd', 'Structural Biology and Biochemistry PhD', 'University of Colorado Anschutz Medical Campus', 'US', 'biology', 'phd'),
+  ('cu-anschutz-structural-biology-biochemistry-phd', 'Structural Biology, Biochemistry, and Biophysics PhD', 'University of Colorado Anschutz Medical Campus', 'US', 'biology', 'phd'),
   ('cu-boulder-biochemistry-phd', 'Biochemistry PhD', 'University of Colorado Boulder', 'US', 'biology', 'phd'),
   ('cu-boulder-ecology-evolutionary-biology-phd', 'Ecology and Evolutionary Biology (EBIO) PhD', 'University of Colorado Boulder', 'US', 'biology', 'phd'),
   ('cu-boulder-mcdb-phd', 'Molecular, Cellular and Developmental Biology (MCDB) PhD', 'University of Colorado Boulder', 'US', 'biology', 'phd'),
