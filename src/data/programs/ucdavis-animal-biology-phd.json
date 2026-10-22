@@ -5,15 +5,88 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://animalbiology.ucdavis.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://animalbiology.ucdavis.edu/",
       "label": "UC Davis Animal Biology Graduate Group",
-      "checked": "2026-10-18"
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/program-application-deadlines",
+      "label": "2027–28 application deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/application-components",
+      "label": "Application components",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "label": "English language examinations",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers",
+      "label": "Fee waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://animalbiology.ucdavis.edu/admissions/animal-bio-ms",
+      "label": "Program admissions requirements",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "admissionModel": "lab",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "80 for exams before January 21, 2026; 4.5 out of 6.0 for exams on or after January 21, 2026",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "University minimums; programs may set higher requirements. UC Davis says to submit Duolingo only if TOEFL/IELTS options are unavailable."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$135 for U.S. applicants; $155 for international applicants. Waivers for eligible graduate preparation program participants. International applicants should confirm waiver eligibility with the program."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Transcripts",
+      "CV or resume"
+    ],
+    "letters": {
+      "min": 3
+    },
+    "note": "Expected prior coursework equivalent to systemic or animal physiology, genes and gene expression, and applied statistics."
+  },
+  "deadlines": [
+    {
+      "label": "Priority and fellowship",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Current 2027–28 Graduate Studies deadline table. "
+    },
+    {
+      "label": "General",
+      "date": "2027-01-15",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "label": "Space available",
+      "date": "2027-05-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Program says May 1; central current-cycle table says June 1. Earlier May 1 retained."
+    }
+  ]
 }

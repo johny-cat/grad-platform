@@ -6,14 +6,14 @@
   "degree": "phd",
   "field": "biology",
   "details": "pending",
-  "officialUrl": "https://www.cuanschutz.edu/graduate-programs/microbiology",
+  "officialUrl": "https://www.cuanschutz.edu/graduate-programs/microbiology/admissions",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.cuanschutz.edu/graduate-programs/microbiology",
-      "label": "CU Anschutz Graduate School: Microbiology Program",
-      "checked": "2026-10-18"
+      "url": "https://www.cuanschutz.edu/graduate-programs/microbiology/admissions",
+      "label": "CU Anschutz School of Medicine: Microbiology admissions",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22"
 }

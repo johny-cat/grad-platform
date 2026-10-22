@@ -5,15 +5,72 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://ngp.usc.edu/about-ngp/",
   "cycle": "fall-2027",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-01",
+      "note": "All required materials, including recommendation letters, must be received by the deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "International applicants must submit official TOEFL/IELTS scores unless exempt under USC policy. Central score thresholds exempt admitted students from the ISE exam; they are not stated as admission minimums."
+    },
+    "applicationFee": {
+      "amount": 120,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "USC offers waiver categories requiring approval before submission. Financial-hardship waivers are domestic-only; international applicants should confirm eligibility for other categories with the program."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement",
+      "Curriculum vitae or resume",
+      "Undergraduate and graduate transcripts",
+      "Examples of research works, if available"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students receive support during graduate training, including full tuition remission, a living stipend, health insurance and student health center fees."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://ngp.usc.edu/about-ngp/",
-      "label": "USC Neuroscience Graduate Program: About NGP",
-      "checked": "2026-10-18"
+      "label": "About USC NGP",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://ngp.usc.edu/admissions-overview/",
+      "label": "NGP Fall 2027 admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://ngp.usc.edu/faqs/",
+      "label": "NGP requirements, funding and mentor selection",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/tools-resources/fee-waivers/",
+      "label": "USC application fee waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/",
+      "label": "USC international English proficiency",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22"
 }

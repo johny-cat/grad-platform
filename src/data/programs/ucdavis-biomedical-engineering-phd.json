@@ -5,15 +5,80 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://bmegg.ucdavis.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://bmegg.ucdavis.edu/",
       "label": "UC Davis Biomedical Engineering Graduate Group",
-      "checked": "2026-10-18"
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/program-application-deadlines",
+      "label": "2027–28 application deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/application-components",
+      "label": "Application components",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "label": "English language examinations",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers",
+      "label": "Fee waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://bmegg.ucdavis.edu/application-information",
+      "label": "Program admissions requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://bmegg.ucdavis.edu/research-rotations",
+      "label": "Admission model and program information",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "80 for exams before January 21, 2026; 4.5 out of 6.0 for exams on or after January 21, 2026",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "University minimums; programs may set higher requirements. UC Davis says to submit Duolingo only if TOEFL/IELTS options are unavailable."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$135 for U.S. applicants; $155 for international applicants. Waivers for eligible graduate preparation program participants. International applicants should confirm waiver eligibility with the program."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement",
+      "Transcripts",
+      "CV or resume"
+    ],
+    "letters": {
+      "min": 3
+    },
+    "note": "All parts, including recommendations and test scores, must be received by December 15, 2026. No additional hardship fee waivers."
+  },
+  "deadlines": [
+    {
+      "label": "General and fellowship",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Current 2027–28 Graduate Studies deadline table. "
+    }
+  ]
 }

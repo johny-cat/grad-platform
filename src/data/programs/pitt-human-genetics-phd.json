@@ -5,15 +5,92 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.publichealth.pitt.edu/hugen/degree-programs",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.publichealth.pitt.edu/hugen/degree-programs",
-      "label": "University of Pittsburgh School of Public Health, Department of Human Genetics: Degree Programs",
-      "checked": "2026-10-18"
+      "label": "Human Genetics official degree programs page",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/hugen/degree-programs/doctor-philosophy-human-genetics",
+      "label": "Human Genetics PhD description and FAQ",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/hugen/admissions",
+      "label": "Human Genetics admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/admissions-aid/admission-deadlines",
+      "label": "Public Health Spring/Fall 2027 deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/admissions-aid/how-apply",
+      "label": "Public Health application instructions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/admissions-aid/fee-assistance",
+      "label": "Public Health application fees and assistance",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/admissions-aid/international-applicants",
+      "label": "Public Health international applicants",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/hugen/academics/doctor-philosophy-human-genetics/academics",
+      "label": "Human Genetics current handbook link",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.publichealth.pitt.edu/sites/default/files/assets/Hugen/handbooks/Human_Genetics_Current_Student_Handbook.pdf",
+      "label": "Linked current Human Genetics handbook: mentor selection",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "admissionModel": "program",
+  "summary": "Doctoral training in human genetics and genomics, with strengths in molecular genetics, statistical genetics and genetic epidemiology, and genetic counseling.",
+  "applyUrl": "https://www.publichealth.pitt.edu/admissions-aid/how-apply",
+  "location": "Pittsburgh, Pennsylvania",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-15",
+      "note": "The School of Public Health explicitly labels its table Spring 2027 and Fall 2027; Human Genetics PhD is December 15."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5.0 (tests on or after January 21, 2026); 100 (earlier tests)",
+      "ielts": 7.5,
+      "duolingo": 140,
+      "note": "Human Genetics departmental thresholds are higher than school-wide minimums. Exemptions are described on the international applicants page."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "SOPHAS charges $155 for the first program and $65 for each additional program. Limited SOPHAS financial-, service-, and international-based fee waivers are offered; eligibility must be confirmed. Pitt secondary coupon codes exclude PhD programs."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement",
+      "Official transcripts for all education in the United States",
+      "Course-by-course WES evaluation for education outside the United States, excluding study abroad"
+    ]
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }
