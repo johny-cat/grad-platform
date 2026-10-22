@@ -40,7 +40,7 @@ https://gradschool.duke.edu/admissions/application-instructions/application-fee/
   > As such, fee waiver requests are “first-come, first-serviced.”
 - "If you do not qualify based on the above eligibility requirements, your department of interest may have a limited number of fee waivers available for prospective applicants starting later in the fall semester."
 - "You may contact your department of interest directly to inquire about a departmental fee waiver."
-- `available` for UPGG, MCB and Neurobiology means waivers exist for eligible applicants, with the citizenship rules and uncertain departmental availability in the note. It does not assert international waiver availability. CBB is `domestic-only` because its own admissions page explicitly excludes international waivers.
+- Waivers are `domestic-only` for all four programs (safer value, docs/DATA.md; changed from `available` in review on 2026-10-22): the Graduate School's waivers are for US citizens and permanent residents, with DACA and undocumented exceptions, and departments "may have" a few more on request, which each note explains. CBB also says outright that it offers no international waivers.
 
 https://gradschool.duke.edu/admissions/admissions-faqs/
 

@@ -32,7 +32,7 @@
     "applicationFee": {
       "amount": 105,
       "currency": "USD",
-      "waiver": "available",
+      "waiver": "domestic-only",
       "note": "Graduate School waivers are limited, first come, first served, and normally require US citizenship or permanent residence plus the listed eligibility conditions. Its FAQ allows exceptions for DACA and undocumented applicants who meet the other conditions. Departments may have limited waivers for applicants who do not qualify; availability is not confirmed."
     },
     "letters": {
