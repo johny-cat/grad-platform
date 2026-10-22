@@ -5,15 +5,73 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://bme.usc.edu/academics/graduate-programs/doctor-philosophy-program",
   "cycle": "fall-2027",
-  "sources": [
+  "admissionModel": "program",
+  "deadlines": [
     {
-      "url": "https://bme.usc.edu/academics/graduate-programs/doctor-philosophy-program",
-      "label": "USC Viterbi Department of Biomedical Engineering: Doctor of Philosophy (Ph.D.) in Biomedical Engineering",
-      "checked": "2026-10-18"
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-15",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Submit the application by the deadline even if recommendation letters and test scores have not yet arrived."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "International applicants must submit English proficiency scores unless exempt. Central TOEFL/IELTS score thresholds exempt admitted students from the ISE exam; they are not stated as admission minimums."
+    },
+    "applicationFee": {
+      "amount": 120,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Fee waivers are offered for qualifying categories. Financial-hardship waivers are restricted to U.S. citizens/permanent residents. International applicants should confirm eligibility for other categories with the program."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Electronic copies of official transcripts from all colleges and universities attended; student-portal unofficial transcripts are not accepted",
+      "Personal statement",
+      "Resume or CV"
+    ],
+    "note": "Applicants should demonstrate research ability and experience."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "USC aims to fully fund doctoral students, generally with tuition, a living stipend and health benefits; the source states an aim rather than a funding guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://bme.usc.edu/academics/graduate-programs/doctor-philosophy-program/",
+      "label": "BME PhD program and rotations",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/doctoral/how-to-apply-phd/",
+      "label": "Viterbi Fall 2027 doctoral application requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/tools-resources/fee-waivers/",
+      "label": "USC application fee waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/",
+      "label": "USC international English proficiency",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://viterbigradadmission.usc.edu/doctoral/phddegrees/phd-funding-and-resources/",
+      "label": "Viterbi PhD funding resources",
+      "checked": "2026-10-22"
+    }
+  ],
+  "lastChecked": "2026-10-22"
 }
