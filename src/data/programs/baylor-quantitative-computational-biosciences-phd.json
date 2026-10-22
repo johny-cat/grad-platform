@@ -5,15 +5,88 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/quantitative-computational-biosciences",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/quantitative-computational-biosciences",
       "label": "Baylor College of Medicine: Quantitative & Computational Biosciences Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions",
+      "label": "2027 graduate admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://education.bcm.edu/GSBS/Admissions/",
+      "label": "Application portal",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/frequently-asked-questions",
+      "label": "Admissions FAQ",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/standardized-test-scores",
+      "label": "English proficiency",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/stipends-benefits",
+      "label": "Funding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/curriculum",
+      "label": "Rotations",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "admissionModel": "program",
+  "applyUrl": "https://education.bcm.edu/GSBS/Admissions/",
+  "deadlines": [
+    {
+      "label": "Early review",
+      "date": "2026-12-01"
+    },
+    {
+      "label": "Final",
+      "date": "2027-01-01",
+      "note": "The admissions page describes 2027 entry. The portal gives these explicit dates but labels the academic year 2026–27; confirm with admissions. Late applications considered if space is available."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5.0 for exams on or after January 21, 2026; 90 for earlier exams",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "University minimums; programs may require higher scores. Qualifying degrees can satisfy English proficiency, including an English-medium degree supported by a sealed/stamped registrar letter; see official testing policy."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No application fee; no waiver request is necessary."
+    },
+    "documents": [
+      "Personal statement",
+      "Research statement",
+      "Transcripts",
+      "Letters of recommendation"
+    ],
+    "note": "Submit the application by the deadline; recommendations may arrive afterward."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "PhD students receive a stipend, full tuition remission and individual health insurance. Students pay matriculation, educational resource, graduation and student services fees; international students pay an additional fee. A 2027–28 stipend amount is not stated."
+  },
+  "timeline": {
+    "interviews": "January/February",
+    "decisions": "Offers extended February/March/April; respond by the date in the offer letter."
+  }
 }
