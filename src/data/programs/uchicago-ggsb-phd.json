@@ -5,15 +5,94 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "location": "Chicago, Illinois",
+  "tracks": [
+    "Empirical Track",
+    "Computational Track"
+  ],
+  "summary": "PhD training in modern genetic analysis, genomics and systems biology. Students complete first-year laboratory rotations before selecting a thesis lab.",
   "officialUrl": "https://ggsb.uchicago.edu/program",
+  "applyUrl": "https://biosciences.uchicago.edu/admissions/how-to-apply",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application and all supporting materials",
+      "date": "2026-12-01",
+      "note": "Biosciences explicitly gives December 1, 2026 for Autumn 2027 entry, including recommendation letters."
+    }
+  ],
+  "timeline": {
+    "interviews": "Programs may invite applicants directly for interviews in January.",
+    "decisions": "Formal decision letters are sent through the admissions website in February–March."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "Tests on/after 21 January 2026: Reading and Writing at least 5, Listening at least 5.5, Speaking at least 4.5. Earlier tests: 100 overall; Reading, Writing and Listening at least 26; Speaking at least 22.",
+      "ielts": 7,
+      "note": "IELTS Academic: at least 7 in each section. Scores must be from December 1, 2024 or later. TOEFL iBT or IELTS Academic is required unless a University primary-language or education waiver applies."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Specific waiver categories are listed, with requests made after application submission through the status portal. The opened pages do not explicitly confirm international applicants' eligibility. Do not pay before the waiver decision; fees are non-refundable."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Candidate statement (maximum 2 pages)",
+      "Unofficial transcripts displaying the awarding institution's seal, from each degree-granting postsecondary institution; original-language copies with an authorized English translation when needed"
+    ],
+    "note": "GRE submission is optional. Biosciences says most programs do not consider submitted scores, and names Medical Physics and Biochemistry and Molecular Biophysics as programs that do; the opened pages do not give a separate score-consideration rule for this program."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Support includes tuition and fees and a living stipend. Support is guaranteed for the first five years subject to satisfactory progress, and is extended to degree completion in all but unusual circumstances. The published 2026–27 package is not a confirmed 2027–28 amount or benefits package."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://ggsb.uchicago.edu/program",
-      "label": "University of Chicago GGSB: Program",
-      "checked": "2026-10-18"
+      "label": "GGSB: Program",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://ggsb.uchicago.edu/page/curriculum-timeline-first-year",
+      "label": "GGSB: Curriculum and Timeline First Year",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply",
+      "label": "UChicago Biosciences: How to Apply (Autumn 2027)",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq",
+      "label": "UChicago Biosciences: Application FAQs",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/admissions/financial-support",
+      "label": "UChicago Biosciences: Financial Support",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/timeline",
+      "label": "UChicago Biosciences: Application Timeline",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uchicago.edu/admissions/apply/english-language-requirements/",
+      "label": "UChicagoGRAD: English Language Proficiency",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22"
 }

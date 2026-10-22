@@ -1,19 +1,111 @@
 {
-  "name": "PhD Programs, Pritzker School of Molecular Engineering",
+  "name": "PhD in Molecular Engineering",
   "institution": "University of Chicago",
   "institutionShort": "UChicago",
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://pme.uchicago.edu/admissions/phd-programs-admissions",
+  "details": "checked",
+  "admissionModel": "program",
+  "location": "Chicago, Illinois",
+  "tracks": [
+    "Materials and Sustainability",
+    "Immunoengineering",
+    "Quantum Engineering"
+  ],
+  "summary": "PhD research spanning immunoengineering, materials and sustainability, and quantum engineering. Students enter the program and select research advisors after admission.",
+  "officialUrl": "https://pme.uchicago.edu/academics/phd-programs/phd-molecular-engineering",
+  "applyUrl": "https://apply-pme.uchicago.edu/apply/",
   "cycle": "fall-2027",
-  "sources": [
+  "deadlines": [
     {
-      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions",
-      "label": "University of Chicago Pritzker School of Molecular Engineering: PhD Programs Admissions",
-      "checked": "2026-10-18"
+      "label": "Molecular Engineering PhD application deadline",
+      "date": "2026-11-30",
+      "time": "23:59",
+      "timezone": "America/Chicago"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "timeline": {
+    "interviews": "Interview invitations are emailed after the initial application review; interviews average 15–20 minutes.",
+    "decisions": "Molecular Engineering applicants considered by Materials for Sustainability can generally expect notification before mid-January; Immunoengineering applicants by mid-January."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL iBT or IELTS Academic is required unless the applicant qualifies for the University's primary-language or education waiver. Scores must remain valid within two years of the application deadline. The central minimum-score table is labelled for the remainder of the 2026 admission cycle, so its numerical minimums are not carried into this Fall 2027 listing."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "PME lists fee-waiver categories including financial hardship, with supporting documentation and a request after application submission. The opened pages do not explicitly confirm international applicants' eligibility."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Academic readiness, research, and interest statement",
+      "Personal statement",
+      "Transcripts from all undergraduate and graduate institutions attended",
+      "Resume"
+    ],
+    "note": "GRE general scores are not accepted. Optional GRE subject scores in Physics, Mathematics or Chemistry are accepted only when Quantum is selected as the primary research area; other Molecular Engineering applications do not accept GRE scores. Three recommendation letters are recommended. Applicants list at least two PME faculty of research interest; contacting faculty is not required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "PME describes a standard full funding package for PhD students for the duration of study while in good academic standing: tuition, living stipend, individual health-insurance premium, quarterly student-services fee, and a one-time discretionary support stipend. The opened PME page does not explicitly address international eligibility."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "University guidance states that international applicants have the same application requirements and must meet the English-proficiency policy or qualify for a waiver."
+  },
+  "sources": [
+    {
+      "url": "https://pme.uchicago.edu/academics/phd-programs/phd-molecular-engineering",
+      "label": "PME: PhD in Molecular Engineering",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/how-apply",
+      "label": "PME: How to Apply",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/faqs",
+      "label": "PME: PhD FAQs",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/phd-funding-packages-financial-aid-fellowships",
+      "label": "PME: PhD Funding Packages, Financial Aid, and Fellowships",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://apply-pme.uchicago.edu/apply/",
+      "label": "PME: Application Management",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://pme.uchicago.edu/sites/default/files/2026-01/PME_PhD_handbook_260128_0.pdf",
+      "label": "PME: PhD Graduate Handbook (28 January 2026)",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uchicago.edu/admissions/apply/english-language-requirements/",
+      "label": "UChicagoGRAD: English Language Proficiency",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uchicago.edu/admissions/apply/english-language-requirements/required-scores/",
+      "label": "UChicagoGRAD: Required Scores (labelled 2026 cycle)",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uchicago.edu/admissions/apply/guidelines-and-deadlines/",
+      "label": "UChicagoGRAD: Guidelines and Deadlines",
+      "checked": "2026-10-22"
+    }
+  ],
+  "lastChecked": "2026-10-22"
 }
