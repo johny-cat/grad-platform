@@ -21,7 +21,7 @@ Checked 2026-10-20 by opening the pages in a headless browser (Chromium) and sav
 - Duolingo: the Requirements page and the International Applicants page give a minimum of 110 and a recommended score of 125 or higher; Policy 3.2 (revised September 2026) gives a minimum of 115 and a recommended score of 130 or higher. The program files use the higher figures (115 and 130) and say so in their notes.
 - TOEFL MyBest: the Requirements page and International Applicants page list a "TOEFL MyBest" column (minimum 80, recommended 92 or higher); Policy 3.2 says "[Note: TOEFL MyBest and IELTS One Skill Retake tests scores are not admissible]". The program files do not mention MyBest.
 
-## Programs not checked
+## Programs not checked on 2026-10-20 (superseded by the 2026-10-22 check below)
 - uw-genome-sciences-phd (https://www.gs.washington.edu/academics/ph-d-program/information-for-applicants/application-instructions/) and uw-molecular-engineering-phd (https://www.moles.washington.edu/landing/phd): both sites answered with status 502 and the page text "upstream request failed" on the first try and again on one retry (2026-10-20, about 17:39 UTC). Files left unchanged.
 
 ## Page extracts
@@ -95,3 +95,63 @@ Checked 2026-10-20 by opening the pages in a headless browser (Chromium) and sav
 - Columns PREMASTER, INTERMEDIATE, CANDIDATE, each split into "Sch. 1&3" and "Sch. 2". Row: "Biomedical Research Departments* $4,116 $6,061 $4,116 $6,061 $4,116 $6,061"
 - "*BIOMEDICAL RESEARCH DEPARTMENTS (formerly Basic Sciences Departments): Biochemistry, Biological Structure, Comparative Medicine, Genome Sciences, Immunology, Biomedical Informatics & Medical Education, Microbiology, Molecular Mechanisms of Disease (M3D), Pharmacology, Physiology and Biophysics, and Interdisciplinary Programs: Molecular and Cellular Biology; Neuroscience; Biological Physics, Structure and Design"
 - "Salary rates are effective 7/1/2026–6/30/2027"
+
+
+## 2026-10-22 recheck: Genome Sciences and Molecular Engineering
+
+All pages cited in this section were reopened by this session. Prior extracts
+above are historical evidence for the previous batch, not a substitute for
+these new checks. Both formerly pending records now have current official
+Autumn 2027 deadlines and requirements.
+
+### Application and fee
+
+https://grad.uw.edu/prospective-students/how-to-apply/apply-now/
+
+- "The nonrefundable application fee is $90.00 (USD) or $75.00 for Graduate Non-Matriculated applications."
+- "Programs open for admission at different times and have varying deadlines."
+- The opened page's "Start Your Application" link supports `applyUrl`.
+
+### Waiver classification: domestic-only
+
+https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/
+
+- "Application fee waivers are available to U.S. citizens, permanent residents, and undocumented applicants who demonstrate financial need or hardship."
+- "Applicants who expect to hold or currently hold F-1 or J-1 visa status are not eligible for this fee waiver due to federal eligibility requirements."
+- "Application fee waivers are available to U.S. citizens, permanent residents, and undocumented applicants who are current or former participants in approved graduate preparation programs (e.g., McNair Scholars Program, PPIA Fellows Program)."
+- "Applicants who expect to hold or currently hold F-1 or J-1 visa status are not eligible for these fee waivers due to federal eligibility requirements."
+- "Application fee waiver requests must be made at least seven (7) days before your program’s application deadline to allow time for review."
+- "After submitting your application, do not pay the application fee if you have requested an application fee waiver."
+- The international waiver is explicitly scoped: "This fee waiver is designed for applicants pursuing a stacked graduate degree and its required graduate certificates*." No opened source establishes that these two PhDs are an approved stacked pathway, so that exception does not support `available` for either record.
+
+### English requirements and the higher recommended Duolingo score
+
+https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/
+
+- "Therefore, every applicant whose native language is not English must demonstrate English language proficiency."
+- Table, columns TOEFL iBT / Duolingo / Academic IELTS: "Minimum Required Score (ELP Not Satisfied; additional English language requirements as described in 3.2.2) | 4.0 (80 for tests taken before Jan 21, 2026) | 115 | 6.5".
+- "Recommended Score (ELP Satisfied without conditions) | 4.5 (92 for tests taken before Jan 21, 2026) | 130 or higher | 7.0 or higher". Vertical bars indicate table column boundaries; whitespace is normalized.
+- "An earned and bachelor’s, master’s, or doctoral degree (or an internationally recognized academic degree at the same level) from an accredited institution for which English was the medium of instruction." This degree route has the residency and documentation conditions stated immediately below it; the JSON notes refer to those conditions without simplifying them to an unconditional exemption.
+- "Official English Language Test Score (sent electronically to the University of Washington via testing center)."
+- "Test scores are valid for two years and must be valid on the date the application is submitted or on the date the program requests a deferral petition".
+- "An admitted applicant who scores below the Recommended level will be required to satisfactorily complete one or two UW Academic English Program (AEP) courses to meet the ELP requirement."
+- "Enrollment in any required AEP courses must begin in the student’s first quarter [Note: additional fees apply]."
+- Genome Sciences' instructions give Duolingo 120 to avoid remedial coursework; the current central policy recommends 130. The notes retain the higher recommendation and distinguish recommendations from admission minimums. Both old and new TOEFL values are taken directly from the table, not converted.
+
+### Autumn 2027 qualifying degrees
+
+https://grad.uw.edu/policies/3-1-graduate-admissions/
+
+- "[Note: The policy below on qualified bachelor’s degrees is effective beginning with the Autumn 2027 admissions cycle. The effective policy up to that point can be found at the bottom of this document]."
+- Qualifying routes include specified accredited/recognized 3- or 4-year degrees and, "With program-level approval, a 3-year baccalaureate that does not meet the above conditions but would qualify a student for admission to academic graduate programs in the country in which it was earned."
+- The Genome Sciences note does not promise eligibility for every three-year degree: it points to Policy 3.1's qualifying conditions.
+
+### Independent second check of the 2026-10-22 batch
+
+A separate reviewer compared every populated fact in the two newly checked
+records with the evidence, then reopened all 11 distinct source URLs. All
+opened successfully. The current Autumn 2027 deadlines, excluded GRE scores,
+English scales/recommendations, qualifying degree conditions, funding and
+domestic-only waiver restrictions match the evidence. Genome Sciences' February
+visit was kept in the general decision timeline rather than labelled as an
+interview. No historical stipend amount or exact deadline time was added.

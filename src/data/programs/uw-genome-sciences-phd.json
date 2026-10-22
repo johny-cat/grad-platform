@@ -3,17 +3,97 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, WA",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.gs.washington.edu/academics/ph-d-program/information-for-applicants/application-instructions/",
+  "details": "checked",
+  "admissionModel": "program",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
+  "summary": "Students join the Genome Sciences PhD program as a whole rather than a specific lab. US and international students receive the same full funding package.",
+  "officialUrl": "https://www.gs.washington.edu/academics/ph-d-program/information-for-applicants/application-instructions/",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The Graduate School lists December 1, 2026 for both domestic and international Autumn 2027 applications. The program FAQ says any time that day is fine; no precise time or time zone is stated."
+    }
+  ],
+  "timeline": {
+    "decisions": "The FAQ says applicants should have an answer by mid-January, if not sooner. Finalists for admission are invited to visit the department in February."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Selected applicants receive full funding: a tuition waiver excluding student fees, health insurance and a stipend for living expenses. US and international students receive the same package. Student fees are generally about $271 per quarter, as stated on the application page without an academic year."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The Graduate School lists an international Autumn 2027 application deadline, and the program explicitly offers international students the same funding package as US students."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.0 (80 for tests before 21 Jan 2026); recommended 4.5 (92 for earlier tests)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Graduate School Policy 3.2 requires English proficiency from non-native speakers. Its minimums are shown; recommended scores that satisfy proficiency without conditions are TOEFL 4.5 (92 for tests before January 21, 2026), IELTS 7.0 and Duolingo 130 or higher. Admitted students below the recommended level must complete one or two Academic English Program courses, with additional fees. A qualifying degree taught in English can establish proficiency subject to the policy's residency and documentation rules. Official test scores are valid for two years and must be valid when the application is submitted. The Genome Sciences application page gives a Duolingo score of 120 to avoid remedial coursework, while Policy 3.2 recommends 130 or higher; the higher current policy figure is retained here."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Graduate School financial-need and McNair/PPIA waivers cover eligible US citizens, permanent residents and undocumented applicants; applicants who hold or expect F-1 or J-1 status are excluded. Request at least seven days before the program deadline, and do not pay while a waiver is requested. The separate international waiver for approved stacked-degree pathways is not established for this PhD."
+    },
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "documents": [
+      "Personal statement (two pages)",
+      "List of 5–10 Genome Sciences faculty of interest",
+      "Résumé or CV",
+      "Unofficial transcripts",
+      "List of planned courses not yet on the transcript, if applicable"
+    ],
+    "note": "GRE scores are neither required nor considered. An outstanding fourth reference may be submitted if the recommender knows your research well. Students are admitted to the program as a whole; contacting faculty does not improve admission chances. Research experience is important. The FAQ states that three-year undergraduate degrees are allowed from Autumn 2027; qualifying degree conditions are governed by Graduate School Policy 3.1."
+  },
   "sources": [
     {
       "url": "https://www.gs.washington.edu/academics/ph-d-program/information-for-applicants/application-instructions/",
-      "label": "UW Genome Sciences PhD Program: Application Instructions",
-      "checked": "2026-10-18"
+      "label": "UW Genome Sciences: Application Instructions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.gs.washington.edu/academics/ph-d-program/information-for-applicants/frequently-asked-questions/",
+      "label": "UW Genome Sciences: Frequently Asked Questions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-Y-GENOME-00-30",
+      "label": "UW Graduate School: Genome Sciences (PhD), Autumn 2027",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-1-graduate-admissions/",
+      "label": "UW Graduate School: Policy 3.1 Graduate Admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "UW Graduate School: Policy 3.2 English Language Proficiency",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22"
 }

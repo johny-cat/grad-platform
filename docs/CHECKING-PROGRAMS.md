@@ -34,6 +34,12 @@ says it.
 - `requirements`: GRE, English tests (TOEFL as text, scores as the page
   states them, no conversion between the old and new TOEFL scales),
   application fee and its `waiver`, letters, documents
+- Fee `waiver`: `available` when an official page offers waivers without
+  limiting them to US applicants (if it doesn't say international applicants
+  qualify, the note tells them to confirm); `domestic-only` when waivers are
+  limited to US citizens and permanent residents (the site lists only
+  `available` under "fee waivers open to international applicants");
+  `unknown` only when no page mentions waivers
 - `funding`: `allFunded` only if a page says all admitted students are
   funded; `coversInternational` is `yes` only when a page says funding
   covers international students or all students

@@ -5,15 +5,81 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "location": "Chicago, Illinois",
+  "summary": "Interdisciplinary PhD at the interface of biological and physical sciences. Students complete rotations and choose two thesis mentors with different expertise.",
   "officialUrl": "https://biophysics.uchicago.edu/",
+  "applyUrl": "https://apply-psd.uchicago.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "TOEFL iBT or IELTS Academic is required unless the applicant qualifies for the University's primary-language or education waiver. Scores must remain valid within two years of the application deadline."
+    },
+    "documents": [
+      "Statement of Academic Purpose",
+      "Electronic college transcripts",
+      "Letters of recommendation"
+    ],
+    "note": "The public program admissions page does not state the application fee amount or required number of recommendation letters. The University says the fee is shown in the online application and waiver requests follow submission; international waiver eligibility is not explicitly stated on the opened pages."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Program students are guaranteed a stipend, tuition, insurance and fees for up to seven years while in good standing. The handbook does not explicitly address international funding eligibility."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The PSD application portal currently says it cannot process applications from people located in Iran, or outside Iran but ordinarily resident there, and describes exceptions and documentation requirements."
+  },
   "sources": [
     {
       "url": "https://biophysics.uchicago.edu/",
-      "label": "University of Chicago Graduate Program in Biophysical Sciences",
-      "checked": "2026-10-18"
+      "label": "UChicago: Graduate Program in Biophysical Sciences",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://biophysics.uchicago.edu/the-students/application/",
+      "label": "Biophysical Sciences: Application",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://biophysics.uchicago.edu/contact-us/",
+      "label": "Biophysical Sciences: Contact Us",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://apply-psd.uchicago.edu/apply/",
+      "label": "UChicago Physical Sciences: Application Management",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://d3qi0qp55mx5f5.cloudfront.net/biophysics/i/program/2026_Student_Handbook.pdf?mtime=1787845643",
+      "label": "Biophysical Sciences: 2026 Student Handbook",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uchicago.edu/admissions/apply/english-language-requirements/",
+      "label": "UChicagoGRAD: English Language Proficiency",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uchicago.edu/admissions/apply/guidelines-and-deadlines/",
+      "label": "UChicagoGRAD: Guidelines and Deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uchicago.edu/admissions/apply/fee-waivers/",
+      "label": "UChicagoGRAD: Fee Waivers",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22"
 }

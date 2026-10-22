@@ -205,7 +205,7 @@ values
   ('ucdavis-population-biology-phd', 'Population Biology Graduate Group (PhD)', 'University of California, Davis', 'US', 'biology', 'phd'),
   ('uchicago-biophysical-sciences-phd', 'Graduate Program in Biophysical Sciences (PhD)', 'University of Chicago', 'US', 'biology', 'phd'),
   ('uchicago-ggsb-phd', 'Genetics, Genomics and Systems Biology (GGSB) PhD', 'University of Chicago', 'US', 'biology', 'phd'),
-  ('uchicago-molecular-engineering-phd', 'PhD Programs, Pritzker School of Molecular Engineering', 'University of Chicago', 'US', 'biology', 'phd'),
+  ('uchicago-molecular-engineering-phd', 'PhD in Molecular Engineering', 'University of Chicago', 'US', 'biology', 'phd'),
   ('uchicago-neurobiology-phd', 'PhD Program in Neurobiology', 'University of Chicago', 'US', 'biology', 'phd'),
   ('uci-cellular-molecular-biosciences-phd', 'Cellular and Molecular Biosciences (CMB) Gateway Program', 'University of California, Irvine', 'US', 'biology', 'phd'),
   ('uci-mathematical-computational-systems-biology-phd', 'Mathematical, Computational and Systems Biology (MCSB) PhD', 'University of California, Irvine', 'US', 'biology', 'phd'),
