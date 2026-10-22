@@ -3,17 +3,94 @@
   "institution": "University of Washington",
   "institutionShort": "UW",
   "country": "US",
+  "location": "Seattle, WA",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.moles.washington.edu/landing/phd",
+  "details": "checked",
+  "admissionModel": "program",
+  "applyUrl": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
   "cycle": "fall-2027",
-  "sources": [
+  "summary": "An interdisciplinary PhD in engineering molecular systems for health and energy research. Students secure a lab placement after one to three rotations.",
+  "officialUrl": "https://www.moles.washington.edu/landing/phd/",
+  "deadlines": [
     {
-      "url": "https://www.moles.washington.edu/landing/phd",
-      "label": "UW Molecular Engineering and Sciences Institute: PhD Program",
-      "checked": "2026-10-18"
+      "label": "Application deadline",
+      "date": "2026-12-05",
+      "note": "The Graduate School lists December 5, 2026 for domestic and international Autumn 2027 applicants. The department admissions FAQ still labels one deadline as 2022; the current Graduate School listing is used. No time or time zone is stated."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "timeline": {
+    "decisions": "Applications are reviewed in December–January, with rolling offers in January–February. Applicants must accept or decline by April 15. The admissions timeline lists an accepted-applicant campus visit on February 26–27, 2027."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The current Graduate School program listing says funding is provided through research and/or teaching assistantships and that international and domestic students are fully funded throughout the PhD."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The department explicitly accepts international students and says funding and benefits are the same regardless of US citizenship."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.0 (80 for tests before 21 Jan 2026); recommended 4.5 (92 for earlier tests)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Graduate School Policy 3.2 requires English proficiency from non-native speakers. Its minimums are shown; recommended scores that satisfy proficiency without conditions are TOEFL 4.5 (92 for tests before January 21, 2026), IELTS 7.0 and Duolingo 130 or higher. Admitted students below the recommended level must complete one or two Academic English Program courses, with additional fees. A qualifying degree taught in English can establish proficiency subject to the policy's residency and documentation rules. Official test scores are valid for two years and must be valid when the application is submitted."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Graduate School financial-need and McNair/PPIA waivers cover eligible US citizens, permanent residents and undocumented applicants; applicants who hold or expect F-1 or J-1 status are excluded. Request at least seven days before the program deadline, and do not pay while a waiver is requested. The separate international waiver for approved stacked-degree pathways is not established for this PhD. MolE suggests contacting its advisor if resource-limited and ineligible for central waivers, but does not explicitly establish an international departmental waiver."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV or résumé",
+      "Unofficial transcripts",
+      "Statement of purpose"
+    ],
+    "note": "A BS or BA in an engineering or natural sciences discipline is required, plus at least one course in thermodynamics, statistical mechanics or physical chemistry (or comparable coverage). If taking this course during or after the application, indicate the current or future enrollment. GRE scores are not considered. The department page conflicts on late applications: its timeline says they may be considered at a disadvantage, while its FAQ says they are not accepted; meet the December 5 deadline."
+  },
+  "sources": [
+    {
+      "url": "https://www.moles.washington.edu/landing/phd/",
+      "label": "UW Molecular Engineering: PhD Program",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.moles.washington.edu/phd-program/prospective-students/",
+      "label": "UW Molecular Engineering: Prospective Students",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.moles.washington.edu/phd-program/admissions/",
+      "label": "UW Molecular Engineering: Admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://apply.grad.uw.edu/portal/prog_detail_find_a_program?progid=0-R-MOLE-00-41",
+      "label": "UW Graduate School: Molecular Engineering (PhD), Autumn 2027",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "UW Graduate School: Apply Now",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "UW Graduate School: Application Fee Waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "UW Graduate School: Policy 3.2 English Language Proficiency",
+      "checked": "2026-10-22"
+    }
+  ],
+  "lastChecked": "2026-10-22"
 }
