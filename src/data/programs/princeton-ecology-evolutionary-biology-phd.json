@@ -32,8 +32,8 @@
     "applicationFee": {
       "amount": 90,
       "currency": "USD",
-      "waiver": "unknown",
-      "note": "The Graduate School lists waivers for financial hardship, participation in specified programs, recruiting events and virtual workshops, but the pages reviewed do not explicitly confirm international applicants' eligibility. Request a waiver at least two business days before the program deadline; decisions take 2–3 business days."
+      "waiver": "available",
+      "note": "The Graduate School lists waivers for financial hardship, participation in specified programs, recruiting events and virtual workshops, but the pages reviewed do not explicitly confirm international applicants' eligibility. Request a waiver at least two business days before the program deadline; decisions take 2–3 business days. The page doesn't limit fee waivers by citizenship, so international applicants should confirm with the university that they qualify."
     },
     "letters": {
       "min": 3,

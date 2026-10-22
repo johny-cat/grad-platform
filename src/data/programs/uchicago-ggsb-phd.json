@@ -37,8 +37,8 @@
     "applicationFee": {
       "amount": 90,
       "currency": "USD",
-      "waiver": "unknown",
-      "note": "Specific waiver categories are listed, with requests made after application submission through the status portal. The opened pages do not explicitly confirm international applicants' eligibility. Do not pay before the waiver decision; fees are non-refundable."
+      "waiver": "available",
+      "note": "Specific waiver categories are listed, with requests made after application submission through the status portal. Do not pay before the waiver decision; fees are non-refundable. The page doesn't limit fee waivers by citizenship, so international applicants should confirm with the university that they qualify."
     },
     "letters": {
       "min": 3
