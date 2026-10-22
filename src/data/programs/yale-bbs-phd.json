@@ -3,7 +3,6 @@
   "institution": "Yale University",
   "institutionShort": "Yale",
   "country": "US",
-  "location": "New Haven, Connecticut",
   "degree": "phd",
   "field": "biology",
   "tracks": [
@@ -18,9 +17,9 @@
     "Translational Molecular Medicine, Pharmacology, and Physiology"
   ],
   "admissionModel": "program",
-  "summary": "One application is the gateway to 12 Yale PhD programs. You apply to one of nine Tracks; first-year students rotate through three labs and join a thesis lab toward the end of the first year.",
+  "summary": "One application is the gateway to 12 Yale PhD programs. Apply to one of nine Tracks; first-year students rotate in labs and select a thesis lab at the end of the first year.",
   "officialUrl": "https://gsas.yale.edu/programs-of-study/biological-biomedical-sciences-bbs",
-  "applyUrl": "https://apply.grad.yale.edu/apply",
+  "applyUrl": "https://apply.grad.yale.edu/apply/",
   "cycle": "fall-2027",
   "deadlines": [
     {
@@ -28,84 +27,75 @@
       "date": "2026-12-01",
       "time": "23:59",
       "timezone": "America/New_York",
-      "note": "The BBS application page gives December 1, 2026; the Graduate School's program page gives 11:59 pm Eastern."
+      "note": "The Graduate School lists December 1, 2026 and states that all application deadlines are 11:59 pm Eastern."
     }
   ],
   "timeline": {
-    "interviews": "Each Track contacts the applicants it wants to interview in December or early January. Interviewed applicants may then be invited to visit campus in February; the page still lists last season's (2026) visit dates.",
-    "decisions": "Most decisions are sent by the Graduate School between late January and early March. Admitted students decide by April 15."
+    "decisions": "Applicants are notified in February–March 2027. The reply deadline for most Fall 2027 offers is April 15, 2027."
   },
   "requirements": {
     "gre": "not-accepted",
     "english": {
-      "toefl": "5.0 (new scale) or 100 (tests before 2026)",
-      "note": "TOEFL or IELTS if your native language isn't English. There is no IELTS minimum, but an IELTS Speaking score of 7.5 or below means taking Yale's English language program in August before you start. Not needed with an undergraduate degree from a college where English is the main language of instruction, after at least three years of study there. Take the test no later than November and within 24 months of applying."
+      "note": "TOEFL iBT or IELTS Academic is required for most non-native English speakers. Exempt with an undergraduate degree taught in English and at least three years in residence. Test no later than November and within 24 months of applying. Incoming doctoral students below Yale’s teaching Speaking threshold must attend the August Summer English Language program; these teaching thresholds are not admission minimums."
     },
     "applicationFee": {
       "amount": 105,
       "currency": "USD",
       "waiver": "available",
-      "note": "US citizens, permanent residents and non-US citizens can all request a waiver, for financial hardship or programs such as the Pell Grant, AmeriCorps or Peace Corps. Request it separately, well before the deadline; a reply takes 2 to 3 business days."
+      "note": "US citizens, permanent residents and non-US citizens may request a waiver for documented financial hardship or qualifying program participation/status. Submit a separate request well before the application deadline; processing usually takes 2 to 3 business days."
     },
-    "letters": { "min": 3 },
+    "letters": {
+      "min": 3
+    },
     "documents": [
-      "Statement of academic purpose (500 to 1,000 words)",
+      "Statement of academic purpose",
       "Resume or CV",
       "Unofficial transcripts from every college attended"
     ],
-    "note": "Apply to one Track only. There is no minimum GPA, but grades in science and math courses are read carefully. You don't need to find an adviser before applying; Plant Molecular Biology applicants are strongly encouraged to contact a faculty member first. Don't send a writing sample."
+    "note": "Select the BBS Track matching your research interests. Plant Molecular Biology applicants are strongly encouraged to contact a primary faculty member before applying."
   },
   "funding": {
     "allFunded": true,
-    "coversInternational": "limited",
-    "stipend": { "amount": 53629, "currency": "USD", "period": "year", "year": "2026-27" },
-    "note": "Full tuition, free health insurance for you and your family, and discounted dental insurance, for all BBS students regardless of citizenship. Money for students who are not US citizens or permanent residents is very limited, so only a small share of international applicants can be admitted."
-  },
-  "international": {
-    "accepted": "yes",
-    "note": "Only a small percentage of international applicants are admitted, because funding for them is very limited."
+    "coversInternational": "yes",
+    "note": "The Graduate School states that every PhD student receives full tuition, a living stipend and paid health coverage. Full funding normally extends for at least five years. No Fall 2027 stipend amount is stated on the opened replacement pages."
   },
   "sources": [
     {
-      "url": "https://medicine.yale.edu/bbs/apply/",
-      "label": "Yale BBS: Application Process",
-      "checked": "2026-10-20"
+      "url": "https://apply.grad.yale.edu/apply/",
+      "label": "Yale Graduate Application Management portal",
+      "checked": "2026-10-22"
     },
     {
       "url": "https://gsas.yale.edu/programs-of-study/biological-biomedical-sciences-bbs",
-      "label": "Yale Graduate School of Arts and Sciences: Biological & Biomedical Sciences (BBS)",
-      "checked": "2026-10-20"
-    },
-    {
-      "url": "https://medicine.yale.edu/bbs/apply/requirements",
-      "label": "Yale BBS: Admissions Requirements",
-      "checked": "2026-10-20"
-    },
-    {
-      "url": "https://medicine.yale.edu/bbs/apply/faq",
-      "label": "Yale BBS: Frequently Asked Questions",
-      "checked": "2026-10-20"
-    },
-    {
-      "url": "https://medicine.yale.edu/bbs/apply/support",
-      "label": "Yale BBS: Financial Support",
-      "checked": "2026-10-20"
-    },
-    {
-      "url": "https://medicine.yale.edu/bbs/apply/application-status",
-      "label": "Yale BBS: Application Status (interviews and campus visits)",
-      "checked": "2026-10-20"
+      "label": "BBS program, Tracks and requirements",
+      "checked": "2026-10-22"
     },
     {
       "url": "https://gsas.yale.edu/admissions/phdmasters-application-process",
-      "label": "Yale Graduate School: PhD/Master's Application Process",
-      "checked": "2026-10-20"
+      "label": "Fall 2027 application and required materials",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines",
+      "label": "2026–27 application dates and deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements",
+      "label": "Standardized testing requirements",
+      "checked": "2026-10-22"
     },
     {
       "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers",
-      "label": "Yale Graduate School: Application Fees & Fee Waivers",
-      "checked": "2026-10-20"
+      "label": "Application fees and waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gsas.yale.edu/graduate-financial-support-fellowships/funding-phd-students",
+      "label": "PhD funding overview",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-20"
+  "lastChecked": "2026-10-22",
+  "details": "checked"
 }
