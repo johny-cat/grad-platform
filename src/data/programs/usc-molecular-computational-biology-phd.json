@@ -5,15 +5,53 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://dornsife.usc.edu/mcb/admissions/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://dornsife.usc.edu/mcb/admissions/",
-      "label": "USC Dornsife Molecular and Computational Biology: Admissions",
-      "checked": "2026-10-18"
+      "label": "MCB admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/",
+      "label": "USC English policy",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "English proficiency evidence required for international applicants unless exempt. USC numerical thresholds on the central page concern exemption from the ISE placement exam, not admission minimums."
+    },
+    "applicationFee": {
+      "amount": 120,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Email vhsu@usc.edu for program waiver requests; international applicants should confirm eligibility."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts",
+      "CV",
+      "Personal statement"
+    ],
+    "note": "Open Admission uses three first-year rotations. Direct Admission requires approval from the chosen research advisor before application and has no rotations."
+  },
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "Published without an admission year; confirm the applicable cycle with the program."
+    }
+  ],
+  "admissionModel": "program",
+  "international": {
+    "accepted": "yes"
+  }
 }

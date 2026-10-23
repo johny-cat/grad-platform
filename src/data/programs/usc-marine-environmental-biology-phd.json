@@ -5,15 +5,50 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://dornsife.usc.edu/meb/prospective-students/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://dornsife.usc.edu/meb/prospective-students/",
-      "label": "USC Dornsife Marine and Environmental Biology: Prospective Students",
-      "checked": "2026-10-18"
+      "label": "MEB admissions and funding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/",
+      "label": "USC English policy",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "English proficiency evidence required for international applicants unless exempt. USC numerical thresholds on the central page concern exemption from the ISE placement exam, not admission minimums."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Statement of purpose"
+    ],
+    "note": "The program states application fees can be paid by MEB; contact the program. No rotations: admitted students are assigned an initial faculty advisor."
+  },
+  "publishedDeadlines": [
+    {
+      "label": "Application and fellowship consideration",
+      "dateText": "December 1st",
+      "note": "Published without an admission year; confirm the applicable cycle with the program."
+    }
+  ],
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Support for all students throughout graduate study; admission offers include one fellowship year and at least four TA/RA years. Tuition remission, health center fee, health insurance and academic-year stipend provided."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }

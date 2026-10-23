@@ -58,7 +58,7 @@ const hasTags = intl === 'yes' || intl === 'limited' || greNotNeeded(program) ||
       </div>
     ) : (
       <div class="program-row__deadline">
-        <span class="muted small">{pending ? 'Details coming' : 'Deadline not stated'}</span>
+        <span class="muted small">{pending ? 'Details coming' : d.publishedDeadlines.length ? 'Fall 2027 date unconfirmed' : 'Deadline not stated'}</span>
       </div>
     )
   }

@@ -5,15 +5,64 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://ntp.neuroscience.wisc.edu/",
+  "details": "checked",
+  "officialUrl": "https://guide.wisc.edu/graduate/medicine-public-health-school-wide/neuroscience-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://ntp.neuroscience.wisc.edu/",
-      "label": "UW–Madison Neuroscience Training Program",
-      "checked": "2026-10-18"
+      "url": "https://guide.wisc.edu/graduate/medicine-public-health-school-wide/neuroscience-phd/",
+      "label": "UW–Madison Guide: program admissions and funding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.wisc.edu/apply/",
+      "label": "Graduate admissions, fees and fee grants",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://policy.wisc.edu/library/UW-1241",
+      "label": "Graduate School admission and English policy",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Published fall application deadline",
+      "dateText": "December 1",
+      "note": "Evergreen date in the 2026–2027 Guide; no Fall 2027 year is inferred."
+    }
+  ],
+  "deadlines": [],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5.0 for tests on or after January 21, 2026; 92 for earlier tests",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "Graduate School standards; qualifying English-language education can satisfy the requirement. Lower scores may be admitted for in-person programs with program approval and an arrival English assessment. Scores must be within two years of enrollment."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International applicants pay an additional $6 processing fee. Graduate School fee grants are restricted to U.S. citizens/permanent residents; no unrestricted program waiver offer was confirmed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Uploaded transcripts from each undergraduate and graduate institution attended, even if no degree was received; unofficial copies accepted for application",
+      "Statement of purpose describing research experience (2 pages or less)",
+      "Personal statement describing future interests and goals (2 pages or less)",
+      "Resume or CV"
+    ],
+    "note": "The Guide says late recommendation letters are not accepted and TOEFL scores must be received by December 1. It specifically refers to TOEFL; confirm acceptance of central-policy English alternatives with the program."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "The Guide describes a five-year stipend covering tuition, fees, living costs and health insurance while progress is satisfactory, but explicitly says international support is limited."
+  }
 }

@@ -83,6 +83,8 @@ export const programSchema = z
      * follow it and report results while its details wait to be checked.
      */
     details: z.enum(['checked', 'pending']).default('checked'),
+    /** Explain when available official information has no confirmed current-cycle dates. */
+    detailsNote: z.string().min(2).optional(),
     /** How students are admitted: a whole program, an individual lab, or a funded project. */
     admissionModel: z.enum(['program', 'lab', 'project']).optional(),
     summary: z.string().max(300).optional(),
@@ -91,6 +93,12 @@ export const programSchema = z
     /** The admissions cycle these details describe, e.g. "fall-2027". */
     cycle: z.string().regex(/^(fall|spring|summer|winter)-\d{4}$/),
     deadlines: z.array(deadline).default([]),
+    /** Dates as published, without assigning an unstated year or creating a countdown. */
+    publishedDeadlines: z.array(z.object({
+      label: z.string().min(2),
+      dateText: z.string().min(2),
+      note: z.string().min(2),
+    })).default([]),
     timeline: z
       .object({
         interviews: z.string().optional(),
@@ -125,8 +133,12 @@ export const programSchema = z
   })
   .strict()
   .superRefine((program, ctx) => {
+    if (program.publishedDeadlines.length > 0 && !program.detailsNote) {
+      ctx.addIssue({ code: 'custom', path: ['detailsNote'], message: 'Explain the cycle limitation for published dates' });
+    }
     if (program.details === 'checked') {
       for (const key of ['admissionModel', 'requirements'] as const) {
+        if (key === 'admissionModel' && program.detailsNote && program.publishedDeadlines.length > 0) continue;
         if (program[key] === undefined) {
           ctx.addIssue({ code: 'custom', path: [key], message: `Required once details are checked` });
         }
@@ -143,6 +155,9 @@ export const programSchema = z
     }
     if (program.deadlines.length > 0) {
       ctx.addIssue({ code: 'custom', path: ['deadlines'], message: 'Not allowed while details are pending' });
+    }
+    if (program.publishedDeadlines.length > 0 || program.detailsNote !== undefined) {
+      ctx.addIssue({ code: 'custom', path: ['publishedDeadlines'], message: 'Not allowed while details are pending' });
     }
   });
 

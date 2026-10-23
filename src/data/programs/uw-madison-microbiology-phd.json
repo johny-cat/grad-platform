@@ -5,15 +5,69 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://microbiology.wisc.edu/",
+  "details": "checked",
+  "officialUrl": "https://guide.wisc.edu/graduate/bacteriology/microbiology-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://microbiology.wisc.edu/",
-      "label": "UW–Madison Microbiology Doctoral Training Program",
-      "checked": "2026-10-18"
+      "url": "https://guide.wisc.edu/graduate/bacteriology/microbiology-phd/",
+      "label": "UW–Madison Guide: program admissions and funding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.wisc.edu/apply/",
+      "label": "Graduate admissions, fees and fee grants",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://policy.wisc.edu/library/UW-1241",
+      "label": "Graduate School admission and English policy",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://microbiology.wisc.edu/how-to-apply/",
+      "label": "MDTP admissions and waiver restrictions",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Published fall application deadline",
+      "dateText": "December 1",
+      "note": "Evergreen date in the 2026–2027 Guide; no Fall 2027 year is inferred."
+    }
+  ],
+  "deadlines": [],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.0 for tests on or after January 21, 2026; 92 for earlier tests",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "Graduate School standards; qualifying English-language education can satisfy the requirement. Lower scores may be admitted for in-person programs with program approval and an arrival English assessment. Scores must be within two years of enrollment."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International applicants pay an additional $6 processing fee. MDTP explicitly cannot provide fee waivers to international applicants; domestic financial-hardship and qualifying pipeline applicants may inquire."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement or statement of purpose",
+      "Applicant background statement",
+      "Unofficial transcripts from each college or university attended",
+      "Resume or CV"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The Guide offers funding to all program students through fellowships, traineeships and research assistantships, with continued support contingent on adequate academic/research progress."
+  }
 }

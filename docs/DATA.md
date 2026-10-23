@@ -18,6 +18,13 @@ Never rename a file once it is live; results point at the ID.
 
 ## When a page doesn't say
 
+Owner update, 2026-10-22: available official requirements and deadlines may be
+published even when Fall 2027 is not confirmed. Store older or undated deadlines
+in `publishedDeadlines` with `label`, the exact `dateText` and a qualifying
+`note`; add `detailsNote` explaining the cycle limitation. Do not assign an
+unstated year, put these dates in countdowns, or present them as Fall 2027.
+Missing admission models may be omitted for these qualified entries.
+
 Leave the field out, or use `"unknown"` where the schema asks for it. The
 site then shows "Not stated on official pages". Never fill a gap from memory
 or from a similar program.
@@ -81,6 +88,8 @@ it again and updates the date.
 | `details` | `checked` (the default) or `pending` (listed with its basics only, see above) |
 | `tracks` | Home areas or tracks inside an umbrella program, named as on its official page |
 | `deadlines[]` | `date` (YYYY-MM-DD). Add `time` and `timezone` (IANA, e.g. `America/New_York`) only when the page states a time. |
+| `publishedDeadlines[]` | Older or undated official dates: `label`, `dateText` as published, and `note` explaining the cycle limitation. Never used for countdowns. |
+| `detailsNote` | Visible qualification when official information is available but current-cycle dates are not confirmed. |
 | `requirements.gre` | `required`, `optional`, `not-required`, `not-accepted` (scores not considered), `unknown` |
 | `requirements.english.toefl` | Text, because TOEFL changed scales on 21 January 2026, e.g. `"5 (new scale) or 100 (old scale)"` |
 | `requirements.applicationFee.waiver` | `available`, `domestic-only`, `not-available`, `unknown` |

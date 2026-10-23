@@ -5,15 +5,55 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.qcb-dornsife.usc.edu/phd",
+  "details": "checked",
+  "officialUrl": "https://www.qcb-dornsife.usc.edu/application",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.qcb-dornsife.usc.edu/phd",
-      "label": "USC Dornsife Department of Quantitative and Computational Biology: Ph.D. in Computational Biology and Bioinformatics",
-      "checked": "2026-10-18"
+      "url": "https://www.qcb-dornsife.usc.edu/application",
+      "label": "CBB admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.qcb-dornsife.usc.edu/phdinfo",
+      "label": "CBB rotations",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/",
+      "label": "USC English policy",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "English proficiency evidence required for international applicants unless exempt. USC numerical thresholds on the central page concern exemption from the ISE placement exam, not admission minimums."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Statement of purpose"
+    ]
+  },
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 15th",
+      "note": "Published without an admission year; confirm the applicable cycle with the program."
+    }
+  ],
+  "admissionModel": "program",
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All students receive five years of financial support through teaching/research assistantships, including tuition remission, health center fee, health/dental insurance and an academic-year living stipend."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }

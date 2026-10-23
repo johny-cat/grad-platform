@@ -5,15 +5,56 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.bu.edu/cds-faculty/programs-admissions/bioinformatics/bioinformatics-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.bu.edu/cds-faculty/programs-admissions/bioinformatics/bioinformatics-phd/",
-      "label": "Boston University: PhD in Bioinformatics",
-      "checked": "2026-10-18"
+      "label": "Bioinformatics PhD program",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.bu.edu/cds-faculty/programs-admissions/graduate-admissions-requirements/",
+      "label": "CDS program-specific requirements",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90/120 before January 21, 2026; 4.5/6 after January 21, 2026",
+      "ielts": 7,
+      "duolingo": 130
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "unknown"
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Personal statement or statement of purpose",
+      "Resume"
+    ],
+    "note": "Program home requests three recommendations; linked CDS requirements page says two. Safer three retained; confirm the count."
+  },
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "Published without an admission year; confirm the applicable cycle with the program."
+    }
+  ],
+  "admissionModel": "program",
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted PhD students receive full tuition, health insurance, travel funding and an annual stipend starting at US $45,000; no academic year stated."
+  }
 }

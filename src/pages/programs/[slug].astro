@@ -65,6 +65,7 @@ const unknown = 'Not stated on official pages';
       <h1>{d.name}</h1>
       <p class="muted" style="margin-bottom:6px">{place}</p>
       {d.summary && <p>{d.summary}</p>}
+      {d.detailsNote && <p class="pending-note">{d.detailsNote}</p>}
       {
         d.tracks && (
           <div class="tracks">
@@ -119,7 +120,14 @@ const unknown = 'Not stated on official pages';
               </div>
             ))
           }
-          {!pending && d.deadlines.length === 0 && <p class="muted">Deadline not stated on official pages.</p>}
+          {d.publishedDeadlines.map((deadline) => (
+            <div class="deadline-box">
+              <span class="small muted">{deadline.label}</span>
+              <span class="deadline-box__date">{deadline.dateText}</span>
+              <p class="small muted" style="margin:6px 0 0">{deadline.note}</p>
+            </div>
+          ))}
+          {!pending && d.deadlines.length === 0 && d.publishedDeadlines.length === 0 && <p class="muted">Deadline not stated on official pages.</p>}
 
           <div style="margin-top:18px">
             <ProgramActions client:only="preact" slug={program.id} cycleId={cycle.id}>

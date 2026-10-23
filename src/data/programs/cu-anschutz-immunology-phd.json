@@ -5,15 +5,84 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.cuanschutz.edu/graduate-programs/immunology/about",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.cuanschutz.edu/graduate-programs/immunology/about",
-      "label": "CU Anschutz Graduate School: Immunology, About",
-      "checked": "2026-10-18"
+      "label": "Program model and student support",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.cuanschutz.edu/graduate-programs/immunology/admissions",
+      "label": "Program admissions and published deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://graduateschool.cuanschutz.edu/admissions/apply",
+      "label": "Graduate School application requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://graduateschool.cuanschutz.edu/forms-resources/access-and-belonging",
+      "label": "Graduate School fee waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.ucdenver.edu/international-admissions/apply-for-admission/graduate",
+      "label": "Linked International Admissions English requirements",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "deadlines": [],
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 1",
+      "note": "Published without an entry year; not confirmed for Fall 2027."
+    },
+    {
+      "label": "International priority deadline",
+      "dateText": "November 1",
+      "note": "Published without a year. Applications between November 1 and December 1 are considered only when all components are received and processed."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$50 domestic; $75 international. Graduate School fee waivers are offered for qualifying applicants. International applicants should confirm eligibility. Request at least one week before the final deadline."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Transcripts from all colleges and universities attended",
+      "Statement of purpose",
+      "CV; academic and non-academic experience"
+    ],
+    "english": {
+      "toefl": "79 (0–120 scale) or 4 (1–6 scale), university minimums",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "International Admissions university minimums may be superseded by program requirements. The linked central table also lists TOEFL section minima; confirm current score-scale and exemption requirements with the program."
+    },
+    "note": "Admissions lists 3–5 recommendations; the FAQ lists three. Submit at least three."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International students may apply with the understanding that they will obtain the required sponsored student visa. Confirm work-authorization and funding eligibility with the program."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "allFunded": true,
+    "note": "Accepted PhD students receive full tuition, health and dental insurance, and a published stipend of $43,000 per year. The page gives no academic year. Continued support depends on satisfactory academic and research performance; the thesis mentor assumes support after lab entry."
+  }
 }

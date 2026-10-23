@@ -5,15 +5,57 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.cellbiology.pitt.edu/cmsb",
+  "details": "checked",
+  "officialUrl": "https://www.cmsb.pitt.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.cellbiology.pitt.edu/cmsb",
-      "label": "University of Pittsburgh Department of Cell Biology: Cell Molecular and Systems Biology (CMSB) PhD Program",
-      "checked": "2026-10-18"
+      "url": "https://www.cmsb.pitt.edu/",
+      "label": "CMSB home",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://live-cmsb-pitt.pantheonsite.io/curriculum",
+      "label": "Officially linked CMSB curriculum",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://somgrad.pitt.edu/prospective-students/admission-process",
+      "label": "School of Medicine requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://somgrad.pitt.edu/prospective-students/phd-programs",
+      "label": "Program deadlines",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 for tests on or before January 21, 2026; 5 for tests after January 21, 2026",
+      "ielts": 7,
+      "duolingo": 120
+    },
+    "documents": [
+      "Personal statement",
+      "CV or resume",
+      "Academic records/transcripts from every post-secondary institution; certified English translations if needed"
+    ],
+    "note": "Central School of Medicine states a minimum of 2\u20133 letters depending on program; confirm program count."
+  },
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "Dec. 1",
+      "note": "Published without an admission year; confirm the applicable cycle with the program."
+    }
+  ],
+  "admissionModel": "program",
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "School of Medicine states PhD students receive a stipend (currently $42,230; no academic year stated), full tuition remission and individual health insurance."
+  }
 }
