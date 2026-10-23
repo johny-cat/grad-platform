@@ -2,6 +2,15 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-22
+
+- **Publish available official details when the next cycle is not confirmed.**
+  The owner explicitly authorized reusing saved official evidence and older or
+  undated published deadlines. Display the source's date text with a clear
+  Fall 2027 qualification. Do not invent a year or create a countdown from it.
+  Requirements stay visible; missing facts remain omitted. This supersedes
+  the earlier rule requiring a current deadline before publishing details.
+
 ## 2026-10-20
 
 - **A graduate school's current deadline counts even when the program's own

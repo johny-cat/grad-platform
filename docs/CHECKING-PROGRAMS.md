@@ -20,9 +20,16 @@ The main session runs `npm run build` after each university, then commits.
 
 ## What to fill in
 
-Only what official pages state for the current cycle (now Fall 2027 entry;
-deadlines fall in late 2026 or early 2027). Leave a field out when no page
-says it.
+Owner update, 2026-10-22 (supersedes the current-cycle gate below): publish
+available official information even when no Fall 2027 deadline is stated.
+Reuse saved exact evidence; reopen only missing or unclear facts. Preserve
+older years and undated month/day text in `publishedDeadlines`, qualify the
+entry with `detailsNote`, and keep these dates out of current-cycle countdowns.
+An unsupported admission model may be omitted on such qualified entries.
+
+Prefer what official pages state for the current cycle (now Fall 2027 entry).
+If unavailable, publish the official older or undated information with its
+qualification as described above. Leave a field out when no page says it.
 
 - `summary` (one or two plain sentences in our own words, max 300
   characters), `applyUrl`, `location` (only if a page states the city)
@@ -47,9 +54,11 @@ says it.
 - every page used in `sources`, with the date; `lastChecked`; then
   `"details": "checked"`
 
-Change `details` to `checked` only when there is a current deadline and the
-requirements. If no official page gives a current deadline, or a site won't
-open after one retry, leave the file as it is and say why.
+Change `details` to `checked` when the published requirements have official
+evidence. If the deadline is older or undated, use `publishedDeadlines` and
+`detailsNote` rather than treating it as a confirmed current-cycle date.
+If a source cannot be opened and no saved evidence supports a fact, leave that
+fact out and say why.
 
 Decisions that apply (`docs/DECISIONS.md`, 2026-10-20): a graduate school's
 current deadline counts when the program's page is out of date (say so in

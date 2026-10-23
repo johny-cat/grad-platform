@@ -5,15 +5,65 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://keck.usc.edu/pibbs/phd-programs",
+  "details": "checked",
+  "officialUrl": "https://keck.usc.edu/pibbs/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://keck.usc.edu/pibbs/phd-programs",
-      "label": "USC Keck School of Medicine: PhD Programs in Biomedical and Biological Sciences (PIBBS)",
-      "checked": "2026-10-18"
+      "url": "https://keck.usc.edu/pibbs/",
+      "label": "PIBBS umbrella entry",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://keck.usc.edu/pibbs/prospective-students/apply-to-pibbs/",
+      "label": "PIBBS admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/tools-resources/fee-waivers/",
+      "label": "USC fee waiver policy",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/",
+      "label": "USC English policy",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "English proficiency evidence required for international applicants unless exempt. USC numerical thresholds on the central page concern exemption from the ISE placement exam, not admission minimums."
+    },
+    "applicationFee": {
+      "amount": 120,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers offered for qualifying categories; financial-hardship waivers are domestic-only. International applicants should confirm eligibility for other categories with the program."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement (maximum 750 words)",
+      "Research statement (maximum 750 words)",
+      "Curriculum vitae or resume",
+      "Scanned official transcripts from all institutions attended"
+    ],
+    "note": "Bachelor\u2019s degree or equivalent required; research ability/experience expected. Application text still refers to six tracks while the home page lists five; no track list inferred."
+  },
+  "publishedDeadlines": [
+    {
+      "label": "Full consideration",
+      "dateText": "November 15",
+      "note": "Published without an admission year; confirm the applicable cycle with the program."
+    }
+  ],
+  "admissionModel": "program",
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Funding covers tuition, stipend and health benefits while the student remains in good academic standing. No blanket international funding guarantee inferred."
+  }
 }

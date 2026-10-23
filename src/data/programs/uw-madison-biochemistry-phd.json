@@ -5,15 +5,57 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://guide.wisc.edu/graduate/biochemistry/biochemistry-phd",
+  "details": "checked",
+  "officialUrl": "https://guide.wisc.edu/graduate/biochemistry/biochemistry-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://guide.wisc.edu/graduate/biochemistry/biochemistry-phd",
-      "label": "UW–Madison Guide: Biochemistry, PhD",
-      "checked": "2026-10-18"
+      "url": "https://guide.wisc.edu/graduate/biochemistry/biochemistry-phd/",
+      "label": "UW–Madison Guide: program admissions and funding",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://grad.wisc.edu/apply/",
+      "label": "Graduate admissions, fees and fee grants",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://policy.wisc.edu/library/UW-1241",
+      "label": "Graduate School admission and English policy",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Published fall application deadline",
+      "dateText": "December 1",
+      "note": "Evergreen date in the 2026–2027 Guide; no Fall 2027 year is inferred."
+    }
+  ],
+  "deadlines": [],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.0 for tests on or after January 21, 2026; 92 for earlier tests",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "Graduate School standards; qualifying English-language education can satisfy the requirement. Lower scores may be admitted for in-person programs with program approval and an arrival English assessment. Scores must be within two years of enrollment."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International applicants pay an additional $6 processing fee. Graduate School fee grants are restricted to U.S. citizens/permanent residents; no unrestricted program waiver offer was confirmed."
+    },
+    "letters": {
+      "min": 3
+    }
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All U.S. and international students receive a stipend and tuition remission while making satisfactory degree progress; comprehensive medical coverage is offered."
+  }
 }

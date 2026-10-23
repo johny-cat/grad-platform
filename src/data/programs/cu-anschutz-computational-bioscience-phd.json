@@ -5,15 +5,90 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.cuanschutz.edu/graduate-programs/computational-bioscience",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.cuanschutz.edu/graduate-programs/computational-bioscience",
-      "label": "CU Anschutz Graduate School: Computational Bioscience Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.cuanschutz.edu/graduate-programs/computational-bioscience/admissions",
+      "label": "Program admissions and published deadlines",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://graduateschool.cuanschutz.edu/admissions/apply",
+      "label": "Graduate School application requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://graduateschool.cuanschutz.edu/forms-resources/access-and-belonging",
+      "label": "Graduate School fee waivers",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.ucdenver.edu/international-admissions/apply-for-admission/graduate",
+      "label": "Linked International Admissions English requirements",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.cuanschutz.edu/graduate-programs/computational-bioscience/about",
+      "label": "Program model and student support",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.cuanschutz.edu/graduate-programs/computational-bioscience/curriculum",
+      "label": "Computational Bioscience first-year rotations and mentor selection",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "deadlines": [],
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 1",
+      "note": "Published without an entry year; not confirmed for Fall 2027."
+    },
+    {
+      "label": "International priority deadline",
+      "dateText": "November 1",
+      "note": "Published without a year. Applications between November 1 and December 1 are considered only when all components are received and processed."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$50 domestic; $75 international. Graduate School fee waivers are offered for qualifying applicants. International applicants should confirm eligibility. Request at least one week before the final deadline."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from all colleges and universities attended"
+    ],
+    "english": {
+      "toefl": "80 on TOEFL-iBT (program page; scale not updated)",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "International Admissions university minimums may be superseded by program requirements. The linked central table also lists TOEFL section minima; confirm current score-scale and exemption requirements with the program. The program page states at least 80 on TOEFL-iBT, while the linked central page uses 79 or 4; no conversion of the program score is inferred."
+    }
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International students may apply with the understanding that they will obtain the required sponsored student visa. Confirm work-authorization and funding eligibility with the program."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "allFunded": true,
+    "note": "Accepted PhD students receive tuition, health and dental insurance and a stipend. The admissions page lists $41,912 per year; About lists $43,000. Neither states an academic year. Lower published amount retained here; confirm current amount. Continued support depends on satisfactory progress."
+  }
 }

@@ -38,3 +38,16 @@ https://www.publichealth.pitt.edu/admissions-aid/international-applicants
 - Table columns: “Department | TOEFL (taken on or after 1/21/26) | TOEFL (taken prior to 1/21/26) | IELTS | DUOLINGO”
 - Row: “Human Genetics | 5.0 | 100 | 7.5 | 140”
 Higher departmental values used; school minimums not substituted. Exemption section present; applicants must confirm individual eligibility.
+
+
+## Available-information update 2026-10-22
+https://somgrad.pitt.edu/prospective-students/admission-process
+"A personal statement and CV/resume are required parts of the online application form."
+"You are required to include academic records/transcripts from all post-secondary institutions you have attended with degree posted (if applicable) in your online application form."
+"If your academic records/transcripts are in a language other than English, include a certified English translation."
+"Each program has specific requirements, with a minimum of 2-3 letters required."
+"Submission of standardized test scores (e.g., GRE, MCAT, DAT, PA-CAT) with your application is optional and is not required."
+TOEFL table: "100 - for tests taken on or before January 21, 2026" / "5 - for tests taken after January 21, 2026"; "IELTS | 7.0"; "DUOLINGO | 120".
+"Graduate students enrolled in PhD programs receive a stipend (currently $42,230), full tuition remission and individual health insurance"
+
+Undated stipend amount retained only as a note, not a dated stipend object.

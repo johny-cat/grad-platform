@@ -5,15 +5,58 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://pmi.pitt.edu/about",
+  "details": "checked",
+  "officialUrl": "https://www.pmi.pitt.edu/about",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://pmi.pitt.edu/about",
-      "label": "University of Pittsburgh Program in Microbiology and Immunology: About",
-      "checked": "2026-10-18"
+      "url": "https://www.pmi.pitt.edu/about",
+      "label": "PMI program",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://www.pmi.pitt.edu/admissions",
+      "label": "PMI admissions",
+      "checked": "2026-10-22"
+    },
+    {
+      "url": "https://somgrad.pitt.edu/prospective-students/admission-process",
+      "label": "School of Medicine requirements",
+      "checked": "2026-10-22"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-22",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "100 for tests on or before January 21, 2026; 5 for tests after January 21, 2026",
+      "ielts": 7,
+      "duolingo": 120
+    },
+    "documents": [
+      "Personal statement",
+      "CV or resume",
+      "Academic records/transcripts from every post-secondary institution; certified English translations if needed"
+    ],
+    "note": "Minimum GPA 3.2/4.0 or equivalent. International applicants outside the US may be interviewed by teleconference.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "Published without an admission year; confirm the applicable cycle with the program."
+    }
+  ],
+  "admissionModel": "program",
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "School of Medicine states PhD students receive a stipend (currently $42,230; no academic year stated), full tuition remission and individual health insurance."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }
