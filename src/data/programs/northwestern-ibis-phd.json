@@ -5,15 +5,81 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://ibis.northwestern.edu/about/",
   "cycle": "fall-2027",
-  "sources": [
+  "applyUrl": "https://ibis.northwestern.edu/graduate/prospective/",
+  "location": "Evanston, Illinois",
+  "summary": "Interdisciplinary biological sciences doctoral training with three first-year laboratory rotations.",
+  "admissionModel": "program",
+  "deadlines": [
     {
-      "url": "https://ibis.northwestern.edu/about/",
-      "label": "Northwestern IBiS: About the Program",
-      "checked": "2026-10-18"
+      "label": "Fall 2027 application for full financial support",
+      "date": "2026-12-01"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "4.5 on or after January 21, 2026; 90 before January 21, 2026",
+      "ielts": 7,
+      "note": "MET 61. English-instructed accredited undergraduate or graduate degree exempts TOEFL. Official scores no more than two years old at intended matriculation."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Graduate School waivers require U.S. citizenship or permanent residency and qualifying eligibility; limited and first come, first served. No additional program waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Academic statement (500–1000 words), including faculty interests",
+      "Personal statement (125–250 words)",
+      "Scanned official transcript from each postsecondary institution",
+      "Resume/CV",
+      "Research statement (1–2 pages), uploaded as Supplemental Document 1"
+    ],
+    "note": "Include research advisor recommendations."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "December 1 application deadline is for consideration for full financial support: tuition, stipend and health insurance. The admissions page does not explicitly guarantee funding for every admitted student."
+  },
+  "timeline": {
+    "interviews": "Selected applicants interview in late January and early February; top applicants visit in March.",
+    "decisions": "Offers soon after interviews; applicants without an interview receive a decision by April 15."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://ibis.northwestern.edu/graduate/prospective/",
+      "label": "IBiS Fall 2027 application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://ibis.northwestern.edu/graduate/current/",
+      "label": "IBiS rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/fee.html",
+      "label": "Graduate School application fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/test-scores.html",
+      "label": "Graduate School test scores",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/international-applicants1.html",
+      "label": "Graduate School international applicants",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }

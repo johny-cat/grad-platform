@@ -5,15 +5,90 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://www.nuin.northwestern.edu/index.html",
   "cycle": "fall-2027",
-  "sources": [
+  "applyUrl": "https://www.nuin.northwestern.edu/prospective-students/how-to-apply.html",
+  "summary": "Interdepartmental neuroscience doctoral training with at least three laboratory rotations before thesis laboratory selection.",
+  "admissionModel": "program",
+  "deadlines": [
     {
-      "url": "https://www.nuin.northwestern.edu/index.html",
-      "label": "Northwestern University Interdepartmental Neuroscience Program",
-      "checked": "2026-10-18"
+      "label": "Fall 2027 application and all materials",
+      "date": "2026-12-01",
+      "note": "Page states 11:59 p.m.; timezone not stated, so no countdown time assigned."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 after January 21, 2026",
+      "ielts": 7,
+      "note": "MET minimum 61. Duolingo and TOEFL Essentials not accepted. English-instructed accredited degree may satisfy the requirement; scores valid for two years before matriculation. See Graduate School waiver rules."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Graduate School waivers require U.S. citizenship or permanent residency and qualifying eligibility; limited and first come, first served. No additional program waivers."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Academic/research statement (1000 words maximum)",
+      "Personal statement (125–250 words), distinct from academic statement",
+      "Unofficial transcript from each postsecondary institution",
+      "Required postsubmission supplemental research survey",
+      "Resume/CV encouraged, optional"
+    ],
+    "note": "No writing sample required. Ideally at least one letter from a research supervisor. No strict GPA cutoff; solid hard-science preparation and significant laboratory research experience favored."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 47748,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025–2026"
+    },
+    "note": "All students guaranteed stipend, tuition and opt-in Northwestern student health insurance while in good standing. Full dental and vision subsidy. Published stipend explicitly 2025–26, not Fall 2027."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://www.nuin.northwestern.edu/prospective-students/how-to-apply.html",
+      "label": "NUIN Fall 2027 application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.nuin.northwestern.edu/prospective-students/curriculum-requirements/index.html",
+      "label": "NUIN rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.nuin.northwestern.edu/prospective-students/financial-support.html",
+      "label": "NUIN funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/fee.html",
+      "label": "Graduate School application fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/test-scores.html",
+      "label": "Graduate School test scores",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/international-applicants1.html",
+      "label": "Graduate School international applicants",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }
