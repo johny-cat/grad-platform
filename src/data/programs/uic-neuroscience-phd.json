@@ -5,15 +5,84 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://gpn.uic.edu/about",
+  "details": "checked",
+  "officialUrl": "https://gpn.uic.edu/apply/doctor-of-philosophy-in-neuroscience/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://gpn.uic.edu/about",
-      "label": "UIC Graduate Program in Neuroscience: About",
-      "checked": "2026-10-18"
+      "url": "https://gpn.uic.edu/about/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gpn.uic.edu/apply/application-for-admission/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gpn.uic.edu/apply/doctor-of-philosophy-in-neuroscience/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gpn.uic.edu/about/student-financial-support/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gpn.uic.edu/curriculum/phd/1st-year-curriculum/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.uic.edu/graduate-professional/requirements-deadlines/international-requirements",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.uic.edu/graduate-professional/application-process/application-fee-waivers",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://gpn.uic.edu/apply/application-for-admission/",
+  "summary": "Interdisciplinary Neuroscience PhD training across UIC research laboratories.",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1st",
+      "note": "No year stated; applications/transcripts due byDecember1."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Preset enrollment/alumni/employment/research-engagement/McNair/veteran categories; no financial-hardship waiver or deferral. Confirm international category eligibility. Additional$100 credential-evaluation fee for overseas coursework (exceptions apply)."
+    },
+    "english": {
+      "toefl": "80 oldscale;4.5 newscale (R19/4,L17/4,S20/4.5,W21/4.5)",
+      "ielts": 6.5,
+      "duolingo": 130,
+      "note": "IELTS eachsection6; DET each125, acceptedFall2027 onward. PTE54(R51,L47,S53,W56). Tests valid2years atapplication. Education/employment-based exemptions depend location/time; English-mediuminstruction alone does not waive. GPN additionallylists620paper/260computerTOEFL; confirmlegacytestacceptance."
+    },
+    "documents": [
+      "Personal statement (1–3 pages) on professional goals and neuroscience career",
+      "Uploaded academic records, degree certificates and certified English translations; official sealed credentials after admission"
+    ],
+    "note": "No bachelorfieldrestriction;GPA3.0last60semester/90quarterhours. Recommendedbiology8hours+lab,chemistry16hours+labs orbiochemistry3–4hours,physics6hours. Code20FS0323PHD. Firstyearrotations thenadvisorselectionbeforeyear2."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Guaranteed stipend with full tuition and fee waivers; amount and explicitinternationalguarantee not stated."
+  }
 }
