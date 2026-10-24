@@ -3,17 +3,66 @@
   "institution": "Cold Spring Harbor Laboratory",
   "institutionShort": "CSHL",
   "country": "US",
+  "location": "Cold Spring Harbor, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is published without a year and is not confirmed for Fall 2027. Fee waivers, English test minimum scores and whether funding covers international students are not stated on the pages checked.",
+  "admissionModel": "program",
+  "summary": "PhD at Cold Spring Harbor Laboratory's School of Biological Sciences on Long Island. The first year combines coursework and lab rotations; students then choose a research mentor. An interview is required.",
   "officialUrl": "https://www.cshl.edu/gradschool",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1",
+      "note": "The how-to-apply page says \"Applications must be submitted online by December 1.\" and that the deadline for all materials, including letters, is December 1, with no year. Not confirmed for Fall 2027; confirm with the school."
+    }
+  ],
+  "timeline": {
+    "interviews": "An interview is required for admission. Invitations are emailed by the end of January and interviews are generally held from the end of January to mid-February; the School covers travel, accommodation and meals for invited applicants."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "Students from non-English-language universities must submit TOEFL or IELTS scores; applicants whose degree was taught primarily in English do not have to. The page says there is no minimum TOEFL score. TOEFL code 9066 (department code 45)."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The page does not mention fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application",
+      "Unofficial transcripts from all undergraduate and graduate institutions attended",
+      "Personal statement of about 500 words on why you want to study at Cold Spring Harbor Laboratory",
+      "Three letters of recommendation, uploaded to the application system"
+    ],
+    "note": "There is no GRE requirement and no minimum GPA. Letters must arrive by the deadline and are not accepted afterwards. Official transcripts need not be sent with the application."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The PhD stipend is currently $50,000 per year (no year given); $55,000 or the fellowship amount, whichever is higher, for students with an external fellowship. The School pays all tuition and study fees, provides health and dental insurance, a laptop and supplies, and a $2,000 per year research allowance once a student joins a lab. The page does not say whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Students come from more than 25 countries; applicants from non-English-language universities submit TOEFL or IELTS scores."
+  },
   "sources": [
     {
       "url": "https://www.cshl.edu/gradschool",
       "label": "Cold Spring Harbor Laboratory: School of Biological Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.cshl.edu/phd-program/how-to-apply/",
+      "label": "Cold Spring Harbor Laboratory: How to apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

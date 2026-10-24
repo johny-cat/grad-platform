@@ -3,17 +3,65 @@
   "institution": "American Museum of Natural History",
   "institutionShort": "AMNH",
   "country": "US",
+  "location": "New York, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. How students are admitted is not shown: applicants need a faculty sponsor, found through contact with faculty or assigned by the school, but the page does not describe rotations or a lab-versus-program model. Stipend amount and whether funding covers international students are not stated.",
+  "summary": "PhD in comparative biology at the American Museum of Natural History's Richard Gilder Graduate School, with a 2:1 faculty-to-student ratio. Applicants are strongly encouraged to contact a faculty member before applying.",
   "officialUrl": "https://www.amnh.org/research/richard-gilder-graduate-school/academics/degrees/phd-comparative-biology",
+  "applyUrl": "https://sis.rggs.amnh.org/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-15",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The program page lists \"Deadline: December 15, 2026, 11:59 pm, ET\"."
+    }
+  ],
+  "timeline": {
+    "interviews": "Final candidates will be invited to the Richard Gilder Graduate School for interviews, whenever possible."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "100 or higher (iBT, typically 25 or more on each subsection) or 600 or higher (paper-based, typically 60 or more on each subsection)",
+      "ielts": 7,
+      "note": "TOEFL or IELTS (Academic) is required for non-native English speakers, with scores from within the past 2 years. Applicants with a degree taught in English are exempt. Scores are as the page states them, without conversion between TOEFL scales."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Request a waiver by email if the fee is a substantial financial burden; you cannot submit until it is approved. The page does not say whether international applicants qualify, so confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Bachelor of Arts or Bachelor of Science (or equivalent accredited degree)",
+      "Official transcripts from all undergraduate and graduate institutions, sent in sealed envelopes",
+      "Statement of Academic Purpose (two essays)",
+      "A faculty sponsor, through student contact or assigned by the school"
+    ],
+    "note": "The school has eliminated the GRE: it will not accept GRE scores or consider them. Letters are from instructors, research advisors or other mentors."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The page lists full tuition, stipend, research budget and health insurance among the resources, without an amount, a year, or a statement about international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Non-native English speakers submit TOEFL or IELTS scores."
+  },
   "sources": [
     {
       "url": "https://www.amnh.org/research/richard-gilder-graduate-school/academics/degrees/phd-comparative-biology",
-      "label": "American Museum of Natural History, Richard Gilder Graduate School: Comparative Biology Ph.D. Program",
-      "checked": "2026-10-18"
+      "label": "AMNH Richard Gilder Graduate School: Comparative Biology Ph.D. Program",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

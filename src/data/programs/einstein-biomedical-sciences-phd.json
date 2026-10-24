@@ -3,17 +3,73 @@
   "institution": "Albert Einstein College of Medicine",
   "institutionShort": "Einstein",
   "country": "US",
+  "location": "Bronx, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Umbrella PhD at Albert Einstein College of Medicine in the Bronx. First-year students are accepted into the Graduate Division without committing to a department or training program.",
   "officialUrl": "https://einsteinmed.edu/education/phd/phd-program/",
+  "applyUrl": "https://einsteinmed.edu/education/phd/prospective-students/admissions",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The admissions page states \"The Einstein PhD application deadline is December 1, 2026\". No time of day is given."
+    }
+  ],
+  "timeline": {
+    "interviews": "Competitive applicants are invited to a virtual interview with faculty and current graduate students. Virtual interviews take place late January to early March."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "Applicants whose native language is not English must submit an official TOEFL or IELTS score through BioMedCAS (TOEFL code B765), unless they completed a bachelor's, master's or equivalent degree at an institution where English is the only language of instruction. No minimum score is stated."
+    },
+    "applicationFee": {
+      "amount": 88,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The admissions page does not mention fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application",
+      "Personal statement (limit 1000 words)",
+      "Curriculum vitae",
+      "Official transcripts from each college or university attended, submitted through BioMedCAS",
+      "Original transcript plus certified English translation if not in English"
+    ],
+    "note": "Recommendation letters must be submitted online and should come from people with direct knowledge of your academic and scientific qualifications. The admissions page does not mention the GRE."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "All PhD and MD/PhD students receive an annual stipend and full tuition remission for all years of training; the stipend is $51,500 per year (the page gives no year). Health insurance is provided at no cost. The page does not say whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Applicants with non-English transcripts upload the original and a certified English translation."
+  },
   "sources": [
     {
       "url": "https://einsteinmed.edu/education/phd/phd-program/",
       "label": "Albert Einstein College of Medicine: PhD Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://einsteinmed.edu/education/phd/prospective-students/admissions",
+      "label": "Einstein PhD: Application instructions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://einsteinmed.edu/education/phd/phd-program/stipend.aspx",
+      "label": "Einstein PhD: Stipend and tuition",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

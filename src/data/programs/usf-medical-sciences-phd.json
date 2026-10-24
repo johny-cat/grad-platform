@@ -3,6 +3,7 @@
   "institution": "University of South Florida",
   "institutionShort": "USF",
   "country": "US",
+  "location": "Tampa, Florida",
   "degree": "phd",
   "field": "biology",
   "tracks": [
@@ -13,15 +14,76 @@
     "Neuroscience",
     "Pathology & Cell Biology"
   ],
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 priority and February 15 final deadlines are published without a year (the page says it is accepting applications for Fall 2027) and are kept as published dates. Fee waivers, English test scores and funding for international students are not stated on the pages checked.",
+  "admissionModel": "program",
+  "summary": "Umbrella PhD in medical sciences at USF Health. Applicants need not name a mentor; first-year students work in labs in various departments before choosing a concentration.",
   "officialUrl": "https://health.usf.edu/medicine/graduatestudies/phd/",
+  "applyUrl": "https://secure.visualzen.com/vzcollegeapp/usf/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Priority deadline",
+      "dateText": "December 1",
+      "note": "The page says the program is accepting applications for Fall 2027 and lists \"The Medical Sciences PhD Program priority deadline is December 1.\" with no year. Confirm the date directly."
+    },
+    {
+      "label": "Final application deadline",
+      "dateText": "February 15",
+      "note": "Listed without a year on the same page. Confirm the date directly."
+    }
+  ],
+  "timeline": {
+    "interviews": "An interview is required for admission. Invitations are sent between mid-December and mid-March.",
+    "decisions": "Interviewed students are typically told the committee's decision within 7-10 days. Admitted students have until April 15 to say whether they will attend."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "Proof of English language proficiency is required; the program page gives no test names or scores and links to USF's general admissions page."
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The page does not mention fee waivers. If you cannot pay when you submit, you can pay within 30 days."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application",
+      "Curriculum vitae or resume",
+      "Personal statement (research background, reasons for choosing the program, career goals)",
+      "Unofficial transcripts (official transcripts from all postsecondary institutions required later)",
+      "International applicants: course-by-course foreign credential evaluation from a NACES-accredited service"
+    ],
+    "note": "Recommendations should come from faculty or other professionals familiar with the applicant's academic performance."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admitted students are offered a Graduate Research Assistantship with a $37,000 annual stipend (no year given) and a 100% tuition waiver (fees not included), plus a medical insurance contribution. Support is primarily from faculty research grants. The page does not say whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International students submit the documents above plus a foreign credential evaluation."
+  },
   "sources": [
     {
       "url": "https://health.usf.edu/medicine/graduatestudies/phd/",
       "label": "USF Health Morsani College of Medicine: PhD in Medical Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://health.usf.edu/medicine/graduatestudies/phd/admissions/",
+      "label": "USF Health: PhD application process",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://health.usf.edu/medicine/graduatestudies/financial-aid/",
+      "label": "USF Health: Financial support",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

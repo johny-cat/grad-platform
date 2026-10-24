@@ -3,17 +3,65 @@
   "institution": "Wake Forest University",
   "institutionShort": "Wake Forest",
   "country": "US",
+  "location": "Winston-Salem, North Carolina",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 15 deadline is published without a year and is not confirmed for Fall 2027. The application fee amount, stipend amount and whether funding covers international students are not stated on the pages checked. The Graduate School page lists TOEFL iBT 4.5 for tests from January 21, 2026 and flags it as unusual; confirm it.",
+  "summary": "PhD in biology at Wake Forest University's Graduate School of Arts and Sciences in Winston-Salem. Many applicants arrive with an advisor chosen; others may do short rotations in the first semester.",
   "officialUrl": "https://biology.wfu.edu/graduate/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published PhD application deadline (Fall)",
+      "dateText": "December 15",
+      "note": "The program page says applications for the Ph.D. and M.S. in Biology for Fall admission are due by December 15, with no year. Not confirmed for Fall 2027; confirm with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 for exams before January 21, 2026; 4.5 for exams on or after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Graduate School minimums for international students who did not graduate from a US college or university and whose native language is not English. Scores are valid for two years."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application through the Graduate School",
+      "Personal statement (1-2 pages)",
+      "Research goals statement (1-2 pages)",
+      "CV",
+      "Unofficial transcripts (official transcripts needed before starting)",
+      "TOEFL/IELTS scores where applicable"
+    ],
+    "note": "Letters from research mentors or supervisors and upper-level instructors are preferred. One representative publication is optional. Application fee waivers are case by case and need sponsorship from a potential mentor and Graduate School approval; the Graduate School does not offer fee waivers to international applicants. The fee amount is not stated."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The page lists \"Full stipend support for Ph.D. (5 years)\" and says stipend levels are competitive (ask gradbio@wfu.edu); no amount or year is given and it does not say whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://biology.wfu.edu/graduate/",
-      "label": "Wake Forest University Department of Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Wake Forest Biology: Graduate program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.wfu.edu/admissions-application-fee-waivers-deadlines/",
+      "label": "Wake Forest Graduate School: Fee waivers and deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.wfu.edu/admissions-required-tests/",
+      "label": "Wake Forest Graduate School: GRE and English proficiency exams",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }
