@@ -5,15 +5,79 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.bioscience.utah.edu/molecular_biology/",
+  "details": "checked",
+  "officialUrl": "https://bioscience.utah.edu/molecular_biology/index.php",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.bioscience.utah.edu/molecular_biology/",
-      "label": "University of Utah Bioscience Graduate Programs: Molecular Biology",
-      "checked": "2026-10-18"
+      "url": "https://bioscience.utah.edu/molecular_biology/index.php",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://bioscience.utah.edu/prospective/guidelines.php",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.utah.edu/apply/international/english-proficiency/",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.utah.edu/apply/graduate-students/",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://bioscience.utah.edu/prospective/guidelines.php",
+  "summary": "Interdisciplinary Molecular Biology PhD training followed by thesis research in a participating department.",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Fall2027 application and recommendations",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$55 domestic; $65 international. Fall2027 domestic waiver code MBBCUTAHPHD, program-specific. No international fee waivers or faculty sponsorship; fees not refundable."
+    },
+    "english": {
+      "toefl": "80 iBT old scale or4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Official electronic scores within two years of application/payment. Qualifying citizenship/education exemptions apply; English instruction alone is insufficient. See central policy for approved countries and recency."
+    },
+    "documents": [
+      "PDF scans of official transcripts from every college/university",
+      "CV/resume",
+      "Research statement (2–3 pages): interests, goals, research experience, program/faculty fit"
+    ],
+    "note": "Only one BC/MB application per cycle; maximum three applications overall. Rank ten faculty interests and enter full-time-equivalent research months. Three signed letters on letterhead through Slate dueDecember1; up to four accepted. Science background and meaningful research competitive; coursework gaps can be remedied. Do not upload unrequested awards/publications. InterviewsJanuary–March; decisionsFebruary–March."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "For2027–28 only international applicants currently in the United States holding valid nonimmigrant status will be considered. Applicants outside the U.S. are ineligible."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 39253,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "Accepted students receive stipend, tuition waiver, health insurance and$1000startingallocation. Published stipend is2026–27, Fall2027 amount unconfirmed. Confirm continuing support conditions with Molecular Biology; Biological Chemistry-specific outside-program laboratory condition not transferred."
+  }
 }
