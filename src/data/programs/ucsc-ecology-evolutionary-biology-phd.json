@@ -6,14 +6,14 @@
   "degree": "phd",
   "field": "biology",
   "details": "pending",
-  "officialUrl": "https://eeb.ucsc.edu/academics/graduate/program-details/index.html",
+  "officialUrl": "https://catalog.ucsc.edu/en/current/general-catalog/academic-units/physical-and-biological-sciences-division/ecology-and-evolutionary-biology/ecology-and-evolutionary-biology-phd",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://eeb.ucsc.edu/academics/graduate/program-details/index.html",
-      "label": "UC Santa Cruz Ecology and Evolutionary Biology: Graduate Program Description",
-      "checked": "2026-10-18"
+      "url": "https://catalog.ucsc.edu/en/current/general-catalog/academic-units/physical-and-biological-sciences-division/ecology-and-evolutionary-biology/ecology-and-evolutionary-biology-phd",
+      "label": "Opened official2026–2027 catalog program",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }
