@@ -5,15 +5,86 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://graduateprograms.brown.edu/graduate-program/biomed-ecology-evolution-and-organismal-biology-phd",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://graduateprograms.brown.edu/graduate-program/biomed-ecology-evolution-and-organismal-biology-phd",
-      "label": "Brown University Graduate Programs: Ecology, Evolution and Organismal Biology",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://eeob.brown.edu/graduate-education/how-apply",
+      "label": "Preparation, GRE and essay requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply-mfa-or-doctoral-study-brown",
+      "label": "Graduate application materials and fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/application-fee-waivers",
+      "label": "Financial-need fee waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts",
+      "label": "English proficiency and exemptions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/financing-support/funding-guarantee",
+      "label": "Domestic and foreign doctoral support",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://apply.graduateschool.brown.edu/portal/gs_app_management",
+      "label": "Online application",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "location": "Providence, Rhode Island",
+  "applyUrl": "https://apply.graduateschool.brown.edu/portal/gs_app_management",
+  "admissionModel": "lab",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 on or after January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS 7 is a recommended minimum. Programs may require higher scores. English-medium degrees may exempt testing; applicants outside the listed countries should arrange a Registrar/Dean letter confirming English instruction."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Documented financial hardship: request through the application with an explanation and accepted financial-aid/FAFSA/CSS/unemployment/test-fee-reduction documentation. Recommended at least two weeks before deadline. International applicants should confirm documentation eligibility."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "College transcripts with certified English translations where needed",
+      "Five program questions in place of a personal statement (250–500 words each)",
+      "Graduate School community/inclusion question (330 words maximum)"
+    ],
+    "note": "At least two recommendations should be from faculty at the current or most recently attended institution. Recommenders submit online; Interfolio not accepted. Official final transcripts required before matriculation. Typical preparation: ecology, evolution, organismal/comparative biology, cell/molecular biology and biostatistics. No rigid prerequisites; deficiencies may be remedied after entry. Contact potential faculty before applying; identify one or more faculty in the essays."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Central doctoral support applies to domestic and foreign students, conditional on satisfactory academic progress; transfer-student funding may vary."
+  },
+  "detailsNote": "Official information available; the published December 1, 2025 deadline is historical and is not confirmed for Fall 2027.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (historical)",
+      "dateText": "December 1, 2025",
+      "note": "Official central program listing still shows this prior-year date; current department application page delegates dates to that listing. Confirm Fall 2027 directly."
+    }
+  ]
 }

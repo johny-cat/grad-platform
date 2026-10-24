@@ -5,15 +5,97 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://mcbgrad.brown.edu/degree-programs/phd-program",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://mcbgrad.brown.edu/degree-programs/phd-program",
-      "label": "Brown MCB Graduate Program: PhD Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateprograms.brown.edu/graduate-program/biomed-molecular-biology-cell-biology-and-biochemistry-phd",
+      "label": "Program rotations and current deadline",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://mcbgrad.brown.edu/prospective-students",
+      "label": "Fall 2027 checklist and essays",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://mcbgrad.brown.edu/prospective-students/frequently-asked-questions",
+      "label": "GRE, letters and funding clarifications",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply-mfa-or-doctoral-study-brown",
+      "label": "Graduate application materials and fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/application-fee-waivers",
+      "label": "Financial-need fee waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts",
+      "label": "English proficiency and exemptions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/financing-support/funding-guarantee",
+      "label": "Domestic and foreign doctoral support",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://apply.graduateschool.brown.edu/portal/gs_app_management",
+      "label": "Online application",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "location": "Providence, Rhode Island",
+  "applyUrl": "https://apply.graduateschool.brown.edu/portal/gs_app_management",
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 on or after January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS 7 is a recommended minimum. Programs may require higher scores. English-medium degrees may exempt testing; applicants outside the listed countries should arrange a Registrar/Dean letter confirming English instruction."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Documented financial hardship: request through the application with an explanation and accepted financial-aid/FAFSA/CSS/unemployment/test-fee-reduction documentation. Recommended at least two weeks before deadline. International applicants should confirm documentation eligibility."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "College transcripts with certified English translations where needed",
+      "Two MCB questions in place of a personal statement (250–500 words each)",
+      "One Graduate School community/inclusion question (300 words maximum)"
+    ],
+    "note": "At least two recommendations should be from faculty at the current or most recently attended institution. Recommenders submit online; Interfolio not accepted. Official final transcripts required before matriculation. Research experience and relevant coursework in cell/molecular biology, genomics, developmental biology and biochemistry evaluated. Advisor need not be identified before admission; suggest 2–3 potential advisors/research areas. FAQ has an old deadline; current prospective-students page explicitly gives Fall 2027."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Central doctoral support applies to domestic and foreign students, conditional on satisfactory academic progress; transfer-student funding may vary. MCB guarantees support for all students, including stipend, tuition and health insurance.",
+    "allFunded": true
+  },
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "Current central program listing; older department FAQ dates are not substituted."
+    }
+  ]
 }
