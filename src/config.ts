@@ -80,7 +80,7 @@ export const SIGN_IN_EMAIL_HAS_CODE = false;
  * person, not a robot, is posting. Empty switches the check off. The matching
  * secret key lives only in Supabase (Authentication, Attack Protection).
  */
-export const TURNSTILE_SITE_KEY = '';
+export const TURNSTILE_SITE_KEY = '0x4AAAAAAFkAnv8AZVEWAUgd';
 
 /** Contact address shown on the site for corrections and safety reports. */
 export const CONTACT_EMAIL = '';

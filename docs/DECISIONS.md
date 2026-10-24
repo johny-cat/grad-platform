@@ -2,6 +2,18 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-24 (later)
+
+- **No sign-up.** Junaid doesn't want visitors to register. The first time
+  someone posts, replies, reports a result or follows a program, the
+  browser quietly gets an anonymous Supabase account after Cloudflare
+  Turnstile's invisible check that a real person is there. All database
+  rules stay: posting limits, three reports hide a post, moderators block a
+  nickname. Email sign-in is optional, only to use the same account on
+  other devices; adding an email keeps the anonymous account's nickname,
+  follows and posts. Trade-off: someone blocked can come back with a new
+  browser, but must pass the robot check again.
+
 ## 2026-10-24
 
 - **Keep an unconfirmed admission model blank even when the current deadline is known.**
