@@ -3,17 +3,80 @@
   "institution": "University of Cincinnati",
   "institutionShort": "Cincinnati",
   "country": "US",
+  "location": "Cincinnati, Ohio",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The program page gives the application window as closing 12/7/26 for Summer 2027 and says the deadline is in early December each year. Fall 2027 entry is not stated, so these are shown as published dates.",
+  "admissionModel": "program",
+  "summary": "Neuroscience PhD at the University of Cincinnati College of Medicine. First-year students typically do two to four research rotations before choosing a lab.",
   "officialUrl": "https://med.uc.edu/education/neurosciencesgrad",
+  "applyUrl": "https://www.admissions.uc.edu/apply/graduate.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application window closes (labelled Summer 2027)",
+      "dateText": "12/7/26",
+      "note": "The program page says \"The Summer 2027 application window is open now and will close on 12/7/26.\" No time of day. Fall 2027 is not named."
+    },
+    {
+      "label": "Usual deadline (no year)",
+      "dateText": "early December, each year",
+      "note": "The How to Apply page says the deadline to receive a completed application is in early December each year, without a date or year."
+    }
+  ],
+  "timeline": {
+    "interviews": "Applicant interviews will be held from late January to mid-February."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "Applicants from universities whose primary language is not English must arrange for TOEFL/IELTS scores to be sent directly to UC. No minimum scores are stated on the pages read."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The page says $65 for US applicants and $70 for international applicants. It does not mention fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV",
+      "Personal statement on scientific interests and prior research experience",
+      "Transcripts (unofficial accepted at first)"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The page says competitive stipends, tuition scholarships and health insurance are provided to all admitted students. The financial page gives a $35,000 stipend rising to $36,050 on July 1, 2025, so the current amount should be confirmed. Some fellowships are for US citizens and permanent residents."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://med.uc.edu/education/neurosciencesgrad",
-      "label": "University of Cincinnati College of Medicine: Neuroscience Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.uc.edu/education/neurosciencesgrad/how-to-apply",
+      "label": "How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.uc.edu/education/neurosciencesgrad/prospective-students/financial-information",
+      "label": "Financial information",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.uc.edu/education/neurosciencesgrad/program-activities/research-rotations",
+      "label": "Research rotations",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

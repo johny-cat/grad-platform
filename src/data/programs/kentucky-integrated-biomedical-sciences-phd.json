@@ -3,17 +3,80 @@
   "institution": "University of Kentucky",
   "institutionShort": "Kentucky",
   "country": "US",
+  "location": "Lexington, Kentucky",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The program page lists \"01/01/2027 Application opens in August for the next Fall term admission\" under Application Deadlines, which does not clearly state a deadline, so it is shown as a published date. The Graduate School's latest Fall 2027 dates are also shown; programs may have earlier deadlines.",
+  "admissionModel": "program",
+  "summary": "Integrated Biomedical Sciences PhD at the University of Kentucky. Students are admitted to IBS, do lab rotations, and choose a doctoral program and mentor at the end of the first year.",
   "officialUrl": "https://academics.uky.edu/programs/doctoral/integrated-biomedical-sciences",
+  "applyUrl": "https://academics.uky.edu/apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Program page date for Fall (meaning unclear)",
+      "dateText": "01/01/2027",
+      "note": "Wording on the program page: \"01/01/2027 Application opens in August for the next Fall term admission.\" It is not clear whether this is a deadline."
+    },
+    {
+      "label": "Graduate School Fall 2027 deadline, international applicants",
+      "dateText": "April 15, 2027",
+      "note": "Graduate School wording: \"(Programs may have earlier deadlines)\"."
+    },
+    {
+      "label": "Graduate School Fall 2027 deadline, domestic applicants",
+      "dateText": "July 23, 2027",
+      "note": "Graduate School wording: \"(Programs may have earlier deadlines)\"."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 (internet-based, for exams before January 21, 2026); 4.0 for exams after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "The Graduate School also lists a TOEFL Essentials minimum of 9 on the program page. All applicants must show proof of English proficiency."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The Graduate School fee is $65 domestic and $75 international. Its page offers waivers only for US military veterans and for military spouses or dependents with eligibility documents, so international applicants should confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement on research interests and goals",
+      "CV",
+      "Names and contact information of three faculty members as recommenders"
+    ],
+    "note": "The program page does not mention the GRE; the Graduate School says it depends on the program."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The page says students are typically awarded full-tuition assistance, student health insurance and a yearly stipend. No stipend amount, year or international coverage is stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://academics.uky.edu/programs/doctoral/integrated-biomedical-sciences",
-      "label": "University of Kentucky: Doctoral Degree (PhD) in Integrated Biomedical Sciences",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradschool.uky.edu/admissions/application-process",
+      "label": "Graduate School: application process, fee, English tests",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradschool.uky.edu/admissions",
+      "label": "Graduate School: Fall 2027 deadlines",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

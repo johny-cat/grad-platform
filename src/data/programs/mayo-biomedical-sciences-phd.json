@@ -3,17 +3,86 @@
   "institution": "Mayo Clinic Graduate School of Biomedical Sciences",
   "institutionShort": "Mayo Clinic",
   "country": "US",
+  "location": "Rochester, Minnesota; Jacksonville, Florida; Phoenix/Scottsdale, Arizona",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "How students are admitted (program, track or lab) is not clearly stated on the pages read: track choice is made in the application and confirmed after admission, and rotations are not mentioned.",
+  "summary": "PhD program in Biomedical Sciences at Mayo Clinic Graduate School, on three campuses. Students apply to a track and have a guaranteed five-year internal fellowship.",
   "officialUrl": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-02",
+      "note": "The How to Apply page says applications must be received between Sept. 1 and Dec. 2 and that no updates are accepted after Dec. 2, 2026. The page says to apply for \"the following academic year\". No time is given."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interview invitations are emailed December through January; interviews are conducted January through February (time frames subject to change).",
+    "decisions": "Initial appointment letters March to April; final decisions April to May."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "Proof of English proficiency is required for international applicants who are non-native English speakers. No test or minimum score is named on the pages read."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The page says there is no application fee for applying to the Ph.D. program."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts of all courses taken at colleges or universities",
+      "Personal statement of one to two pages, single-spaced",
+      "CV or resume"
+    ],
+    "note": "Letters sent directly to the school are not accepted. Incomplete applications are not reviewed."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 42642,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "The page says the graduate school pays the stipends and fees of all graduate students, with a guaranteed five-year internal fellowship covering full tuition, stipend and benefits."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/",
-      "label": "Mayo Clinic College of Medicine and Science: Ph.D. Program overview",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/how-to-apply/",
+      "label": "How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/how-to-apply/application-timeline/",
+      "label": "Application timeline",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/how-to-apply/prerequisites-and-requirements/",
+      "label": "Prerequisites and requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://college.mayo.edu/academics/biomedical-research-training/phd-program/financial-support/",
+      "label": "Financial support",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

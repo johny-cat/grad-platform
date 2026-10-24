@@ -5,15 +5,74 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The department lists a December 1 PhD deadline without a year (its calendar mentions Fall 2026), and says Fall 2027 applications open September 1, 2026. Fall 2027 deadline year is not stated, so it is shown as a published date.",
+  "admissionModel": "program",
+  "summary": "PhD in Evolution, Ecology, and Behavior at Indiana University Bloomington. Students are admitted to the EEB program, not to an individual lab, and are promised five years of funding.",
   "officialUrl": "https://bio.indiana.edu/graduate/evolution-ecology-behavior/index.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "PhD application deadline (year not stated)",
+      "dateText": "December 1",
+      "note": "The department says recommendation letters are due by the December 1 application deadline and that Fall 2027 applications open September 1, 2026. The calendar page lists the same date next to Fall 2026. Confirm the Fall 2027 date."
+    }
+  ],
+  "timeline": {
+    "interviews": "Invited applicants attend Graduate Recruitment Weekend, with 30- to 60-minute meetings with faculty."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "These are the minimum recommended scores. Scores are valid for two years. Citizens of countries where English is the official language do not need to submit them."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The Department of Biology does not offer fee waivers or reimbursements, but the page says the Graduate School Bloomington offers some waivers. Confirm eligibility, including for international applicants."
+    },
+    "documents": [
+      "Official transcripts from all undergraduate and graduate programs attended",
+      "Personal statement of approximately 500 words",
+      "CV or resume",
+      "Official English test results, if applicable",
+      "Recommendations (contact details entered in the application)"
+    ],
+    "note": "The page does not say how many recommendation letters are needed. Individual faculty members cannot accept applicants directly; a faculty committee decides."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The EEB page says all admitted students are promised five full years of funding through fellowships, teaching and research assistantships, with health insurance and free tuition. No stipend amount is given."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://bio.indiana.edu/graduate/evolution-ecology-behavior/index.html",
-      "label": "Indiana University Biology: Evolution, Ecology, and Behavior graduate program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://bio.indiana.edu/graduate/how-to-apply/index.html",
+      "label": "Application calendar",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html",
+      "label": "PhD admissions: how to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biology.indiana.edu/graduate/evolution-ecology-behavior/steps.html",
+      "label": "EEB admissions steps",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

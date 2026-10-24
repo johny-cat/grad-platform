@@ -3,17 +3,100 @@
   "institution": "MD Anderson UTHealth Houston Graduate School of Biomedical Sciences",
   "institutionShort": "MD Anderson UTHealth GSBS",
   "country": "US",
+  "location": "Houston, Texas",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The admissions page lists PhD deadlines by applicant type without a year (its waiver request dates are in 2026), and another page says Fall 2027 applications are now available. Because the deadline page names no year, the dates are shown as published dates.",
+  "admissionModel": "program",
+  "summary": "PhD in Biomedical Sciences at the MD Anderson UTHealth Houston Graduate School. Students are admitted to the school, rotate through labs, and join one of nine PhD programs in the first year.",
   "officialUrl": "https://gsbs.uth.edu/programs/",
+  "applyUrl": "https://gsbs.uth.edu/admissions/requirements",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Domestic applicants: priority deadline (year not stated)",
+      "dateText": "November 1",
+      "note": "The admissions page lists November 1 as the priority deadline for domestic applicants (US citizens and permanent residents)."
+    },
+    {
+      "label": "Domestic applicants: final deadline (year not stated)",
+      "dateText": "December 1",
+      "note": "Materials, including letters, are due by 11:59 p.m. central time on the deadline date. No late materials are accepted."
+    },
+    {
+      "label": "International applicants: priority and final deadline (year not stated)",
+      "dateText": "November 1",
+      "note": "Listed as both the priority and final deadline for international applicants."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are required for applicants offered admission. Invitations to visitation or interview weekends are emailed between mid-December and January."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "98, or an overall minimum of 5 under the new scale",
+      "note": "Required of all international applicants unless a waiver criterion is met (for example a US degree or an English-language degree). Scores must be within two years. Applicants who do not meet the minimum are not forwarded for committee review."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers are available through pathways such as attending a Discover Biomedicine Series webinar or an undergraduate summer program. The page lists a PhD waiver request date of October 25, 2026 that includes international applicants. A fee waiver must be granted before the application is submitted."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts from all colleges or universities attended",
+      "Curriculum vitae or resume",
+      "One-page personal statement",
+      "One-page research statement",
+      "WES or ECE course-by-course evaluation for study outside the US"
+    ],
+    "note": "The FAQ says the GRE is neither required nor recommended. A one-page resilience essay is optional."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 41500,
+      "currency": "USD",
+      "period": "year",
+      "year": "Fall 2026"
+    },
+    "note": "The page says Graduate Research Assistantships are provided to all PhD students, with tuition and required fees paid and health insurance benefits. The FAQ says international students must be registered full-time."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://gsbs.uth.edu/programs/",
-      "label": "MD Anderson UTHealth Houston Graduate School of Biomedical Sciences: Programs",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsbs.uth.edu/admissions/requirements",
+      "label": "Requirements and instructions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsbs.uth.edu/admissions/admissions-and-deadlines",
+      "label": "Admissions overview and deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsbs.uth.edu/admissions/financial-assistance",
+      "label": "Financial assistance",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsbs.uth.edu/admissions/faqs",
+      "label": "Admissions FAQ",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }
