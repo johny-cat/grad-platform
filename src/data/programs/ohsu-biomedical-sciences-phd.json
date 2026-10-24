@@ -5,15 +5,60 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information is available, but the admissions page still describes the Fall 2024 cycle, so its dates are historical and Fall 2027 is not confirmed. The page does not answer its own GRE question, so GRE is marked unknown; it states no funding or admission-model details.",
+  "summary": "OHSU's Program in Biomedical Sciences is described on its official page as a newer offering that lets students move across disciplines.",
   "officialUrl": "https://www.ohsu.edu/school-of-medicine/biomedical-sciences-graduate-program",
+  "applyUrl": "https://www.ohsu.edu/school-of-medicine/biomedical-sciences-graduate-program/admissions",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application close (Fall 2024 cycle)",
+      "dateText": "November 27, 2023",
+      "note": "Page text: Applications for Fall 2024 will close on November 27, 2023. Historical; confirm Fall 2027 directly."
+    },
+    {
+      "label": "Supplemental materials (Fall 2024 cycle)",
+      "dateText": "December 1, 2023",
+      "note": "Page text: supplemental materials will be accepted until December 1, 2023. Historical; confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "above 80 (iBT) or 550 (paper-based)",
+      "note": "Required for international applicants whose native language is not English; an admitted applicant is expected to have a TOEFL score above 80 (iBT), 550 (paper-based), or an IELTS score above 6.5. Tests are waived for applicants with a degree from a US or other native English-speaking institution."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The school provides a limited number of fee waivers each academic year, based on funding availability and not guaranteed. Requests go to Graduate Studies at least 5 days before you submit. The page does not say whether international applicants qualify, so confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts from all colleges or universities attended",
+      "Curriculum vitae or résumé",
+      "Official transcripts only after admission"
+    ],
+    "note": "A credential evaluation (WES ICAP) may be required later at the applicant's expense for degrees from outside the US."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.ohsu.edu/school-of-medicine/biomedical-sciences-graduate-program",
       "label": "OHSU School of Medicine: Graduate Program in Biomedical Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.ohsu.edu/school-of-medicine/biomedical-sciences-graduate-program/admissions",
+      "label": "OHSU Biomedical Sciences Graduate Program: Admissions",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

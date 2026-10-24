@@ -5,15 +5,54 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The program page still describes the Fall 2025 cycle (December 1, 2024), so Fall 2027 is not confirmed. How students are admitted is mixed: admission is based in part on lab position availability and the page also mentions rotations, so no admission model is set. Funding is not stated.",
+  "summary": "PhD in physiology and neurobiology at the University of Connecticut. Admission depends in part on lab position availability.",
   "officialUrl": "https://pnb.uconn.edu/graduate-programs/graduate-application-and-admission-information",
+  "applyUrl": "https://pnb.uconn.edu/graduate-programs/graduate-application-and-admission-information",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Main-group applicant deadline (Fall 2025 cycle)",
+      "dateText": "December 1st, 2024",
+      "note": "Page text: apply by December 1st, 2024 for consideration in the main group of applicants; later applications are reviewed on a rolling basis. Historical; confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 (old scale) or 4.5 (new scale)",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "UConn Graduate School minimums, which apply to applicants whose primary language is not English, regardless of visa status; PTE 60 is also accepted."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The program page says fee waivers are available if you attend one of the PNB Grad Recruitment Events. The Graduate School says the fee may be waived in some circumstances. The pages do not limit waivers to US applicants."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from all colleges and universities previously attended",
+      "Personal statement of 1.5 to 3 pages answering the program's questions",
+      "Résumé or CV is optional"
+    ],
+    "note": "Recommendation letters should be on the official letterhead of the recommender's institution."
+  },
   "sources": [
     {
       "url": "https://pnb.uconn.edu/graduate-programs/graduate-application-and-admission-information",
       "label": "UConn Physiology and Neurobiology: Graduate Application and Admission Information",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.uconn.edu/admissions/requirements/",
+      "label": "UConn Graduate School: Admission requirements",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

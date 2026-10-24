@@ -5,15 +5,61 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The program's apply page gives its deadline as 'December, 16th 2027!' which cannot be a Fall 2027 entry deadline, so it is published as written and not used as a date. The fee amount, funding and admission model are not stated on the pages checked. Applicants apply through the Biochemistry and Molecular Biology degree choice.",
+  "summary": "Interdisciplinary quantitative biosciences PhD at UC Santa Barbara. Applicants should have strong backgrounds in biochemistry, biology, chemistry, engineering or physics.",
   "officialUrl": "https://www.graddiv.ucsb.edu/graduate-programs/departments/interdisciplinary-program-quantitative-biosciences",
+  "applyUrl": "https://iqb.ucsb.edu/apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline (as published)",
+      "dateText": "December, 16th 2027!",
+      "note": "Exact text from the IQB apply page; it does not match the Fall 2027 entry cycle, so it is not used for countdowns. Confirm the real date with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "4.0 minimum for exams taken on or after January 21, 2026; 80 for exams taken before that date",
+      "note": "Required for international students from non-English-speaking countries, except those with a bachelor's degree from an accredited US institution where English is the principal language. The Graduate Division also names IELTS and the Duolingo English Test as accepted tests; no minimums are stated for them."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal achievements and contributions statement",
+      "Résumé or CV",
+      "Official transcript"
+    ],
+    "note": "The IQB page says GRE scores are not required for the 2027 admission cycle. To apply you must choose the Biochemistry and Molecular Biology degree in the application. Applicants pay a fee with the electronic application; the amount is not stated. The Graduate Division asks fee waiver requests to be made at least one week before the deadline."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.graddiv.ucsb.edu/graduate-programs/departments/interdisciplinary-program-quantitative-biosciences",
       "label": "UC Santa Barbara Graduate Division: Interdisciplinary Program in Quantitative Biosciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://iqb.ucsb.edu/apply",
+      "label": "IQB UCSB: Apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.graddiv.ucsb.edu/admissions/application-and-admission-checklist",
+      "label": "UCSB Graduate Division: Application and admission checklist",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.graddiv.ucsb.edu/admissions/international-applicants",
+      "label": "UCSB Graduate Division: International applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

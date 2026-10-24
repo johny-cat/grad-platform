@@ -5,15 +5,60 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Priority and rolling dates are published without a year, so they are not confirmed for Fall 2027. The Biophysics page does not state a GRE policy or how students are admitted, and the College of Science application page does not list Biophysics by name, so its general PhD requirements are used.",
+  "summary": "PhD in biophysics at Northeastern's College of Science. Students do lab rotations with faculty across departments and receive tuition, a stipended assistantship and health insurance.",
   "officialUrl": "https://cos.northeastern.edu/biophysics-phd",
+  "applyUrl": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Priority deadline (fall)",
+      "dateText": "December 1",
+      "note": "Published without a year on the program page and the College of Science how-to-apply page. Confirm the Fall 2027 date."
+    },
+    {
+      "label": "Rolling admissions (fall)",
+      "dateText": "March 15",
+      "note": "Published without a year. The how-to-apply page says to check with the department to see if there is availability."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "Proof of English proficiency is required for all applicants and programs: a degree earned or in progress at a US institution, or official TOEFL iBT, IELTS, PTE or Duolingo English Test scores. Scores are valid for 2 years from the test date. No minimum scores are stated."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The College of Science page lists a $100 fee for PhD applicants and does not mention waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement",
+      "Résumé",
+      "Unofficial transcripts from all institutions attended"
+    ],
+    "note": "These are the College of Science's PhD requirements; its page does not list Biophysics separately. The page lists GRE policies for other PhD programs but not Biophysics."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The program page says that for the duration of their program, students receive a full tuition scholarship, a graduate assistant position with stipend, and health insurance. No amount or year is stated."
+  },
   "sources": [
     {
       "url": "https://cos.northeastern.edu/biophysics-phd",
       "label": "Northeastern College of Science: Biophysics PhD Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/",
+      "label": "Northeastern College of Science: How to apply (graduate)",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

@@ -3,17 +3,64 @@
   "institution": "Montana State University",
   "institutionShort": "Montana State",
   "country": "US",
+  "location": "Bozeman, Montana",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official pages do not state an application deadline for this program (the Graduate School says it practises rolling admissions and departments may add deadlines), a letter count, or how students are admitted, so those are left out.",
+  "summary": "PhD in microbiology and cell biology at Montana State University. The program page says no GRE is required.",
   "officialUrl": "https://www.montana.edu/academics/microbiology-cell-biology-graduate/",
+  "applyUrl": "https://www.montana.edu/gradschool/admissions/apply.html",
   "cycle": "fall-2027",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 (iBT)",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Graduate School minimums; many departments set higher scores, especially for applicants with assistantship funding. Pearson PTE is not accepted. Not required if you earned a bachelor's, master's or doctorate in the US or in a listed English-speaking country."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The Graduate School says the application fee will not be waived, deferred or refunded for any reason."
+    },
+    "documents": [
+      "Official transcripts to the Graduate School",
+      "Recommendation letters requested through the online application (number not stated)"
+    ],
+    "note": "Each admitting department sets its own application process and deadlines."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The Graduate School's how-to-apply page says assistantships are almost always part of the offer for research degrees, and to see the program website to be sure. The program page states no stipend amount."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applications must be complete at least 100 days before the start of the term."
+  },
   "sources": [
     {
       "url": "https://www.montana.edu/academics/microbiology-cell-biology-graduate/",
-      "label": "Montana State University: Microbiology and Cell Biology (Graduate)",
-      "checked": "2026-10-18"
+      "label": "Montana State: Microbiology and Cell Biology (Graduate)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.montana.edu/gradschool/admissions/apply.html",
+      "label": "Montana State Graduate School: Apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.montana.edu/gradschool/admissions/howtoapply.html",
+      "label": "Montana State Graduate School: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.montana.edu/gradschool/policy/admissions_intl.html",
+      "label": "Montana State Graduate School: International admissions policy",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }
