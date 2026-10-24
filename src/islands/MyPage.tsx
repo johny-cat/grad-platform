@@ -71,13 +71,12 @@ export default function MyPage({ programs, cycleId, cycleLabel }: Props) {
     return (
       <div class="empty">
         <p>
-          <strong>Sign in to see your programs.</strong> Follow the programs you applied to and their news collects
-          here.
+          <strong>Nothing here yet.</strong> Follow the programs you applied to, and they and their news collect
+          here on this device. No sign-up needed.
         </p>
-        <p>
-          <a class="btn" href={signInHref()}>
-            Sign in
-          </a>
+        <p class="small">
+          <a href="/programs/">Find your programs</a>. Already added your email on another device?{' '}
+          <a href={signInHref()}>Sign in with email</a> to see them here.
         </p>
       </div>
     );
@@ -170,12 +169,20 @@ export default function MyPage({ programs, cycleId, cycleLabel }: Props) {
             </button>
           </form>
         )}
-        <p class="small muted">
-          Shown on discussion posts, never on results. Signed in as {isDemo ? 'a preview user' : session?.user.email}.{' '}
-          <button type="button" class="link-button" onClick={() => signOut().then(() => window.location.assign('/'))}>
-            Sign out
-          </button>
-        </p>
+        {!isDemo && session?.user.is_anonymous ? (
+          <p class="small muted">
+            Shown on discussion posts, never on results. Everything here is saved on this device only.{' '}
+            <a href="/signin/">Add your email</a> to keep it on your other devices too, and if you clear this
+            browser.
+          </p>
+        ) : (
+          <p class="small muted">
+            Shown on discussion posts, never on results. Signed in as {isDemo ? 'a preview user' : session?.user.email}.{' '}
+            <button type="button" class="link-button" onClick={() => signOut().then(() => window.location.assign('/'))}>
+              Sign out
+            </button>
+          </p>
+        )}
       </section>
 
       <section class="section" aria-labelledby="me-programs">

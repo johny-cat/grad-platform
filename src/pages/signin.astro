@@ -3,11 +3,14 @@ import Base from '../layouts/Base.astro';
 import SignIn from '../islands/SignIn';
 ---
 
-<Base title="Sign in" description="Sign in to report results and follow programs." noindex>
+<Base title="Sign in" description="Use your HeardYet account on another device." noindex>
   <div class="wrap">
     <header class="program-head">
-      <h1>Sign in</h1>
-      <p class="lead">Sign in to report results and follow your programs. Browsing never needs an account.</p>
+      <h1>Sign in with email</h1>
+      <p class="lead">
+        You don't need this to post, follow programs or report results. Add your email only if you want the same
+        account on your other devices.
+      </p>
     </header>
     <SignIn client:only="preact">
       <p slot="fallback" class="muted">Loading…</p>

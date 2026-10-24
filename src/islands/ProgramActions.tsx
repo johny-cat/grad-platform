@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'preact/hooks';
 import { fetchMyFollows, fetchStats, isConnected, isDemo, removeFollow, setFollow } from '../lib/api';
-import { signInHref, useSession } from '../lib/session';
+import { ensureSession, useSession } from '../lib/session';
 import type { FollowStatus, ProgramStats } from '../lib/types';
 
 interface Props {
@@ -44,9 +44,14 @@ export default function ProgramActions({ slug, cycleId }: Props) {
   }, [cycleId, slug, userId, live]);
 
   async function choose(next: FollowStatus | null) {
-    if (!userId) {
-      window.location.href = signInHref();
-      return;
+    let uid = userId;
+    if (!uid) {
+      try {
+        uid = await ensureSession();
+      } catch (e) {
+        setError((e as Error).message);
+        return;
+      }
     }
     const before = status;
     const counts = (s: FollowStatus | null) => ({ applied: s === 'applied' ? 1 : 0, following: s ? 1 : 0 });
@@ -60,8 +65,8 @@ export default function ProgramActions({ slug, cycleId }: Props) {
       following_count: Math.max(0, s.following_count + delta.following),
     }));
     try {
-      if (next) await setFollow(userId, slug, cycleId, next);
-      else await removeFollow(userId, slug, cycleId);
+      if (next) await setFollow(uid, slug, cycleId, next);
+      else await removeFollow(uid, slug, cycleId);
     } catch (e) {
       setStatus(before);
       setStats((s) => ({

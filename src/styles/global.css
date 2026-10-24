@@ -1586,3 +1586,12 @@ textarea::placeholder {
   flex-basis: 100%;
   margin: 0;
 }
+
+/* The robot check's box; Cloudflare only shows it when it needs a click. */
+.captcha-box {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 50;
+}

@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'preact/hooks';
 import { addPost, editMyPost, fetchPosts, fetchThread, isConnected, isDemo, reportContent } from '../lib/api';
-import { signInHref, useSession } from '../lib/session';
+import { ensureSession, useSession } from '../lib/session';
 import { SPACES, type Post, type Thread } from '../lib/types';
 import { REPORT_REASONS, timeAgo } from '../lib/community';
 
@@ -8,7 +8,7 @@ const EDIT_WINDOW_MS = 24 * 60 * 60 * 1000;
 
 /** One discussion: its posts, replies, editing your own post and reporting. */
 export default function ThreadView() {
-  const { userId, loading } = useSession();
+  const { userId } = useSession();
   const [id] = useState(() => Number(new URLSearchParams(window.location.search).get('id')) || 0);
   const [thread, setThread] = useState<Thread | null | undefined>(undefined);
   const [posts, setPosts] = useState<Post[]>([]);
@@ -49,6 +49,7 @@ export default function ThreadView() {
     setBusy(true);
     setError(null);
     try {
+      await ensureSession();
       await addPost(id, reply.trim());
       setReply('');
       await load();
@@ -62,6 +63,7 @@ export default function ThreadView() {
   async function report(postId: number, reason: string) {
     setError(null);
     try {
+      await ensureSession();
       await reportContent('post', postId, reason);
       setNotice('Thanks. A moderator will look at it. Posts reported by several people are hidden until then.');
     } catch (e) {
@@ -151,7 +153,7 @@ export default function ThreadView() {
                     Edit
                   </button>
                 )}
-                {userId && !p.is_mine && reporting !== p.id && (
+                {!p.is_mine && reporting !== p.id && (
                   <button type="button" class="link-button" onClick={() => setReporting(p.id)}>
                     Report
                   </button>
@@ -180,7 +182,7 @@ export default function ThreadView() {
 
       {thread.locked ? (
         <p class="muted">This discussion is closed to new replies.</p>
-      ) : loading ? null : userId ? (
+      ) : (
         <form class="form compose" onSubmit={send} noValidate>
           <div class="field">
             <label for="reply">Your reply</label>
@@ -191,12 +193,6 @@ export default function ThreadView() {
             {busy ? 'Sending…' : 'Reply'}
           </button>
         </form>
-      ) : (
-        <p>
-          <a class="btn btn--quiet" href={signInHref()}>
-            Sign in to reply
-          </a>
-        </p>
       )}
     </article>
   );

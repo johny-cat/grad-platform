@@ -2,6 +2,7 @@ import { useEffect, useState } from 'preact/hooks';
 import { SIGN_IN_EMAIL_HAS_CODE } from '../config';
 import { getSupabase, isConnected, isDemo } from '../lib/supabase';
 import { signOut, useSession } from '../lib/session';
+import { getCaptchaToken } from '../lib/captcha';
 
 function nextPath(): string {
   const next = new URLSearchParams(window.location.search).get('next') ?? '/me/';
@@ -43,7 +44,7 @@ export default function SignIn() {
   }
   if (loading) return <p class="muted">Checking whether you're signed in…</p>;
 
-  if (session) {
+  if (session && !session.user.is_anonymous) {
     return (
       <div class="notice notice--success">
         <p>
@@ -71,10 +72,21 @@ export default function SignIn() {
     }
     setBusy(true);
     setError(null);
-    const { error: problem } = await supabase.auth.signInWithOtp({
-      email: address,
-      options: { emailRedirectTo: callbackUrl() },
-    });
+    let problem: { message: string } | null = null;
+    try {
+      if (session?.user.is_anonymous) {
+        // Keep this device's account (nickname, follows, posts): attach the email to it.
+        ({ error: problem } = await supabase.auth.updateUser({ email: address }, { emailRedirectTo: callbackUrl() }));
+      } else {
+        const captchaToken = await getCaptchaToken();
+        ({ error: problem } = await supabase.auth.signInWithOtp({
+          email: address,
+          options: { emailRedirectTo: callbackUrl(), ...(captchaToken ? { captchaToken } : {}) },
+        }));
+      }
+    } catch (e) {
+      problem = { message: (e as Error).message };
+    }
     setBusy(false);
     if (problem) {
       setError(

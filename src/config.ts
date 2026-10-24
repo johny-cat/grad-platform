@@ -75,5 +75,12 @@ export const SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_NTOGnLAE48DIdVAmhBY44g_r
  */
 export const SIGN_IN_EMAIL_HAS_CODE = false;
 
+/**
+ * Cloudflare Turnstile site key (public): the invisible check that a real
+ * person, not a robot, is posting. Empty switches the check off. The matching
+ * secret key lives only in Supabase (Authentication, Attack Protection).
+ */
+export const TURNSTILE_SITE_KEY = '';
+
 /** Contact address shown on the site for corrections and safety reports. */
 export const CONTACT_EMAIL = '';

@@ -1,9 +1,4 @@
-import { useSession } from '../lib/session';
-import { isDemo } from '../lib/supabase';
-
-/** Header link: "Sign in", or "My programs" once signed in. */
+/** Header link to the visitor's own page. Nobody needs to sign up first. */
 export default function AuthNav() {
-  const { session } = useSession();
-  const signedIn = isDemo || Boolean(session);
-  return signedIn ? <a href="/me/">My programs</a> : <a href="/signin/">Sign in</a>;
+  return <a href="/me/">My programs</a>;
 }
