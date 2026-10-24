@@ -5,15 +5,79 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.med.upenn.edu/immun/",
   "cycle": "fall-2027",
+  "officialUrl": "https://www.med.upenn.edu/immun/",
+  "applyUrl": "https://www.med.upenn.edu/bgs/phd-application-information.html",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL, IELTS or Duolingo required for non-native speakers unless a degree is/will be earned at a U.S. or approved English-instructed institution. No minimum scores. Official reports due by application deadline."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "No fee to apply to BGS."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement (around 500 words)",
+      "Research statement (around 1000 words)",
+      "Community statement (150–200 words)",
+      "Resume/CV without GPA or Latin honors",
+      "Unofficial transcripts from all institutions, English or translated, with Spring 2026 grades and Fall 2026 enrollment"
+    ],
+    "note": "Bachelor's degree required by matriculation; apply to only one BGS group. Separate NIH track restricted to U.S. citizens/permanent residents."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 49000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    },
+    "note": "Stipend, tuition, fees and health insurance throughout training in good academic standing. Amount explicitly 2026–2027, not a confirmed Fall 2027 rate."
+  },
+  "details": "checked",
   "sources": [
     {
       "url": "https://www.med.upenn.edu/immun/",
-      "label": "Penn Immunology Graduate Group",
-      "checked": "2026-10-18"
+      "label": "Official graduate group",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.med.upenn.edu/immun/lab-rotations.html",
+      "label": "Graduate group rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.med.upenn.edu/bgs/phd-application-information.html",
+      "label": "BGS Fall 2027 requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.med.upenn.edu/bgs/admissions-faqs.html",
+      "label": "BGS fee and testing",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.med.upenn.edu/bgs/student-funding.html",
+      "label": "BGS funding",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23"
 }
