@@ -138,7 +138,7 @@ export const programSchema = z
     }
     if (program.details === 'checked') {
       for (const key of ['admissionModel', 'requirements'] as const) {
-        if (key === 'admissionModel' && program.detailsNote && program.publishedDeadlines.length > 0) continue;
+        if (key === 'admissionModel' && program.detailsNote) continue;
         if (program[key] === undefined) {
           ctx.addIssue({ code: 'custom', path: [key], message: `Required once details are checked` });
         }

@@ -38,3 +38,7 @@ These additional official pages each timed out on the initial open and one retry
 Their search-result summaries were not used for facts. No opened page supplied
 the current umbrella deadline, complete program-specific requirements or
 admission model, so the JSON remains unchanged and pending.
+
+## 2026-10-23 next-100 publication
+
+Central consortium page reopened: “Graduate Programs in Bioscience is a consortium of 10 home areas and their affiliated Ph.D. programs”. Only evidenced central application requirements published, with prominent missing program-specific information warning. Removed unsupported prior 12-track list; no complete current list was accessible. Admissions overview and FAQ each timed out twice; Life Sciences graduate-training alternative also timed out twice. No deadline or model inferred.
