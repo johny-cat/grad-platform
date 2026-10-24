@@ -5,15 +5,97 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://case.edu/programs/biomedical-sciences-training-program",
+  "details": "checked",
+  "officialUrl": "https://case.edu/medicine/bstp/",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://case.edu/medicine/bstp/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/medicine/bstp/admissions",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/medicine/bstp/admissions/frequently-asked-questions",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/medicine/bstp/admissions/stipend-and-benefits",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://case.edu/programs/biomedical-sciences-training-program",
-      "label": "Case Western Reserve University: Biomedical Sciences Training Program",
-      "checked": "2026-10-18"
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/gradstudies/prospective-students/international-applicant-info",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://case.edu/medicine/bstp/admissions",
+  "summary": "Biomedical PhD umbrella offering research rotations before selection among 11 participating programs.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Priority application",
+      "dateText": "October 15th",
+      "note": "Page announces2027 admission but prints no year on individual deadlines."
+    },
+    {
+      "label": "Final application",
+      "dateText": "January 1st",
+      "note": "Page announces2027 admission but prints no year on individual deadlines."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5.0 on or after January21,2026; 90 iBT earlier; 577 paper",
+      "ielts": 7,
+      "note": "PTE Academic61 also accepted. Scores valid two years. TOEFL Home Edition accepted; Duolingo, IELTS Indicator/One Skill Retake, TOEFL Essentials/MyBest not accepted. Qualifying English-medium degree/home-language exemptions may apply. Unofficial scores for review; official after admission."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "U.S. citizens/permanent residents free through October15. No general international waivers; special exceptions for CWRU students (including international), alumni, employees and U.S. armed-forces veterans; contact BSTP."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "School-issued unofficial transcripts from every college/university",
+      "Resume/CV with research, work and volunteer experiences/timeframes",
+      "Personal statement (1–2 pages)",
+      "Research experience descriptions and separate research/teaching experience statements",
+      "Goals statement"
+    ],
+    "note": "Biology, organic chemistry and math through calculus/statistics required; biochemistry/molecular biology recommended. No minimum GPA. International applicants typically need substantial post-bachelor’s research and often advanced degree; applications without post-undergraduate research unlikely considered. At least one recommendation from independent research mentor, letters signed/on letterhead. Do not contact faculty before decision. Rolling interview offers November–March; decisions generally1–2weeks after interview. Program sources disagree July/August1start; confirm."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 39000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "All matriculating BSTP students receive full tuition/fees, health insurance and $2000 moving allowance. Published stipend is2026–27; Fall2027 amount unconfirmed."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
 }

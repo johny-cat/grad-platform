@@ -5,15 +5,72 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://bulletin.case.edu/arts-sciences/biology/",
+  "details": "checked",
+  "officialUrl": "https://biology.case.edu/graduate/admission/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://bulletin.case.edu/arts-sciences/biology/",
-      "label": "Case Western Reserve University Bulletin: Department of Biology",
-      "checked": "2026-10-18"
+      "url": "https://biology.case.edu/graduate/admission/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biology.case.edu/graduate/financial-aid/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biology.case.edu/graduate/phd/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/gradstudies/prospective-students/international-applicant-info",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://biology.case.edu/graduate/admission/",
+  "summary": "Biology doctoral research culminating in an independent dissertation.",
+  "publishedDeadlines": [
+    {
+      "label": "Full consideration",
+      "dateText": "December 15th",
+      "note": "Official admissions page gives no year."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.0 on or after January21,2026; 90 iBT earlier; 577 paper",
+      "ielts": 7,
+      "note": "PTE Academic61 also accepted. Scores valid two years. TOEFL Home Edition accepted; Duolingo, IELTS Indicator/One Skill Retake, TOEFL Essentials/MyBest not accepted. Qualifying English-medium degree/home-language exemptions may apply. Unofficial scores for review; official after admission."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central severe-financial-hardship waivers may be requested from program; program-specific, not guaranteed. International eligibility not expressly restricted; confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of Objectives (1–2 pages): research experience, academic goals, faculty of interest",
+      "Resume/CV",
+      "Transcripts"
+    ],
+    "note": "Bachelor’s degree preferably in sciences; cumulative GPA at least3.0; prior relevant research and/or teaching experience. Identify faculty of interest. Unofficial transcripts for review, official after acceptance."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive teaching/research assistantships and/or monthly stipends, based on available funding. Discuss financial assistance during application; universal support not promised."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
 }
