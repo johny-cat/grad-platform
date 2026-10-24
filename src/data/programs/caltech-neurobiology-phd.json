@@ -5,15 +5,86 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://neuroscience.caltech.edu/education/phd_options",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://www.bbe.caltech.edu/academics/neurobiology/grad-admissions",
+  "applyUrl": "https://apply.graduate.caltech.edu/apply/",
+  "location": "Pasadena, California",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
     {
-      "url": "https://neuroscience.caltech.edu/education/phd_options",
-      "label": "Caltech Neuroscience: PhD options",
-      "checked": "2026-10-18"
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "Undated deadline for entry following fall; year not inferred."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "English exams not required and no minimum score. Applicants without native English/English-instructed degree should demonstrate proficiency; TOEFL, PTE, IELTS and certified tests including Duolingo may be self-reported. Those without English-instructed degree evaluated before academic year and may need ESL. Exemptions include two years U.S. study or an English-instructed degree."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Hardship waiver within online application; income/expenses and circumstances requested, individually reviewed. No citizenship restriction stated; international applicants confirm eligibility."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Statement of purpose written by applicant in English",
+      "CV/resume",
+      "School-issued scanned transcripts/grade reports from all colleges attended; complete certified English translations and grading legend where needed"
+    ],
+    "note": "Bachelor's or equivalent by matriculation; no second PhD. Only one Caltech option per cycle. No minimum GPA. GRE strongly recommended/encouraged, not required. Expected preparation: college-level mathematics, physics, chemistry, biology and independent research. Neurobiology/scientific computing helpful, not required; top-5% class standing describes typical successful candidates, not a cutoff."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 50000,
+      "currency": "USD",
+      "period": "year",
+      "year": "Effective September 1, 2026 (12 months)"
+    },
+    "note": "All full-time PhD students offered tuition, mandatory fees and living stipend while making satisfactory progress, securing thesis advisor and meeting program requirements. Rate effective September 1, 2026; not confirmed Fall 2027 rate."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Undated timeline: invitations December 22; interviews early February.",
+    "decisions": "Undated timeline: mid-February."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://www.bbe.caltech.edu/academics/neurobiology/grad-admissions",
+      "label": "Neurobiology admissions and undated timeline",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.bbe.caltech.edu/academics/neurobiology/graduate-studies",
+      "label": "Neurobiology preparation and rotations",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.bbe.caltech.edu/academics/applying-to-caltech-2026-2027",
+      "label": "BBE documents and fee",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/admissions/faq-applicants",
+      "label": "Caltech applicant FAQ",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/financialsupport",
+      "label": "Caltech PhD support",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }
