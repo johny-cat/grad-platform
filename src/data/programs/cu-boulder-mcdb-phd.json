@@ -5,15 +5,73 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://www.colorado.edu/mcdb/graduate-program",
   "cycle": "fall-2027",
-  "sources": [
+  "applyUrl": "https://www.colorado.edu/mcdb/graduate/application-details-info",
+  "location": "Boulder, Colorado",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
     {
-      "url": "https://www.colorado.edu/mcdb/graduate-program",
-      "label": "CU Boulder Molecular, Cellular and Developmental Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Final domestic and international deadline",
+      "dateText": "November 20th",
+      "note": "Undated deadline; fall entry only. Central FAQ closes applications at 10 p.m. MST."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5.0 (TOEFL iBT26) or 100 (TOEFL iBT)",
+      "ielts": 7.5,
+      "duolingo": 135,
+      "note": "Pearson 75; Cambridge 190. Exemption for qualifying citizenship or at least one year full-time university study in U.S./qualifying country ending within two years of intended admission."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee $80. MCDB offers waivers/reimbursement for specified underrepresented groups, disabilities and disadvantaged backgrounds without express citizenship restriction; internationals confirm eligibility. Central listed-program waivers restricted to U.S. citizens/PR."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV (2 pages maximum)",
+      "Personal statement (2 pages maximum)",
+      "Unofficial transcript from every undergraduate/graduate institution"
+    ],
+    "note": "Bachelor's from accredited college and cumulative GPA ≥2.75. Research experience preferred, not required. Genetics, cell/developmental biology, chemistry, biochemistry, calculus/statistics and physics preferred; missing areas do not exclude strong applicants."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://www.colorado.edu/mcdb/graduate/application-details-info",
+      "label": "MCDB application requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/mcdb/graduate/ph-d-course-study",
+      "label": "MCDB rotations and thesis selection",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements",
+      "label": "Graduate English requirements by program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/graduate-application-faqs",
+      "label": "Graduate fee waivers and timing",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students",
+      "label": "International application fee",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }

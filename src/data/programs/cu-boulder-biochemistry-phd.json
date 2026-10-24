@@ -5,15 +5,82 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://www.colorado.edu/biochemistry/graduate-program",
   "cycle": "fall-2027",
-  "sources": [
+  "applyUrl": "https://www.colorado.edu/biochemistry/graduate-program/prospective-graduate-students",
+  "location": "Boulder, Colorado",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. The page conflicts between November 15 and November 20; confirm with Biochemistry and plan for the earlier date.",
+  "publishedDeadlines": [
     {
-      "url": "https://www.colorado.edu/biochemistry/graduate-program",
-      "label": "CU Boulder Department of Biochemistry: Prospective Graduate Students",
-      "checked": "2026-10-18"
+      "label": "Earlier conflicting application deadline",
+      "dateText": "November 15th",
+      "note": "Undated FAQ and additional-notes sections repeat this earlier deadline."
+    },
+    {
+      "label": "Dated application announcement",
+      "dateText": "November 20th, 2026",
+      "note": "Save the Date section explicitly gives this date; conflicts with undated November 15 wording. Entry year not explicitly stated."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.0 (TOEFL iBT26) or 100 (TOEFL iBT)",
+      "ielts": 7.5,
+      "duolingo": 135,
+      "note": "Pearson 75; Cambridge 190. Exemption for qualifying citizenship or at least one year full-time university study in U.S./qualifying country ending within two years of intended admission."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee $80; program explicitly excludes international waivers. Biochemistry hardship waiver for U.S. citizens, permanent residents or DACA with FAFSA EFC ≤$5,500; affiliation and military waivers also offered."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV/resume",
+      "Personal statement addressing PhD motivation, research experience, interests and faculty fit",
+      "Unofficial transcripts from every postsecondary institution",
+      "English proficiency if required"
+    ],
+    "note": "Minimum undergraduate GPA 3.0. No formal coursework prerequisites; two semesters biochemistry and one semester each physical chemistry, organic chemistry, cell biology and molecular biology suggested. No lab position needed before applying."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "In general all PhD students receive stipend and tuition throughout studies; first-year TA then typically research-group RA, dependent on research-group funding. No unconditional funding guarantee or amount stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Virtual interview invitations roll through January after December–January review.",
+    "decisions": "Rolling offers January–April; accept by April 15."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://www.colorado.edu/biochemistry/graduate-program/prospective-graduate-students",
+      "label": "Biochemistry admissions, rotations and funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements",
+      "label": "Graduate English requirements by program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/graduate-application-faqs",
+      "label": "Graduate fee waivers and timing",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students",
+      "label": "International application fee",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }
