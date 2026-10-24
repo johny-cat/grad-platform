@@ -5,15 +5,75 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://med.psu.edu/education/degree-programs/biomedical-sciences-phd",
   "cycle": "fall-2027",
+  "applyUrl": "https://med.psu.edu/education/degree-programs/biomedical-sciences-phd/apply",
+  "location": "Hershey, Pennsylvania",
+  "summary": "Biomedical sciences doctoral training with three first-year research rotations and five curricular emphasis areas.",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Formal application",
+      "dateText": "Dec. 1",
+      "note": "Undated application deadline; Fall 2027 interviews are posted separately."
+    },
+    {
+      "label": "Supporting documents, including reference letters",
+      "dateText": "Dec. 3",
+      "note": "Undated supporting-material deadline; no year assigned."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL/IELTS if applicable; official scores sent directly from testing agency. Provisional admission not offered. Current central thresholds inaccessible."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "International fee $85; U.S. applicants $65. No waiver offer on opened program pages; central page blocked."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Uploaded copies of official transcripts from all colleges/universities",
+      "Resume/CV",
+      "Personal statement (up to two pages): motivation, research experiences, interests, goals and program fit"
+    ],
+    "note": "Bachelor's or higher in science-related major or foreign equivalent. Other backgrounds may apply; minimum preparation includes biology, chemistry, organic chemistry, biochemistry and molecular biology or genetics."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Fall 2027 on-campus interviews February 3–5 and February 18–20, 2027. Applicants currently outside U.S. interview virtually."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 37359,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    },
+    "note": "Admitted students appointed research assistants with stipend, tuition and insurance. University pays 80% of medical/dental/vision cost. Program supports first four semesters; dissertation advisor then responsible with departmental guarantee. Published stipend rate is 2026–27, not Fall 2027."
+  },
+  "details": "checked",
   "sources": [
     {
       "url": "https://med.psu.edu/education/degree-programs/biomedical-sciences-phd",
-      "label": "Penn State College of Medicine: Biomedical Sciences PhD",
-      "checked": "2026-10-18"
+      "label": "Biomedical Sciences rotations and funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://med.psu.edu/education/degree-programs/biomedical-sciences-phd/apply",
+      "label": "Biomedical Sciences application and interview dates",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23"
 }
