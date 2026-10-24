@@ -11,15 +11,75 @@
     "Microbiology",
     "Molecular & Integrative Physiology"
   ],
-  "details": "pending",
-  "officialUrl": "https://mcb.illinois.edu/graduate/",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://mcb.illinois.edu/academics/phd-programs",
+  "applyUrl": "https://mcb.illinois.edu/academics/phd-programs/apply-our-mcb-phd-program",
+  "location": "Urbana, Illinois",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
     {
-      "url": "https://mcb.illinois.edu/graduate/",
-      "label": "University of Illinois School of Molecular and Cellular Biology: PhD Programs",
-      "checked": "2026-10-18"
+      "label": "Published Fall 2026 deadline",
+      "dateText": "December 1, 2025",
+      "note": "Explicitly Fall 2026; not a Fall 2027 date."
+    },
+    {
+      "label": "Undated recurring application deadline",
+      "dateText": "December 1",
+      "note": "All materials including letters due; Fall 2027 not confirmed."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "96 total and 22 speaking (published 0–120 scale); central full status 103 old / 5.0 new",
+      "ielts": 7.5,
+      "note": "MCB own IELTS overall minimum 7.0, speaking 7.5; central full status overall 7.5 retained. Only TOEFL/IELTS accepted by MCB. New-scale MCB section threshold not stated; confirm. Limited status possible below full-status threshold. Tests within two years; central exemptions apply."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Domestic and international $90 under current central policy. Domestic waivers for eligible categories; international waiver only under approved valid exchange agreement. Program pages generally exclude international waivers. Central exchange-agreement exception means waiver availability is not exclusively domestic; international applicants should confirm approved agreement with Graduate College."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial credentials for every postsecondary institution; English translations",
+      "Research statement (1000 words maximum)",
+      "Two required personal statements (250 words maximum each)",
+      "Two optional personal statements (250 words maximum each)"
+    ],
+    "note": "Bachelor's in biological or physical sciences. At least two letters should evaluate scholarship/training/independent research. No research advisor required before application; three five-week rotations in first semester. Authentic essays required; AI-generated responses not accepted."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Departments guarantee support with satisfactory degree progress. Fellowships, traineeships or assistantships provide stipend, full tuition and partial fee waiver; no stipend amount on opened pages."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://mcb.illinois.edu/academics/phd-programs",
+      "label": "MCB programs and guaranteed support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://mcb.illinois.edu/academics/phd-programs/apply-our-mcb-phd-program",
+      "label": "MCB application requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/international-applicants",
+      "label": "Graduate English tests and exemptions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+      "label": "Graduate application fee and waiver rules",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }
