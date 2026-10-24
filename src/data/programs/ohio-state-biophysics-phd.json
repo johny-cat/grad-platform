@@ -5,15 +5,89 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://biophysics.osu.edu",
+  "details": "checked",
+  "officialUrl": "https://biophysics.osu.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://biophysics.osu.edu",
-      "label": "The Ohio State University: Biophysics Graduate Program",
-      "checked": "2026-10-18"
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html",
+      "label": "Application and fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "label": "Fee waiver categories",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "label": "University English minimums",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biophysics.osu.edu/prospective-students/steps-apply",
+      "label": "Biophysics application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biophysics.osu.edu/prospective-students/financial-support",
+      "label": "Biophysics funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biophysics.osu.edu/prospective-students/frequently-asked-questions",
+      "label": "Biophysics GRE",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biophysics.osu.edu/",
+      "label": "Official program page",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://gpadmissions.osu.edu/grad/apply-online.html",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Program fee-waiver request",
+      "dateText": "November 24, 2026 at 12:00pm ET",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 iBT; 4.0 on the updated TOEFL launched January 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "University minimums; program requirements may be higher."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$60 U.S.; $70 international. Biophysics program waivers require domestic status and GPA3.0; no international program waivers. Request before November24,2026 noon ET. Central waiver categories may have different eligibility."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV",
+      "Statement of purpose",
+      "Academic transcripts"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 37440,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026 first-year students"
+    },
+    "note": "Support continues with good standing and reasonable progress; stipend, tuition, health insurance, non-resident/general/instructional fees covered. Recreational, student union, COTA and student legal fees excluded."
+  }
 }
