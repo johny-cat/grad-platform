@@ -5,15 +5,83 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://catalog.ucsd.edu/curric/BIOI-gr.html",
+  "details": "checked",
+  "officialUrl": "https://bioinformatics.ucsd.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://catalog.ucsd.edu/curric/BIOI-gr.html",
-      "label": "UC San Diego General Catalog: Bioinformatics and Systems Biology",
-      "checked": "2026-10-18"
+      "url": "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html",
+      "label": "University fees and waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html",
+      "label": "English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/index.html",
+      "label": "University preparation",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bioinformatics.ucsd.edu/admissions/grad/admissions",
+      "label": "BISB Fall2027 application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bioinformatics.ucsd.edu/admissions/grad/financial-support",
+      "label": "BISB support",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bioinformatics.ucsd.edu/grad/research-rotations",
+      "label": "BISB rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bioinformatics.ucsd.edu/",
+      "label": "Official program page",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://gradapply.ucsd.edu",
+  "deadlines": [
+    {
+      "label": "Fall2027 application",
+      "date": "2026-11-18",
+      "note": "Fee-waiver applications due one week earlier."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "85 previous iBT or 4.5 new iBT",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "University minimums; PTE65 also accepted. Degree with GPA3.0 and solely English instruction may exempt; foreign institution verified via WHED. Program may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 US citizens/permanent residents/undocumented; $155 international. Central waivers exclude international applicants."
+    },
+    "documents": [
+      "Unofficial transcripts; English translation if needed",
+      "Statement of purpose (2500 words)",
+      "CV",
+      "Short-answer questions"
+    ],
+    "note": "University bachelor-equivalent and GPA3.0 minimum. Quantitative/computational track record expected; complementary biological/physical sciences, computing or mathematics preparation. Additional educational experiences optional.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Most first-year students receive tuition/fees, health insurance and stipend; subject to good standing. International support may combine faculty research funds and fellowships; external funding encouraged."
+  }
 }

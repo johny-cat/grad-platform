@@ -5,15 +5,81 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://bmb.ucsd.edu/graduates",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html",
+      "label": "University fees and waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html",
+      "label": "English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/index.html",
+      "label": "University preparation",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://bmb.ucsd.edu/graduates",
-      "label": "UC San Diego: Biochemistry and Molecular Biophysics PhD",
-      "checked": "2026-10-19"
+      "label": "BMB program/support/admissions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bmb.ucsd.edu/graduates/admissions",
+      "label": "BMB Fall2027 admissions",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-19"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://connect.grad.ucsd.edu/apply/",
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "85 previous iBT or 4.5 new iBT",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "University minimums; PTE65 also accepted. Degree with GPA3.0 and solely English instruction may exempt; foreign institution verified via WHED. Program may require higher scores. BMB TOEFL speaking23; PTE speaking65. Program and central exemption wording differ; confirm eligibility."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$135 US citizens/permanent residents/undocumented; $155 international. Central waivers exclude international applicants. Departmental offer also published without nationality restriction, but process dates explicitly Fall2026 (Nov19,2025); confirm Fall2027 and international eligibility."
+    },
+    "documents": [
+      "Unofficial transcripts front/back for every institution after high school",
+      "Statement of purpose",
+      "PDF research products (no thesis documents)"
+    ],
+    "note": "University bachelor-equivalent and GPA3.0 minimum. ",
+    "letters": {
+      "min": 3
+    }
+  },
+  "timeline": {
+    "interviews": "Invitations in January; campus interviews in February (undated).",
+    "decisions": "Offer acceptance deadline April15 (undated)."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 43400,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-2026 first year"
+    },
+    "note": "Students in good academic standing receive 12-month stipend, tuition and fees. Three quarters of teaching normally required."
+  },
+  "deadlines": [
+    {
+      "label": "Fall2027 application",
+      "date": "2026-12-02"
+    }
+  ]
 }

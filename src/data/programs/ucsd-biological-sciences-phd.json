@@ -5,15 +5,89 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://biology.ucsd.edu/education/grad/phd/admissions/index.html",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html",
+      "label": "University fees and waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html",
+      "label": "English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/index.html",
+      "label": "University preparation",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://biology.ucsd.edu/education/grad/phd/admissions/index.html",
-      "label": "UC San Diego School of Biological Sciences: PhD Admissions",
-      "checked": "2026-10-18"
+      "label": "BioSci current dates",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biology.ucsd.edu/education/grad/phd/admissions/application-evaluation-process/index.html",
+      "label": "BioSci requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biology.ucsd.edu/education/grad/phd/admissions/faq/general-program.html",
+      "label": "BioSci model/timing",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biology.ucsd.edu/education/grad/phd/financial-support.html",
+      "label": "BioSci funding",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://connect.grad.ucsd.edu/apply/",
+  "deadlines": [
+    {
+      "label": "Fall2027 application",
+      "date": "2026-12-02",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 previous iBT or5 new iBT; speaking23 or4.5",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "IELTS speaking7 and DET speaking130 required."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 US citizens/permanent residents/undocumented; $155 international. Central waivers exclude international applicants."
+    },
+    "documents": [
+      "Statement of purpose (1500 words)",
+      "CV/resume",
+      "Transcripts",
+      "Supplemental outreach and experience answers",
+      "Program/faculty interests (500 characters per faculty)"
+    ],
+    "note": "University bachelor-equivalent and GPA3.0 minimum. No prerequisite courses required. BioSci-General uses rotations; EBE admits directly to lab.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "timeline": {
+    "interviews": "Zoom January14,15,19–22,25,2027; in-person recruitment March4,2027.",
+    "decisions": "Undated FAQ: February through end of April."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Packages may include tuition, required fees and monthly support; employment eligibility required. International students receive same level as domestic. Program pays international nonresident tuition three years or until candidacy, whichever first."
+  }
 }
