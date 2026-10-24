@@ -5,15 +5,68 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 Fall date is printed without a year, so it is not confirmed for Fall 2027. GRE policy, letters and funding guarantees are not stated on the pages opened, so they are left out. The fee shown is the international amount.",
+  "admissionModel": "program",
+  "summary": "Cell and molecular biology PhD within Molecular Biosciences at the University of Nevada, Reno. First-year students share a curriculum and rotate through at least two labs.",
   "officialUrl": "https://www.unr.edu/molecular-biosciences/student-resources/cmb-program-handbook",
+  "applyUrl": "https://www.unr.edu/grad/admissions/how-to-apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application deadline",
+      "dateText": "Dec 1 (Fall)",
+      "note": "Printed on the program page without a year. A Spring date of June 15 is also listed."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 (internet-based) or 550 (paper-based)",
+      "ielts": 6.5,
+      "note": "Academic IELTS. Official TOEFL or IELTS scores are required if your educational history is from a non-English-speaking country. Duolingo is not mentioned."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "$95 for international applicants; $60 for domestic applicants. The pages do not mention fee waivers."
+    },
+    "documents": [
+      "Transcripts (unofficial copies for review; official copies required if recommended for admission)",
+      "Test scores",
+      "Resume or CV"
+    ],
+    "note": "Recommendation requests are generated automatically from the names and emails you enter. Applicants should have coursework in organic chemistry, biology, physics and calculus; deficiencies must be made up in the first year."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate fellowships are available on a competitive basis. Research and teaching assistantships exist; state-funded assistantships may be held for a maximum of five years for doctoral students. The pages do not state a stipend or whether funding covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.unr.edu/molecular-biosciences/student-resources/cmb-program-handbook",
-      "label": "University of Nevada, Reno Molecular Biosciences: Cell and Molecular Biology graduate program handbook",
-      "checked": "2026-10-18"
+      "label": "University of Nevada, Reno Molecular Biosciences: CMB program handbook",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.unr.edu/molecular-biosciences/graduate-programs/cell-and-molecular-biology",
+      "label": "University of Nevada, Reno Molecular Biosciences: Cell and Molecular Biology",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.unr.edu/grad/admissions/how-to-apply",
+      "label": "University of Nevada, Reno Graduate School: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.unr.edu/grad/admissions/international",
+      "label": "University of Nevada, Reno Graduate School: International applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

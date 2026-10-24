@@ -11,15 +11,70 @@
     "Molecular and Cell Biology (MOCB)",
     "Physiological Systems (PSYS)"
   ],
-  "details": "pending",
+  "location": "College Park, Maryland",
+  "details": "checked",
+  "detailsNote": "Official information available. The catalog lists a Fall deadline of December 1, 2026; it does not name Fall 2027 entry, so confirm. The pages do not state GRE policy, minimum English test scores or whether admission is to the program or a lab, so those are left out.",
+  "summary": "Doctoral program in biological sciences at the University of Maryland, College Park, with four areas of concentration. Students are supported through fellowships and research or teaching assistantships.",
   "officialUrl": "https://academiccatalog.umd.edu/graduate/programs/biological-sciences-bisi/",
+  "applyUrl": "https://gradschool.umd.edu/admissions/application-process/step-step-guide-applying",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Fall application deadline",
+      "date": "2026-12-01",
+      "note": "The catalog lists a Fall deadline of December 1, 2026 for both domestic and international applicants. No time is given."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "The catalog lists TOEFL/IELTS/PTE for international graduate students and gives no minimum scores. The Graduate School requires TOEFL, IELTS or PTE scores if you do not hold a degree from a U.S. institution or an exempt country; it will not accept paper IELTS reports."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The fee is per program. The Graduate School says fee waivers are limited and considered individually; a FreeApp option for domestic students with financial need ends April 15, 2027. The pages do not say whether international applicants qualify, so confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of Purpose",
+      "Transcripts",
+      "CV/Resume",
+      "BISI supplementary application"
+    ],
+    "note": "Optional: up to two writing samples and publications or presentations. Applicants should have a bachelor's degree and coursework in advanced biology and at least one year each of calculus, general chemistry, organic chemistry and physics."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students are supported by fellowships, research assistantships and/or teaching assistantships, each with a stipend, tuition assistance and health and dental insurance. The catalog says: \"Historically, all students have been supported throughout their graduate careers.\" It does not state a guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://academiccatalog.umd.edu/graduate/programs/biological-sciences-bisi/",
       "label": "University of Maryland Graduate Catalog: Biological Sciences (BISI)",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradschool.umd.edu/admissions/application-process/step-step-guide-applying",
+      "label": "UMD Graduate School: Step-by-step guide to applying",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradschool.umd.edu/feewaiverinformation",
+      "label": "UMD Graduate School: Fee waiver information",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradschool.umd.edu/admissions/faqs/beforeapplying",
+      "label": "UMD Graduate School: Before applying FAQ",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

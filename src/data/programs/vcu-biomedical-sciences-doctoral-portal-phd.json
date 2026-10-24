@@ -5,15 +5,58 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the portal says applications are due \"by December 1 of the year before matriculation\", which is a rule rather than a dated Fall 2027 deadline. The stipend has no year on the page.",
+  "admissionModel": "program",
+  "summary": "Single doorway to six PhD programs in the VCU School of Medicine. Students can do research rotations in a wide range of participating labs.",
   "officialUrl": "https://medschool.vcu.edu/education/bsdp/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 1 of the year before matriculation",
+      "note": "Applications are accepted beginning August 1. For matriculation in 2027 this points to December 1, 2026, but the page states the rule, not a Fall 2027 date."
+    }
+  ],
+  "timeline": {
+    "decisions": "Applicants have until April 15 to accept a training position in the BSDP."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "100",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Minimums as the page states them. International students must provide TOEFL or IELTS scores (VCU code 5570)."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The page says application fee waivers are not currently being provided by the BSDP."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement",
+      "Transcripts"
+    ],
+    "note": "GRE scores are not evaluated even if provided. Letters should comment on suitability for graduate training."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Full-time doctoral students typically receive financial support that includes a stipend, currently $36,600 per year (no year is given). The page does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://medschool.vcu.edu/education/bsdp/",
       "label": "VCU School of Medicine: Biomedical Sciences Doctoral Portal",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

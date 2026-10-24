@@ -5,15 +5,88 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "Charlotte, North Carolina",
+  "details": "checked",
+  "detailsNote": "Official information available; no deadline is printed with a year, so none is confirmed for Fall 2027. The program page lists January 1 for Fall; the Graduate School lists March 1 (priority) and August 1 (final). Confirm which applies. English minimums are the Graduate School's general ones.",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary PhD in bioinformatics and computational biology at UNC Charlotte. The program admits only students whose five-year financial support can be guaranteed; first-year students do two research rotations.",
   "officialUrl": "https://cci.charlotte.edu/academics/bioinformatics/bcb-phd-program",
+  "applyUrl": "https://gradadmissions.charlotte.edu/apply-now/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Program deadline, Fall admission",
+      "dateText": "January 1",
+      "note": "Printed on the program page and its admissions page without a year. Late applications may be considered if space remains."
+    },
+    {
+      "label": "Program deadline, Spring admission",
+      "dateText": "September 1",
+      "note": "Printed on the program page without a year."
+    },
+    {
+      "label": "Graduate School priority submission, Fall",
+      "dateText": "March 1st",
+      "note": "Graduate School requirements page; no year. It differs from the program's January 1 date."
+    },
+    {
+      "label": "Graduate School final submission, Fall",
+      "dateText": "August 1st",
+      "note": "Graduate School requirements page; no year."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "4.5 for tests taken on or after January 21, 2026; 83 for earlier tests",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Graduate School minimums, for applicants whose native language is not English and who did not earn a U.S. degree. The program page itself lists no English test."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$85 for international applicants; $75 for U.S. citizens and permanent residents. The Graduate School gives a limited number of waivers to permanent UNC Charlotte employees, Ronald McNair program participants and U.S. military service members. Confirm whether international applicants qualify."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts from all prior higher education institutions",
+      "Personal statement"
+    ],
+    "note": "The program page lists excellent GRE scores. The GRE can be waived for applicants with, or completing before enrollment, a U.S. MS degree, or a qualifying U.S. BS degree; a waiver is not an offer of admission."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The program page says it only admits students for whom financial support can be guaranteed for five years: a tuition and health insurance award plus a teaching or research assistantship. It does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://cci.charlotte.edu/academics/bioinformatics/bcb-phd-program",
       "label": "UNC Charlotte College of Computing and Informatics: Bioinformatics and Computational Biology Ph.D. Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cci.charlotte.edu/academics/bioinformatics/bcb-phd-program/bcb-phd-admissions/",
+      "label": "UNC Charlotte BCB Ph.D. Admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradadmissions.charlotte.edu/apply-now/application-requirements/",
+      "label": "UNC Charlotte Graduate Admissions: Application requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradadmissions.charlotte.edu/apply-now/international-applicants/",
+      "label": "UNC Charlotte Graduate Admissions: International applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

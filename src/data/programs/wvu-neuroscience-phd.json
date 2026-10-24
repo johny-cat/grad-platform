@@ -5,15 +5,71 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available but limited. Two official pages give different Fall dates (December 1 and January 31), neither with a year, so no Fall 2027 deadline is confirmed. GRE, English minimums and funding are not stated on the pages opened.",
+  "summary": "Neuroscience PhD at West Virginia University, with mentors drawn from the Rockefeller Neuroscience Institute and nearby federal research institutes. Admission is through the common admissions process.",
   "officialUrl": "https://graduateadmissions.wvu.edu/academics/graduate-programs/neuroscience-d",
+  "applyUrl": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Graduate Admissions listing, Fall",
+      "dateText": "Fall: December 1",
+      "note": "Printed on the WVU Graduate Admissions program page without a year."
+    },
+    {
+      "label": "Neuroscience program page, Fall",
+      "dateText": "January 31",
+      "note": "The program's own page says \"The deadline to apply for the Fall is January 31\", with no year. It differs from the Graduate Admissions listing; confirm."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "WVU accepts TOEFL, IELTS, PTE and Duolingo scores, and says programs set their own required exams and minimum scores. No minimum is stated on the pages opened."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers are listed for current WVU and WVU Medicine employees, U.S. active military personnel and veterans, and AmeriCorps and Peace Corps members. International applicants should confirm whether they qualify."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Application",
+      "Two letters of recommendation",
+      "Resume or CV",
+      "Unofficial transcripts (official transcript after approval)"
+    ],
+    "note": "The program page says: \"Applicants will submit their application, two letters of recommendation, and a resume or CV for review.\" Competitive PhD applicants have STEM GPAs of 3.5 or higher and a strong record of research experience."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The program page directs international applicants to additional required items."
+  },
   "sources": [
     {
       "url": "https://graduateadmissions.wvu.edu/academics/graduate-programs/neuroscience-d",
       "label": "West Virginia University Graduate Admissions: Neuroscience",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medicine.hsc.wvu.edu/neuroscience/students/masters-and-doctoral-program-application-requirements/",
+      "label": "WVU Neuroscience: Master's and doctoral program application requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant",
+      "label": "WVU Graduate Admissions: First-time graduate applicant",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.wvu.edu/how-to-apply/international-graduate-applicant",
+      "label": "WVU Graduate Admissions: International graduate applicant",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

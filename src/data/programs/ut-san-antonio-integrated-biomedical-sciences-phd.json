@@ -5,15 +5,70 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "San Antonio, Texas",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is printed without a year, so it is not confirmed for Fall 2027. The $35,000 stipend has no year on the page. Whether students rotate or join a lab is not stated, so no admission model is shown.",
+  "summary": "Integrated biomedical sciences PhD at the UT Health San Antonio Graduate School of Biomedical Sciences. GRE scores are not required, and tuition, fees and student health insurance are covered.",
   "officialUrl": "https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated",
+  "applyUrl": "https://healthprofessions.uthscsa.edu/biomedical-sciences/what-know-you-apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 01",
+      "note": "The program page lists \"Application Opens September 01\" and \"Application Deadline December 01\" with no year."
+    }
+  ],
+  "timeline": {
+    "interviews": "Phone and Skype interviews are conducted for international applicants (also in January/February)."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "84 (iBT)",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Academic IELTS. Scores must have been taken within two years of applying. International students who have completed formal training in a U.S. institution may request a waiver."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The page says a $50 nonrefundable administrative processing fee applies \"for applicants that require Visa Sponsorship\" (wording from the page, which dates it from 9/01/24). It does not mention fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Bachelor's degree",
+      "Unofficial transcripts uploaded to the application (official transcript if accepted)",
+      "International transcripts translated by an accredited agency such as WES"
+    ]
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students receive an annual stipend of $35,000 (the page gives no year). Tuition/fees and student health insurance are covered by the program. The pages do not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The Graduate School says it values international applicants, though some timelines are shortened to allow time to process visas."
+  },
   "sources": [
     {
       "url": "https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated",
       "label": "UT San Antonio Graduate School of Biomedical Sciences: Ph.D. in Integrated Biomedical Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated/admissions",
+      "label": "UT San Antonio GSBS: Integrated program admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://healthprofessions.uthscsa.edu/biomedical-sciences/what-know-you-apply",
+      "label": "UT San Antonio GSBS: What to know before you apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }
