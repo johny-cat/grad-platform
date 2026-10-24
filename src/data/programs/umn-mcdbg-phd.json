@@ -5,15 +5,80 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://cbs.umn.edu/gcd/graduate-programs/mcdbg-graduate-program",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://cbs.umn.edu/gcd/graduate-programs/mcdbg-graduate-program",
-      "label": "University of Minnesota College of Biological Sciences: MCDB&G Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cbs.umn.edu/gcd/graduate-programs/mcdbg-graduate-program/admissions",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cbs.umn.edu/gcd/graduate-programs/mcdbg-graduate-program/financial-aid",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://cbs.umn.edu/gcd/graduate-programs/mcdbg-graduate-program/admissions",
+  "summary": "Molecular, cellular, developmental biology and genetics PhD with first-year faculty exploration across MCDB&G and BMBB.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "No year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$75 U.S. citizens/permanent residents; $95 international. Central office does not waive fees, but GSDO offers targeted waivers for eligible U.S. citizens/permanent residents seeking a first graduate degree, with qualifying preparation/recruitment participation. Request before submission/payment."
+    },
+    "english": {
+      "toefl": "79 with W21/R19 before January21,2026; 4.5 total/W/R on or after",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS writing/reading6.5; DET Fall2027 total/writing/reading120. Test within2years of program start. No TOEFL MyBest or IELTS One Skill Retake. Qualifying education exemptions depend country, credits, recency and physical attendance."
+    },
+    "documents": [
+      "Personal statement",
+      "CV/resume",
+      "Unofficial transcripts; official if offered admission"
+    ],
+    "note": "Diversity statement and supplemental research description optional; publication abstracts only. Separate application required for BMBB; indicate both in statement. Recruiting visits lateJanuary/earlyFebruary, international interviews February; offers begin by endFebruary. GRE policy not stated on opened admissions page."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Full-time PhD students in good standing receive appointment/fellowship with stipend, tuition and95%health insurance. Page conflicts all versus some student fees; confirm covered fees. Fall2026 rate$36.77/hour; no annual amount inferred."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
 }
