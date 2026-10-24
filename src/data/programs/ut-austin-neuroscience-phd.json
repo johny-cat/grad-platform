@@ -5,15 +5,78 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://neuroscienceinstitute.utexas.edu/how-apply",
+  "details": "checked",
+  "officialUrl": "https://inp.neuroscience.utexas.edu/admissions",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://neuroscienceinstitute.utexas.edu/how-apply",
-      "label": "UT Austin Institute for Neuroscience: How to Apply",
-      "checked": "2026-10-18"
+      "url": "https://graduate.utexas.edu/admissions/apply",
+      "label": "Application fees/waivers/transcripts",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.utexas.edu/admissions/apply/international",
+      "label": "University English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://inp.neuroscience.utexas.edu/admissions/how-apply",
+      "label": "INP requirements/deadline",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://inp.neuroscience.utexas.edu/admissions",
+      "label": "INP selection/recruitment",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://inp.neuroscience.utexas.edu/program-overview",
+      "label": "INP model/support",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://students.gradschool.utexas.edu/portal/graduateapplication",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall PhD application and all materials",
+      "dateText": "November 15",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "79 on120scale or4 on6-pointscale",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "University minimums; official scores required unless qualifying-country/US bachelor exemption."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$65 US;$90 international. Need-based waiver only US citizens/PR pursuing first graduate degree."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose (1–2 pages)",
+      "CV/resume",
+      "Transcripts",
+      "Supplemental INP application"
+    ],
+    "note": "At least one recommender must be research mentor. Both central application and INP supplements required. No specific courses; basic science/math encouraged. Research experience particularly important."
+  },
+  "timeline": {
+    "interviews": "Invitations December; recruitment February24–27,2027."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Undated published $40,000 stipend guaranteed5years for all admitted INP students, subject to good standing, satisfactory academic/professional performance and funds. At least one semester TA. International applicants eligible for some competitive fellowships."
+  }
 }
