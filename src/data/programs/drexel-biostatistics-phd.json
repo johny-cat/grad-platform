@@ -5,15 +5,71 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://drexel.edu/dornsife/academics/degrees/phd-biostatistics",
+  "details": "checked",
+  "officialUrl": "https://drexel.edu/dornsife/academics/degrees/phd-biostatistics/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://drexel.edu/dornsife/academics/degrees/phd-biostatistics",
-      "label": "Drexel Dornsife School of Public Health: PhD in Biostatistics",
-      "checked": "2026-10-18"
+      "url": "https://drexel.edu/dornsife/academics/degrees/phd-biostatistics/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/dornsife/admissions/apply/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/dornsife/admissions/apply/application-deadlines/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/dornsife/admissions/apply/faqs/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/dornsife/admissions/international-students/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://drexel.edu/dornsife/admissions/apply/",
+  "summary": "Biostatistics PhD training in statistical theory, methodology and applications in interdisciplinary health research.",
+  "detailsNote": "Fall 2027 deadline confirmed; admission model not stated on opened official sources.",
+  "requirements": {
+    "gre": "not-accepted",
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "SOPHAS first designation$155; additional$65 per Dornsife FAQ. Limited waivers based on financial, service or international criteria; contact SOPHAS."
+    },
+    "english": {
+      "toefl": "100 (competitive applicant target)",
+      "ielts": 7,
+      "note": "Dornsife international page describes competitive targets, not universal admission minimums. Scores within two years; U.S. degree/country exemptions may apply. FAQ mentions Duolingo but specific international page names TOEFL/IELTS; confirm alternatives."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from all college-level institutions; foreign credential evaluation",
+      "Resume/CV",
+      "Statement of Purpose and Objectives"
+    ],
+    "note": "Accredited bachelor’s or master’s; strong math/statistics and practical/professional/research background. One year calculus including multivariate, linear algebra and calculus-based probability/statistics; prerequisite average at leastB+. SOPHAS application; one program designation."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "2027–2028 acceptance contingent on pending funding lines; part-time/self-pay applicants encouraged. Applicants automatically reviewed for assistantships (tuition remission, insurance subsidy, stipend for20hours/week work); renewals depend on performance and funding. Universal funding not promised."
+  },
+  "deadlines": [
+    {
+      "label": "Fall 2027 doctoral application",
+      "date": "2026-12-01"
+    }
+  ]
 }

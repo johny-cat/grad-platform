@@ -5,15 +5,79 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://drexel.edu/medicine/academics/graduate-programs/microbiology-immunology/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://drexel.edu/medicine/academics/graduate-programs/microbiology-immunology/",
-      "label": "Drexel University College of Medicine: Microbiology & Immunology",
-      "checked": "2026-10-18"
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/medicine/academics/graduate-programs/microbiology-immunology/how-to-apply/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/medicine/academics/graduate-programs/biomedical-science-programs/frequently-asked-questions/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://catalog.drexel.edu/graduate/schoolofbiomedicalsciences/microbiologyandimmunologyphd/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/admissions/apply/grad-instructions",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://drexel.edu/medicine/academics/graduate-programs/microbiology-immunology/how-to-apply/",
+  "summary": "Microbiology and Immunology research training in pathogens, host responses and biomedical research.",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall PhD application: domestic and international",
+      "dateText": "December 15",
+      "note": "No year on official program deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown"
+    },
+    "english": {
+      "toefl": "79 iBT",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Biomedical sciences FAQ also accepts PTE61 or Cambridge185. U.S./U.K./Canada degree exemptions; documented fully English-taught BS/MS elsewhere may request waiver. No new TOEFL scale stated. Program page names TOEFL/IELTS; confirm other accepted tests."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Approximately500-word personal statement",
+      "Resume",
+      "Official transcripts from every college/university",
+      "Math science GPA calculation form"
+    ],
+    "note": "Central bachelor’s-equivalent requirement. Catalog states no program minimums; competitive grades/research/letters expected. Rolling review; apply early. Foreign course-by-course NACES evaluation can follow review but is required after admission and for international math/science GPA form. One program application."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Biomedical sciences FAQ says PhD candidates receive full-tuition fellowship, monthly stipend and health insurance; student fees, dental/vision additional. No explicit all-admitted or international guarantee stated."
+  }
 }
