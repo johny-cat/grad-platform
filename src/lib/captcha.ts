@@ -41,17 +41,24 @@ export async function getCaptchaToken(): Promise<string | undefined> {
   const box = document.createElement('div');
   box.className = 'captcha-box';
   document.body.appendChild(box);
+  let widget: string | undefined;
   try {
     return await new Promise<string>((resolve, reject) => {
-      turnstile.render(box, {
+      widget = turnstile.render(box, {
         sitekey: TURNSTILE_SITE_KEY,
         appearance: 'interaction-only',
         callback: (token: string) => resolve(token),
         'error-callback': () => reject(new Error('The robot check didn\'t pass. Please try again.')),
         'expired-callback': () => reject(new Error('The robot check timed out. Please try again.')),
+        'timeout-callback': () => reject(new Error('The robot check timed out. Please try again.')),
       });
     });
   } finally {
-    setTimeout(() => box.remove(), 0);
+    // Remove the widget itself as well as its box, so pressing the button
+    // again starts a fresh check instead of reusing a failed one.
+    setTimeout(() => {
+      if (widget) turnstile.remove(widget);
+      box.remove();
+    }, 0);
   }
 }
