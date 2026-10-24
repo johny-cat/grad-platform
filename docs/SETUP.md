@@ -12,6 +12,7 @@ whenever something changes.
 | Sign-in | Address settings done on 2026-10-17 (section 3). First sign-in by email link worked on 2026-10-18. |
 | Sign-in emails | Supabase built-in email: a link only, no code, and the templates can't be edited. Reaches project team members only, about 2 per hour. Custom SMTP needed before launch (section 5). |
 | Domain | Not bought yet (site name not final). |
+| No sign-up | Anonymous sign-ins on in Supabase (2026-10-24). Cloudflare Turnstile widget "HeardYet" for grad-platform.pages.dev; site key in `src/config.ts`, secret key only in Supabase (Authentication, Attack Protection, CAPTCHA). When the domain changes, add it to the widget's hostnames. |
 | Google sign-in | Not switched on. |
 
 ## 1. Let Claude push code to GitHub (done)

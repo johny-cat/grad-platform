@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'preact/hooks';
 import SeasonStrip from '../components/SeasonStrip';
 import { fetchProgramResults, isConnected, isDemo, reportContent } from '../lib/api';
-import { signInHref, useSession } from '../lib/session';
+import { ensureSession } from '../lib/session';
 import { todayIso } from '../lib/time';
 import { DECISIONS, DECISION_LABELS, type Decision, type ResultItem } from '../lib/types';
 import ResultRow from './ResultRow';
@@ -17,7 +17,6 @@ interface Props {
 
 /** The program's season timeline with reported results, and the results list. */
 export default function ProgramResults({ slug, cycleId, cycleLabel, season, deadlines, replyBy }: Props) {
-  const { userId } = useSession();
   const [results, setResults] = useState<ResultItem[] | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [filter, setFilter] = useState<Decision | 'all'>('all');
@@ -33,12 +32,9 @@ export default function ProgramResults({ slug, cycleId, cycleLabel, season, dead
   }, [slug, cycleId, live]);
 
   async function flag(result: ResultItem) {
-    if (!userId) {
-      window.location.href = signInHref();
-      return;
-    }
     if (!window.confirm('Flag this report as fake or harmful? Moderators will review it.')) return;
     try {
+      await ensureSession();
       await reportContent('result', result.id, 'fake');
       setMessage('Thanks. Reports flagged by three people are hidden until a moderator checks them.');
     } catch (e) {

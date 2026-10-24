@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'preact/hooks';
 import { isConnected, isDemo, submitResult } from '../lib/api';
-import { signInHref, useSession } from '../lib/session';
+import { ensureSession } from '../lib/session';
 import { todayIso } from '../lib/time';
 import {
   APPLICANT_LABELS,
@@ -22,7 +22,6 @@ interface Props {
 const NOTE_LIMIT = 500;
 
 export default function ReportForm({ programs, cycleId, cycleLabel }: Props) {
-  const { loading, userId } = useSession();
   const today = todayIso();
   const sorted = useMemo(
     () => [...programs].sort((a, b) => a.short.localeCompare(b.short) || a.name.localeCompare(b.name)),
@@ -75,23 +74,6 @@ export default function ReportForm({ programs, cycleId, cycleLabel }: Props) {
       </div>
     );
   }
-  if (loading) return <p class="muted">Checking whether you're signed in…</p>;
-  if (!userId) {
-    return (
-      <div class="empty">
-        <p>
-          <strong>Sign in to report a result.</strong> Reports are anonymous: other people see the decision and date,
-          never who you are. Signing in stops fake reports and lets you edit or delete yours.
-        </p>
-        <p>
-          <a class="btn" href={signInHref()}>
-            Sign in to continue
-          </a>
-        </p>
-      </div>
-    );
-  }
-
   if (done) {
     const chosen = programs.find((p) => p.slug === done);
     return (
@@ -127,6 +109,7 @@ export default function ReportForm({ programs, cycleId, cycleLabel }: Props) {
     if (!decidedOn || decidedOn > today) return setError('Choose the date you heard back. It cannot be in the future.');
     setBusy(true);
     try {
+      await ensureSession();
       await submitResult({
         programSlug: program,
         cycleId,

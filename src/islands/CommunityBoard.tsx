@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'preact/hooks';
 import { createThread, fetchThreads, isConnected, isDemo } from '../lib/api';
-import { signInHref, useSession } from '../lib/session';
+import { ensureSession } from '../lib/session';
 import { SPACES, type Space, type Thread } from '../lib/types';
 import { timeAgo } from '../lib/community';
 
@@ -19,7 +19,6 @@ function tabFromUrl(): Tab {
 
 /** The list of discussions, with a form to start one. */
 export default function CommunityBoard({ programSlug, programName }: Props) {
-  const { userId, loading } = useSession();
   const [tab, setTab] = useState<Tab>(() => (programSlug ? 'all' : tabFromUrl()));
   const [threads, setThreads] = useState<Thread[] | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -56,6 +55,7 @@ export default function CommunityBoard({ programSlug, programName }: Props) {
     setBusy(true);
     setError(null);
     try {
+      await ensureSession();
       const id = await createThread(
         programSlug ? { title: title.trim(), body: body.trim(), programSlug } : { title: title.trim(), body: body.trim(), space },
       );
@@ -117,14 +117,10 @@ export default function CommunityBoard({ programSlug, programName }: Props) {
               </button>
             </div>
           </form>
-        ) : loading ? null : userId ? (
+        ) : (
           <button type="button" class="btn" onClick={() => setComposing(true)}>
             {programSlug ? `Start a discussion about ${programName ?? 'this program'}` : 'Start a discussion'}
           </button>
-        ) : (
-          <a class="btn btn--quiet" href={signInHref()}>
-            Sign in to post
-          </a>
         )}
       </div>
 
