@@ -5,15 +5,60 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://integrativebiology.natsci.msu.edu/graduate-program-1/",
   "cycle": "fall-2027",
-  "sources": [
+  "applyUrl": "https://integrativebiology.natsci.msu.edu/graduate-program-1/prospective-students/",
+  "location": "East Lansing, Michigan",
+  "admissionModel": "lab",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
     {
-      "url": "https://integrativebiology.natsci.msu.edu/graduate-program-1/",
-      "label": "Michigan State University Integrative Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Application deadline",
+      "dateText": "November 15th",
+      "note": "Undated updated deadline; do not assume year."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Old-scale sections: reading/listening/speaking 19, writing 22. New-scale: reading/speaking 4, listening/writing 4.5. IELTS sections at least 6.0. Automatic waivers include qualifying completed U.S./English-speaking-country bachelor's and U.S.-campus AAU master's degrees; other waiver requests go through department."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement: motivation and professional goals",
+      "Research statement: previous work, interests and fit with intended laboratory",
+      "CV",
+      "Official transcripts"
+    ],
+    "note": "Contact prospective faculty before applying; sponsorship important. Suggested preparation: calculus plus additional calculus/statistics, organic chemistry plus additional organic/biochemistry, one semester physics. Missing suggested courses need not prevent application. Graduate School offers McNair and targeted recruitment-event waivers; international eligibility not explicitly stated, confirm. FreeApp participation ends December 31, 2026. Fee amount not established on opened pages."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Doctoral students guaranteed five years of support through teaching/research assistantships; support covers living expenses and tuition. Discuss research costs and funding with faculty."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://integrativebiology.natsci.msu.edu/graduate-program-1/prospective-students/",
+      "label": "Integrative Biology application and funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency",
+      "label": "Graduate English competency",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.msu.edu/admissions/apply",
+      "label": "Graduate School application and waiver options",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }

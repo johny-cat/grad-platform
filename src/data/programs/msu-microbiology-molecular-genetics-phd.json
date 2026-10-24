@@ -5,15 +5,88 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://grad.msu.edu/departments/microbiology-and-molecular-genetics-college-natural-science",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://mmg.natsci.msu.edu/academics/future-students/index.aspx",
+  "applyUrl": "https://biomolecular.natsci.msu.edu/applicants/how-to-apply.aspx",
+  "location": "East Lansing, Michigan",
+  "summary": "Microbiology doctoral admission through the BioMolecular Science gateway, with research rotations before home program and laboratory selection.",
+  "admissionModel": "program",
+  "deadlines": [
     {
-      "url": "https://grad.msu.edu/departments/microbiology-and-molecular-genetics-college-natural-science",
-      "label": "Michigan State University Graduate School: Microbiology and Molecular Genetics",
-      "checked": "2026-10-18"
+      "label": "Fall 2027 BMS gateway application",
+      "date": "2026-12-01"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Old-scale sections: reading/listening/speaking 19, writing 22. New-scale: reading/speaking 4, listening/writing 4.5. IELTS sections at least 6.0. Automatic waivers include qualifying completed U.S./English-speaking-country bachelor's and U.S.-campus AAU master's degrees; other waiver requests go through department."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "GRIT feedback participants may receive waiver; participation deadline October 30 (year unstated). International eligibility not explicit; confirm. Graduate School offers McNair and targeted recruitment-event waivers; international eligibility not explicitly stated, confirm. FreeApp participation ends December 31, 2026."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Academic statement (500–600 words, single spaced)",
+      "Personal statement (500–600 words, single spaced)",
+      "Unofficial transcripts for review; official transcripts/diplomas and certified translations upon acceptance"
+    ],
+    "note": "Select Microbiology & Molecular Genetics (Doctoral) within BMS; only one BMS application reviewed. GRE subject scores optional. No financial affidavit/bank statements required by BMS. Gateway guidelines favor four-year bachelor's, math/science preparation and research. Department handbook expects GPA 3.0, science/math 3.0, year each physics/inorganic/organic chemistry, biochemistry, integral calculus and biology."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 38049,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    },
+    "note": "All BMS admits receive assistantship with living stipend, academic fees, tuition and health insurance. Amount explicitly projected for 2026–27. BMS page funds first two semesters then other sources; department handbook says 1.5 semesters and funding availability/progress conditions. Confirm the transition with program."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://mmg.natsci.msu.edu/academics/future-students/index.aspx",
+      "label": "Department graduate program",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://mmg.natsci.msu.edu/academics/current-students/grad-resources/mgi-graduate-handbook.aspx",
+      "label": "Department PhD requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomolecular.natsci.msu.edu/applicants/how-to-apply.aspx",
+      "label": "BMS Fall 2027 application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomolecular.natsci.msu.edu/applicants/financial-aid-benefits.aspx",
+      "label": "BMS funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency",
+      "label": "Graduate English competency",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.msu.edu/admissions/apply",
+      "label": "Graduate School application and waiver options",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }
