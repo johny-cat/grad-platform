@@ -57,7 +57,7 @@
     {
       "label": "Domestic and international application",
       "dateText": "November 20",
-      "note": "No year stated. Program requests Summer entry in application and starts in lateJuly/August; site fall cycle is tracking only."
+      "note": "No year stated. Program requests Summer entry in application and starts in the end of July; site fall cycle is tracking only."
     }
   ],
   "requirements": {
@@ -84,12 +84,13 @@
       "Unofficial transcripts",
       "Current planned courses if enrolled"
     ],
-    "note": "Preferred undergraduateGPA3.0; no fixed course prerequisites. Prior research encouraged; biology, chemistry/biochemistry, psychology, math and physics useful. Top candidates visitFebruary and decisions follow. Select Summer term; admission model not explicitly confirmed by opened sources."
+    "note": "Preferred undergraduateGPA3.0; no fixed course prerequisites. Prior research encouraged; biology, chemistry/biochemistry, psychology, math and physics useful. Top candidates visitFebruary and decisions follow. Select Summer term; Students generally complete four first-year lab rotations before choosing an advisor."
   },
   "funding": {
     "allFunded": true,
     "coversInternational": "yes",
     "note": "All matriculated students fully supported throughout PhD if good standing/progress, including tuition and healthcare. Published rate$35.53/hour effectiveAugust25,2025 and95%healthcare coverage; confirm current rate. Firstyear program funding, then advisor."
   },
-  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program"
 }

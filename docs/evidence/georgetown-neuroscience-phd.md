@@ -205,3 +205,6 @@ Opened 2026-10-24. Shared exact central evidence: [_georgetown-central.md](_geor
 > See the IPN International Students section for more information.
 
 > Where can I learn more about the Georgetown Campus?
+
+## Independent review — 2026-10-24
+Reopened https://neuroscience.georgetown.edu/admissions/ and confirmed the International Students section. Prior generic funding unknown omitted an explicit program limitation. Changed coversInternational to limited and included the scoped funding priority and external-fellowship route. Exact short support: “give priority to domestic applicants and international applicants with fellowships”; “covers at least 60% ... first two years”. Existing complete source excerpts above support the details. Summer-only intake and undated deadline remain qualified.

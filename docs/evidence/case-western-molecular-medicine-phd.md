@@ -47,3 +47,6 @@ Source: https://www.lerner.ccf.org/education/molecular-medicine/overview/ (opene
 > The first year begins mid-July.
 
 > During or after the second semester of the first year, students select an advisor for their dissertation research.
+
+## Independent review 2026-10-24
+Live https://www.lerner.ccf.org/education/molecular-medicine/faq/ confirms “The application fee for the Molecular Medicine PhD Program is $50.” Program-specific amount primary; generic$85 conflict disclosed. Removed documents/research clauses lacking exact saved support.

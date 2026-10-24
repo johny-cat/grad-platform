@@ -19,3 +19,5 @@ https://tetrad.ucsf.edu/apply (opened)
 
 https://tetrad.ucsf.edu/research-rotations (opened)
 - “Students in their first year must complete a minimum of three (3) research rotations in three (3) different laboratories.”
+
+Independent review2026-10-24: document wording narrowed to exact saved application heading.

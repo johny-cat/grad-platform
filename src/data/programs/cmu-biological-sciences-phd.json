@@ -60,8 +60,8 @@
   "publishedDeadlines": [
     {
       "label": "Application submission",
-      "dateText": "December 1, 11:59 pm",
-      "note": "No entry year or time zone stated."
+      "dateText": "December 1",
+      "note": "Application closes at 11:59 pm; no entry year or time zone stated."
     },
     {
       "label": "Supporting materials and letters",

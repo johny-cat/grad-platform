@@ -10,3 +10,5 @@ https://ils.utexas.edu/prospective-graduate-students/frequently-asked-questions
 "minimum score of 80 on the internet-based TOEFL exam. The IELTS equivalent test score is 6.5-7.0."; "securing an advisor prior to applying for admission is not necessary."; "laboratory rotations in at least three different labs prior to selecting the faculty member"
 https://ils.utexas.edu/current-graduate-students/funding-employment
 "Students are fully supported throughout their years in the program."; "annual gross stipend rate of $40,000 ($3,333/month)"; "In-state tuition coverage"; "Access to university health insurance"; "ISSS semester processing fee coverage (For International Students)"; "Continued funding is based on academic standing and availability of funding."; "at least one (1) semester" (TA requirement).
+
+Independent review 2026-10-24, admissions page: "Please start your application no later than three days prior to the application deadline"; "Recruitment events are typically held in February". Existing FAQ and funding quotations reconfirmed.

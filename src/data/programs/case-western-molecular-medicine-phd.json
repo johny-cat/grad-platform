@@ -56,23 +56,22 @@
     "english": {
       "toefl": "5.0 on or after January21,2026; 90 iBT earlier; 577 paper",
       "ielts": 7,
-      "note": "PTE Academic61 also accepted. Scores valid two years. TOEFL Home Edition accepted; Duolingo, IELTS Indicator/One Skill Retake, TOEFL Essentials/MyBest not accepted. Qualifying English-medium degree/home-language exemptions may apply. Unofficial scores for review; official after admission."
+      "note": "PTE Academic61 also accepted. Scores valid two years. TOEFL Home Edition accepted; Duolingo, IELTS Indicator/One Skill Retake, TOEFL Essentials/MyBest not accepted. A bachelor or master degree taught primarily in English may qualify for an exemption."
     },
     "applicationFee": {
-      "amount": 85,
+      "amount": 50,
       "currency": "USD",
       "waiver": "available",
-      "note": "Central fee$85 conflicts with program FAQ$50; budget safer$85 and confirm. Program accepts requests with subject “MMED application fee waiver request.” International eligibility not expressly restricted, confirm."
+      "note": "Program FAQ states$50; generic Graduate Studies instructions state$85. Confirm amount in application. Program accepts MMED application fee waiver requests; international eligibility not expressly restricted, confirm."
     },
     "letters": {
       "min": 3
     },
     "documents": [
       "Essay and short-answer responses",
-      "Unofficial transcripts",
-      "CV/resume and statement of purpose per central application"
+      "Unofficial transcripts"
     ],
-    "note": "General biology, general chemistry, organic chemistry and biochemistry with C−or better before entry; molecular/cellular biology recommended. Extensive research not necessary but strong candidates generally have experience. One reference from current research mentor. All English tests completed by deadline. Competitive candidates interviewed; final decisions by February. First year begins mid-July."
+    "note": "General biology, general chemistry, organic chemistry and biochemistry with C−or better before entry; molecular/cellular biology recommended. One reference from current research mentor. All English tests completed by deadline. Competitive candidates interviewed; final decisions by February. First year begins mid-July."
   },
   "funding": {
     "allFunded": true,

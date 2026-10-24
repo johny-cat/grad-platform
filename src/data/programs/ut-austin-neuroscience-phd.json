@@ -27,7 +27,7 @@
     {
       "url": "https://inp.neuroscience.utexas.edu/admissions",
       "label": "INP selection/recruitment",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://inp.neuroscience.utexas.edu/program-overview",
@@ -35,8 +35,8 @@
       "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-23",
-  "applyUrl": "https://students.gradschool.utexas.edu/portal/graduateapplication",
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://graduate.utexas.edu/admissions/apply",
   "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
   "publishedDeadlines": [
     {

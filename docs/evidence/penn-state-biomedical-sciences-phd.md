@@ -20,3 +20,7 @@ https://med.psu.edu/education/degree-programs/biomedical-sciences-phd
 
 Shared scoped evidence: [_penn-state-central.md](_penn-state-central.md). Dates/check metadata are administrative; no year inferred for publishedDeadlines.
 
+
+
+## Independent review2026-10-24
+Removed five-emphasis-area count lacking exact saved support. Live apply page confirms undated Dec1/Dec3 and distinct2027interviews.

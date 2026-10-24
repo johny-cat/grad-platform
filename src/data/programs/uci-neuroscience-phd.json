@@ -12,12 +12,12 @@
     {
       "url": "https://inp.uci.edu/admissions-and-application/",
       "label": "INP current admissions",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://inp.uci.edu/curriculum/laboratory-rotations/",
       "label": "INP model",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://inp.uci.edu/wp-content/uploads/sites/20/2025/09/INP_STUDENT_HANDBOOK_2025.26.F.pdf",
@@ -30,7 +30,7 @@
       "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-23",
+  "lastChecked": "2026-10-24",
   "applyUrl": "https://apply.grad.uci.edu",
   "deadlines": [
     {

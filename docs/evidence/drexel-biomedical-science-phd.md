@@ -45,3 +45,6 @@ Source: https://drexel.edu/biomed/academics/graduate-programs/biomedical-science
 Source: https://drexel.edu/biomed/academics/graduate-programs/fellowships-and-assistantships/ (opened 2026-10-23)
 
 > Students with outstanding academic records may qualify for financial support, either as graduate assistants or as Calhoun Fellows.
+
+## Independent review 2026-10-24
+Removed ancillary degree/GPA/evaluation/one-program assertions lacking exact excerpts; substantive documented requirements retained.

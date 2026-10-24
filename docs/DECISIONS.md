@@ -2,6 +2,12 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-24
+
+- **Keep an unconfirmed admission model blank even when the current deadline is known.**
+  A visible `detailsNote` explains the omission. Confirmed requirements and
+  deadlines can still be published; a model is never inferred to satisfy validation.
+
 ## 2026-10-22
 
 - **Publish available official details when the next cycle is not confirmed.**

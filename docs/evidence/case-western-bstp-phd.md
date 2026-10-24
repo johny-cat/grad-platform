@@ -62,3 +62,7 @@ Source: https://case.edu/medicine/bstp/admissions/frequently-asked-questions (op
 > Recommendations must be submitted on official letterhead and signed by the recommender.
 
 > Admissions decisions are generally issued within 1-2 weeks of the interview.
+
+
+## Independent review 2026-10-24
+Live https://case.edu/medicine/bstp/ confirms exception: “students (including CWRU international students)”. Waiver label available, narrow restrictions preserved. Removed unquoted program count, interview range and start-date conflict.

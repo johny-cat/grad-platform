@@ -24,3 +24,5 @@ https://bmi.ucsf.edu/degree-program/progression/rotations-academic-advising (ope
 - “Students select a research advisor by the end of spring quarter of the first year.”
 
 Funding condition: “UCSF commits this support for the entire period of a graduate student’s PhD training, as long as they remain in good standing.”
+
+Independent review2026-10-24: document wording narrowed to exact saved application heading.

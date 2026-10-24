@@ -18,3 +18,7 @@ https://gsbs.tufts.edu/academics/basic-science-phd-programs/neuroscience/neuro-c
 
 Shared scoped evidence: [_tufts-central.md](_tufts-central.md). Dates/check metadata are administrative; no year inferred for publishedDeadlines.
 
+
+
+## Independent review2026-10-24
+Replaced assertion that research is not required with exact evidenced valued/recommended wording.

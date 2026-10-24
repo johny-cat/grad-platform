@@ -10,11 +10,6 @@
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://gpn.uic.edu/about/",
-      "label": "Official program or admission policy",
-      "checked": "2026-10-24"
-    },
-    {
       "url": "https://gpn.uic.edu/apply/application-for-admission/",
       "label": "Official program or admission policy",
       "checked": "2026-10-24"
@@ -47,7 +42,7 @@
   ],
   "lastChecked": "2026-10-24",
   "applyUrl": "https://gpn.uic.edu/apply/application-for-admission/",
-  "summary": "Interdisciplinary Neuroscience PhD training across UIC research laboratories.",
+  "summary": "Neuroscience PhD with first-year research rotations and a thesis advisor selected before the second year.",
   "admissionModel": "program",
   "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
   "publishedDeadlines": [

@@ -48,7 +48,6 @@
   "lastChecked": "2026-10-23",
   "location": "Providence, Rhode Island",
   "applyUrl": "https://apply.graduateschool.brown.edu/portal/gs_app_management",
-  "admissionModel": "lab",
   "requirements": {
     "gre": "not-accepted",
     "english": {
@@ -79,7 +78,7 @@
     "coversInternational": "yes",
     "note": "Central doctoral support applies to domestic and foreign students, conditional on satisfactory academic progress; transfer-student funding may vary."
   },
-  "detailsNote": "Official information available; the published December 1, 2025 deadline is historical and is not confirmed for Fall 2027.",
+  "detailsNote": "Official information available; the published December 1, 2025 deadline is historical and is not confirmed for Fall 2027. A direct lab-admission model is not explicitly established; faculty contact and pre-enrollment interests alone were not used to infer it.",
   "publishedDeadlines": [
     {
       "label": "Published application deadline (historical)",

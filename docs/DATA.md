@@ -23,7 +23,8 @@ published even when Fall 2027 is not confirmed. Store older or undated deadlines
 in `publishedDeadlines` with `label`, the exact `dateText` and a qualifying
 `note`; add `detailsNote` explaining the cycle limitation. Do not assign an
 unstated year, put these dates in countdowns, or present them as Fall 2027.
-Missing admission models may be omitted for these qualified entries.
+Missing admission models may be omitted for entries with a visible `detailsNote`,
+including when a current deadline is confirmed but the admission model is not.
 
 Leave the field out, or use `"unknown"` where the schema asks for it. The
 site then shows "Not stated on official pages". Never fill a gap from memory
@@ -54,7 +55,8 @@ To finish a pending program, check everything on its official pages
 (deadlines, requirements, funding, international applicants, how students
 are admitted), fill in those fields and change `details` to `"checked"`, all
 in one go. The build requires `admissionModel` and `requirements` once a
-program is checked.
+program is checked, unless a visible `detailsNote` explains an unconfirmed
+admission model; requirements remain required.
 
 ## Umbrella programs
 

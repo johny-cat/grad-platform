@@ -2,7 +2,7 @@
 
 # Official information checked 2026-10-23
 
-Permanent identity/cycle retained; administrative metadata is not an admission claim. Shared facts: _miami-central.md. Exact program excerpts:
+Permanent identity/cycle retained; administrative metadata is not an admission claim. All cited facts are recorded below; no separate central evidence file was created. Exact program excerpts:
 
 https://med.miami.edu/graduate-studies/application-instructions
 "Standardized tests (GRE, GMAT) are not required."; "upload transcripts from all colleges and universities attended"; "Unofficial transcripts ... accepted"; "PDF format"; "English translation"; "external evaluation from a NACES member" (international enrollees). "Personal statements should not exceed three single spaced pages"; "minimum of three (and a maximum of five) letters"; "$85 processing fee"; "U.S. citizens or permanent residents may request a fee waiver"; "financial need ... or participation in an approved program"; "TOEFL (iBT) 80 (before January 21, 2026) 4.5 (after January 21, 2026)"; "IELTS (Academic) 6.5"; "Duolingo English Test 125"
@@ -13,3 +13,5 @@ https://bulletin.miami.edu/graduate-academic-programs/medicine/biomedical-scienc
 https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/financial-support
 "All full-time Ph.D. students in the Biomedical Sciences receive"; "Full tuition support (student activity fees are paid by the student)"; "Annual stipend is $46,000 for the 2024-2025 academic year"; "Health insurance is covered at 100%".
 https://med.miami.edu/graduate-studies/doctoral-programs/human-genetics-and-genomics/application-process redirects to first-year-program; official HGG application link establishes gateway scope.
+
+Independent review 2026-10-24, Miller application instructions: "Test results must be less than two years old."; "most do not exceed two" (statement pages). English Home/Essentials distinction, CV conditional requirement, and domestic waiver restriction reconfirmed. PiBS process table: "April 15th" / "National Commitment Deadline".

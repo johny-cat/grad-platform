@@ -85,11 +85,12 @@
       "period": "year",
       "year": "2026–27"
     },
-    "note": "Merit-based fellowships may cover tuition, stipend, health/dental insurance and mandatory fees, subject to full-time enrollment and satisfactory progress; funding is not guaranteed by admission. Central published 2026–27 stipend is $44,605 for 12 months or $40,922 for nine months, not a 2027–28 guarantee. No international funding guarantee established.",
-    "coversInternational": "unknown"
+    "note": "Merit-based fellowships may cover tuition, stipend, health/dental insurance and mandatory fees, subject to full-time enrollment and satisfactory progress. Central 2026–27 stipend: $44,605 for 12 months or $40,922 for nine months; not a 2027–28 guarantee. IPN gives priority to domestic applicants and internationals with external fellowships because NIH grants restrict eligibility. Full internal support has been offered to exceptional few international applicants; applicants with external funding covering at least 60% of first-two-year costs may obtain remaining support.",
+    "coversInternational": "limited"
   },
   "international": {
-    "accepted": "yes"
+    "accepted": "yes",
+    "note": "International applications accepted, but full program funding is limited. Program prioritizes domestic applicants and internationals with home-country fellowships; confirm funding before accepting."
   },
   "admissionModel": "program",
   "timeline": {

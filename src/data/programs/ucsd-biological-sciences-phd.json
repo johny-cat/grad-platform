@@ -32,12 +32,12 @@
     {
       "url": "https://biology.ucsd.edu/education/grad/phd/admissions/application-evaluation-process/index.html",
       "label": "BioSci requirements",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://biology.ucsd.edu/education/grad/phd/admissions/faq/general-program.html",
       "label": "BioSci model/timing",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://biology.ucsd.edu/education/grad/phd/financial-support.html",
@@ -45,7 +45,7 @@
       "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-23",
+  "lastChecked": "2026-10-24",
   "applyUrl": "https://connect.grad.ucsd.edu/apply/",
   "deadlines": [
     {
@@ -55,7 +55,6 @@
       "timezone": "America/Los_Angeles"
     }
   ],
-  "admissionModel": "program",
   "requirements": {
     "gre": "optional",
     "english": {
@@ -89,5 +88,6 @@
   "funding": {
     "coversInternational": "yes",
     "note": "Packages may include tuition, required fees and monthly support; employment eligibility required. International students receive same level as domestic. Program pays international nonresident tuition three years or until candidacy, whichever first."
-  }
+  },
+  "detailsNote": "Admission model varies: BioSci-General students rotate before joining a lab; BioSci-EBE students enter a specific lab directly."
 }

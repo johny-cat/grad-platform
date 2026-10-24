@@ -22,17 +22,17 @@
     {
       "url": "https://ils.utexas.edu/prospective-graduate-students/admissions",
       "label": "ILS Fall2027 requirements",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://ils.utexas.edu/prospective-graduate-students/frequently-asked-questions",
       "label": "ILS English/model",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://ils.utexas.edu/current-graduate-students/funding-employment",
       "label": "ILS support",
-      "checked": "2026-10-23"
+      "checked": "2026-10-24"
     },
     {
       "url": "https://ils.utexas.edu/microbiology/microbiology-program-overview",
@@ -40,8 +40,8 @@
       "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-23",
-  "applyUrl": "https://students.gradschool.utexas.edu/portal/graduateapplication",
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://graduate.utexas.edu/admissions/apply",
   "deadlines": [
     {
       "label": "Fall2027 application",

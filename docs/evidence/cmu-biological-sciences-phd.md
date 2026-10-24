@@ -555,3 +555,6 @@ Checked 2026-10-24. Undated dates remain undated; no entry year inferred. Identi
 > Faculty
 
 > Administration
+
+## Independent review — 2026-10-24
+Reopened program and FAQ. Changed published dateText to the exact contiguous “December 1”; moved closure time 11:59 pm into note. No year or time zone inferred. Requirements/funding and disclosed English exemption conflict match the saved exact evidence.

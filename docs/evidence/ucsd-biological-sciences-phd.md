@@ -12,3 +12,7 @@ https://biology.ucsd.edu/education/grad/phd/admissions/faq/general-program.html
 "BioSci-General students complete a minimum of three rotations"; "BioSci-EBE (Ecology, Behavior & Evolution) students are directly admitted to their lab."; "The earliest offers of admission will be sent in February"; "before the end of April."
 https://biology.ucsd.edu/education/grad/phd/financial-support.html
 "Financial support packages for PhD students may include tuition, required fees, and monthly support."; "International students receive the same level of support as domestic students."; "The Program will pay the non-resident tuition for international students for three years or until they advance to candidacy, (whichever occurs first)."
+
+Independent review 2026-10-24: reopened general-program FAQ and application-evaluation page. Removed the single admission-model label because the already quoted FAQ explicitly distinguishes rotating General entry from direct-lab EBE entry. Current deadline and other requirements retained.
+
+Independent review 2026-10-24: reopened general-program FAQ and application-evaluation page. Removed the single admission-model label because the already quoted FAQ explicitly distinguishes rotating General entry from direct-lab EBE entry. Current deadline and other requirements retained.

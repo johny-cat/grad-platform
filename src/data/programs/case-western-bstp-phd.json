@@ -47,7 +47,7 @@
   ],
   "lastChecked": "2026-10-23",
   "applyUrl": "https://case.edu/medicine/bstp/admissions",
-  "summary": "Biomedical PhD umbrella offering research rotations before selection among 11 participating programs.",
+  "summary": "Biomedical PhD umbrella offering laboratory rotations before selection of a thesis laboratory.",
   "admissionModel": "program",
   "publishedDeadlines": [
     {
@@ -66,12 +66,12 @@
     "english": {
       "toefl": "5.0 on or after January21,2026; 90 iBT earlier; 577 paper",
       "ielts": 7,
-      "note": "PTE Academic61 also accepted. Scores valid two years. TOEFL Home Edition accepted; Duolingo, IELTS Indicator/One Skill Retake, TOEFL Essentials/MyBest not accepted. Qualifying English-medium degree/home-language exemptions may apply. Unofficial scores for review; official after admission."
+      "note": "PTE Academic61 also accepted. Scores valid two years. TOEFL Home Edition accepted; Duolingo, IELTS Indicator/One Skill Retake, TOEFL Essentials/MyBest not accepted. A bachelor or master degree taught primarily in English may qualify for an exemption."
     },
     "applicationFee": {
       "amount": 85,
       "currency": "USD",
-      "waiver": "domestic-only",
+      "waiver": "available",
       "note": "U.S. citizens/permanent residents free through October15. No general international waivers; special exceptions for CWRU students (including international), alumni, employees and U.S. armed-forces veterans; contact BSTP."
     },
     "letters": {
@@ -84,7 +84,7 @@
       "Research experience descriptions and separate research/teaching experience statements",
       "Goals statement"
     ],
-    "note": "Biology, organic chemistry and math through calculus/statistics required; biochemistry/molecular biology recommended. No minimum GPA. International applicants typically need substantial post-bachelor’s research and often advanced degree; applications without post-undergraduate research unlikely considered. At least one recommendation from independent research mentor, letters signed/on letterhead. Do not contact faculty before decision. Rolling interview offers November–March; decisions generally1–2weeks after interview. Program sources disagree July/August1start; confirm."
+    "note": "Biology, organic chemistry and math through calculus/statistics required; biochemistry/molecular biology recommended. No minimum GPA. International applicants typically need substantial post-bachelor’s research and often advanced degree; applications without post-undergraduate research unlikely considered. At least one recommendation from independent research mentor, letters signed/on letterhead. Do not contact faculty before decision. Decisions generally1–2weeks after interview."
   },
   "funding": {
     "allFunded": true,

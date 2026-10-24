@@ -91,3 +91,14 @@ https://compbio.triiprograms.org/about-cbm/program-of-study/
 > Students must complete at least 3 rotations in their first 12 months in the program (beginning in August). Students must rotate in at least 2 institutions.
 
 Broken URLs: WCGS old /bcmb-allied-program404; /admissions/financial-support403 (correct deeperpathopened); CBM ApplytoProgram /admissions/apply-online404 (use own /apply/).
+
+
+## Independent live review 2026-10-24
+https://gradschool.weill.cornell.edu/programs/physiology-biophysics-systems-biology
+“two complementary areas of concentration in quantitative biology, Bioinformatics or Biophysics.”
+https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process
+Timeline: “Interview Invitations Sent (via email) | December / January”; “Interviews (by invitation) | January / February”; “Admissions decisions sent | Mid/Late-February”.
+https://tpcbapply.triiprograms.org/
+“no later than June 20”; “strongly encouraged to solicit an additional external letter” (TPCB faculty recommender).
+https://compbio.triiprograms.org/about-cbm/faq-for-prospective-students/
+“Publications are not required.”; “CBM does not accept letters of recommendation from Interfolio.”; “CBM has no teaching requirements”.

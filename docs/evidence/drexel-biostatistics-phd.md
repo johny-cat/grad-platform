@@ -48,3 +48,7 @@ Source: https://drexel.edu/dornsife/admissions/apply/faqs/ (opened 2026-10-23)
 Source: https://drexel.edu/dornsife/academics/degrees/phd-biostatistics/ (opened2026-10-23)
 
 > All applicants are automatically reviewed for a graduate assistantship, which includes full tuition remission, a health insurance subsidy and a stipend in exchange for 20 hours-a-week of teaching and/or research support, based on department needs.
+
+
+## Independent review 2026-10-24
+Removed country exemption claim lacking saved exact support. Live page confirms2027–28 pending funding caveat.
