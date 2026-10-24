@@ -5,15 +5,71 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.cmu.edu/bio/graduate/phd_bs/index.html",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.cmu.edu/bio/graduate/phd_bs/index.html",
-      "label": "Carnegie Mellon University: Ph.D. in Biological Sciences",
-      "checked": "2026-10-18"
+      "label": "Official admissions, requirements or funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.cmu.edu/bio/graduate/faq.html",
+      "label": "Official admissions, requirements or funding",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "86 overall; Reading 22, Listening 22, Speaking 20, Writing 22 (published legacy scale)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "IELTS Reading/Listening 6.5, Speaking/Writing 6.0. DET Literacy 105, Conversation 95, Comprehension 115, Production 90. Below any minimum means no review. Unofficial copies accepted initially; admitted students accepting must supply official scores by April 15. Main page offers exemptions for degrees completed fully in residence in US/majority-English countries within four years; FAQ says tests always required and permits eligible older scores up to five years. Follow stricter FAQ and confirm the conflict."
+    },
+    "applicationFee": {
+      "amount": 25,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Same fee for all applicants; waiver requests will not be considered."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts; official copies only after admission",
+      "International transcripts: course-by-course WES evaluation, uploaded unofficial scan plus unofficial transcript; do not send official WES during application",
+      "Statement of purpose, 1–2 pages: research experience and your role, interests, reasons for PhD and CMU"
+    ],
+    "note": "Recognized four-year bachelor’s degree or equivalent; broad biology preparation and depth in a biological subfield. GRE optional and reviewed if submitted; unofficial initial scores, official if admitted. Letters: At least one from the college most recently attended."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All PhD students regardless of national origin receive yearly tuition remission, a competitive stipend and medical insurance. No current stipend amount stated."
+  },
+  "applyUrl": "https://www.cmu.edu/bio/graduate/phd_bs/index.html",
+  "admissionModel": "program",
+  "summary": "Doctoral training in biological sciences with three first-year laboratory rotations.",
+  "detailsNote": "The official December deadlines do not state an entry year; Fall 2027 is not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Application submission",
+      "dateText": "December 1, 11:59 pm",
+      "note": "No entry year or time zone stated."
+    },
+    {
+      "label": "Supporting materials and letters",
+      "dateText": "December 5",
+      "note": "Submit all materials by this date. The main page calls this priority review; the FAQ says required for full consideration and does not accept late applications."
+    }
+  ],
+  "timeline": {
+    "decisions": "All applicants notified by April 1; decisions begin rolling in December/January. Recurring timing, no year stated."
+  }
 }

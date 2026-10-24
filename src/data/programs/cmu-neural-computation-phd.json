@@ -5,15 +5,55 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.cmu.edu/ni/academics/pnc",
+  "details": "checked",
+  "officialUrl": "https://www.cmu.edu/ni/academics/grad/programs/phd-neural-computation",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.cmu.edu/ni/academics/pnc",
-      "label": "Carnegie Mellon Neuroscience Institute: Program in Neural Computation",
-      "checked": "2026-10-18"
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process",
+      "label": "Official admissions, requirements or funding",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "Non-native English speakers must provide TOEFL or DET; IELTS accepted but TOEFL/DET preferred. Tests normally expire after two years. Prior US-degree holders may submit older scores. Tests still required for non-native applicants with non-US undergraduate degrees, including UK/Canada. No numeric cutoff stated."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No fee to submit a PhD application; no waiver needed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "English unofficial PDF transcripts from every college/university attended, even without a degree",
+      "Resume/CV in PDF",
+      "Research statement, 1–2 pages: education, research roles/results, proposed interests and faculty fit"
+    ],
+    "note": "GRE optional; applications with and without scores fully reviewed. No GPA cutoff. Faculty contact encouraged to establish availability; identify potential faculty in statement/application. If generative AI is used, briefly disclose how at the end of the essay; content must reflect your own voice. Joint PNC programs with ML/Robotics/Statistics are petitioned only after PNC acceptance, not direct applications. Letters: At least two from faculty or recent employers; electronic submission only. Submit by December 1 despite another FAQ allowing a longer period for recommenders."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All NI PhD candidates funded regardless of immigration status: full tuition for at least five years with satisfactory progress, annually set living stipend, 100% individual SHIP premium, $500/year travel and one-time computer purchase. Dental and vision cost extra."
+  },
+  "applyUrl": "https://www.cmu.edu/ni/academics/grad/grad-application-process",
+  "location": "Pittsburgh, Pennsylvania",
+  "summary": "PhD training in neural computation through Carnegie Mellon’s Neuroscience Institute.",
+  "detailsNote": "December 1 is a recurring deadline without an entry year. Fall 2027 and a single admission model are not confirmed by these pages.",
+  "publishedDeadlines": [
+    {
+      "label": "Complete PhD application",
+      "dateText": "December 1st",
+      "note": "All materials, recommendations and applicable tests due for the following fall; no year or time zone stated."
+    }
+  ]
 }

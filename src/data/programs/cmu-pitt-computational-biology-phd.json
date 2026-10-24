@@ -5,15 +5,82 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.cmu.edu/compbio/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://www.cmu.edu/compbio/",
-      "label": "Carnegie Mellon University: Joint CMU-Pitt Ph.D. Program in Computational Biology",
-      "checked": "2026-10-18"
+      "url": "https://www.cmu.edu/compbio/prospective-students/apply.html",
+      "label": "Official admissions, requirements or funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.cmu.edu/compbio/prospective-students/admissions-faq.html",
+      "label": "Official admissions, requirements or funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions",
+      "label": "Official admissions, requirements or funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.cmu.edu/compbio/curriculum/curriculum-overview.html",
+      "label": "Official admissions, requirements or funding",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "100 iBT (also publishes 250 computer / 600 paper)",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Normally less than two years old. No English-test waiver for non-native English speakers, including English-medium/US degrees. US bachelor’s/master’s holders may submit expired scores up to five years old. TOEFL/IELTS preferred; DET only if unable to take them despite best efforts. SCS admitted-score ranges are descriptive, not additional minimums."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$80 if applying before November 18, 2026 at 3 pm EST. Financial-hardship/program-participation waiver through application; no US-only limitation stated, international applicants should confirm eligibility."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Uploaded transcripts; official copies after admission",
+      "Current resume/CV",
+      "Personal/research statement; SCS generally recommends a concise 1–2-page essay, with program-specific instructions in application"
+    ],
+    "note": "Prior research/publications viewed favorably but not required; prior master’s not required. Backgrounds include physical/biological sciences, math, statistics and engineering; programming/data structures/algorithms remediation may be recommended. Identify at least three potential thesis faculty. Contact optional; faculty cannot promise admission. GRE not required per current program application page despite older FAQ reference. SCS permits up to three doctoral applications; each has separate fee. Letters: At least two faculty or recent employers; online. Follow program complete-by-deadline rule."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All enrolled students receive full tuition, stipend and health insurance support; no additional financial-aid application needed. No stipend amount stated."
+  },
+  "applyUrl": "https://www.cs.cmu.edu/education/graduate-admissions",
+  "location": "Pittsburgh, Pennsylvania",
+  "admissionModel": "program",
+  "summary": "Joint CMU–Pittsburgh doctoral training in computational biology, with admission through either university.",
+  "deadlines": [
+    {
+      "label": "Early application; discounted fee",
+      "date": "2026-11-18",
+      "time": "15:00",
+      "timezone": "America/New_York"
+    },
+    {
+      "label": "Final complete application",
+      "date": "2026-12-09",
+      "time": "15:00",
+      "timezone": "America/New_York",
+      "note": "Fall 2027. Program says no exceptions and incomplete applications cannot be evaluated."
+    }
+  ]
 }
