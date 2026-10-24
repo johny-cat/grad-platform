@@ -5,15 +5,58 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://icahn.mssm.edu/education/phd/neuroscience",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://icahn.mssm.edu/education/phd/neuroscience",
       "label": "Icahn School of Medicine at Mount Sinai: PhD in Neuroscience",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://icahn.mssm.edu/education/admissions/graduate-education/phd-neuroscience",
+      "label": "Mount Sinai: PhD in Neuroscience admissions",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Mount Sinai's PhD in Neuroscience, applied to directly through the Icahn school's online application. The admissions page lists what to submit and notes the GRE is not used.",
+  "applyUrl": "https://applygs.mssm.edu/security/login.aspx?ReturnUrl=%2f",
+  "detailsNote": "Official information available; the published December 1 deadline has no year stated, so Fall 2027 is not confirmed. How students are admitted, funding and minimum English scores are not stated on the official pages we opened, so they are left out.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (no year stated)",
+      "dateText": "December 1",
+      "note": "The admissions page says 'All application materials are due by December 1 and the review begins in December.' No year is given; confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL is required if English is your second language. Minimum scores and exemptions are not stated on this page."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The Neuroscience admissions page does not mention fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Completed online application",
+      "Transcripts from post-secondary institutions attended (copies accepted; official transcripts required if you enroll)",
+      "Foreign transcripts translated into English with a General Analysis evaluation from a certified credential evaluation service (international applicants)"
+    ],
+    "note": "The page asks for significant research experience in an academic or industry setting."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The page says applications are encouraged 'regardless of country of origin'."
+  },
+  "timeline": {
+    "interviews": "The page says applicants will hear about interviews during review, and decisions come within three weeks of the interview."
+  }
 }

@@ -5,15 +5,57 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.purdue.edu/academics/ogsps/pulse/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.purdue.edu/academics/ogsps/pulse/",
-      "label": "Purdue Graduate School: Interdisciplinary Life Science Program (PULSe)",
-      "checked": "2026-10-18"
+      "label": "Purdue Graduate School: PULSe",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/",
+      "label": "Purdue PULSe: Admissions",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Purdue's interdisciplinary life science PhD, entered in fall only, where students rotate through labs in their first year before choosing a research home among the PULSe training groups.",
+  "applyUrl": "https://gradapply.purdue.edu/apply/",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; the published December 1 deadline says 'each year' with no year stated, so Fall 2027 is not confirmed. English test minimums, the letter count and the full document list are not stated on the PULSe pages we opened, so they are left out.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (no year stated)",
+      "dateText": "December 1 each year",
+      "note": "PULSe says 'The application deadline is December 1 each year, however we begin reviewing applications in November.' No year is given. Confirm Fall 2027 directly."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected applicants residing in the United States may be invited to visit campus to meet faculty and current students."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "PULSe page: $60 for domestic applicants and $75 for international applicants, paid online by credit card. It does not mention fee waivers."
+    },
+    "documents": [
+      "Electronic application through the Purdue Graduate School",
+      "Personal statement (best kept to about 500 words)"
+    ],
+    "note": "PULSe says a successful application comes from an academically strong student with previous research experience, documented by letters of recommendation. Entry is for the fall semester only."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students, US and international, receive paid tuition and an assistantship for the first year, with a PULSe stipend of $33,000 (no year stated). Later support comes from training grants, the major professor's grants, or assistantships and 'will meet or exceed' first-year support."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The page states international students receive first-year funding and pay a higher application fee ($75)."
+  }
 }

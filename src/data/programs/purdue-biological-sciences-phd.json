@@ -5,15 +5,57 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.bio.purdue.edu/Academic/graduate/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.bio.purdue.edu/Academic/graduate/",
       "label": "Purdue Department of Biological Sciences: Graduate Programs",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.bio.purdue.edu/Academic/graduate/prospective-students-new.html",
+      "label": "Purdue Department of Biological Sciences: Prospective students",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Purdue's Department of Biological Sciences PhD, with one December 1 application deadline for domestic and international applicants and a guaranteed five years of funding for admitted PhD students.",
+  "applyUrl": "https://gradapply.purdue.edu/apply/",
+  "detailsNote": "Official information available; the published December 1 deadline says 'each year' with no year stated, so Fall 2027 is not confirmed. How students are admitted (rotations or a lab match), the application fee amount, GRE policy and minimum English scores are not stated on the department pages we opened, so they are left out. Purdue's Graduate School pages did not state English minimums.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (no year stated)",
+      "dateText": "December 1 each year",
+      "note": "The department says 'The annual deadline for our program is December 1', applying to all domestic and international applicants. Materials can arrive after the deadline but incomplete applications may be assessed less favorably. Confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "All international applicants must submit a TOEFL, meeting the Purdue Graduate School's minimums; IELTS and Duolingo are also accepted. Waivers can be requested for applicants from official English-speaking countries. No scores are stated on the pages we opened."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from previous degrees or institutions attended",
+      "At least three recommendation letters",
+      "Academic statement of purpose",
+      "Personal history statement",
+      "Resume",
+      "Department questionnaire (10 questions)"
+    ],
+    "note": "Application fee: paid online by credit card; the amount is not stated on the department page. The fee 'can be waived under certain circumstances, one time only', for example for people who attend the virtual Purdue Graduate Information Session; the page lists no international-specific rule. Applicants interested in specific labs are encouraged, but not required, to contact faculty first."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The current PhD and MS thesis stipend is $34,700 a year (the page gives no year; total package about $72,234 with health insurance and tuition remission). PhD students are guaranteed at least five years of support. International students pay an additional $50 fee per session. The page does not say whether the guarantee covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The department lists an international deadline and requirements (TOEFL, with IELTS and Duolingo also accepted)."
+  }
 }

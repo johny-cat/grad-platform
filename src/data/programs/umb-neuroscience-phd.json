@@ -5,15 +5,67 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.medschool.umaryland.edu/programs/program-in-neuroscience/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.medschool.umaryland.edu/programs/program-in-neuroscience/",
       "label": "University of Maryland School of Medicine: Program in Neuroscience",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://lifesciences.umaryland.edu/neuroscience/",
+      "label": "UMB Graduate Program in Life Sciences: Neuroscience",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://lifesciences.umaryland.edu/neuroscience/how-to-apply/",
+      "label": "UMB Neuroscience: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://lifesciences.umaryland.edu/prospective/application-deadlines/",
+      "label": "UMB Graduate Programs in Life Sciences: 2026 application deadlines",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "A University of Maryland, Baltimore PhD in neuroscience spanning medicine, dentistry and nursing. Students complete coursework in about 15 months, with 2-3 lab rotations in year one.",
+  "applyUrl": "https://lifesciences.umaryland.edu/neuroscience/how-to-apply/",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "Page: 'Applications for the Program in Neuroscience must be completed by December 1st'; the Graduate Programs in Life Sciences '2026 Application Deadlines' page lists Neuroscience PhD: December 1, 2026. No time is stated."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "The program accepts the TOEFL, IELTS or Duolingo English Test. Minimum scores are not stated on the pages we opened."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Completed online application",
+      "Transcripts from each college or university attended (unofficial accepted for review)",
+      "Personal statement",
+      "CV or resume",
+      "Three letters of recommendation",
+      "International applicants: transcript evaluation from a NACES member agency and one English plus one native-language official transcript per institution"
+    ],
+    "note": "The application fee and fee waivers are not stated on the pages we opened."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Students are fully supported by the Graduate Program in Life Sciences and training grants for the first 15 months, then fully supported by their dissertation research lab. No stipend amount is stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants must submit an English proficiency score and a credential evaluation."
+  }
 }

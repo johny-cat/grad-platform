@@ -5,15 +5,99 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://plantbiology.ucr.edu/graduate-program",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://plantbiology.ucr.edu/graduate-program",
-      "label": "UC Riverside Plant Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "label": "UC Riverside Plant Biology: Graduate program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://plantbiology.ucr.edu/graduate-program/how-to-apply",
+      "label": "UC Riverside Plant Biology: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://plantbiology.ucr.edu/funding",
+      "label": "UC Riverside Plant Biology: Funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://plantbiology.ucr.edu/graduate-program/entry-requirements",
+      "label": "UC Riverside Plant Biology: Entry requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.ucr.edu/admission-requirements",
+      "label": "UC Riverside Graduate Division: Admission requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.ucr.edu/fee-waivers",
+      "label": "UC Riverside Graduate Division: Fee waivers",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "UC Riverside's Plant Biology PhD in the Department of Botany and Plant Sciences, with an early funding consideration deadline. Admitted PhD students are supported through assistantships, fellowships and scholarships.",
+  "applyUrl": "https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student",
+  "deadlines": [
+    {
+      "label": "Deadline for department-paid application fee (domestic PhD applicants)",
+      "date": "2026-11-20",
+      "note": "Page: 'November 20, 2026 11:59 pm' for department-paid application fees (time zone not stated). This is a fee deadline, not the application deadline."
+    }
+  ],
+  "detailsNote": "Official information available; the application deadlines (December 1 for fellowship consideration, June 1 admission-only) have no year stated on the page, so Fall 2027 is not confirmed. The admission model is not stated, so it is left out.",
+  "publishedDeadlines": [
+    {
+      "label": "Fellowship consideration, fall (no year stated)",
+      "dateText": "December 1",
+      "note": "Page lists Fall - December 1 (Fellowship Consideration) for domestic and international applicants. No year is given. Confirm Fall 2027 directly."
+    },
+    {
+      "label": "Admission only, domestic, fall (no year stated)",
+      "dateText": "June 1",
+      "note": "Page lists domestic Fall - June 1st (Admission Only). No year is given."
+    },
+    {
+      "label": "Early funding consideration, fall quarter (no year stated)",
+      "dateText": "November 20",
+      "note": "Page lists November 20th as the Deadline for Early Funding Consideration for Fall Quarter. No year is given."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 (iBT, before January 21, 2026); 4.0 (iBT, effective January 21, 2026)",
+      "ielts": 7,
+      "note": "TOEFL scores are required of international students; no program-specific minimum is stated. UCR Graduate Division minimums: IELTS Academic overall 7 with no component below 6. Exemption for degrees from institutions where English is the sole language of instruction."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The department pays the fee for qualifying domestic Plant Biology PhD applicants (for example cumulative GPA of 3.3 or higher). UCR Graduate Division: 'Only U.S. Citizens and U.S. Permanent Residents may request a waiver for the application fee.' The 2027-28 hardship waiver form opened October 1, 2026."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Graduate statement of purpose",
+      "Optional GRE scores",
+      "TOEFL scores (international students)"
+    ],
+    "note": "Entry prerequisites include general biology, general chemistry, genetics, calculus, biochemistry or ecology, statistics and plant biology courses; missing courses can be taken after entry."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "note": "Page: all PhD students admitted are supported by research assistantships, scholarships, teaching assistantships or fellowships, 'or (for foreign students) by grants from other countries or international agencies'. No amounts are stated."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }

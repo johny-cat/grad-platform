@@ -5,15 +5,67 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/interdisciplinary/genetics-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/interdisciplinary/genetics-phd/",
-      "label": "Texas A&M Graduate Catalog: Doctor of Philosophy in Genetics and Genomics",
-      "checked": "2026-10-18"
+      "label": "Texas A&M Catalog: Genetics and Genomics PhD",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://genetics.tamu.edu/",
+      "label": "Texas A&M Genetics and Genomics: Home",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://genetics.tamu.edu/ph-d-admissions/",
+      "label": "Texas A&M Genetics and Genomics: PhD admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.tamu.edu/apply/graduate.html",
+      "label": "Texas A&M Admissions: Graduate application fee and waivers",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Texas A&M's interdisciplinary PhD in Genetics and Genomics. Students do lab rotations in the first year and typically choose a research lab by the start of the second semester; accepted students receive a fellowship.",
+  "applyUrl": "https://texasam2027.cas.myliaison.com/applicant/login",
+  "admissionModel": "program",
+  "detailsNote": "Official information available, but the program pages do not state an application deadline, so no deadline is shown and Fall 2027 dates are not confirmed. The program's PhD application is open (portal labelled 2027). Minimum English scores, the letter count and interview timing are not stated.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "Applicants whose native language is not English should plan to take the TOEFL. No minimum is stated."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Texas A&M charges $65 plus a centralized application service fee. The fee 'may be waived only in exceptional cases for low-income applicants and McNair Scholars', shown by a Pell Grant award letter or SAR, or a McNair Program Director letter. The page does not say whether international applicants qualify; confirm."
+    },
+    "documents": [
+      "Undergraduate record (coursework, laboratory experience, grades)",
+      "Letters of recommendation",
+      "Resume",
+      "Statement of purpose"
+    ],
+    "note": "Applicants get a holistic evaluation by the admissions committee. Number of letters is not stated."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 36000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-27"
+    },
+    "note": "Accepted students receive a fellowship covering tuition, fees, health insurance and a stipend that 'starts at $36,000' for 2026-27, granted regardless of financial need. International coverage is not addressed."
+  },
+  "international": {
+    "accepted": "unknown"
+  }
 }

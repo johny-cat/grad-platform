@@ -5,15 +5,46 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://graduate.umaryland.edu/academics/programs/molecular-medicine-doctoralphd",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://graduate.umaryland.edu/academics/programs/molecular-medicine-doctoralphd",
-      "label": "University of Maryland, Baltimore Graduate School: Molecular Medicine, PhD",
-      "checked": "2026-10-18"
+      "label": "University of Maryland, Baltimore: Molecular Medicine PhD",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://lifesciences.umaryland.edu/prospective/application-deadlines/",
+      "label": "UMB Graduate Programs in Life Sciences: 2026 application deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://lifesciences.umaryland.edu/prospective/",
+      "label": "UMB Graduate Programs in Life Sciences: Prospective students",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "An interdisciplinary umbrella PhD program at the University of Maryland School of Medicine, listed with a December 1 application deadline.",
+  "applyUrl": "https://lifesciences.umaryland.edu/neuroscience/how-to-apply/",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "The Graduate Programs in Life Sciences '2026 Application Deadlines' page lists Molecular Medicine PhD: December 1, 2026. No time is stated."
+    }
+  ],
+  "detailsNote": "Official information is limited: the program page gives only the deadline, a program description and contacts. How students are admitted, the application fee, letters and funding are not stated on the pages we opened, so they are left out. GRE and English points come from the Graduate Programs in Life Sciences admissions page.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "The Graduate Programs in Life Sciences accept the TOEFL, IELTS or Duolingo English Test; minimum scores are not stated on the pages we opened."
+    },
+    "note": "The Graduate Programs in Life Sciences page says only three of its programs require the GRE (Epidemiology and Human Genetics PhD and MS, Physical Rehabilitation Science PhD); Molecular Medicine is not among them. International applicants provide an official English transcript and a native-language transcript, plus a transcript evaluation."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants must provide transcript evaluations and English proficiency evidence."
+  }
 }
