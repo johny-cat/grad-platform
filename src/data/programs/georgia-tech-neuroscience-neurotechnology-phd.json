@@ -5,15 +5,80 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The Fall 2027 deadline comes from the application portal entry for the Psychological and Brain Sciences pathway; other pathways were not checked separately. Whether students apply to a lab or a program is not stated, so no admission model is shown. Letters of recommendation are not stated.",
+  "summary": "Georgia Tech PhD in neuroscience and neurotechnology. Applicants choose an admissions pathway (Biological Sciences, Psychology or Biomedical Engineering) matching their first-choice advisor's school.",
   "officialUrl": "https://neuro.gatech.edu/node/2467",
+  "applyUrl": "https://gradapp.gatech.edu/portal/program-info?cmd=view-program&program=c5c6fb41-0ce4-a1d6-b713-2725bbff543d",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Portal lists Fall 2027 as December 1, 2026; all deadlines are 11:59 PM Eastern Time."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "100 (iBT, minimum score of 19 for each section)",
+      "ielts": 7.5,
+      "note": "IELTS 7.5 with at least 6.5 in listening, reading and speaking and 5.5 in writing (program page). Georgia Tech's general minimums are lower: TOEFL 4.5 (new scale), IELTS 7.0."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Georgia Tech waivers recognize outstanding undergraduate achievement and recruitment events; international applicants must complete all application materials before requesting one. Fee: $95 domestic, $105 international."
+    },
+    "documents": [
+      "Four-year US bachelor's degree or equivalent",
+      "English proficiency scores"
+    ]
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 37500,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-2026"
+    },
+    "note": "Full-time PhD students receive a tuition waiver and monthly stipend through graduate assistantships. Rotations are not required for students who establish an advisor when entering."
+  },
   "sources": [
     {
       "url": "https://neuro.gatech.edu/node/2467",
-      "label": "Georgia Tech Neuro: Ph.D. in Neuroscience and Neurotechnology",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuro.gatech.edu/training-page/graduate-academic-programs/phd",
+      "label": "Neuroscience and Neurotechnology: PhD program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradapp.gatech.edu/portal/program-info?cmd=view-program&program=c5c6fb41-0ce4-a1d6-b713-2725bbff543d",
+      "label": "Georgia Tech application portal: program information",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.gatech.edu/admissions/domestic/ready-to-apply",
+      "label": "Georgia Tech Graduate Admissions: Domestic applicants (fee)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.gatech.edu/admissions/international/ready-to-apply",
+      "label": "Georgia Tech Graduate Admissions: International applicants (fee, waivers)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://catalog.gatech.edu/admissions/grad/english-proficiency-intl-students/",
+      "label": "Georgia Tech catalog: English proficiency",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

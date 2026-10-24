@@ -5,15 +5,79 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. December 1 is published without a year, so it is not confirmed for Fall 2027. The GRE and letters of recommendation are not stated on the pages opened. Home Schools admit students and set stipend policy, so no admission model is shown.",
+  "summary": "Interdisciplinary Georgia Tech PhD in quantitative biosciences. Students are admitted through a Home School and do two faculty rotations in the spring of the first year.",
   "officialUrl": "https://qbios.gatech.edu/",
+  "applyUrl": "https://qbios.gatech.edu/apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1 (students enter in August)",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "4.5 overall (new scale, Georgia Tech general minimum)",
+      "ielts": 7,
+      "note": "Georgia Tech's general minimums; the program may ask for more. Degree-based exemptions exist."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Georgia Tech waivers recognize outstanding undergraduate achievement and recruitment events; international applicants must complete all application materials before requesting one. Fee: $95 domestic, $105 international. The program's apply page says it offered fee waivers to all qualified applicants for fall 2025; requests must be sent before submitting the application. Not confirmed for later years."
+    }
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 37500,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-2026"
+    },
+    "note": "Full-time PhD students are supported with a tuition waiver and monthly stipend. Handbook: students are typically supported by a teaching assistantship in the first year; each Home School sets its own stipend policy."
+  },
   "sources": [
     {
       "url": "https://qbios.gatech.edu/",
-      "label": "Georgia Tech: Interdisciplinary Graduate Program in Quantitative Biosciences",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://qbios.gatech.edu/apply",
+      "label": "QBioS: Apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://qbios.gatech.edu/overview",
+      "label": "QBioS: Overview",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://qbios.gatech.edu/faqs",
+      "label": "QBioS: FAQs",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.gatech.edu/admissions/domestic/ready-to-apply",
+      "label": "Georgia Tech Graduate Admissions: Domestic applicants (fee)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.gatech.edu/admissions/international/ready-to-apply",
+      "label": "Georgia Tech Graduate Admissions: International applicants (fee, waivers)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://catalog.gatech.edu/admissions/grad/english-proficiency-intl-students/",
+      "label": "Georgia Tech catalog: English proficiency",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

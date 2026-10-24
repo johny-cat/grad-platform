@@ -5,13 +5,88 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The December 1 PhD deadline is published without a year, so it is not confirmed for Fall 2027. A direct admission model is not stated; the BMEB page mentions laboratory rotations only, so none is shown.",
+  "summary": "PhD track in biomolecular engineering and bioinformatics within the UC Santa Cruz Baskin School of Engineering. New students take core courses and do laboratory rotations.",
   "officialUrl": "https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/biomolecular-engineering/biomolecular-engineering-and-bioinformatics-phd",
+  "applyUrl": "https://applygrad.ucsc.edu/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (PhD)",
+      "dateText": "December 1",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program. Page is marked updated 10/08/2026 but gives no year."
+    }
+  ],
+  "timeline": {
+    "decisions": "Offers typically go out from mid-February through March, with waitlist offers possibly into mid-April. Acceptance must reach the Graduate Studies Office by April 15."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "89 on the older scale (PBSE page, for CB3 and BMEB). The Graduate Division lists 4.5 for certain programs and 4.0 for all others on the 2026 scale, 83 on the older scale for all other programs.",
+      "ielts": 7,
+      "note": "Required of applicants from countries where English is not the primary language. Teaching assistants also need a Speaking score (TOEFL 5.0 or IELTS 8). Duolingo is not mentioned. A waiver exists for applicants with a four-year bachelor's degree from an English-speaking institution, issued only to admitted applicants."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "PBSE page: $135, and $155 for international applicants; non-refundable. The Graduate Division page does not state an amount. The Graduate Division limits waivers to US citizens, AB 540 students and permanent residents; the PBSE page says US citizens with financial need can request one."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal history statement",
+      "Unofficial transcripts (official sealed transcripts required before enrolling)"
+    ],
+    "note": "Letters must be electronic. Requirements for the statements vary by program."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "PBSE page: students receive support throughout their graduate career, contingent on academic standards; support includes full tuition remission, student health insurance and a monthly stipend. Because of limited resources, only a small number of offers go to non-US residents. No stipend amount is given."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Offers to non-US residents are limited by funding; see the funding note."
+  },
   "sources": [
     {
       "url": "https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/biomolecular-engineering/biomolecular-engineering-and-bioinformatics-phd",
-      "label": "Opened official2026–2027 catalog program",
+      "label": "UCSC catalog: BMEB PhD",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://pbse.ucsc.edu/bme/",
+      "label": "PBSE: BMEB track",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://pbse.ucsc.edu/resources/application-procedures/",
+      "label": "PBSE: Application procedures (GRE, letters, English, fee)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://pbse.ucsc.edu/resources/financial-support/",
+      "label": "PBSE: Financial support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/application-deadlines/",
+      "label": "UCSC Graduate Admissions: Application deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/test-score-requirements/",
+      "label": "UCSC Graduate Admissions: Test score requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/how-to-apply/",
+      "label": "UCSC Graduate Admissions: How to apply",
       "checked": "2026-10-24"
     }
   ],

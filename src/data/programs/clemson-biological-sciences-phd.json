@@ -5,15 +5,76 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The December 1 deadline is stated as recurring 'each year' with no Fall 2027 date, so it is not confirmed for Fall 2027. Students may join a specific lab directly or rotate, so no single admission model is shown.",
+  "summary": "PhD in the Department of Biological Sciences at Clemson. Students are admitted either directly to a faculty member's lab or through first-year rotations.",
   "officialUrl": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-biosci.html",
+  "applyUrl": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (PhD)",
+      "dateText": "December 1 of each year",
+      "note": "Department page says the graduate deadline is December 1 \"generally for a start in the following fall semester\"; no Fall 2027 date is stated. Confirm with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "At least 102 (out of 120) with a speaking score above 20 (department); University minimum 4.0 on the new scale",
+      "ielts": 7.5,
+      "duolingo": 120,
+      "note": "For international students except those from countries where English is the official language; scores no more than two years old. University minimums are IELTS 6.5 and Duolingo 115; the department asks for more. Degree-based exemptions exist."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Clemson's Graduate School says there is no fee to apply."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose (no more than two pages)",
+      "Unofficial transcripts from every college or university attended (official ones required on acceptance)",
+      "Letters of recommendation (not from the proposed research advisor, who submits a separate letter)"
+    ],
+    "note": "Direct-admission applicants also need a letter of support from the potential advisor."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students can be supported through a teaching assistantship, research assistantship or fellowship; rotation students are supported as teaching assistants in their first year. No stipend amount is given."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-biosci.html",
-      "label": "Clemson University: Biological Sciences graduate programs",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html",
+      "label": "Department: Apply to the program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/cost-and-aid.html",
+      "label": "Clemson Graduate Admissions: Cost and aid",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/",
+      "label": "Clemson Graduate Admissions: Apply (fee)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/international-applicants/elp-requirement.html",
+      "label": "Clemson Graduate Admissions: English language proficiency",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

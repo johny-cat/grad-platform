@@ -5,15 +5,73 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. December 1 is published without a year (the program page speaks of the class of 2026), so it is not confirmed for Fall 2027. The application fee is $150 on the newer admissions page; the program page says $100 and an older page says $75.",
+  "admissionModel": "program",
+  "summary": "Guarini School PhD program in molecular and cellular biology at Dartmouth. Students complete three research rotations, selected at the beginning of each term.",
   "officialUrl": "https://graduate.dartmouth.edu/mcb",
+  "applyUrl": "https://apply.gs.dartmouth.edu/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1 (November 15 priority deadline)",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are held virtually in January."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 or higher (recommended)",
+      "ielts": 7,
+      "duolingo": 135,
+      "note": "Required for non-US citizens unless the degree is from a US or Canadian institution or the language of instruction was English. The scores are recommended ranges from the Graduate Studies page, which is dated 2025. Self-reported scores are accepted when applying; official results are required after admission."
+    },
+    "applicationFee": {
+      "amount": 150,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Program page links to fee waiver criteria on a page that could not be opened, so waiver terms are not stated here."
+    },
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "documents": [
+      "Personal statement (up to 1,000 words)",
+      "Curriculum vitae",
+      "Unofficial transcripts (official ones required for enrollment)"
+    ],
+    "note": "The program says GRE scores are not required, though a strong score may help."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Language proficiency scores are required for non-US citizens; no limit on international applicants is stated."
+  },
   "sources": [
     {
       "url": "https://graduate.dartmouth.edu/mcb",
-      "label": "Dartmouth: Molecular and Cellular Biology Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.dartmouth.edu/mcb/admissions/applying-mcb",
+      "label": "MCB: Applying",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.dartmouth.edu/admissions/programs/molecular-and-cellular-biology",
+      "label": "Dartmouth Graduate Studies: MCB admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.dartmouth.edu/admissions-financial-aid/applying-dartmouth/admissions-information",
+      "label": "Dartmouth Graduate Studies: Admissions information (dated 2025)",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

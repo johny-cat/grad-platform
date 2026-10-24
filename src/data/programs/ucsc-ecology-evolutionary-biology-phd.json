@@ -5,13 +5,75 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The December 10 deadline is published without a year, so it is not confirmed for Fall 2027. No application fee amount, English score or admission model is shown because the pages opened do not state them for this program.",
+  "summary": "Combined M.A./Ph.D. admission to UC Santa Cruz's Ecology and Evolutionary Biology department. The department says it aims to admit applicants with full financial support in place.",
   "officialUrl": "https://catalog.ucsc.edu/en/current/general-catalog/academic-units/physical-and-biological-sciences-division/ecology-and-evolutionary-biology/ecology-and-evolutionary-biology-phd",
+  "applyUrl": "https://applygrad.ucsc.edu/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (M.A./Ph.D.)",
+      "dateText": "December 10",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "ielts": 7,
+      "note": "Graduate Division minimums apply: IELTS Academic overall 7; TOEFL iBT 4.0 or 4.5 on the 2026 scale depending on program (83 on the older scale for most programs). This program's own English requirement is not stated."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Transcripts",
+      "Résumé",
+      "Statement of purpose (2 to 4 pages recommended)",
+      "Personal history statement (1 to 3 pages recommended)"
+    ],
+    "note": "Application fee: the amount is not stated on the pages opened; fee waivers at the Graduate Division are limited to US citizens, AB 540 students and permanent residents. The GRE Biology exam is not required either. M.A. students are generally ineligible for teaching assistantships and must show proof of funding."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "'The Department is committed to admitting applicants to the program with full financial support awards in place.' No stipend amount is given."
+  },
   "sources": [
     {
+      "url": "https://eeb.ucsc.edu/graduate/",
+      "label": "EEB graduate program: admissions and funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/graduate-programs/ecology-evolutionary-biology-ma-phd/",
+      "label": "UCSC Graduate Admissions: EEB (M.A., Ph.D.)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://eeb.ucsc.edu/graduate/phd-program/",
+      "label": "EEB: Ph.D. program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/application-deadlines/",
+      "label": "UCSC Graduate Admissions: Application deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/test-score-requirements/",
+      "label": "UCSC Graduate Admissions: Test score requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/how-to-apply/",
+      "label": "UCSC Graduate Admissions: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
       "url": "https://catalog.ucsc.edu/en/current/general-catalog/academic-units/physical-and-biological-sciences-division/ecology-and-evolutionary-biology/ecology-and-evolutionary-biology-phd",
-      "label": "Opened official2026–2027 catalog program",
+      "label": "UCSC catalog: EEB PhD",
       "checked": "2026-10-24"
     }
   ],

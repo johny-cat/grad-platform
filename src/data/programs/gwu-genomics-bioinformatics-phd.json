@@ -5,15 +5,79 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. December 1 is published without a year, so it is not confirmed for Fall 2027. The GRE is not stated for IBS; the Columbian College page says many doctoral programs require it. No funding details are shown because the pages opened name only NIH training grants. Fee and English test details are Columbian College's general requirements.",
+  "admissionModel": "program",
+  "summary": "PhD in genomics and bioinformatics within GW's Institute for Biomedical Sciences. Students do laboratory rotations through the shared IBS curriculum.",
   "officialUrl": "https://ibs.smhs.gwu.edu/phd-programs-ibs/genomics-bioinformatics",
+  "applyUrl": "https://ibs.smhs.gwu.edu/admission",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1 (applications open Sept 1)",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected applicants visit GW for faculty interviews in January through March."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "100 (old test) or 5 (new test) without an English for Academic Purposes course; 81 (old) or 4 (new) with one",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Columbian College minimums; IELTS needs no band below 6.0 (5.0 with the course; 6.0 for IELTS 7.0). Required of applicants without a US post-secondary degree; waivers possible for degrees from countries where English is the only language of instruction."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers are not based on financial need. They are for listed groups, including GW alumni and students, certain US military personnel, McNair Scholars and applicants from eligible Minority-Serving Institutions. No international-specific waiver is listed, so international applicants should confirm."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Transcript from each college and university attended",
+      "Resume",
+      "Statement of purpose (typically about 250 to 500 words)",
+      "Letters of recommendation"
+    ],
+    "note": "IBS says all application materials go to the Columbian College of Arts and Sciences."
+  },
+  "international": {
+    "accepted": "no",
+    "note": "IBS: 'we typically do not review or accept international applicants.' Applicants with fellowships that can support their graduate education may be considered case by case; contact the program in advance."
+  },
   "sources": [
     {
       "url": "https://ibs.smhs.gwu.edu/phd-programs-ibs/genomics-bioinformatics",
-      "label": "GW Institute for Biomedical Sciences: Genomics and Bioinformatics",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://ibs.smhs.gwu.edu/phd-programs-ibs",
+      "label": "GWU IBS: PhD programs",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://ibs.smhs.gwu.edu/admission",
+      "label": "GWU IBS: Admission",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://columbian.gwu.edu/application-requirements",
+      "label": "Columbian College: Graduate application requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://columbian.gwu.edu/international-graduate-applicants",
+      "label": "Columbian College: International graduate applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

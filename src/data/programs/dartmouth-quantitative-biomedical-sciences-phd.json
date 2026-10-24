@@ -5,15 +5,83 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. December 1 is published without a year, so it is not confirmed for Fall 2027.",
+  "admissionModel": "program",
+  "summary": "Dartmouth PhD in quantitative biomedical sciences at the Geisel School of Medicine. Students are not required to secure an advisor before applying and do rotations with different QBS faculty.",
   "officialUrl": "https://geiselmed.dartmouth.edu/qbs/",
+  "applyUrl": "https://apply.gs.dartmouth.edu/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Remote interviews with faculty, students and alumni are held mid-January.",
+    "decisions": "Admissions notifications are sent by mid-February."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 or higher (recommended)",
+      "ielts": 7,
+      "duolingo": 135,
+      "note": "Required for non-US citizens unless the degree is from a US or Canadian institution or the language of instruction was English. The scores are recommended ranges from the Graduate Studies page, which is dated 2025. Self-reported scores are accepted when applying; official results are required after admission."
+    },
+    "applicationFee": {
+      "amount": 150,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "No waiver terms were found on the pages opened."
+    },
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "documents": [
+      "Resume/CV",
+      "Personal statement (up to 1,000 words)",
+      "Most recent unofficial transcripts"
+    ],
+    "note": "QBS FAQ: GRE scores may be self-reported; an official report is required if an offer is made."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "QBS FAQ: PhD students receive tuition coverage, a monthly stipend and healthcare benefits. No stipend amount is given."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "'Typically, one third to one half of the PhD class will be international students.'"
+  },
   "sources": [
     {
       "url": "https://geiselmed.dartmouth.edu/qbs/",
-      "label": "Dartmouth Geisel School of Medicine: Quantitative Biomedical Sciences",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.dartmouth.edu/admissions/programs/quantitative-biomedical-sciences",
+      "label": "Dartmouth Graduate Studies: QBS admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://geiselmed.dartmouth.edu/qbs/qbs-phd-program-frequently-asked-questions/",
+      "label": "QBS: PhD FAQ",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://geiselmed.dartmouth.edu/qbs/admissions/after-you-apply/",
+      "label": "QBS: After you apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.dartmouth.edu/admissions-financial-aid/applying-dartmouth/admissions-information",
+      "label": "Dartmouth Graduate Studies: Admissions information (dated 2025)",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }
