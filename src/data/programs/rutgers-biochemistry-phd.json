@@ -5,15 +5,89 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://molbiosci.rutgers.edu/biochemistry",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://molbiosci.rutgers.edu/biochemistry",
-      "label": "Rutgers Graduate Programs in Molecular Biosciences: Biochemistry",
-      "checked": "2026-10-18"
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://molbiosci.rutgers.edu/admission/application-instructions",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://molbiosci.rutgers.edu/admission/admission",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://molbiosci.rutgers.edu/admission/faq",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://molbiosci.rutgers.edu/about",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://molbiosci.rutgers.edu/admission/application-review-and-interviews",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/apply/application-guidelines",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/information/international-students",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://molbiosci.rutgers.edu/admission/application-instructions",
+  "summary": "Biochemistry doctoral training through the Molecular Biosciences shared admissions and first-year curriculum.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Complete application",
+      "dateText": "December 1st",
+      "note": "No year stated; review page separately lists January/February2027 interviews."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Graduate Admissions automatically reviews qualifying U.S. military/GI Bill applicants, current Rutgers students/alumni and designated scholar participants. MBS cannot grant waivers; international eligibility for nonmilitary categories should be confirmed."
+    },
+    "english": {
+      "toefl": "Program expects above100 (old iBT); minimum sections W22/S23/R21/L17 throughJan21,2026; W4.5/S4.5/R4/L4 fromJan22,2026",
+      "ielts": 7,
+      "note": "Only TOEFL/IELTS per MBS FAQ, despite central DET acceptance. Central scores must remain within two years of semester start, stricter than program deadline validity. English-medium degree waiver subject to central case-by-case review; program FAQ lists broader citizenship/study exemptions, confirm."
+    },
+    "documents": [
+      "Personal statement (1–2 pages) covering motivation, previous research, interests and faculty fit",
+      "Curriculum vitae/resume",
+      "Transcript from each post-secondary institution; unofficial for review, official if offered admission"
+    ],
+    "note": "Bachelor’s or equivalent and minimum GPA3.0. Three-year bachelor’s alone ineligible; additional advanced study needed. Choose one participating program; Biochemistry is part of this shared process. Choice does not restrict thesis lab. Physiology & Integrative Biology currently not accepting new applications. Zoom interviews January22/February5/February12,2027; admitted campus visit March12,2027."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All students in good standing guaranteed stipend, tuition remission and health benefits. Amount not stated in opened program sources."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
 }
