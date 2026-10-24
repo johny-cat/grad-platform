@@ -5,15 +5,89 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://biomed.med.ufl.edu/about/",
+  "details": "checked",
+  "officialUrl": "https://biomed.med.ufl.edu/bms-admissions/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://biomed.med.ufl.edu/about/",
-      "label": "UF College of Medicine Graduate Program in Biomedical Sciences: About",
-      "checked": "2026-10-18"
+      "url": "https://admissions.ufl.edu/apply/graduate/",
+      "label": "UF fee/application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://admissions.ufl.edu/apply/graduate/international",
+      "label": "UF English policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomed.med.ufl.edu/bms-admissions/gnv-help/",
+      "label": "BMS documents/GRE",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomed.med.ufl.edu/bms-admissions/",
+      "label": "BMS Gainesville deadlines",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomed.med.ufl.edu/curriculum/lab-rotations/",
+      "label": "BMS model",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomed.med.ufl.edu/financial-information/",
+      "label": "BMS funding",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://admissions.ufl.edu/apply/graduate/",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Gainesville application priority/safer complete deadline",
+      "dateText": "November 1st, in the year prior to the starting Fall semester",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    },
+    {
+      "label": "Overview late consideration",
+      "dateText": "November 15",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 internet/HomeEdition program legacy minimum; central4.5overall/4.0sections current scale",
+      "ielts": 6.5,
+      "note": "TOEFL/IELTS only. Program contradicts itself on unofficial scores; safer official test scores by application deadline. Exemptions possible."
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Office of Admissions does not provide fee waiver."
+    },
+    "documents": [
+      "Unofficial transcripts for initial review",
+      "Personal statement (one page,single spaced,0.5inchmargins)",
+      "Certified literal English translations and degree certificates if international"
+    ],
+    "note": "Gainesville instructions: three letters on official letterhead with signature, ideally faculty; research supervisor letter expected. Choose concentration, up to3 interests in statement. Deadline conflict: overview permitsNov15late, detailed instructions reject beyondNov1; saferNov1.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 37000,
+      "currency": "USD",
+      "period": "year",
+      "year": "as of Fall2026"
+    },
+    "note": "Both domestic/international GRA support, tuition and fees covered. First2semesters college-funded then mentor/training grants, satisfactory progress required. Insurance employee premium$12monthly. No required teaching; outside employment prohibited except Reserve/National Guard."
+  }
 }

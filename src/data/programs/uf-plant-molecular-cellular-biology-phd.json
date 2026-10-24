@@ -5,15 +5,46 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://pmcb.ifas.ufl.edu/admissions",
+  "details": "checked",
+  "officialUrl": "https://gradcatalog.ufl.edu/graduate/colleges-departments/liberal-arts-sciences/plant-molecular-cellular-biology/plant-molecular-cellular-biology/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://pmcb.ifas.ufl.edu/admissions",
-      "label": "UF Plant Molecular and Cellular Biology Program: Admissions",
-      "checked": "2026-10-18"
+      "url": "https://admissions.ufl.edu/apply/graduate/",
+      "label": "UF fee/application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://admissions.ufl.edu/apply/graduate/international",
+      "label": "UF English policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradcatalog.ufl.edu/graduate/colleges-departments/liberal-arts-sciences/plant-molecular-cellular-biology/plant-molecular-cellular-biology/",
+      "label": "Official PMCB catalog preparation/model",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://admissions.ufl.edu/apply/graduate/",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [],
+  "admissionModel": "program",
+  "summary": "Interdisciplinary plant research on molecular and cellular mechanisms of development, adaptation and evolution.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "4.5 overall; eachsubsection4.0",
+      "ielts": 6.5,
+      "note": "University current published scale; no conversion inferred. Degree/year of study inUS or solely English institution/country may exempt at department discretion."
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Office of Admissions does not provide fee waiver."
+    },
+    "documents": [],
+    "note": "Applicants typically haveBS/MS in agricultural,forestry,biological or chemical sciences and strong interest in plant molecular/cellular mechanisms. Catalog confirms rotations during first2semesters before advisor choice. Program website yielded no readable content; deadline, GRE, letter count, specific documents and current funding not established."
+  }
 }

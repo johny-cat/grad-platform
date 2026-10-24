@@ -5,15 +5,62 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://microcell.ufl.edu/graduate-program/phd-degree-program",
+  "details": "checked",
+  "officialUrl": "https://microcell.ufl.edu/doctoral/on-campus-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://microcell.ufl.edu/graduate-program/phd-degree-program",
-      "label": "UF Department of Microbiology and Cell Science: PhD Degree Program",
-      "checked": "2026-10-19"
+      "url": "https://admissions.ufl.edu/apply/graduate/",
+      "label": "UF fee/application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://admissions.ufl.edu/apply/graduate/international",
+      "label": "UF English policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://microcell.ufl.edu/doctoral/on-campus-phd/",
+      "label": "MCS current on-campus admissions/support",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-19"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://admissions.ufl.edu/apply/graduate/",
+  "deadlines": [
+    {
+      "label": "Fall2027 application",
+      "date": "2026-12-15"
+    }
+  ],
+  "admissionModel": "lab",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "4.5 overall; eachsubsection4.0",
+      "ielts": 6.5,
+      "note": "University current published scale; no conversion inferred. Degree/year of study inUS or solely English institution/country may exempt at department discretion."
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Office of Admissions does not provide fee waiver."
+    },
+    "documents": [
+      "Unofficial transcripts for initial review",
+      "CV/resume",
+      "Personal statement (maximum500words)",
+      "MCS supplemental information form"
+    ],
+    "note": "Accredited bachelor and undergraduateGPA3.0 required; two semesters each general biology/chemistry plus one each organic chemistry,microbiology,biochemistry. Enter with predetermined professor/lab; no rotations. Department inquiry/advising encouraged before central application. TOEFL speaking4.5 forTA.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "On-campus PhD students receive undated$35,000annual departmental stipend and tuition waiver. Student fees approximately$700/semester and other uncovered costs are student responsibility. No departmental scholarships."
+  }
 }
