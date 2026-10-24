@@ -12,15 +12,66 @@
     "Immunology and Microbiology",
     "Structural Biology, Biochemistry and Biophysics"
   ],
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://cmb.uci.edu",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://cmb.uci.edu/admissions/",
+      "label": "CMB admissions/support",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://cmb.uci.edu/program-description/",
+      "label": "CMB rotations/focus areas",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://cmb.uci.edu",
-      "label": "UC Irvine Cellular and Molecular Biosciences Gateway Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://apply.grad.uci.edu",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Historical firm application deadline",
+      "dateText": "December 1, 2025",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 iBT; speaking26",
+      "ielts": 7,
+      "note": "IELTS each module6 minimum, speaking8; scores under2years at first school day."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "$135 domestic;$155 international. Waiver eligibility not established on opened pages."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "All postsecondary transcripts including transfer credit",
+      "Two online application essays"
+    ],
+    "note": "Lab research essential. Strong biology, physics, chemistry preparation; advanced biology, biochemistry, organic/physical chemistry, calculus, statistics, physics ideal. Two rotations required,three recommended. Admissions focus-area name conflicts with program description: Immunology and Infectious Disease vs Immunology and Microbiology; existing program-description labels retained."
+  },
+  "timeline": {
+    "interviews": "Historical Fall2026 recruitment: January2026 dates TBD.",
+    "decisions": "Historical notice by April2026."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students receive annual living stipend and university tuition/fees. Guaranteed housing. Amount not stated."
+  }
 }
