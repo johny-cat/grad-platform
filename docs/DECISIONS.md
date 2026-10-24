@@ -8,6 +8,19 @@ Newest first. Each entry: what we decided and why.
   A visible `detailsNote` explains the omission. Confirmed requirements and
   deadlines can still be published; a model is never inferred to satisfy validation.
 
+## 2026-10-24
+
+- **The community ("Not Yet") is threads and replies, not live chat.** Four
+  spaces (General, Ask and answer, Lift up, Results talk) plus a discussion
+  on every program page. Threads work on slow phones, keep good answers
+  findable for next year's applicants, and are far easier to keep safe than
+  a live chat that needs someone watching all the time. Junaid chose:
+  people post under a nickname (a random one at sign-up, changeable on My
+  programs); anyone can read and posting needs sign-in; three reports hide
+  a post until a moderator decides. Moderators can also block a member from
+  posting. Who wrote a post is never public: visitors see the nickname
+  only, not the account id.
+
 ## 2026-10-22
 
 - **Publish available official details when the next cycle is not confirmed.**

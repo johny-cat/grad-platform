@@ -104,3 +104,51 @@ export interface NewResult {
   gpaBand?: string;
   note?: string;
 }
+
+// ---------------------------------------------------------------------------
+// Community ("Not Yet")
+// ---------------------------------------------------------------------------
+
+export type Space = 'general' | 'ask' | 'lift-up' | 'results';
+
+export const SPACES: { id: Space; label: string; blurb: string }[] = [
+  { id: 'general', label: 'General', blurb: 'Anything about applying to grad school.' },
+  { id: 'ask', label: 'Ask and answer', blurb: 'Questions about programs, documents, visas and funding.' },
+  { id: 'lift-up', label: 'Lift up', blurb: 'Encouragement, small wins, and support after a hard day.' },
+  { id: 'results', label: 'Results talk', blurb: 'Has anyone heard from…? Interviews, offers and waiting.' },
+];
+
+export interface Thread {
+  id: number;
+  title: string;
+  space: Space | null;
+  program_slug: string | null;
+  author_handle: string;
+  post_count: number;
+  last_post_at: string;
+  created_at: string;
+  locked: boolean;
+}
+
+export interface Post {
+  id: number;
+  thread_id: number;
+  author_handle: string;
+  body: string;
+  created_at: string;
+  edited_at: string | null;
+  is_mine: boolean;
+}
+
+export interface ReportedItem {
+  target_type: 'post' | 'thread';
+  target_id: number;
+  thread_id: number | null;
+  title: string | null;
+  body: string | null;
+  author_handle: string | null;
+  hidden: boolean;
+  report_count: number;
+  reasons: string;
+  first_reported: string;
+}

@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import ModeratePage from '../../islands/ModeratePage';
+---
+
+<Base title="Moderation" noindex>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Moderation</h1>
+      <p class="lead">Reported posts. Three reports hide a post automatically; you decide whether it stays hidden.</p>
+    </header>
+    <ModeratePage client:only="preact">
+      <p slot="fallback" class="muted">Loading…</p>
+    </ModeratePage>
+  </div>
+</Base>

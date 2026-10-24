@@ -22,9 +22,8 @@ Built in layers. Each layer ships before the next starts.
 - [ ] Check deadlines and requirements for listed programs, the most-followed first
 - [x] Check UCSF Tetrad, Penn CAMB, UC San Diego Biological Sciences and Northwestern IBiS using accessible official sources (October 2026; limitations recorded in evidence)
 - [ ] Official announcements on program pages (database ready)
-- [ ] Discussion threads per program and per field (database ready)
+- [x] Community "Not Yet": spaces (General, Ask and answer, Lift up, Results talk), a discussion on every program page, nicknames, reporting and a moderator page (2026-10-24)
 - [ ] Email alerts when a followed program gets news (Resend + scheduled function)
-- [ ] Moderator page
 - [ ] Domain, contact email, custom sign-in email (SMTP)
 - [ ] Code in sign-in emails as well as the link (built; switch on after custom SMTP, see `docs/SETUP.md`)
 - [ ] Google sign-in (built; needs switching on)

@@ -46,6 +46,10 @@ Run on the live database:
   a one-line update of the `vanderbilt-igp-phd` row instead of the whole
   `catalog.sql`. Run by Junaid in the SQL Editor. Checked from outside
   with the public key: the row shows the new name and is still active.
+- 2026-10-24: `20261024150000_community.sql` (community spaces, private
+  author ids, blocking, moderator review list). Junaid's account set as admin
+  (moderator) with: `update public.profiles set role = 'admin' where id =
+  (select id from auth.users where email = 'junaidubc9@gmail.com');`
 
 Checked from outside with the public key: visitors can read programs,
 cycles, the results feed and the counts, and are refused on profiles,

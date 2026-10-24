@@ -11,8 +11,12 @@ import type {
   MyResult,
   NewResult,
   Profile,
+  Post,
   ProgramStats,
+  ReportedItem,
   ResultItem,
+  Space,
+  Thread,
 } from './types';
 
 export class NotConnectedError extends Error {
@@ -200,5 +204,87 @@ export async function reportContent(
     p_target_id: targetId,
     p_reason: reason,
   });
+  if (error) fail(error);
+}
+
+// ---------------------------------------------------------------------------
+// Community ("Not Yet")
+// ---------------------------------------------------------------------------
+
+const THREAD_COLUMNS = 'id, title, space, program_slug, author_handle, post_count, last_post_at, created_at, locked';
+
+/** Latest discussions in a space, on a program, or across every space. */
+export async function fetchThreads(where: { space?: Space; programSlug?: string }, limit = 40): Promise<Thread[]> {
+  if (isDemo) return [];
+  let query = client().from('threads').select(THREAD_COLUMNS).order('last_post_at', { ascending: false }).limit(limit);
+  if (where.space) query = query.eq('space', where.space);
+  else if (where.programSlug) query = query.eq('program_slug', where.programSlug);
+  else query = query.not('space', 'is', null);
+  const { data, error } = await query;
+  if (error) fail(error);
+  return (data ?? []) as Thread[];
+}
+
+export async function fetchThread(id: number): Promise<Thread | null> {
+  if (isDemo) return null;
+  const { data, error } = await client().from('threads').select(THREAD_COLUMNS).eq('id', id).maybeSingle();
+  if (error) fail(error);
+  return (data ?? null) as Thread | null;
+}
+
+export async function fetchPosts(threadId: number): Promise<Post[]> {
+  if (isDemo) return [];
+  const { data, error } = await client()
+    .from('community_posts')
+    .select('id, thread_id, author_handle, body, created_at, edited_at, is_mine')
+    .eq('thread_id', threadId)
+    .order('id', { ascending: true })
+    .limit(500);
+  if (error) fail(error);
+  return (data ?? []) as Post[];
+}
+
+export async function createThread(input: { title: string; body: string; space?: Space; programSlug?: string }): Promise<number> {
+  if (isDemo) return 0;
+  const { data, error } = await client().rpc('create_thread', {
+    p_title: input.title,
+    p_body: input.body,
+    p_program_slug: input.programSlug ?? null,
+    p_field: null,
+    p_space: input.space ?? null,
+  });
+  if (error) fail(error);
+  return data as number;
+}
+
+export async function addPost(threadId: number, body: string): Promise<number> {
+  if (isDemo) return 0;
+  const { data, error } = await client().rpc('add_post', { p_thread_id: threadId, p_body: body });
+  if (error) fail(error);
+  return data as number;
+}
+
+export async function editMyPost(postId: number, body: string): Promise<void> {
+  if (isDemo) return;
+  const { error } = await client().rpc('edit_my_post', { p_post_id: postId, p_body: body });
+  if (error) fail(error);
+}
+
+export async function fetchReportedContent(): Promise<ReportedItem[]> {
+  if (isDemo) return [];
+  const { data, error } = await client().rpc('list_reported_content');
+  if (error) fail(error);
+  return (data ?? []) as ReportedItem[];
+}
+
+export async function moderateContent(targetType: 'post' | 'thread', targetId: number, hidden: boolean): Promise<void> {
+  if (isDemo) return;
+  const { error } = await client().rpc('moderate_content', { p_target_type: targetType, p_target_id: targetId, p_hidden: hidden });
+  if (error) fail(error);
+}
+
+export async function setMemberBlocked(handle: string, blocked: boolean): Promise<void> {
+  if (isDemo) return;
+  const { error } = await client().rpc('set_member_blocked', { p_handle: handle, p_blocked: blocked });
   if (error) fail(error);
 }
