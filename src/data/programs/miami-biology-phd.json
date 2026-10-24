@@ -5,15 +5,55 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf",
+  "details": "checked",
+  "officialUrl": "https://bulletin.miami.edu/graduate-academic-programs/arts-sciences/biology/biology-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf",
-      "label": "University of Miami Department of Biology: Graduate Programs Application Guidelines (PDF)",
-      "checked": "2026-10-18"
+      "url": "https://bulletin.miami.edu/graduate-academic-programs/arts-sciences/biology/biology-phd/",
+      "label": "Biology bulletin application/model/support",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://applygrad.miami.edu",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "lab",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "Official TOEFL scores required for international applicants whose native language is not English. No program minimum established."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Biology bulletin fee. Miller School waiver policy not transferred to Arts and Sciences."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose identifying interests,projects,career goals and faculty sponsor",
+      "Copies of research papers/manuscripts/reports",
+      "All undergraduate/graduate transcripts",
+      "CV with research,skills,fellowships/awards",
+      "Faculty sponsor memo of support"
+    ],
+    "note": "AppropriateBS may enterPhDdirectly; faculty sponsorship a condition of admission; sponsor becomes major advisor. At least one semester teaching required. GRE not established from accessible sources."
+  },
+  "timeline": {
+    "interviews": "Limited candidates interviewed early January at departmental expense (undated)."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department intends to support all doctoral students in good standing up to10semesters; beyond requiresGAACapproval. Annual progress updates required. No stipend amount or unconditional guarantee stated."
+  }
 }

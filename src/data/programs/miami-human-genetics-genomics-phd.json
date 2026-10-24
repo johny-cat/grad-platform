@@ -5,15 +5,90 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://med.miami.edu/graduate-studies/doctoral-programs/human-genetics-and-genomics",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://med.miami.edu/graduate-studies/application-instructions",
+      "label": "Miller PhD application instructions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/application-process",
+      "label": "PiBS admission qualifications/timing",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bulletin.miami.edu/graduate-academic-programs/medicine/biomedical-sciences/phd/",
+      "label": "PiBS gateway model",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/financial-support",
+      "label": "PiBS historical support",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://med.miami.edu/graduate-studies/doctoral-programs/human-genetics-and-genomics",
-      "label": "University of Miami Miller School of Medicine: Human Genetics and Genomics",
-      "checked": "2026-10-18"
+      "label": "HGG program",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/human-genetics-and-genomics/application-process",
+      "label": "HGG application redirects to first-year gateway",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://applygrad.miami.edu",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1st",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 beforeJan21,2026;4.5 afterJan21,2026",
+      "ielts": 6.5,
+      "duolingo": 125,
+      "note": "Tests less than2years; official testing-agency results. TOEFL Home accepted,Essentials excluded."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Limited need/approved-program waiver for US citizens/PR; request early within application portal."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "PDF transcripts for every college/university; English translations if necessary",
+      "Personal statement (maximum3single-spaced pages,usually2)",
+      "CV/resume if program requests"
+    ],
+    "note": "Bachelor in biological or related science; GPA3.0minimum; no specific prerequisites.1000hourslab research expected; computational accepted for bioinformatics. Foreign applicants expected coauthored peer-reviewed publication. HGG route viaPiBS; at least3rotations before mentor/program selection. International enrollees needNACESevaluation of bachelor equivalency."
+  },
+  "timeline": {
+    "interviews": "Virtual January–February; selected visits February–March (undated).",
+    "decisions": "March; commitment April15 (undated)."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 46000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2024-2025"
+    },
+    "note": "All full-time Biomedical Sciences PhD students receive full tuition and100%health insurance; student activity fees excluded. Historical amount explicitly2024–25; confirm current offer."
+  }
 }
