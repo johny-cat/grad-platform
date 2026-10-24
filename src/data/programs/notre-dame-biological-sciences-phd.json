@@ -3,17 +3,73 @@
   "institution": "University of Notre Dame",
   "institutionShort": "Notre Dame",
   "country": "US",
+  "location": "Notre Dame, Indiana",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The December 1 fall deadline is published without a year, so it is not confirmed for Fall 2027. Official pages do not state the fee amount, rotations or how students are admitted, so those are left out.",
+  "summary": "PhD in biological sciences at the University of Notre Dame's College of Science, with a wide choice of faculty advisors.",
   "officialUrl": "https://science.nd.edu/academics/degree-programs/phd-in-biological-sciences/",
+  "applyUrl": "https://graduateschool.nd.edu/admissions/application-requirements/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Fall deadline",
+      "dateText": "Fall: Dec. 1",
+      "note": "The Graduate School program listing gives no year. Confirm the Fall 2027 date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 minimum overall with at least 23 on speaking (before February 2026 scoring); 4.5 average with no section lower than 4.0 (updated scoring)",
+      "ielts": 7.0,
+      "duolingo": 120,
+      "note": "Graduate School minimums; some programs may require higher scores. Waived for native English speakers and for applicants who earned a bachelor's or higher degree at an institution where English is the language of instruction."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Curriculum vitae or résumé",
+      "Statement of intent",
+      "Unofficial transcript for each post-secondary institution"
+    ],
+    "note": "The Graduate School says it may grant application fee waivers for a variety of reasons; the fee amount is not stated on the pages checked."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate School: almost 100% of doctoral students receive full-tuition scholarships and 94% receive multi-year fellowships or assistantships with stipends; funding is not guaranteed. 2026-27 science stipends start at $40,590 on a twelve-month basis, per its funding page. Not stated whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://science.nd.edu/academics/degree-programs/phd-in-biological-sciences/",
       "label": "Notre Dame College of Science: PhD in Biological Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateschool.nd.edu/degree-programs/?id=program-78384",
+      "label": "Notre Dame Graduate School: Degree programs",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateschool.nd.edu/admissions/application-requirements/",
+      "label": "Notre Dame Graduate School: Application requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateschool.nd.edu/admissions/international-students/",
+      "label": "Notre Dame Graduate School: International students",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateschool.nd.edu/funding/",
+      "label": "Notre Dame Graduate School: Funding",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

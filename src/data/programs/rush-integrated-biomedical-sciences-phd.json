@@ -3,17 +3,64 @@
   "institution": "Rush University",
   "institutionShort": "Rush",
   "country": "US",
+  "location": "Chicago, Illinois",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Funding and stipend details are not stated on the pages checked, so they are left out.",
+  "admissionModel": "program",
+  "summary": "PhD in integrated biomedical sciences at Rush University Medical Center. Students do three laboratory rotations to explore research environments before choosing a focus.",
   "officialUrl": "https://rushu.rush.edu/degree-programs/graduate-college/integrated-biomedical-sciences",
+  "applyUrl": "https://biomedcas.cas.myliaison.com/applicant/deeplink/programSearch/organization/404783807466447974",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline (Fall 2027)",
+      "date": "2027-01-05",
+      "note": "The admissions page lists rolling admissions for Fall 2027, with applications opening Sept. 7 and a deadline of January 5, 2027."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected applicants are invited to three virtual interviews: one with a member of the Admissions Committee and two with faculty who share their research interests."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "Official TOEFL or IELTS scores are required; these are the only two English exams accepted. No minimum scores are stated. The requirement may be waived for applicants who completed their degree in a country where English is the official language."
+    },
+    "applicationFee": {
+      "amount": 88,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The admissions page does not mention fee waivers."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "One-page personal statement",
+      "CV or résumé",
+      "Unofficial transcript from every college and university attended",
+      "Credential evaluation for degrees earned outside the US",
+      "Criminal background check before matriculation (accepted students)"
+    ],
+    "note": "Standardized test scores are optional. Official transcripts are required upon acceptance."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://rushu.rush.edu/degree-programs/graduate-college/integrated-biomedical-sciences",
       "label": "Rush University Graduate College: Integrated Biomedical Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.rushu.rush.edu/rush-medical-college/admissions/doctor-philosophy-biomedical-science/admissions",
+      "label": "Rush: PhD in Integrated Biomedical Science admissions",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

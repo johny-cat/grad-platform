@@ -3,17 +3,63 @@
   "institution": "Northern Illinois University",
   "institutionShort": "NIU",
   "country": "US",
+  "location": "DeKalb, Illinois",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The January 1 fall deadline is published without a year, so it is not confirmed for Fall 2027. The department page does not state GRE, letter counts, funding or how students are admitted, so those are left out or marked unknown.",
+  "summary": "PhD in biological sciences at Northern Illinois University. The department strongly encourages applicants to contact potential faculty advisors before applying.",
   "officialUrl": "https://www.niu.edu/clas/biology/academics/graduate/index.shtml",
+  "applyUrl": "https://www.niu.edu/grad/admissions/apply-now.shtml",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Fall admission deadline",
+      "dateText": "January 1",
+      "note": "The department page gives no year. Confirm the Fall 2027 date. It adds that full applications received after the deadline are reviewed only if space and funding are available."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "NIU Graduate School minimums (PTE Academic 53; ELS level 112 also accepted). Not needed if you completed a bachelor's or higher degree in an eligible country listed on its page."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "$60 for degree-seeking students. The Graduate School exempts only certain groups (for example McNair Scholars, qualified veterans, or those with a GRE fee reduction); it does not say international applicants qualify, so confirm."
+    },
+    "documents": [
+      "Unofficial transcripts from all institutions",
+      "Statement of purpose",
+      "Proof of English proficiency, if applicable"
+    ],
+    "note": "Applicants need a four-year bachelor's degree and a 2.75 GPA on a 4.0 scale. Programs may require more; the department page does not state a letter count."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants have earlier Graduate School deadlines (Fall: May 1)."
+  },
   "sources": [
     {
       "url": "https://www.niu.edu/clas/biology/academics/graduate/index.shtml",
-      "label": "Northern Illinois University Department of Biological Sciences: Graduate Programs",
-      "checked": "2026-10-19"
+      "label": "NIU Biological Sciences: Graduate Programs",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.niu.edu/grad/admissions/apply-now.shtml",
+      "label": "NIU Graduate School: Apply now",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.niu.edu/grad/admissions/application-materials.shtml",
+      "label": "NIU Graduate School: Application materials",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-19"
+  "lastChecked": "2026-10-24"
 }

@@ -5,15 +5,95 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "Nashville, Tennessee",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Vanderbilt PhD in quantitative and chemical biology. First-year students do four 2-month research rotations with faculty across participating departments before choosing a lab.",
   "officialUrl": "https://medschool.vanderbilt.edu/qcb/qcb-program-overview/",
+  "applyUrl": "https://medschool.vanderbilt.edu/qcb/qcb-online-application-and-application-instructions/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Priority deadline",
+      "date": "2026-11-15",
+      "note": "Complete applications submitted by November 15 get early review. The Fall 2027 application opens August 1; the page prints no year for the date and gives no time."
+    },
+    {
+      "label": "Final deadline",
+      "date": "2026-12-01",
+      "time": "00:00",
+      "timezone": "America/Chicago",
+      "note": "The page says midnight on December 1, Central Standard Time (UTC-6). That could mean the start or end of December 1, so this shows the earlier one; finishing by the end of November 30 is safest."
+    }
+  ],
+  "timeline": {
+    "interviews": "Invitations go out on a rolling basis, typically by the end of February; if you have not received one by March 15 you are not being considered. Interviews are in person in Nashville, with a virtual option for those who cannot travel.",
+    "decisions": "Admitted candidates have until April 15 to decide."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "89 (iBT); 100 is highly desired",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Required of international applicants and of those from non-English degree-granting institutions, unless waived; scores must be received by the deadline."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Anyone who has done research funded by a U.S. entity gets an automatic waiver, whatever their citizenship. Need-based waivers are only for U.S. citizens and permanent residents; a small number of other waivers go to international applicants based on qualifications."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Statement of purpose (PDF)",
+      "CV or resume, plus the application's Experiences tab",
+      "Transcripts (unofficial accepted; official only when requested)"
+    ],
+    "note": "You do not need a faculty sponsor to apply. Interfolio letters are not accepted. GRE scores older than five years are not accepted."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 40000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-27"
+    },
+    "note": "Plus a $2,000 relocation bonus, 100% of tuition, and health coverage, dental and a yearly eye exam. International students get the same package; first-year funding is guaranteed as long as the student makes good progress, and second-year funding for international students comes through the BRET office."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://medschool.vanderbilt.edu/qcb/qcb-program-overview/",
-      "label": "Vanderbilt Quantitative and Chemical Biology: Program Overview",
-      "checked": "2026-10-18"
+      "label": "Vanderbilt QCB: Program Overview",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/qcb/qcb-online-application-and-application-instructions/",
+      "label": "Vanderbilt QCB: Online application and instructions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/qcb/qcb-admissions-overview/",
+      "label": "Vanderbilt QCB: Admissions overview",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/qcb/financial-support/",
+      "label": "Vanderbilt QCB: Financial support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medschool.vanderbilt.edu/qcb/international-candidates/",
+      "label": "Vanderbilt QCB: International candidates",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

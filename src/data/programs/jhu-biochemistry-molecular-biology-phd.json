@@ -3,17 +3,73 @@
   "institution": "Johns Hopkins University",
   "institutionShort": "Johns Hopkins",
   "country": "US",
+  "location": "Baltimore, Maryland",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The program page says \"Apply by December 1 for an August start\" without a year, so it is shown as a published date and is not confirmed for Fall 2027. The school's 2025-2026 deadline chart also says all doctoral programs have a December 1 deadline. The application fee amount and English test minimum scores are on pages that were not read.",
+  "admissionModel": "program",
+  "summary": "PhD in Biochemistry and Molecular Biology at the Johns Hopkins Bloomberg School of Public Health. Students do two-month rotations in the first year before choosing a thesis lab.",
   "officialUrl": "https://publichealth.jhu.edu/academics/phd-dept-of-biochemistry-and-molecular-biology",
+  "applyUrl": "https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/how-to-apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline for an August start (year not stated)",
+      "dateText": "December 1",
+      "note": "Program page: \"Apply by December 1 for an August start.\" No year is given. Confirm Fall 2027 with the school."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "An English proficiency test score (TOEFL, IELTS, Duolingo English or Pearson Test of English) is required; the page points to the school's score minimums and exemptions, which were not read."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official academic records or transcripts",
+      "Resume or CV",
+      "Statement of Purpose and Objectives",
+      "Credential evaluation for international coursework"
+    ],
+    "note": "Applications go through SOPHAS. The application fee amount is not stated on the pages read. Fee waivers are available for US citizens and permanent residents with documented financial hardship, US military service, VTSI eligibility, or current Johns Hopkins undergraduate enrollment. Laboratory research experience is required."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 52000,
+      "currency": "USD",
+      "period": "year",
+      "year": "through June 2027"
+    },
+    "note": "The page says PhD students are guaranteed a minimum annual stipend of $52,000 through June 2027, with later levels subject to negotiation with the union. Tuition coverage and the minimum stipend are guaranteed for at least the first four years for full-time students in good standing. It does not say directly that funding covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://publichealth.jhu.edu/academics/phd-dept-of-biochemistry-and-molecular-biology",
-      "label": "Johns Hopkins Bloomberg School of Public Health: PhD, Department of Biochemistry and Molecular Biology",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/how-to-apply",
+      "label": "How to apply (SOPHAS)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/how-to-apply/application-fee-waiver-requirements",
+      "label": "Application fee waiver requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://publichealth.jhu.edu/sites/default/files/2024-07/2025-2026-deadline-chart.pdf",
+      "label": "2025-2026 application deadline chart",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

@@ -5,15 +5,62 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "Kingston, Rhode Island",
+  "details": "checked",
+  "detailsNote": "Official information available; no Fall 2027 deadline is confirmed. The admission page gives December 15 without a year, and the program page prints \"December 15, 2027\", which does not fit a Fall 2027 entry, so confirm directly. The pages give no application fee, and whether students are admitted to a program or a lab is not stated.",
+  "summary": "Doctoral program in biological and environmental sciences at the University of Rhode Island. Applicants name potential advisors in their personal statement; most students are supported by teaching assistantships.",
   "officialUrl": "https://web.uri.edu/cels/academics/bes/",
+  "applyUrl": "https://web.uri.edu/cels/academics/bes/admission/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Deadline for completed applications, fall admission",
+      "dateText": "December 15",
+      "note": "Admission page: \"The Deadline for the receipt of completed applications is December 15 for admission to the following fall semester.\" No year is printed."
+    },
+    {
+      "label": "Application deadline on program page",
+      "dateText": "December 15, 2027",
+      "note": "Printed this way on the program page; it does not match a Fall 2027 entry cycle. Confirm with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 or above, with section minimums, for tests before January 21, 2026; 4 or above, with 4 in each section, from January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "URI Graduate School standards for applicants whose native language is not English. IELTS needs 6.5 in each section. Exemptions apply for citizens of listed English-speaking countries and for degrees earned in the United States or those countries. Higher scores are suggested for teaching assistantship consideration."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Unofficial transcripts (official copies after admission)",
+      "Personal statement listing one or more potential advisors in bold at the start"
+    ],
+    "note": "Applicants with a GPA of 2.0 to 3.0 may be considered with evidence such as high GRE scores. Additional letters are welcome."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Most BES graduate students are supported by teaching assistantships administered by the college; others by internal or external fellowships. Spring applicants cannot be considered for teaching assistantships. The pages do not state a stipend or guarantee."
+  },
   "sources": [
     {
       "url": "https://web.uri.edu/cels/academics/bes/",
-      "label": "University of Rhode Island College of the Environment and Life Sciences: Biological and Environmental Sciences",
-      "checked": "2026-10-18"
+      "label": "URI College of the Environment and Life Sciences: Biological and Environmental Sciences",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://web.uri.edu/cels/academics/bes/admission/",
+      "label": "URI BES: Admission",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://web.uri.edu/graduate-school/admission/international/",
+      "label": "URI Graduate School: International admission",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

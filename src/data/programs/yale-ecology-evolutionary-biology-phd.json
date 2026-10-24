@@ -5,15 +5,86 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "New Haven",
+  "details": "checked",
+  "detailsNote": "Official information available. The pages do not say whether students are admitted to the program or to a lab: applicants should already be in contact with prospective faculty advisors, a faculty mentor is assigned on admission, and students do two research rotations. No admission model is shown.",
+  "summary": "Yale PhD in ecology and evolutionary biology. All PhD students in good standing are guaranteed five years of funding, and applicants should already have been in contact with prospective faculty advisors.",
   "officialUrl": "https://eeb.yale.edu/interested-joining-graduate-program",
+  "applyUrl": "https://gsas.yale.edu/admissions/degree-program-application-process",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The Graduate School lists Ecology and Evolutionary Biology under December 1, 2026, with all deadlines as of 11:59 pm Eastern. The program page says \"midnight EST\" and gives no year."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews typically happen in mid- to late-January.",
+    "decisions": "Admitted students have until April 15 to accept or decline the offer."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL iBT or IELTS Academic is required of most applicants whose native language is not English; the program page asks for a TOEFL score. Exempt with a degree from a primarily English-language institution after at least three years in residence. No minimum score is stated."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "U.S. citizens, permanent residents and non-U.S. citizens can all request a waiver, for documented financial hardship or participation in a special program. The program page says requests must be submitted by November 30."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "CV",
+      "An unofficial transcript from each school"
+    ],
+    "note": "The program page says students should not apply unless they have already been in contact with one or more prospective faculty advisors in the department."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All PhD students in good academic standing in EEB are guaranteed five years of funding, with a stipend, tuition coverage and health insurance. The Graduate School says every PhD student receives a fellowship for the full cost of tuition, a stipend and paid health coverage. No stipend amount is given."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://eeb.yale.edu/interested-joining-graduate-program",
       "label": "Yale Ecology and Evolutionary Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://eeb.yale.edu/academics/graduate-program",
+      "label": "Yale EEB: Graduate program details",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines",
+      "label": "Yale GSAS: Dates and deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers",
+      "label": "Yale GSAS: Application fees and fee waivers",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsas.yale.edu/graduate-financial-support-fellowships/funding-phd-students",
+      "label": "Yale GSAS: Funding for PhD students",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements",
+      "label": "Yale GSAS: Standardized testing requirements",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

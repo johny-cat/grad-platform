@@ -5,15 +5,52 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "Knoxville, Tennessee",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 date is only a preference date printed without a year, so no Fall 2027 deadline is confirmed. The pages give no application fee amount, so the fee is left out.",
+  "admissionModel": "program",
+  "summary": "Microbiology PhD at the University of Tennessee, Knoxville. Every admitted student is assigned a teaching or research assistantship, and first-semester students rotate through labs.",
   "officialUrl": "https://artsci.utk.edu/academics/graduate-programs/microbiology-phd/",
+  "applyUrl": "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Preferred application date, Fall",
+      "dateText": "December 1st",
+      "note": "Microbiology FAQ: \"Preference will be given to applications received on or before December 1st.\" No year is printed. Applications open August 1 and are accepted year-round."
+    }
+  ],
+  "timeline": {
+    "decisions": "Decisions on all applications are usually complete by April 15th."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "Combined 92 with at least 20 in each section earns priority; satisfactory scores are required",
+      "ielts": 6.5,
+      "note": "The FAQ gives these as an example for the internet-based TOEFL; for IELTS a 6.5 overall band score is required. UT's TOEFL code is 1843."
+    },
+    "documents": [
+      "Transcript (a scanned PDF is acceptable for review; official transcripts are required if admitted)"
+    ],
+    "note": "The FAQ says no application-fee waivers are available (no funds exist to cover the cost of waiving fees) and gives no fee amount. Main review criteria are GPA, performance in science courses, reference letters and research experience; contacting faculty before applying is not necessary."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Admitted students on GTA/GRA assistantships receive a monthly stipend, a tuition waiver and health care coverage. The FAQ says all admitted students are automatically assigned an assistantship and that the department does not admit students without support. No stipend amount is given."
+  },
   "sources": [
     {
       "url": "https://artsci.utk.edu/academics/graduate-programs/microbiology-phd/",
       "label": "University of Tennessee, Knoxville College of Arts and Sciences: Microbiology PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://micro.utk.edu/graduate/frequently-asked-questions/",
+      "label": "UT Knoxville Department of Microbiology: Graduate FAQs",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

@@ -5,15 +5,73 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "Grand Rapids, Michigan",
+  "details": "checked",
+  "detailsNote": "Official information available. The admissions page says the application period for the 2027 cohort is open with materials due Dec. 1; the year of that date is not printed, so it is shown as December 1, 2026. No stipend amount is stated.",
+  "admissionModel": "program",
+  "summary": "PhD program of the Van Andel Institute Graduate School in Grand Rapids, with no application fee. New students complete three four-week lab rotations before choosing a thesis adviser.",
   "officialUrl": "https://www.vai.org/graduate-school/",
+  "applyUrl": "https://www.vai.org/graduate-school/admissions/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "\"All admissions application materials, including recommendation letters, are due by Dec. 1\" for the 2027 cohort. The page prints no year or time. Late applications are accepted only in rare, extenuating circumstances."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected candidates are invited to visit Van Andel Institute for interviews; in some cases students may be interviewed virtually."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "4.5 (iBT, tests taken on or after January 21, 2026); 580 (paper-based)",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Official scores must be less than two years old. English proficiency waivers are not automatic; the student must request one."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The application is free, so no waiver is needed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "One-page research statement",
+      "CV or resume",
+      "Transcripts (unofficial accepted to apply; official before matriculation)",
+      "Course-by-course evaluation with U.S. GPA conversion for non-U.S. transcripts"
+    ],
+    "note": "Letters should come from faculty who know the applicant and their academic work."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Support is typically a graduate fellowship with a stipend; health, dental, vision and life insurance; a full waiver of tuition; and $2,500 a year for conference travel. No stipend amount is stated, and the page does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants admitted are sponsored in the F-1 student visa program and must provide additional documentation before an offer."
+  },
   "sources": [
     {
       "url": "https://www.vai.org/graduate-school/",
       "label": "Van Andel Institute Graduate School",
-      "checked": "2026-10-19"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.vai.org/graduate-school/admissions/",
+      "label": "Van Andel Institute Graduate School: Admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.vai.org/graduate-school/doctoral-program/",
+      "label": "Van Andel Institute Graduate School: Doctoral program",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-19"
+  "lastChecked": "2026-10-24"
 }

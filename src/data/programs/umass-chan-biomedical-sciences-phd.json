@@ -5,15 +5,78 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "Worcester, Massachusetts",
+  "details": "checked",
+  "detailsNote": "Official information available. The only deadline found, December 1 for the Umbrella PhD, is printed without a year, so it is not confirmed for Fall 2027. The Apply page says Fall 2027 applications are open for the \"PhD in Basic Biomedical Sciences Umbrella\"; confirm that this is the same program. The pages give no application fee amount or fee-waiver information.",
+  "admissionModel": "program",
+  "summary": "Umbrella biomedical sciences PhD at the Morningside Graduate School. Students do up to three research rotations in the first year and are not limited to one department.",
   "officialUrl": "https://umassmed.edu/gsbs/academics/phd-biomedical-sciences",
+  "applyUrl": "https://www.umassmed.edu/gsbs/admissions/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Umbrella PhD application deadline",
+      "dateText": "Dec. 1",
+      "note": "The admissions FAQ lists \"Umbrella PhD: Dec. 1\" for fall entry, by 11:59pm (EST), with no year. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Qualified candidates are contacted by email for an interview after application review."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "100 total, with 17 or higher on each subsection",
+      "ielts": 7,
+      "note": "The FAQ says the admissions committees look for these scores (IELTS with no subscore lower than 6.5). International applicants submit unofficial TOEFL or IELTS scores with the application; official scores are required before matriculation."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts from every college or university attended",
+      "Resume",
+      "Personal statement",
+      "Course-by-course evaluated transcript from a NACES member (international applicants)"
+    ],
+    "note": "The GRE is not required nor considered. A fee is required with the application, but the pages give no amount and no waiver information."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 41607,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-26"
+    },
+    "note": "The funding page lists the current annual stipend (2025-2026) as $41,607, with a full waiver of tuition and fees and health and basic dental insurance at no cost. The pages do not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants submit a course-by-course evaluated transcript and TOEFL or IELTS scores."
+  },
   "sources": [
     {
       "url": "https://umassmed.edu/gsbs/academics/phd-biomedical-sciences",
-      "label": "UMass Chan Morningside Graduate School of Biomedical Sciences: Biomedical Sciences PhD",
-      "checked": "2026-10-18"
+      "label": "UMass Chan Morningside GSBS: Biomedical Sciences PhD",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.umassmed.edu/gsbs/admissions/apply/",
+      "label": "UMass Chan GSBS: Apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.umassmed.edu/gsbs/admissions/admissions-faqs/",
+      "label": "UMass Chan GSBS: Admissions FAQs",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.umassmed.edu/gsbs/admissions/financial-support/",
+      "label": "UMass Chan GSBS: Financial support",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

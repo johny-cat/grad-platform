@@ -3,17 +3,71 @@
   "institution": "University at Buffalo",
   "institutionShort": "Buffalo",
   "country": "US",
+  "location": "Buffalo, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The official page gives the application deadline as December 1 without a year, so it is shown as a published date and not confirmed for Fall 2027. The accepted English tests and minimum scores are on a separate page that was not read.",
+  "admissionModel": "program",
+  "summary": "A common first-year PhD entry route at the University at Buffalo. Students explore research areas and laboratories before choosing a faculty advisor and one of ten programs.",
   "officialUrl": "https://www.buffalo.edu/grad/programs/phd-programs-in-biomedical-sciences-phd.html",
+  "applyUrl": "https://ubgradconnect.buffalo.edu/apply/?sr=ab29afaf-1032-4a06-a499-6bf0ed8375b5",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline (year not stated)",
+      "dateText": "December 1",
+      "note": "The How to Apply page says the application and all supporting documents must be received by December 1 and that no extensions are granted. No year is given, so confirm Fall 2027 on the official page."
+    }
+  ],
+  "timeline": {
+    "interviews": "Strong applicants will be invited to interview."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "International applicants must present a valid English language proficiency test score. Test dates must be no older than two years when students enter the program. The accepted tests and minimum scores are on a separate university page that was not read; check it."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Fee waivers are given only to participants in listed programs (for example AmeriCorps, McNair Scholars, EOP/HEOP/SEEK, veteran or military status, a GRE fee waiver, Project 1000). The page says it cannot grant fee waivers for any other reasons, including for international applicants."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts from every college or university attended",
+      "Resume or CV",
+      "Personal statement with three parts (500, 500 and 750 words)"
+    ],
+    "note": "Official transcripts are required only if admitted."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The page says all accepted students receive a full-tuition scholarship and stipend, with medical and dental insurance. It gives a $35,000 stipend but no year or length of support."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.buffalo.edu/grad/programs/phd-programs-in-biomedical-sciences-phd.html",
-      "label": "University at Buffalo Graduate School: PhD Programs in Biomedical Sciences",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html",
+      "label": "How to apply: deadline, fee, letters, documents, funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medicine.buffalo.edu/phdprogram",
+      "label": "PhD Program in Biomedical Sciences: first-year entry",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

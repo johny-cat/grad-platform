@@ -34,3 +34,15 @@ references concern degree progress and fellowships, not Fall 2027 entry. The
 catalogue admissions page contains no deadline. The reviewer confirmed that
 leaving the original program JSON unchanged and pending is necessary. No
 School of Medicine facts or search-result summaries were substituted.
+
+## Check: 2026-10-24
+
+The program page and school pages opened this time through a page fetcher (no 403). Quotes as returned, some shortened. The published date has no year, so it is a published date only; the earlier finding of no Fall 2027 deadline still holds.
+
+- Deadline: https://publichealth.jhu.edu/academics/phd-dept-of-biochemistry-and-molecular-biology — "Apply by December 1 for an August start." https://publichealth.jhu.edu/sites/default/files/2024-07/2025-2026-deadline-chart.pdf (title "2025-2026 Application Deadlines") — "All doctoral programs have a December 1 deadline, except for the PhD in Clinical Investigation, which has a March 1 deadline."
+- GRE: program page — "Standardized test scores (GRE) are optional for this program." Also "Laboratory research experience (from academia, industry, etc.) is required".
+- Rotations: program page — "Two-month rotations in the first year prior to selecting thesis lab".
+- Funding: program page — "PhD students are guaranteed a minimum annual stipend of $52,000 through June 2027." ; "Stipend levels beyond that date will be subject to successor agreement negotiations between the University and the Union." ; "all full-time PhD students who remain in good academic standing will receive the above support" ; "The minimum stipend and tuition coverage is guaranteed for at least the first four years of a BSPH PhD program". Nothing says directly that funding covers international students.
+- City: school address "615 N. Wolfe Street, Baltimore, MD 21205."
+- Letters, documents, English: https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/how-to-apply — "Three Letters of Recommendation" ; "The Bloomberg School requires official academic records, transcripts, or mark sheets from" ; "All applicants will upload a resume or curriculum vitae to applicant system" ; "Statement of Purpose and Objectives" ; "an English proficiency test score (TOEFL, IELTS, Duolingo English, Pearson Test for English) is required." (minimums not on that page) ; "the Bloomberg School requires the Credential Evaluation for all international coursework" ; "The Schools of Public Health Application Service (SOPHAS) is the common application system"
+- Fee waivers: https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/how-to-apply/application-fee-waiver-requirements — "Application Fee Waivers are available for U.S. Citizens and Permanent Residents." ; "Applicants are eligible for an application fee waiver for:" financial hardship, US military service, VTSI eligibility, current JHU undergraduate. The fee amount is not stated on any page read, so no applicationFee block is given.

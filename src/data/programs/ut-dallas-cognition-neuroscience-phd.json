@@ -5,15 +5,76 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "location": "Richardson, Texas",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is printed without a year, so it is not confirmed for Fall 2027. Admission differs by track (the Cognitive track admits students directly to a lab; the Systems track rotates), so no single admission model is shown.",
+  "summary": "Doctoral program in cognition and neuroscience at UT Dallas, with a cognitive and a systems neuroscience track. Support comes through teaching or research assistantships and tuition scholarships.",
   "officialUrl": "https://bbs.utdallas.edu/departments/psychology/graduate-programs/cognitive-and-neuroscience-phd",
+  "applyUrl": "https://graduate-admissions.utdallas.edu/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline for fall admission",
+      "dateText": "December 1",
+      "note": "Cognitive neuroscience track page: \"Completed applications must be received on or before December 1 for admission the following fall.\" No year is printed. There are no spring or summer admissions."
+    }
+  ],
+  "timeline": {
+    "decisions": "Admissions decisions generally are made in February, and offers must be accepted or declined by April 15."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 for tests on or before January 26, 2026; 4 for tests after January 26, 2026",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Pearson PTE Academic minimum is 67. Exempt if your bachelor's or master's degree was earned through instruction and examination in English, or your native country's primary language is English. Test date must be less than two years old."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "UT Dallas students and alumni get an automatic waiver. The Graduate Application Fee Waiver Program is for U.S. citizens and permanent residents. The program page says waivers are limited and not guaranteed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts",
+      "CV",
+      "Statement of purpose, naming potential faculty mentors"
+    ],
+    "note": "A primary consideration in PhD admission is a faculty member's agreement to serve as the student's mentor. Typically applicants have an undergraduate GPA of 3.0 or above; a master's degree is not required."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Financial support is awarded through teaching or research assistantship stipends and tuition scholarships. Admitted students are automatically considered for these, and all students receive health insurance paid for by the program. The pages give no stipend amount and do not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants must provide proof of English proficiency."
+  },
   "sources": [
     {
       "url": "https://bbs.utdallas.edu/departments/psychology/graduate-programs/cognitive-and-neuroscience-phd",
       "label": "UT Dallas School of Behavioral and Brain Sciences: Cognition and Neuroscience PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://bbs.utdallas.edu/departments/psychology/graduate-programs/cognitive-neuroscience-track/",
+      "label": "UT Dallas: Cognitive Neuroscience track",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate-admissions.utdallas.edu/apply-to-ut-dallas/deadlines-and-fees/",
+      "label": "UT Dallas Graduate Admissions: Deadlines and fees",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate-admissions.utdallas.edu/apply-to-ut-dallas/international-students/",
+      "label": "UT Dallas Graduate Admissions: International students",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

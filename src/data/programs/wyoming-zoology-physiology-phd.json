@@ -5,15 +5,65 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the February 1 and September 15 dates are printed without a year, so no Fall 2027 deadline is confirmed. No application fee or English minimum is stated on the pages opened.",
+  "admissionModel": "lab",
+  "summary": "PhD in zoology and physiology at the University of Wyoming. Applicants must find a faculty member willing to be their advisor, and the department only accepts students who will have financial support.",
   "officialUrl": "https://www.uwyo.edu/zoology/students/grad-degrees/index.html",
+  "applyUrl": "https://www.uwyo.edu/zoology/students/grad-degrees/apply_grad.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Summer/autumn admission",
+      "dateText": "February 1st",
+      "note": "Deadline for receipt of all application materials; no year printed."
+    },
+    {
+      "label": "January admission",
+      "dateText": "September 15th",
+      "note": "Deadline for receipt of all application materials; no year printed."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "International students must include a copy of their TOEFL scores. No minimum score is stated."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Departmental application form",
+      "Curriculum vitae",
+      "College transcripts"
+    ],
+    "note": "A minimum undergraduate GPA of 3.00 (A = 4.00) is required. The department cannot consider applications unless a faculty member has indicated willingness to serve as the student's advisor."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Support is a teaching assistantship, research assistantship or fellowship, all of which pay living expenses and cover tuition and fees. The FAQ says: \"We only accept students that will have some type of financial support.\" No stipend amount is given."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Additional information is required for international applicants."
+  },
   "sources": [
     {
       "url": "https://www.uwyo.edu/zoology/students/grad-degrees/index.html",
       "label": "University of Wyoming Department of Zoology and Physiology: Graduate Degree Information",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.uwyo.edu/zoology/students/grad-degrees/apply_grad.html",
+      "label": "University of Wyoming Zoology and Physiology: Application",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.uwyo.edu/zoology/students/grad-degrees/FAQs.html",
+      "label": "University of Wyoming Zoology and Physiology: FAQ for graduate applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

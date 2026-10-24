@@ -5,15 +5,64 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The admissions FAQ gives a December 1 priority deadline without a year, so it is shown as a published date. That page also quotes statistics for an older (2018) cohort, which were not used.",
+  "admissionModel": "program",
+  "summary": "PhD programs at the Jefferson College of Life Sciences with a flexible entry pathway. Students do lab rotations in the first year, then choose a thesis advisor and one of six PhD programs.",
   "officialUrl": "https://www.jefferson.edu/academics/colleges-schools-institutes/life-sciences/degrees-programs/phd-programs.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Priority application deadline (year not stated)",
+      "dateText": "December 1st",
+      "note": "The FAQ says \"The priority application deadline is December 1st.\" Late applications are considered by each program committee on a space-available basis. Confirm Fall 2027."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are usually held between late January and mid-March.",
+    "decisions": "Acceptance notices go out between February and May."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "Applicants whose native language is not English, or whose bachelor's degree is from a non-English institution, must submit official scores from an accepted exam such as TOEFL or IELTS. No minimum scores are given."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Applicants request a waiver by sending supporting documents to the Senior Associate Director of Admissions. The page does not limit waivers to US applicants; international applicants should confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement of approximately 500-750 words",
+      "Resume or CV",
+      "Official transcripts from all institutions attended",
+      "Course-by-course WES evaluation for degrees from non-US institutions"
+    ],
+    "note": "The FAQ says international students with non-US degrees are particularly encouraged to submit GRE scores."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The FAQ says students accepted to a PhD program receive a fellowship covering tuition and fees, with health insurance and a competitive stipend. No stipend amount, year or international coverage is stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.jefferson.edu/academics/colleges-schools-institutes/life-sciences/degrees-programs/phd-programs.html",
-      "label": "Jefferson College of Life Sciences: PhD Programs",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.jefferson.edu/academics/colleges-schools-institutes/life-sciences/degrees-programs/phd-programs/applying/faq.html",
+      "label": "PhD admissions FAQ",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

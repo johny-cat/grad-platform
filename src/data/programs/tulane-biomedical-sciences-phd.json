@@ -3,17 +3,72 @@
   "institution": "Tulane University",
   "institutionShort": "Tulane",
   "country": "US",
+  "location": "New Orleans, Louisiana",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary PhD in biomedical sciences at Tulane School of Medicine. Students complete at least three lab rotations in the first year before choosing a dissertation advisor.",
   "officialUrl": "https://medicine.tulane.edu/biomedical-sciences-graduate-program/interdisciplinary-phd-program",
+  "applyUrl": "https://medicine.tulane.edu/biomedical-sciences-graduate-program/application-information",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Priority deadline",
+      "date": "2026-12-31",
+      "note": "Applications opened September 1, 2026; admissions are on a rolling basis."
+    },
+    {
+      "label": "Standard consideration ends",
+      "date": "2027-01-30"
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are offered to the most competitive candidates and begin in January; the Admission Requirements page says they run from January through March."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90",
+      "ielts": 7,
+      "note": "Normally required for the PhD if English is not your native language; applicants with lower scores are evaluated on their complete package. Waived for applicants with a degree from an institution where instruction was in English."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Official transcripts from all prior colleges or universities",
+      "Personal statement (about two pages)",
+      "Résumé or CV",
+      "Credential evaluation for degrees from outside the US"
+    ],
+    "note": "There is no application fee. GRE or MCAT scores are not required but are evaluated if provided."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "The program page says PhD students receive a stipend of approximately $35,000 per year (no year stated) for the entire program, usually four to seven years, plus a full tuition waiver and paid health insurance. PhD students from outside the US receive the same financial package as US citizens."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "About one third of incoming PhD students are international. Foreign credentials must be evaluated even when instruction was in English."
+  },
   "sources": [
     {
       "url": "https://medicine.tulane.edu/biomedical-sciences-graduate-program/interdisciplinary-phd-program",
-      "label": "Tulane School of Medicine, Biomedical Sciences Graduate Program: Interdisciplinary PhD Program",
-      "checked": "2026-10-18"
+      "label": "Tulane: Interdisciplinary PhD Program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medicine.tulane.edu/biomedical-sciences-graduate-program/interdisciplinary-phd/admission-requirements",
+      "label": "Tulane: Interdisciplinary PhD admission requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medicine.tulane.edu/biomedical-sciences-graduate-program/application-information",
+      "label": "Tulane: BMS application information",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

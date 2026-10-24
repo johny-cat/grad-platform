@@ -3,17 +3,60 @@
   "institution": "Rensselaer Polytechnic Institute",
   "institutionShort": "RPI",
   "country": "US",
+  "location": "Troy, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The fall deadline comes from the Graduate Admissions general doctoral line; the program's own page states no deadline. GRE, fee, letter and English figures are Graduate Admissions rules for all programs except where it names exceptions. Funding is not stated on the pages checked.",
+  "admissionModel": "program",
+  "summary": "PhD in biochemistry and biophysics in Rensselaer's Department of Biological Sciences. Students complete three rotations in the first year and choose a thesis advisor by the end of the second semester.",
   "officialUrl": "https://biology.rpi.edu/programs/phd-biochemistry-and-biophysics",
+  "applyUrl": "https://gradadmissions.rpi.edu/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Fall 2027 doctoral application deadline",
+      "date": "2026-12-15",
+      "note": "Graduate Admissions lists this as the general Fall 2027 doctoral deadline. Late applications are accepted but applications submitted before the deadline receive priority review."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "88 (iBT)",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Minimums for international applicants whose native language is not English; PTE 59 is also accepted. Applicants with a valid Green Card are treated as domestic."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Non-refundable. The fee is waived for Rensselaer alumni, current Rensselaer students and some others; the page does not mention waivers for international applicants, so confirm."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Résumé"
+    ],
+    "note": "Graduate Admissions says the GRE is optional for all programs other than Management PhD. Applicants enter two recommenders on the online application."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://biology.rpi.edu/programs/phd-biochemistry-and-biophysics",
       "label": "Rensselaer Department of Biological Sciences: Ph.D. in Biochemistry and Biophysics",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements",
+      "label": "Rensselaer Graduate Admissions: Deadlines and requirements",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

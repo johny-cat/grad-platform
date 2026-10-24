@@ -3,17 +3,67 @@
   "institution": "Florida State University",
   "institutionShort": "FSU",
   "country": "US",
+  "location": "Tallahassee, Florida",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The admissions page says applications completed by December 1 of the previous year get full consideration, with no calendar year, so it is shown as a published date. How students are admitted (program or lab) is not stated on the pages read.",
+  "summary": "PhD in Biomedical Sciences at the Florida State University College of Medicine. Admitted students are appointed as graduate research assistants.",
   "officialUrl": "https://med.fsu.edu/phd/home",
+  "applyUrl": "https://admissions.fsu.edu/gradapp/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Full-consideration deadline (year not stated)",
+      "dateText": "December 1 of the previous year",
+      "note": "The admissions page says applications completed by December 1 of the previous year receive full consideration and are considered for a limited number of University Fellowships. Admission is for the fall term only. Confirm the date for Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "note": "International applicants whose native language is not English must submit official English proficiency results by the application deadline, unless they qualify for a university waiver (for example a US bachelor's degree). No minimum scores are listed on the page read."
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The page says the Office of Graduate Admissions does not waive the application fee for graduate applicants."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Resume or curriculum vitae",
+      "Statement of purpose naming at least three faculty members",
+      "Transcripts from all previous institutions",
+      "GRE scores or an approved GRE waiver"
+    ],
+    "note": "Official scores from the GRE or an equivalent such as the MCAT are required unless an approved waiver applies. Applicants who meet GPA and research background criteria may request a GRE waiver, which does not guarantee admission."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admitted students are appointed as graduate research assistants with a stipend above the minimum set by the union contract, tuition waivers and a health insurance subsidy. No stipend amount is given. Support is contingent on satisfactory performance."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://med.fsu.edu/phd/home",
-      "label": "FSU College of Medicine: Biomedical Sciences Ph.D. Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.fsu.edu/phdAdmissions/admissionRequirements",
+      "label": "Admission requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.fsu.edu/phdAdmissions/FinancialInformation",
+      "label": "Financial support",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

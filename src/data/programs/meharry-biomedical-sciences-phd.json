@@ -3,17 +3,48 @@
   "institution": "Meharry Medical College",
   "institutionShort": "Meharry",
   "country": "US",
+  "location": "Nashville, Tennessee",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The program page and the graduate admissions page do not state English-test scores, funding or interview details, so those are left out.",
+  "admissionModel": "program",
+  "summary": "Meharry's PhD in Biomedical Sciences admits students directly to its School of Graduate Studies and Research. Students rotate through at least three research laboratories.",
   "officialUrl": "https://meharry.edu/program/biomedical-science/",
+  "applyUrl": "https://meharry.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-15",
+      "note": "The program page lists Dec. 15, 2026 without naming an entry term. The School of Graduate Studies admissions page lists Dec. 15 for the PhD with no year. Confirm it is for Fall 2027 entry."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 2,
+      "max": 2
+    },
+    "documents": [
+      "Application through GradCAS",
+      "Statement of purpose",
+      "One-page research statement describing career goals",
+      "Official transcripts of all undergraduate and graduate work"
+    ],
+    "note": "There is no application fee for the PhD in Biomedical Sciences. At least one of the two letters should be from science faculty, and no more than two letters are accepted or reviewed. The official page does not state English-test scores; it points international applicants to the school of interest."
+  },
   "sources": [
     {
       "url": "https://meharry.edu/program/biomedical-science/",
-      "label": "Meharry Medical College: Ph.D. Biomedical Sciences",
-      "checked": "2026-10-18"
+      "label": "Meharry: Ph.D. Biomedical Sciences",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://meharry.edu/admissions-and-aid/school-of-graduate-studies-admissions/",
+      "label": "Meharry: School of Graduate Studies admissions",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

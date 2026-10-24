@@ -3,17 +3,69 @@
   "institution": "University of Georgia",
   "institutionShort": "UGA",
   "country": "US",
+  "location": "Athens, Georgia",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The ILS deadline shown (December 1st, 2025) is for an earlier cycle and the direct-admission dates carry no year, so Fall 2027 is not confirmed. Fee and funding amounts are not stated on the pages checked.",
+  "admissionModel": "program",
+  "summary": "PhD in neuroscience at the University of Georgia, mostly entered through the Integrated Life Sciences program with lab rotations. Direct admission is possible in exceptional cases.",
   "officialUrl": "https://neuroscience.uga.edu/phdprogram",
+  "applyUrl": "https://neuroscience.uga.edu/apply-now",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Integrated Life Sciences (ILS) deadline",
+      "dateText": "December 1st, 2025",
+      "note": "Page text: full consideration for financial support is given to applications received by the stated ILS deadline. This date is for an earlier cycle; confirm Fall 2027."
+    },
+    {
+      "label": "Direct admission, domestic (fall)",
+      "dateText": "Fall Semester – July 1",
+      "note": "Published without a year. Direct admission applicants must contact the Neuroscience Program Office before applying."
+    },
+    {
+      "label": "Direct admission, international (fall)",
+      "dateText": "Fall Semester – April 15",
+      "note": "Published without a year."
+    }
+  ],
+  "timeline": {
+    "interviews": "Top domestic applicants are invited to visit the UGA campus in late January or early February; top international applicants have a Skype-based interview."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 overall with at least 20 on speaking and writing",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "IELTS with no single band below 6.0. International students may be required to show English proficiency and proof of finances. The page gives no new-scale TOEFL score."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Integrated Life Sciences (ILS) or direct admission application",
+      "CV or résumé",
+      "Unofficial transcripts",
+      "Statement of purpose"
+    ],
+    "note": "The page says no GRE scores are required, but they are accepted and considered if submitted. Official transcripts are required before matriculation."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://neuroscience.uga.edu/phdprogram",
       "label": "University of Georgia Neuroscience: Graduate Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuroscience.uga.edu/apply-now",
+      "label": "University of Georgia Neuroscience: Application Process",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

@@ -3,17 +3,80 @@
   "institution": "University of Iowa",
   "institutionShort": "Iowa",
   "country": "US",
+  "location": "Iowa City, Iowa",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The how-to-apply page gives December 1 for best consideration and January 1 as the final deadline without a year, so they are shown as published dates. How students are admitted (program or lab) is not stated on the pages read.",
+  "summary": "Interdisciplinary Neuroscience PhD at the University of Iowa. Applicants apply through the Graduate College and select applicants are invited to interview.",
   "officialUrl": "https://neuroscience.grad.uiowa.edu/",
+  "applyUrl": "https://grad.admissions.uiowa.edu/academics/neuroscience-phd",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Best-consideration and final deadlines (year not stated)",
+      "dateText": "December 1st for best consideration with final deadline of January 1st",
+      "note": "Fall semester only. Neither page gives a year, so confirm Fall 2027."
+    }
+  ],
+  "timeline": {
+    "interviews": "Select applicants are contacted by email and invited for an interview in person or virtually."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "International students may also be required to submit TOEFL, IELTS or DuoLingo scores. No minimum scores are listed on the pages read."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The fee is $60 ($100 for international applicants). The Graduate College grants waivers for significant financial hardship; the program cannot offer direct waivers but reimburses the fee for applicants who are invited to and complete an interview. International applicants should confirm the waiver rules."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Resume or curriculum vitae",
+      "Research statement",
+      "Personal statement",
+      "Unofficial transcripts"
+    ],
+    "note": "Official transcripts are required before enrollment if admitted. International students recommended for admission must send a financial statement."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The funding page says neuroscience students receive a guaranteed stipend ($36,350 for the 2026-2027 academic year), full tuition, fees and a health insurance allowance, with support beyond the first year guaranteed while progress is satisfactory. Its table is labelled 2024-2025, so confirm the current amount. It does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://neuroscience.grad.uiowa.edu/",
-      "label": "University of Iowa Neuroscience Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuroscience.grad.uiowa.edu/prospective-students/how-apply",
+      "label": "How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuroscience.grad.uiowa.edu/prospective-students/eligibility-and-application-components",
+      "label": "Eligibility and application components",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuroscience.grad.uiowa.edu/prospective-students/funding",
+      "label": "Funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.admissions.uiowa.edu/academics/neuroscience-phd",
+      "label": "Graduate Admissions: Neuroscience PhD",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

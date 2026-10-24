@@ -3,17 +3,65 @@
   "institution": "University of Kansas Medical Center",
   "institutionShort": "KU Medical Center",
   "country": "US",
+  "location": "Kansas City, Kansas",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The how-to-apply page still describes the Fall 2026 cycle: the portal closed after the December 1, 2025 deadline, so that date is shown as a published date. Fall 2027 is not confirmed. No funding details were found on the pages read.",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary graduate program at the University of Kansas Medical Center. New students first enter IGPBS before choosing a research discipline in one of the basic science departments.",
   "officialUrl": "https://www.kumc.edu/igpbs/program-information.html",
+  "applyUrl": "https://www.kumc.edu/igpbs/program-information/how-to-apply.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Fall 2026 application deadline (historical)",
+      "dateText": "December 1st, 2025",
+      "note": "The page says the portal for Fall 2026 matriculation has closed and the deadline was December 1st, 2025. Confirm Fall 2027 dates with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "The page lists a Recruitment Weekend on February 20-22, 2026 (last season). Select international applicants are interviewed by telephone or Zoom.",
+    "decisions": "Decisions on interviews and acceptance will be made as soon as possible, but no later than April."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "At least 23 on Reading and Listening and at least 19 on Writing (as the page states them)",
+      "ielts": 6.5,
+      "note": "IELTS needs 6.5 overall with no part score below 6. GATEWAY scores are accepted in place of TOEFL (475 overall, Writing minimum 425). The test must be taken within two years of first enrollment. The page does not say which TOEFL scale these scores are on."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The page says the fee is $60 and non-refundable. It does not mention waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts (official copies if accepted)",
+      "Personal statement (no more than two pages, single spaced)",
+      "Research statement (no more than two pages, single spaced)",
+      "Foreign credential evaluation for transcripts from international institutions"
+    ]
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Because of the expanded US travel ban, the page says KU Medical Center cannot offer admission to prospective students who are citizens of the listed countries and live outside the US. Those living in the US may apply."
+  },
   "sources": [
     {
       "url": "https://www.kumc.edu/igpbs/program-information.html",
-      "label": "KU Medical Center IGPBS: Program Information",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.kumc.edu/igpbs/program-information/how-to-apply.html",
+      "label": "How to apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

@@ -3,17 +3,59 @@
   "institution": "Loyola University Chicago",
   "institutionShort": "Loyola Chicago",
   "country": "US",
+  "location": "Maywood, Illinois",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Integrated PhD program at Loyola's Stritch School of Medicine. Students are admitted to IPBS and choose a dissertation advisor and one of six tracks by the end of the first year.",
   "officialUrl": "https://www.luc.edu/stritch/graduateschool/ipbsphdtracks/",
+  "applyUrl": "https://gpem.luc.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline (Fall 2027)",
+      "date": "2026-12-01",
+      "note": "The page says \"The deadline to apply for the PhD program for Fall 2027 is Tuesday, December 1, 2026.\" No time is given. Applications are reviewed on a rolling basis and early applications are encouraged."
+    }
+  ],
+  "timeline": {
+    "interviews": "An in-person interview is required. Interviews take place between January and March of the admission year."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "TOEFL or IELTS scores are required for international applicants. No minimum scores are given on the page read."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The page says applications are submitted online only and there is no fee to apply."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement (one-page statement of purpose)",
+      "Transcripts for all undergraduate and graduate work",
+      "Declaration and Certification of Finances form (international applicants)",
+      "Evaluation of international transcripts by a NACES member (international applicants)"
+    ]
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The page says the current stipend for PhD students is $34,000 per year (no year stated) and that PhD students also receive a full tuition scholarship for 48 credit hours. It does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.luc.edu/stritch/graduateschool/ipbsphdtracks/",
-      "label": "Loyola University Chicago Stritch School of Medicine: IPBS PhD tracks",
-      "checked": "2026-10-18"
+      "label": "Official program page: IPBS PhD tracks",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

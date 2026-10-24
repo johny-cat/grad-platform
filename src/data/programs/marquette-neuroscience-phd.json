@@ -5,15 +5,61 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "The program page gives December 1 for the fall term without a year, so it is shown as a published date and is not confirmed for Fall 2027. How students are admitted (program or lab), GRE, letters and funding are not stated for this program on the pages read.",
+  "summary": "PhD in Neuroscience at Marquette University, a STEM-designated program. A recruitment committee reviews applications and selects applicants for phone and then on-campus interviews.",
   "officialUrl": "https://www.marquette.edu/grad/programs-neuroscience.php",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline for the fall term (year not stated)",
+      "dateText": "December 1",
+      "note": "Program page: \"December 1: Application and application materials should be received to be considered for the fall term.\" Confirm Fall 2027."
+    }
+  ],
+  "timeline": {
+    "interviews": "The recruitment committee selects a sub-group for phone interviews, then applicants are selected for on-campus interviews."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80 on the internet-based test, with at least 20 in each section (scale not stated on the page)",
+      "ielts": 6.5,
+      "note": "Required for international applicants whose language of instruction was not English. Scores may not be more than two years old. Some programs may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The FAQ says waivers are given only in a few circumstances: previous Marquette graduate students, current Marquette undergraduates or Marquette bachelor's graduates, McNair Scholars, and applicants who attended a Marquette campus visit event. International applicants should confirm eligibility."
+    },
+    "documents": [
+      "Completed online application",
+      "Transcripts from all previously attended institutions",
+      "Bachelor's degree in science, technology, engineering or mathematics from a regionally accredited institution (or an international equivalent)"
+    ],
+    "note": "The Graduate School FAQ says most programs require three letters of recommendation and that GRE requirements depend on the program; the neuroscience page does not say."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The program page says the program is STEM-designated and international students can apply for 36 months of Optional Practical Training."
+  },
   "sources": [
     {
       "url": "https://www.marquette.edu/grad/programs-neuroscience.php",
-      "label": "Marquette University Graduate School: Ph.D. in Neuroscience",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.marquette.edu/grad/faqs.php",
+      "label": "Graduate School FAQ: fee, waivers, English, letters",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://bulletin.marquette.edu/admission-costs/grad-admission/grad-admission.pdf",
+      "label": "Graduate admission bulletin",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

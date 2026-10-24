@@ -5,15 +5,71 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Umbrella biomedical sciences PhD at the University of Virginia. Students generally rotate with three faculty members of their choosing before selecting a mentor and thesis lab.",
   "officialUrl": "https://med.virginia.edu/bims/prospective-students/what-is-bims/",
+  "applyUrl": "https://med.virginia.edu/education/biomedical-sciences/prospective-students/apply-now/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-11-15",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "The Apply page says the Fall 2027 deadline is November 15, 2026 and the portal closes at 11:59pm Eastern. There is no rolling admission and no spring admission."
+    }
+  ],
+  "timeline": {
+    "interviews": "Competitive applicants are invited to a virtual interview session by an admission committee chair."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "90 for tests taken before 1/21/26; 4.5 for tests taken after 1/21/26",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "IELTS minimum is 7.0 in each section. Most international students must submit TOEFL, IELTS or DET scores; TOEFL is not required with a U.S. undergraduate or Master's degree, and can be waived with verification of institutional language instruction. Official scores are required only if the applicant matriculates; scores are valid for two years."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The page words the $85 non-refundable fee as due for \"Fall 2025 admission\", so confirm the current amount. It links waivers for domestic applicants and says: \"We are not currently offering fee waivers to International applicants.\""
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts of entire post-secondary record (English translation if needed)",
+      "Four short personal statements"
+    ],
+    "note": "GREs are no longer considered. Applicants are expected to have a minimum GPA of 3.0. Final official transcripts are required before matriculation. All three letters must be in before the deadline or the application is not reviewed."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The Funding page says all students receive tuition, health/dental insurance and a competitive stipend, but gives no amount and does not mention international students. Continued support depends on full-time enrollment and satisfactory progress."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://med.virginia.edu/bims/prospective-students/what-is-bims/",
       "label": "UVA School of Medicine BIMS: What is BIMS?",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.virginia.edu/education/biomedical-sciences/prospective-students/apply-now/",
+      "label": "UVA BIMS: Apply now",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.virginia.edu/education/biomedical-sciences/prospective-students/funding/",
+      "label": "UVA BIMS: Funding",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

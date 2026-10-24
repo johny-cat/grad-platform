@@ -3,17 +3,90 @@
   "institution": "Colorado State University",
   "institutionShort": "Colorado State",
   "country": "US",
+  "location": "Fort Collins, Colorado",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Interdisciplinary PhD at Colorado State. Most students are admitted through Channel 1 and rotate through labs in the first year; Channel 2 applicants join a lab directly with outside funding.",
   "officialUrl": "https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-phd/",
+  "applyUrl": "https://graduateschool.colostate.edu/apply",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Channel 1 PhD application deadline",
+      "date": "2026-12-02",
+      "note": "The CMB admissions overview says PhD applications for Channel 1 are due on December 2, 2026. No time is given."
+    },
+    {
+      "label": "Channel 2 deadline: international applicants with their own funding",
+      "date": "2026-12-02",
+      "note": "Channel 2 applications that do not show external funding are declined without review."
+    },
+    {
+      "label": "Channel 2 deadline: US citizens and permanent residents",
+      "date": "2027-01-15",
+      "note": "Channel 2 only."
+    }
+  ],
+  "timeline": {
+    "interviews": "Channel 1 virtual interviews are approximately January 18 to February 5; on-campus interviews for top-ranked domestic applicants are in late March.",
+    "decisions": "First offers are approximately April 5, then rolling offers from approximately April 12 to 30."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "International applicants must meet English proficiency requirements; the Graduate School page names no tests or minimum scores and says a department may set higher ones. Check the CSU English proficiency guide."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The Graduate School lists $60 for US citizens and permanent residents and $70 for international degree applicants. The CMB page says fees are waived for certain groups, including most applicants with degrees from Colorado institutions. International applicants should confirm eligibility."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Personal statement",
+      "Recommendation letters"
+    ],
+    "note": "Review can begin with two letters, but only applicants with three letters will be invited to interview."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students are generally admitted as graduate teaching assistants with a stipend, tuition and health insurance in the first year; the page says stipends were $38,352 for the first year for students admitted Fall 2026 and the Fall 2027 amount is not set. The Graduate School program page also says students are responsible for their own funding, so confirm with the department. Channel 2 students must bring outside funding."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-phd/",
-      "label": "Colorado State University Graduate School: Cell and Molecular Biology, PhD",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cmb.colostate.edu/admissions-overview/",
+      "label": "CMB admissions overview and timeline",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cmb.colostate.edu/prospective-students/at-a-glance/",
+      "label": "CMB at a glance",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cmb.colostate.edu/prospective-students/",
+      "label": "CMB prospective students: funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/apply",
+      "label": "Graduate School: fee, letters, documents",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

@@ -3,17 +3,70 @@
   "institution": "University of Denver",
   "institutionShort": "Denver",
   "country": "US",
+  "location": "Denver, Colorado",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official pages do not say clearly whether students are admitted to the program or to a lab; the page says acceptance is usually contingent on support by a faculty member. No funding details are stated on the pages read.",
+  "summary": "PhD in Biological Sciences at the University of Denver, with Cell and Molecular Biology and Ecology and Evolution programs. Applicants name their program, and acceptance usually depends on faculty support.",
   "officialUrl": "https://science.du.edu/biology/academics/degree-programs/gr/phd-biological-sciences",
+  "applyUrl": "https://gradadmissions.du.edu/apply/",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Priority deadline",
+      "date": "2026-12-15",
+      "note": "Fall 2027 quarter (beginning in September). Applications are considered after this date if space is available. No time is given."
+    },
+    {
+      "label": "International submission deadline",
+      "date": "2027-05-05",
+      "note": "Fall 2027."
+    },
+    {
+      "label": "Final submission deadline",
+      "date": "2027-08-16",
+      "note": "Applicants cannot submit after this date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 for exams taken before January 21, 2026; 4.0 for exams on or after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Required of all graduate applicants regardless of citizenship status, with eligibility conditions on the page. Also accepted: C1 Advanced (minimum 176). Scores are valid for two years."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "There is also a $50 evaluation fee for degrees earned outside the United States. The program page mentions a waiver only for Colorado residents applying to master's programs; the admission steps page mentions no waiver."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Scanned transcripts from every college or university attended",
+      "Diploma or degree certificate if transcripts do not show the degree",
+      "Personal statement of at least 300 words",
+      "Name of the program applied to (Cell and Molecular Biology or Ecology and Evolution)"
+    ]
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://science.du.edu/biology/academics/degree-programs/gr/phd-biological-sciences",
-      "label": "University of Denver Department of Biological Sciences: PhD in Biological Sciences",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.du.edu/academics/admission-steps/biological-sciences-cell-and-molecular-biology-phd-2027-2028",
+      "label": "Admission steps, Cell and Molecular Biology PhD 2027-2028",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }
