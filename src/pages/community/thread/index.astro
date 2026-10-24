@@ -1,0 +1,12 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ThreadView from '../../../islands/ThreadView';
+---
+
+<Base title="Discussion" current="community" description="A discussion in the Not Yet community on HeardYet.">
+  <div class="wrap wrap--narrow">
+    <ThreadView client:only="preact">
+      <p slot="fallback" class="muted">Loading…</p>
+    </ThreadView>
+  </div>
+</Base>

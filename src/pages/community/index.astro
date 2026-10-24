@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import CommunityBoard from '../../islands/CommunityBoard';
+---
+
+<Base
+  title="Community"
+  current="community"
+  description="Not Yet: a kind place for grad school applicants to ask, share results and lift each other up."
+>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Not Yet</h1>
+      <p class="lead">
+        For everyone who hasn't made it yet. Ask questions, share what you've heard, and lift each other up.
+      </p>
+      <p class="small muted">
+        You post under a nickname, which you can change on <a href="/me/">My programs</a>. Anyone can read; posting
+        needs a free sign-in. Posts reported by several people are hidden until a moderator looks.
+      </p>
+    </header>
+    <CommunityBoard client:only="preact">
+      <p slot="fallback" class="muted">Loading…</p>
+    </CommunityBoard>
+  </div>
+</Base>

@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import SeasonStrip from '../../components/SeasonStrip';
 import ProgramActions from '../../islands/ProgramActions';
 import ProgramResults from '../../islands/ProgramResults';
+import CommunityBoard from '../../islands/CommunityBoard';
 import {
   GRE_LABELS,
   INTERNATIONAL_FUNDING_LABELS,
@@ -284,6 +285,13 @@ const unknown = 'Not stated on official pages';
             </dl>
           )
         }
+      </section>
+
+      <section id="discussion" aria-labelledby="discussion-heading">
+        <h2 id="discussion-heading">Discussion</h2>
+        <CommunityBoard client:only="preact" programSlug={program.id} programName={program.data.institutionShort ?? program.data.institution}>
+          <p slot="fallback" class="muted">Loading…</p>
+        </CommunityBoard>
       </section>
 
       <section class="sources" aria-labelledby="sources-heading">
