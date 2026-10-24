@@ -5,15 +5,61 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/phd-biomedical-sciences",
+  "details": "checked",
+  "officialUrl": "https://bulletins.nyu.edu/graduate/arts-science/programs/biomedical-sciences-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/phd-biomedical-sciences",
-      "label": "NYU Langone Health: PhD in Biomedical Sciences",
-      "checked": "2026-10-18"
+      "url": "https://bulletins.nyu.edu/graduate/arts-science/admissions/",
+      "label": "GSAS admission and English recommendations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/graduate/arts-science/programs/biomedical-sciences-phd/",
+      "label": "Biomedical Sciences bulletin",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/sites/default/files/vilcek-phd-program-ebook.pdf",
+      "label": "Official historical Vilcek brochure",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://apply.vilcek.med.nyu.edu/apply/",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Historical application window",
+      "dateText": "August 1, 2025 - December 2, 2025 (5pm ET)",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "100 iBT recommended, not hard minimum",
+      "ielts": 7,
+      "note": "GSAS recommendations, not hard minimums; lower scores may apply. No TOEFL scale conversion inferred."
+    },
+    "documents": [
+      "Academic transcripts",
+      "Applicant statements",
+      "Resume/CV",
+      "Letters of recommendation"
+    ],
+    "note": "Available requirements from GSAS bulletin; program-specific GRE, fee/waiver and letter count not established. Rotation model shown in2026–27bulletin and Aug2025brochure; confirm current admissions model because admissions page unavailable."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 54060,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-2026"
+    },
+    "note": "Historical Aug2025brochure: tuition paid, medical benefits, subsidized housing; dental/vision extra cost. Current amount not confirmed."
+  }
 }
