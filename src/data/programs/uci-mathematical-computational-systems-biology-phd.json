@@ -5,15 +5,60 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://catalogue.uci.edu/interdisciplinarystudies/mathematicalcomputationalandsystemsbiology_phd/",
+  "details": "checked",
+  "officialUrl": "https://ccbs.uci.edu/education/mcsb/admissions/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://catalogue.uci.edu/interdisciplinarystudies/mathematicalcomputationalandsystemsbiology_phd/",
-      "label": "UC Irvine General Catalogue: Mathematical, Computational and Systems Biology, PhD",
-      "checked": "2026-10-18"
+      "url": "https://ccbs.uci.edu/education/mcsb/admissions/",
+      "label": "MCSB2027 admissions/support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://ccbs.uci.edu/education/mcsb/curriculum/",
+      "label": "MCSB rotations",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://apply.grad.uci.edu",
+  "deadlines": [
+    {
+      "label": "Recommended complete application for recruitment consideration",
+      "date": "2026-12-04",
+      "note": "For2027/28 entry; recommended date, not labeled final deadline."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 iBT",
+      "ielts": 7,
+      "note": "IELTS every module6; English-only undergraduate/master degree exemption according to WHED. Scores under2years; no MyBest/TOEFL Essentials/ITP Plus."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 domestic;$155 international. Program states university need-based full waiver for certain US citizens/PR."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcript scans front/back for every institution since high school",
+      "International graduation certificate",
+      "Statement of purpose"
+    ],
+    "note": "Personal history statement highly recommended. Prerequisites: one-year calculus plus elementary differential equations and linear algebra. Exceptional conditional admission may permit prerequisites in preceding summer/first fall withBgrade. Minimum two rotations."
+  },
+  "timeline": {
+    "interviews": "US-resident selected applicants recruited early February2027."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Complete first-year PhD support includes annual stipend, full tuition/fees and health benefits. First summer typically advisor-funded. Later full support historically provided to successful Gateway students; no amount stated."
+  }
 }

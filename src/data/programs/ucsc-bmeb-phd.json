@@ -6,14 +6,14 @@
   "degree": "phd",
   "field": "biology",
   "details": "pending",
-  "officialUrl": "https://pbse.ucsc.edu/bmeb/index.html",
+  "officialUrl": "https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/biomolecular-engineering/biomolecular-engineering-and-bioinformatics-phd",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://pbse.ucsc.edu/bmeb/index.html",
-      "label": "UC Santa Cruz Program in Biomedical Sciences and Engineering: Biomolecular Engineering and Bioinformatics",
-      "checked": "2026-10-18"
+      "url": "https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/biomolecular-engineering/biomolecular-engineering-and-bioinformatics-phd",
+      "label": "Opened official2026–2027 catalog program",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

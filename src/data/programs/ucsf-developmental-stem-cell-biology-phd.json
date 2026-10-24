@@ -5,15 +5,94 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://graduate.ucsf.edu/dscb",
+  "details": "checked",
+  "officialUrl": "https://dscb.ucsf.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://graduate.ucsf.edu/dscb",
-      "label": "UCSF Graduate Division: Developmental and Stem Cell Biology",
-      "checked": "2026-10-18"
+      "url": "https://dscb.ucsf.edu/",
+      "label": "Official program overview",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://dscb.ucsf.edu/admissions",
+      "label": "Program admissions requirements/funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://dscb.ucsf.edu/academic-program",
+      "label": "First-year rotations and mentor selection",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/program-application-timelines",
+      "label": "Fall 2027 deadlines",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/requirements",
+      "label": "Central admissions requirements and fees",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/application-fee-waivers",
+      "label": "Fee waiver eligibility",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/intl-admission-requirements",
+      "label": "International English/transcripts policy",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "summary": "Training in developmental biology, stem cells, tissue regeneration and translational stem cell research.",
+  "applyUrl": "https://dscb.ucsf.edu/admissions",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 140,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$120 for U.S. citizens/permanent residents; $140 international. International applicants are not eligible for central fee waivers. Request eligible waivers at least two weeks before the deadline."
+    },
+    "english": {
+      "toefl": "5.0 for tests on or after January 21, 2026; 80 for earlier tests",
+      "ielts": 7,
+      "note": "TOEFL/IELTS exemptions may apply for qualifying English-language education. Tests must be valid on the application deadline; electronic results only. Duolingo, TOEFL Home Edition and MyBest scores are not accepted."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Personal statement, no more than two pages",
+      "Individual research experience summaries (500 characters each maximum)",
+      "Comprehensive research summary",
+      "Current CV or resume",
+      "Transcripts from each higher-education institution; foreign transcripts with credential evaluation"
+    ],
+    "note": "A bachelor’s degree or equivalent and normally at least a 3.0 GPA are required. Only one UCSF graduate program application per cycle. Unofficial transcripts may be used for review; final official transcripts are due after admission. Foreign transcripts require an approved credential evaluation; check program-specific timing. Direct-to-lab admission is unavailable for Fall 2027. Science GPA around 3.2 or higher and research exposure are typical; no specific courses are required."
+  },
+  "timeline": {
+    "interviews": "Interview invitations expected by late December 2026."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Central policy currently says UCSF cannot process applications from people located in Iran or ordinarily resident in Iran; see official international admissions policy."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students are guaranteed a living stipend plus payment of tuition and fees. Other program funds supplement outside awards to the guaranteed support level."
+  }
 }

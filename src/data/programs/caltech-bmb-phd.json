@@ -5,15 +5,85 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://bbe.caltech.edu/academics/biochemistry-and-molecular-biophysics-bmb",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://cce.caltech.edu/graduate/graduate-biochemistry-and-molecular-biophysics",
+  "applyUrl": "https://apply.graduate.caltech.edu/apply/",
+  "location": "Pasadena, California",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
     {
-      "url": "https://bbe.caltech.edu/academics/biochemistry-and-molecular-biophysics-bmb",
-      "label": "Caltech Biology and Biological Engineering: Biochemistry and Molecular Biophysics",
-      "checked": "2026-10-18"
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "Undated BMB deadline; BBE page labeled applying 2026–2027 does not state an entry year."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "English exams not required and no minimum score. Applicants without native English/English-instructed degree should demonstrate proficiency; TOEFL, PTE, IELTS and certified tests including Duolingo may be self-reported. Those without English-instructed degree evaluated before academic year and may need ESL. Exemptions include two years U.S. study or an English-instructed degree."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Hardship waiver within online application; income/expenses and circumstances requested, individually reviewed. No citizenship restriction stated; international applicants confirm eligibility."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Statement of purpose written by applicant in English",
+      "CV/resume",
+      "School-issued scanned transcripts/grade reports from all colleges attended; complete certified English translations and grading legend where needed"
+    ],
+    "note": "Bachelor's or equivalent by matriculation; no second PhD. Only one Caltech option per cycle. No minimum GPA. GRE strongly recommended/encouraged, not required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 50000,
+      "currency": "USD",
+      "period": "year",
+      "year": "Effective September 1, 2026 (12 months)"
+    },
+    "note": "All full-time PhD students offered tuition, mandatory fees and living stipend while making satisfactory progress, securing thesis advisor and meeting program requirements. Rate effective September 1, 2026; not confirmed Fall 2027 rate."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Sample undated timeline: initial Zoom interviews in December; selected campus visit in February."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://cce.caltech.edu/graduate/graduate-biochemistry-and-molecular-biophysics",
+      "label": "BMB training and advisor selection",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cce.caltech.edu/graduate/graduate-biochemistry-and-molecular-biophysics/graduate-admission-bmb",
+      "label": "BMB application requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.bbe.caltech.edu/academics/applying-to-caltech-2026-2027",
+      "label": "BBE application guidance and fee",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/admissions/faq-applicants",
+      "label": "Caltech applicant FAQ",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradoffice.caltech.edu/financialsupport",
+      "label": "Caltech PhD support",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }

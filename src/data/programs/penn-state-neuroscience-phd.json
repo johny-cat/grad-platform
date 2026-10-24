@@ -5,15 +5,49 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.huck.psu.edu/graduate-programs/neuroscience",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://bulletins.psu.edu/graduate/programs/majors/neuroscience-science/",
+  "applyUrl": "https://bulletins.psu.edu/graduate/programs/majors/neuroscience-science/",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
     {
-      "url": "https://www.huck.psu.edu/graduate-programs/neuroscience",
-      "label": "Penn State Huck Institutes: Neuroscience graduate program",
-      "checked": "2026-10-18"
+      "label": "Fall admission application",
+      "dateText": "December 15",
+      "note": "Undated catalog deadline for admission the following fall; Fall 2027 not confirmed."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "TOEFL/IELTS may be required for international applicants; accessible program catalog does not state score thresholds."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement of purpose",
+      "Official transcripts from all postsecondary institutions"
+    ],
+    "note": "Bachelor's in a biological, physical or behavioral science; undergraduate biology, chemistry, physics and mathematics expected. Expected GPA 3.0 or better. Neuroscience coursework desirable, not essential; research experience an advantage."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Qualified applicants generally visit University Park for interview; international students typically interviewed virtually."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate assistantships available; no all-admitted funding guarantee in the accessible catalog."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/neuroscience-science/",
+      "label": "Neuroscience Science official catalog",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }

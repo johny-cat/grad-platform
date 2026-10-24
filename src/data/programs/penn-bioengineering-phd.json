@@ -5,15 +5,70 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://be.engineering.upenn.edu/academics/doctoral/",
   "cycle": "fall-2027",
+  "admissionModel": "program",
+  "applyUrl": "https://gradadm.engineering.upenn.edu/how-to-apply/",
+  "location": "Philadelphia, Pennsylvania",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-15",
+      "time": "23:59",
+      "timezone": "America/New_York"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL, IELTS or Duolingo required for applicable international applicants unless qualifying education exempts them. School recommends TOEFL5.0/legacy100, IELTS7.5, DET135 without mandatory cutoff; older department wording says TOEFL above100. Confirm expectations."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers for qualifying low-income U.S. citizens/permanent residents and applicants with Penn/U.S. military affiliation. International applicants should confirm Penn-affiliation eligibility."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Professional resume",
+      "Personal statement (two pages or less)",
+      "Unofficial transcripts from each institution where course credit was earned"
+    ],
+    "note": "Medical Physics concentration requires three letters. Strong quantitative preparation and biology foundation expected; no specific course requirements."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Full funding throughout doctoral study in good academic standing: tuition/fees, single health/dental insurance and annual living wage."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "details": "checked",
   "sources": [
     {
       "url": "https://be.engineering.upenn.edu/academics/doctoral/",
-      "label": "Penn Engineering Department of Bioengineering: Doctoral Program",
-      "checked": "2026-10-18"
+      "label": "Bioengineering PhD and rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://be.engineering.upenn.edu/academics/doctoral/doctoral-program-admissions/",
+      "label": "Program requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradadm.engineering.upenn.edu/how-to-apply/",
+      "label": "Engineering Fall 2027 application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradadm.engineering.upenn.edu/funding-your-education/",
+      "label": "Engineering funding",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23"
 }

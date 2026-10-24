@@ -5,15 +5,78 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://medicine.utah.edu/dbmi/documents/phdprogram2025",
+  "details": "checked",
+  "officialUrl": "https://medicine.utah.edu/dbmi/academics-education/phd-program",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://medicine.utah.edu/dbmi/documents/phdprogram2025",
-      "label": "University of Utah Department of Biomedical Informatics: PhD Program 2025",
-      "checked": "2026-10-18"
+      "url": "https://medicine.utah.edu/dbmi/academics-education/phd-program",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medicine.utah.edu/dbmi/academics-education/admissions/phd",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://medicine.utah.edu/dbmi/academics-education/more-info",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.utah.edu/apply/international/english-proficiency/",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.utah.edu/apply/graduate-students/",
+      "label": "Official program/admission source",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://medicine.utah.edu/dbmi/academics-education/admissions/phd",
+  "summary": "Biomedical Informatics PhD research training in transforming health data into knowledge for individual and population health.",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Initial application",
+      "dateText": "December 1st",
+      "note": "No year on program page."
+    },
+    {
+      "label": "Final application",
+      "dateText": "December 31st",
+      "note": "No year on program page; earlierinitialdate safer for planning."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$55 domestic; $65 international. Central McNair waiver with proof; confirm international eligibility. Program page lists domestic waiver and international exclusion forFall2025 only; current program sponsorship unconfirmed. Do not use old waiver code without confirmation."
+    },
+    "english": {
+      "toefl": "80 iBT old scale or4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Official electronic scores within two years of application/payment. Qualifying citizenship/education exemptions apply; English instruction alone is insufficient. See central policy for approved countries and recency."
+    },
+    "documents": [
+      "CV/resume",
+      "Personal statement on goals, experience, program choice and compatible faculty",
+      "Unofficial copies of all college transcripts"
+    ],
+    "note": "Accredited bachelor’s and minimumGPA3.3; one college-level course each in programming language, statistics and basic biology. Official transcripts sent after acceptance. BioscienceBC/MB international2027 restriction not transferred to this separate program."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department attempts to fund all admitted candidates; universal funding not guaranteed. Undated package lists$41000annual stipend,100%tuition,health insurance and conference support; confirm current offer and international eligibility."
+  }
 }

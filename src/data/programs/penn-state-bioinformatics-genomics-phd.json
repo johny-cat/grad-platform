@@ -5,15 +5,38 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics",
   "cycle": "fall-2027",
+  "officialUrl": "https://bulletins.psu.edu/graduate/programs/majors/bioinformatics-genomics/",
+  "applyUrl": "https://bulletins.psu.edu/graduate/programs/majors/bioinformatics-genomics/",
+  "admissionModel": "program",
+  "detailsNote": "Official catalog requirements available; the deadline page could not be opened, so Fall 2027 dates are not confirmed.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "90 total with 19 speaking (published 0–120 scale)",
+      "note": "Successful applicants generally score 100 total and 23 speaking; these are typical scores, not the stated minimum. TOEFL/IELTS may be required for international applicants. New-scale threshold not stated in the accessible catalog."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from all postsecondary institutions",
+      "Completed BG-specific application questions",
+      "Names and business email contact details for three references"
+    ],
+    "note": "Successful applicants generally have junior/senior GPA at least 3.5/4.0 and quantitative and life-science coursework. Catalog lists visa application for international applicants."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate assistantships are available; catalog does not guarantee funding for all admitted students."
+  },
+  "details": "checked",
   "sources": [
     {
-      "url": "https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics",
-      "label": "Penn State Huck Institutes: Bioinformatics and Genomics graduate program",
-      "checked": "2026-10-18"
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/bioinformatics-genomics/",
+      "label": "Official catalog: requirements and rotations",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23"
 }

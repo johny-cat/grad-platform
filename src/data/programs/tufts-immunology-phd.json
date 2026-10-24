@@ -5,15 +5,95 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://gsbs.tufts.edu/academics/immunology",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://gsbs.tufts.edu/academics/basic-science-phd-programs/immunology",
+  "applyUrl": "https://gradhlthsci.admissions.tufts.edu/portal/gsbs",
+  "location": "Boston, Massachusetts",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
     {
-      "url": "https://gsbs.tufts.edu/academics/immunology",
-      "label": "Tufts Graduate School of Biomedical Sciences: Immunology",
-      "checked": "2026-10-18"
+      "label": "Basic Science PhD application",
+      "dateText": "December 1",
+      "note": "Undated GSBS deadline; no year inferred."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 (0–120 scale, accepted through end of 2027) or 5 (new scale)",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "PTE 68. English proficiency for non-native speakers may also be met by eligible non-online 2/4-year degrees in U.S., Australia, U.K., Ireland, Anglophone Canada or New Zealand; ECFMG certification; or GRE verbal at/above 50th percentile. TOEFL MyBest accepted."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Tufts affiliation, qualifying service/pipeline programs and recruitment-event waivers offered; international eligibility not explicit, confirm. Hardship waivers limited to U.S. citizens, nationals and permanent residents. Request within application, not by email."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Resume/CV",
+      "Transcripts for completed/in-progress postsecondary degrees: U.S. unofficial copies for review; non-U.S. degrees including Canada require official NACES course-by-course evaluation",
+      "Academic statement of purpose (750 words maximum)",
+      "Personal statement (750 words maximum)",
+      "Optional More Information essay (250 words maximum)"
+    ],
+    "note": "Original official transcripts required on acceptance. Application-review evaluation instructions include Canada, while enrollment paragraph excludes Canada; follow stricter application-review instruction or confirm with GSBS. Prerequisites: year each biology and mathematics, general and organic chemistry. Biochemistry, cell biology and genetics helpful. Research valued, not required; master's not required."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 46500,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    },
+    "note": "Tuition scholarship, stipend and health insurance; student activity fee excluded. Rate explicitly 2026–27. Central page notes rare self-funded students and tuition scholarship for first five years; confirm individual award."
+  },
+  "timeline": {
+    "interviews": "Selected applicants invited to in-person interview."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs/immunology",
+      "label": "Official program and training",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs/immunology/immunology-admissions",
+      "label": "Program admission requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements",
+      "label": "GSBS requirements and English tests",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements/application-fee-waivers",
+      "label": "GSBS waiver eligibility",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/financing-your-education/basic-science-division-phd-programs",
+      "label": "Basic Science PhD finances",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/application-deadlines",
+      "label": "GSBS undated deadlines",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradhlthsci.admissions.tufts.edu/portal/gsbs",
+      "label": "GSBS application portal",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }

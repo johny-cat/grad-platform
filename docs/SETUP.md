@@ -178,3 +178,7 @@ Uploaded by hand:
   branch). Deployment `dd6a62a7`. Checked afterwards: the live programs
   page is identical to the build and lists 307 programs at 121
   universities. No database change.
+
+## October 2026 next-100 details batch
+
+The branch publishes 100 previously pending programs, taking published details from 112 to 212 (95 pending, 307 total). Official current information is preferred; older/undated dates are qualified and excluded from countdowns. Three inaccessible UCSC programs remain pending; Utah supplies three replacements. Evidence and independent reviews are in `docs/evidence/` and `docs/research/next-100-official-details-2026-10.md`. No names or permanent IDs changed, and the generated catalog SQL is unchanged, so this details-only batch requires no database update. Publication is complete only after the merged main build succeeds.

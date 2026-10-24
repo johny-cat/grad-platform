@@ -5,15 +5,79 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://neurograd.ucsd.edu/about-us/index.html",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html",
+      "label": "University fees and waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html",
+      "label": "English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/index.html",
+      "label": "University preparation",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neurograd.ucsd.edu/apply/application-info.html",
+      "label": "Neurosciences application",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neurograd.ucsd.edu/apply/benefits1.html",
+      "label": "Neurosciences rotation support",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://neurograd.ucsd.edu/about-us/index.html",
-      "label": "UC San Diego: About the Neurosciences Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://connect.grad.ucsd.edu/apply/",
+  "deadlines": [
+    {
+      "label": "Application",
+      "date": "2026-11-19",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "85 previous iBT or 4.5 new iBT",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "University minimums; PTE65 also accepted. Degree with GPA3.0 and solely English instruction may exempt; foreign institution verified via WHED. Program may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$135 US citizens/permanent residents/undocumented; $155 international. Central waivers exclude international applicants."
+    },
+    "documents": [
+      "Statement of purpose (750 words)",
+      "Research statement (750 words)",
+      "CV",
+      "Transcripts"
+    ],
+    "note": "University bachelor-equivalent and GPA3.0 minimum. All materials due deadline. No strict courses; suggested biology, calculus, physics (one year each), chemistry (two years) and advanced science courses.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Fall2025 revision: rotation fellowship covers tuition/fees, UCSHIP and stipend per offer letter; $1500 moving fellowship and $500 educational supplies. Terms subject to change."
+  }
 }

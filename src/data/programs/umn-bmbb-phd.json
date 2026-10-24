@@ -5,15 +5,91 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://cbs.umn.edu/bmbb/graduate-program",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://cbs.umn.edu/bmbb/graduate-program",
-      "label": "University of Minnesota College of Biological Sciences: BMBB Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cbs.umn.edu/bmbb-graduate-program/admissions",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cbs.umn.edu/bmbb/graduate-program/prospective-students/bmbb-graduate-program-faqs",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://cbs.umn.edu/bmbb/graduate-program/prospective-students",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://cbs.umn.edu/bmbb-graduate-program/admissions",
+  "summary": "BMBB doctoral research in biochemistry, molecular biology and biophysics, with first-year rotations across BMBB and MCDB&G.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "No year stated; fall admission only."
+    },
+    {
+      "label": "Recommendations",
+      "dateText": "December 6th",
+      "note": "Admissions instructions; no year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$75 U.S. citizens/permanent residents; $95 international. Central office does not waive fees, but GSDO offers targeted waivers for eligible U.S. citizens/permanent residents seeking a first graduate degree, with qualifying preparation/recruitment participation. Request before submission/payment."
+    },
+    "english": {
+      "toefl": "79 with W21/R19 before January21,2026; 4.5 total/W/R on or after",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS writing/reading6.5; DET Fall2027 total/writing/reading120. Test within2years of program start. No TOEFL MyBest or IELTS One Skill Retake. Qualifying education exemptions depend country, credits, recency and physical attendance."
+    },
+    "documents": [
+      "Personal statement, maximum two single-spaced pages",
+      "CV/resume",
+      "Unofficial transcripts; official after accepting admission",
+      "Publication abstracts if applicable"
+    ],
+    "note": "Previous academic or industrial research beyond course-related laboratory work is required; significant productive research is especially competitive. Competitive GPA3.3, not hard minimum. Recommended year each calculus, organic chemistry and basic biology including biochemistry/genetics. Research-focused letters preferred. Separate applications for MCDB&G; identify faculty in each if applying to both. Optional supplemental research description."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All students receive stipend/fellowship; tuition, fees and health insurance supported. Student pays5% medical premium. Fall2026 published hourly rate$36.77, not an annual stipend; confirm current offer terms."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
 }

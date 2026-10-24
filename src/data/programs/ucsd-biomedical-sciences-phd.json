@@ -5,15 +5,93 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://biomedsci.ucsd.edu/about/index.html",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html",
+      "label": "University fees and waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html",
+      "label": "English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/index.html",
+      "label": "University preparation",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomedsci.ucsd.edu/how-to-apply/phd-program1.html",
+      "label": "BMS current admissions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomedsci.ucsd.edu/how-to-apply/faqs.html",
+      "label": "BMS recommendations and waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomedsci.ucsd.edu/curriculum/index.html",
+      "label": "BMS rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomedsci.ucsd.edu/students/financial-support.html",
+      "label": "BMS support",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://biomedsci.ucsd.edu/about/index.html",
-      "label": "UC San Diego Biomedical Sciences Graduate Program: About",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://connect.grad.ucsd.edu/apply/",
+  "deadlines": [
+    {
+      "label": "Fall2027 application",
+      "date": "2026-12-02"
+    },
+    {
+      "label": "International BMS fee-waiver request",
+      "date": "2026-11-01"
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "85 previous iBT or 4.5 new iBT",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "University minimums; PTE65 also accepted. Degree with GPA3.0 and solely English instruction may exempt; foreign institution verified via WHED. Program may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central waivers domestic only. Limited BMS international waivers: email biomedsci@ucsd.edu by November1,2026. Domestic waiver applications at least one week before application deadline."
+    },
+    "documents": [
+      "Statement of purpose (1500 words)",
+      "PDF unofficial/official transcripts"
+    ],
+    "note": "University bachelor-equivalent and GPA3.0 minimum. Research experience important. Calculus, biochemistry, organic/physical chemistry, biology recommended; cell/molecular biology and mammalian physiology preferred.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "timeline": {
+    "interviews": "In person February or March2027; Zoom may be available."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Published undated annual stipend $36,000; full tuition, fees and health insurance for all PhD students. Good standing required; support beyond program limits needs approval."
+  }
 }

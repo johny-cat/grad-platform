@@ -5,15 +5,89 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://tumorbiology.georgetown.edu/phd/",
+  "details": "checked",
+  "officialUrl": "https://tumorbiology.georgetown.edu/phd/admissions/",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://tumorbiology.georgetown.edu/phd/admissions/",
+      "label": "Official program or Biomedical Graduate Education admissions/funding",
+      "checked": "2026-10-24"
+    },
+    {
       "url": "https://tumorbiology.georgetown.edu/phd/",
-      "label": "Georgetown University: Ph.D. in Tumor Biology",
-      "checked": "2026-10-18"
+      "label": "Official program or Biomedical Graduate Education admissions/funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/faq/",
+      "label": "Official program or Biomedical Graduate Education admissions/funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/funding/phd/",
+      "label": "Official program or Biomedical Graduate Education admissions/funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/international/",
+      "label": "Official program or Biomedical Graduate Education admissions/funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gradapply.georgetown.edu/apply/",
+      "label": "Official program or Biomedical Graduate Education admissions/funding",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://gradapply.georgetown.edu/apply/",
+  "location": "Washington, District of Columbia",
+  "detailsNote": "The official intake is summer, not fall. December 1 is published without a calendar year; confirm the intended application cycle.",
+  "publishedDeadlines": [
+    {
+      "label": "Final application deadline — summer entry",
+      "dateText": "December 1",
+      "note": "Program home page labels Summer 2027 admissions, but does not print a calendar year beside December 1. No year assigned. Central portal says all materials due by 11:59 p.m. ET."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 (original scale) or 4.0 (new scale beginning January 21, 2026)",
+      "ielts": 7,
+      "note": "Official scores valid two years. US or English-medium bachelor’s/advanced degree, including expected conferral before program starts, demonstrates proficiency; if transcript does not state English instruction, upload university registrar documentation. Otherwise tests required; no discretionary waivers. DET, TOEFL MyBest, IELTS One Skill Retake and Cambridge not accepted. TOEFL Home Edition and IELTS Online academic accepted."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Affiliation/recruitment waivers include designated programs, Georgetown bachelor’s alumni 2024–2027, military and selected federal workers. Financial-need route is US-citizens-only. Other categories are not generally US-only; international applicants should confirm eligibility. Request separately for each program at least five days before deadline; no reimbursement. Early submission waiver applies only to master’s/certificate programs, not this PhD."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Copies of official transcripts from undergraduate/graduate institutions with more than 15 credits, or any prerequisite credits; English translations if needed",
+      "Academic statement of purpose, 1–2 pages: motivation, research background and long-term goals",
+      "Full CV/resume, at least 11-point font: dated relevant experiences, research PI, publications/abstracts/presentations if applicable",
+      "Optional statement on diversity, personal background and contributions",
+      "External sponsorship award letter if funded for the entire PhD"
+    ],
+    "note": "Four-year bachelor’s degree/equivalent with GPA at least 3.0. Formal PhD interview required. All required credentials/supporting documents due by application deadline. Upload official transcript copies; student portal downloads, screenshots/photos are not accepted. Official delivery normally requested after offer. Credential evaluation must include course/grades and transcripts if not part of report. International WES/NACES credential evaluation required by program, unlike Biostatistics/Neuroscience’s encouragement. GRE invited if available. Summer, fall and spring lab rotations help students choose a thesis lab. Letters: Professors, research mentors or employers able to assess graduate potential."
+  },
+  "funding": {
+    "stipend": {
+      "amount": 44605,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–27"
+    },
+    "note": "Merit-based fellowships may cover tuition, stipend, health/dental insurance and mandatory fees, subject to full-time enrollment and satisfactory progress; funding is not guaranteed by admission. Central published 2026–27 stipend is $44,605 for 12 months or $40,922 for nine months, not a 2027–28 guarantee. No international funding guarantee established.",
+    "coversInternational": "unknown"
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "admissionModel": "program"
 }

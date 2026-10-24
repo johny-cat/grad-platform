@@ -5,15 +5,77 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://artsandsciences.osu.edu/academics/programs/graduate/microbiology-phd",
+  "details": "checked",
+  "officialUrl": "https://microbiology.osu.edu/gradstudents/admissions",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://artsandsciences.osu.edu/academics/programs/graduate/microbiology-phd",
-      "label": "Ohio State College of Arts and Sciences: Microbiology (PhD)",
-      "checked": "2026-10-18"
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html",
+      "label": "Application and fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "label": "Fee waiver categories",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "label": "University English minimums",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://microbiology.osu.edu/gradstudents/admissions",
+      "label": "Microbiology admissions/funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://microbiology.osu.edu/sites/default/files/2019-08/gradapplication-instructions_2019.pdf",
+      "label": "Linked historical application instructions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://microbiology.osu.edu/gradstudents/firstyear",
+      "label": "Microbiology rotations",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://gpadmissions.osu.edu/grad/apply-online.html",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "PhD application",
+      "dateText": "November 30",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 iBT; 4.0 on the updated TOEFL launched January 2026",
+      "note": "Department does not accept IELTS. Linked2019 application PDF prefers TOEFLiBT100; no conversion inferred."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$60 U.S.; $70 international. Department offers no program waivers. University recruitment/other waivers have separate eligibility; international applicants should confirm applicability."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcript copies; certified translations if needed",
+      "Statement of academic interests/goals (1–2 pages)",
+      "CV/resume for fellowship consideration"
+    ],
+    "note": "GPA3.0/four-year bachelor equivalent; calculus, general physics/chemistry, organic chemistry, biochemistry and general biology prerequisite. Microbiology course preferred. Supplements may arrive up to two weeks after deadline. Document details from currently linked2019 instructions; confirm current."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All qualified PhD students guaranteed first-year departmental support; later funding by advisor grants, fellowships or teaching, subject to good standing."
+  }
 }

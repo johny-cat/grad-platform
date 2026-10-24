@@ -5,29 +5,67 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "tracks": [
-    "Biochemistry, Biophysics & Structural Biology",
-    "Bioinformatics",
-    "Cell & Developmental Biology",
-    "Gene Regulation, Epigenomics & Transcriptomics",
-    "Genetics & Genomics",
-    "Immunity, Microbes & Molecular Pathogenesis",
-    "Medical Informatics",
-    "Molecular Pharmacology",
-    "Molecular, Cellular & Integrative Physiology",
-    "Neuroscience",
-    "Physics & Biology in Medicine",
-    "Systems Biology"
-  ],
-  "details": "pending",
-  "officialUrl": "https://bioscience.ucla.edu/home-areas",
+  "details": "checked",
+  "officialUrl": "https://grad.ucla.edu/programs/bioscience-programs/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://bioscience.ucla.edu/home-areas",
-      "label": "UCLA Bioscience: Home Areas",
-      "checked": "2026-10-18"
+      "url": "https://grad.ucla.edu/programs/bioscience-programs/",
+      "label": "Official Bioscience consortium description",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/research-requirements/",
+      "label": "Central application, fee and waiver requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/english-requirements/",
+      "label": "Central English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/",
+      "label": "Central required materials",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/international-applicants/",
+      "label": "International applicants",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/",
+      "label": "Application entry",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "detailsNote": "Central official application requirements available. Consortium-specific deadline, GRE policy, admission model and additional requirements could not be confirmed because program admissions pages were unavailable.",
+  "summary": "A consortium of 10 home areas and affiliated PhD programs in the life and biomedical sciences.",
+  "applyUrl": "https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "87 before January 21, 2026; 4.5 on or after January 21, 2026",
+      "ielts": 7,
+      "note": "University admission minima; departments may require higher scores. Scores valid for two years at submission. Prior degree from an accredited institution in the US or a country where English is the sole instructional language under WHED may exempt testing. MyBest TOEFL not accepted."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$135 for US citizens/permanent residents; $155 for others. Waivers offered for listed preparation programs, qualifying financial need and benefits. International applicants should confirm eligibility; need-based routes require qualifying California aid or US tax documentation."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement (500 words maximum)",
+      "Unofficial transcripts, including grading-scale key"
+    ],
+    "note": "Central regular admission GPA expectation is B (3.0/4.0) or equivalent; departments may request a discretionary exception. International records must meet degree-equivalence rules; official records and authorized English translations are required after admission. GRE and recommendation count depend on the selected major/home area; confirm directly. The unavailable consortium pages may list additional documents."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "University policy accepts international applications; confirm home-area requirements and restrictions."
+  }
 }

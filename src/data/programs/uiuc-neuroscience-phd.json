@@ -5,15 +5,66 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://neuroscience.illinois.edu/graduate/graduate-program",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://neuroscience.illinois.edu/admissions/graduate-admissions",
+  "applyUrl": "https://neuroscience.illinois.edu/admissions/graduate-admissions",
+  "location": "Urbana, Illinois",
+  "admissionModel": "lab",
+  "deadlines": [
     {
-      "url": "https://neuroscience.illinois.edu/graduate/graduate-program",
-      "label": "University of Illinois Neuroscience Program: Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Fall 2027 application",
+      "date": "2026-12-01"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "Full: 5.0 new scale or 103 old; limited: 4.0 new or 79 old",
+      "ielts": 7.5,
+      "duolingo": 135,
+      "note": "IELTS 6.5 / Duolingo 115 can meet limited-status minimum. New-scale scores after January 20, 2026; old before January 21. TOEFL Essentials/MyBest and IELTS One Skill Retake not accepted. Exemptions include degree, two years study, or two years work in U.S./approved country within five years."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Domestic and international $90 under current central policy. Domestic waivers for eligible categories; international waiver only under approved valid exchange agreement. Program pages generally exclude international waivers. Central exchange-agreement exception means waiver availability is not exclusively domestic; international applicants should confirm approved agreement with Graduate College."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement: past, current and future research interests",
+      "Transcripts from all institutions",
+      "International English test results if required"
+    ],
+    "note": "Previous neuroscience/related research required; one year or more highly desirable. GPA normally at least 3.0 in last 60 undergraduate hours; master's/postbaccalaureate experience can compensate. Contact faculty before applying; normally specific mentor admission with rare rotation exceptions."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All domestic and international students receive annual stipend, tuition and health insurance while in good standing. Current undated stipend at least $31,500; confirm rate. At least one term support from teaching."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://neuroscience.illinois.edu/admissions/graduate-admissions",
+      "label": "Neuroscience Fall 2027 admissions and funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/international-applicants",
+      "label": "Graduate English tests and exemptions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+      "label": "Graduate application fee and waiver rules",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }

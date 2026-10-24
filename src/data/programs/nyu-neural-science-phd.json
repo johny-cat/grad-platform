@@ -5,15 +5,74 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://bulletins.nyu.edu/graduate/arts-science/programs/neural-science-phd/",
+  "details": "checked",
+  "officialUrl": "https://neuralscience.nyu.edu/admissions.html",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://bulletins.nyu.edu/graduate/arts-science/admissions/",
+      "label": "GSAS admission and English recommendations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neuralscience.nyu.edu/admissions.html",
+      "label": "Neural Science admissions/waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neuralscience.nyu.edu/program.html",
+      "label": "Neural Science rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neuralscience.nyu.edu/housing--benefits.html",
+      "label": "Neural Science funding",
+      "checked": "2026-10-24"
+    },
+    {
       "url": "https://bulletins.nyu.edu/graduate/arts-science/programs/neural-science-phd/",
-      "label": "NYU Bulletins: Neural Science (PhD)",
-      "checked": "2026-10-18"
+      "label": "Neural Science bulletin documents",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://apply.gsas.nyu.edu",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1",
+      "note": "Published as stated; Fall 2027 applicability is not confirmed."
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "100 iBT recommended, not hard minimum",
+      "ielts": 7,
+      "note": "GSAS recommendations, not hard minimums; lower scores may apply. No TOEFL scale conversion inferred."
+    },
+    "documents": [
+      "Academic transcripts",
+      "Applicant statements",
+      "Resume/CV",
+      "Letters of recommendation"
+    ],
+    "note": "Documented research experience and strong background in relevant science/engineering expected; list faculty labs of interest. Department sets no minimum GPA/TOEFL/IELTS. Limited departmental international fee waivers available; apply before application submission. Fee amount and exact letter count not established."
+  },
+  "timeline": {
+    "interviews": "Late January/early February; revisit early March (undated)."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 56763,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "All graduate students receive stipend; Grossman pays PhD course tuition. Medical benefits included; dental/vision additional cost; subsidized housing offered."
+  }
 }

@@ -5,15 +5,74 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://gradschool.weill.cornell.edu/programs/tri-institutional-chemical-biology",
+  "details": "checked",
+  "officialUrl": "https://chembio.triiprograms.org/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://gradschool.weill.cornell.edu/programs/tri-institutional-chemical-biology",
-      "label": "Weill Cornell Graduate School of Medical Sciences: Tri-Institutional Chemical Biology",
-      "checked": "2026-10-18"
+      "url": "https://chembio.triiprograms.org/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://tpcbapply.triiprograms.org/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://tpcbapply.triiprograms.org/app/faq/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://chembio.triiprograms.org/about-tpcb/program-of-study/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://chembio.triiprograms.org/about-tpcb/student-support/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://tpcbapply.triiprograms.org/",
+  "summary": "Joint chemical biology PhD training at Weill Cornell, Rockefeller and Memorial Sloan Kettering in New York City.",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Entering class of 2027: all materials",
+      "date": "2026-12-01",
+      "note": "Includes recommendation letters. Selected applicants attend Open House January 18–20, 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "english": {
+      "toefl": "100 iBT",
+      "ielts": 7,
+      "note": "Cambridge English minimum185 also accepted. First-language/citizenship and qualifying English-medium degree exemptions apply; see portal. No new-scale TOEFL conversion stated."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Financial hardship, eligible pipeline/recruiting programs or applications to other Tri-Institutional graduate programs. Request in Payment section; international eligibility not explicitly restricted, confirm."
+    },
+    "documents": [
+      "Personal statement, maximum two single-spaced pages, PDF",
+      "Transcripts of all undergraduate and graduate studies",
+      "Unofficial test score reports if applicable"
+    ],
+    "note": "Main portal permits unofficial transcripts for application; FAQ says official, confirm if needed. Final official transcripts/test reports due June20 after admission. Letters through portal; Interfolio not accepted. Additional external letter strongly encouraged if TPCB faculty recommend. Program normally starts July1; August permitted for extended academic commitments."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All TPCB students guaranteed stipend support, subsidized housing, health insurance and annual research allowance. Amount and tuition guarantee not stated in opened program support source."
+  }
 }

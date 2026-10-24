@@ -5,15 +5,78 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.lerner.ccf.org/education/molecular-medicine/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.lerner.ccf.org/education/molecular-medicine/",
-      "label": "Cleveland Clinic Lerner Research Institute: Molecular Medicine PhD Program",
-      "checked": "2026-10-18"
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.lerner.ccf.org/education/molecular-medicine/application/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.lerner.ccf.org/education/molecular-medicine/faq/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://www.lerner.ccf.org/education/molecular-medicine/overview/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://case.edu/gradstudies/prospective-students/international-applicant-info",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://www.lerner.ccf.org/education/molecular-medicine/application/",
+  "summary": "Molecular Medicine PhD at Cleveland Clinic integrating laboratory research with human disease and clinical/translational training.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline (safer earlier source)",
+      "dateText": "first Friday of December",
+      "note": "Application page; no year. FAQ instead says January5. Confirm with program and plan for earlier deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5.0 on or after January21,2026; 90 iBT earlier; 577 paper",
+      "ielts": 7,
+      "note": "PTE Academic61 also accepted. Scores valid two years. TOEFL Home Edition accepted; Duolingo, IELTS Indicator/One Skill Retake, TOEFL Essentials/MyBest not accepted. A bachelor or master degree taught primarily in English may qualify for an exemption."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Program FAQ states$50; generic Graduate Studies instructions state$85. Confirm amount in application. Program accepts MMED application fee waiver requests; international eligibility not expressly restricted, confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Essay and short-answer responses",
+      "Unofficial transcripts"
+    ],
+    "note": "General biology, general chemistry, organic chemistry and biochemistry with C−or better before entry; molecular/cellular biology recommended. One reference from current research mentor. All English tests completed by deadline. Competitive candidates interviewed; final decisions by February. First year begins mid-July."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All accepted students receive stipend and free tuition throughout graduate training plus CWRU health insurance. Amount not stated on opened program pages."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
 }

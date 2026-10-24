@@ -5,15 +5,62 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://science.psu.edu/bmb/graduate",
   "cycle": "fall-2027",
-  "sources": [
+  "applyUrl": "https://science.psu.edu/bmb/graduate/apply",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Admission model not established on accessible pages.",
+  "publishedDeadlines": [
     {
-      "url": "https://science.psu.edu/bmb/graduate",
-      "label": "Penn State Eberly College of Science: BMMB Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Application submission",
+      "dateText": "December 1",
+      "note": "Recurring undated deadline; Fall 2027 not explicitly confirmed."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "International applicants, with exceptions, must submit TOEFL or IELTS. No thresholds on the opened program pages; central policies blocked."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Program quotes $65 and offers hardship waiver by email; international eligibility and any different international fee should be confirmed. Central current fee page blocked."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV/resume",
+      "Unofficial/scanned transcripts from all institutions",
+      "Program-specific questions covering research experience, interests, obstacles, inclusion, other qualifications and why Penn State BMMB"
+    ],
+    "note": "No personal statement required. Bachelor's or higher in relevant field; domestic and international applicants considered. At least one research advisor letter recommended. Preparation in biology, biochemistry, chemistry, physics, genetics and/or microbiology expected."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "After review: in person for applicants in North America, video conferencing outside North America.",
+    "decisions": "Offers decided after interviews."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://science.psu.edu/bmb/graduate/apply",
+      "label": "BMMB application instructions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/biochemistry-microbiology-molecular-biology/",
+      "label": "BMMB catalog preparation",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://science.psu.edu/bmb/graduate",
+      "label": "BMMB official program",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }

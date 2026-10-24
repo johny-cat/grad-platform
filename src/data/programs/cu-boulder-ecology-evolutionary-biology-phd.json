@@ -5,15 +5,77 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "officialUrl": "https://www.colorado.edu/ebio/graduate-overview",
   "cycle": "fall-2027",
-  "sources": [
+  "applyUrl": "https://www.colorado.edu/ebio/graduate/phase2application",
+  "location": "Boulder, Colorado",
+  "admissionModel": "lab",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
     {
-      "url": "https://www.colorado.edu/ebio/graduate-overview",
-      "label": "CU Boulder Ecology and Evolutionary Biology: Graduate Overview",
-      "checked": "2026-10-18"
+      "label": "Application",
+      "dateText": "December 1",
+      "note": "Undated annual deadline from official admissions overview; central FAQ closes at 10 p.m. MST."
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.0 (TOEFL iBT26) or 80 (TOEFL iBT)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Pearson 58; Cambridge 180. Central default applies; EBIO's older page says iBT 79, so higher current central 80 retained. Qualifying citizenship or recent university study can exempt."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Domestic fee $60; international $80. Central waivers for qualifying U.S. citizens/PR, military and possible DACA/undocumented applicants; inquire with department."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of intent/personal statement",
+      "Unofficial transcript from every college/university",
+      "Select prospective faculty advisor(s) in application"
+    ],
+    "note": "Contact prospective advisors before applying; formal admission requires a faculty member requesting admission."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Typically mid-February on-site interview and visit.",
+    "decisions": "Final acceptance/nonacceptance by mid-April."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://www.colorado.edu/ebio/graduate/phase2application",
+      "label": "EBIO application and advisor model",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/ebio/graduate-overview/admissions",
+      "label": "Official undated EBIO deadline",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements",
+      "label": "Graduate English requirements by program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/graduate-application-faqs",
+      "label": "Graduate fee waivers and timing",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students",
+      "label": "International application fee",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }

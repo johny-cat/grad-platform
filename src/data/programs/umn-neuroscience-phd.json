@@ -5,15 +5,92 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.neuroscience.umn.edu/admissions/phd-program-overview",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.neuroscience.umn.edu/admissions/phd-program-overview",
-      "label": "University of Minnesota Graduate Program in Neuroscience: Ph.D. Program Overview",
-      "checked": "2026-10-18"
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.neuroscience.umn.edu/admissions/application-and-admissions-information",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.neuroscience.umn.edu/admissions/frequently-asked-questions",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.neuroscience.umn.edu/admissions/financial-aid",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.umn.edu/gps/graduate-studies/application-fee-waiver",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "label": "Official program/admissions source",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://www.neuroscience.umn.edu/admissions/application-and-admissions-information",
+  "summary": "Interdisciplinary Neuroscience doctoral research across molecular, cellular, systems, computational and behavioral fields.",
+  "publishedDeadlines": [
+    {
+      "label": "Domestic and international application",
+      "dateText": "November 20",
+      "note": "No year stated. Program requests Summer entry in application and starts in the end of July; site fall cycle is tracking only."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$75 U.S. citizens/permanent residents; $95 international. Central office does not waive fees, but GSDO offers targeted waivers for eligible U.S. citizens/permanent residents seeking a first graduate degree, with qualifying preparation/recruitment participation. Request before submission/payment. Medical School GPS domestic waiver also available; request by November20,2026 and before program deadline/payment."
+    },
+    "english": {
+      "toefl": "Program95 iBT/625paper; central newscale4.5 total/W/R",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS writing/reading6.5; DET Fall2027 total/writing/reading120. Test within2years of program start. No TOEFL MyBest or IELTS One Skill Retake. Qualifying education exemptions depend country, credits, recency and physical attendance. Program specifically names TOEFL/IELTS; confirm other central alternatives and program new-scale minimum."
+    },
+    "documents": [
+      "Research statement (1000–1500 words)",
+      "Diversity of Views and Experiences statement (500 words)",
+      "CV/resume",
+      "Unofficial transcripts",
+      "Current planned courses if enrolled"
+    ],
+    "note": "Preferred undergraduateGPA3.0; no fixed course prerequisites. Prior research encouraged; biology, chemistry/biochemistry, psychology, math and physics useful. Top candidates visitFebruary and decisions follow. Select Summer term; Students generally complete four first-year lab rotations before choosing an advisor."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All matriculated students fully supported throughout PhD if good standing/progress, including tuition and healthcare. Published rate$35.53/hour effectiveAugust25,2025 and95%healthcare coverage; confirm current rate. Firstyear program funding, then advisor."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program"
 }

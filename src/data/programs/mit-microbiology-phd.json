@@ -5,15 +5,71 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://microbiology.mit.edu/graduate-program",
+  "details": "checked",
+  "officialUrl": "https://catalog.mit.edu/interdisciplinary/graduate-programs/microbiology/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://microbiology.mit.edu/graduate-program",
-      "label": "MIT Microbiology: Graduate Program",
-      "checked": "2026-10-18"
+      "url": "https://catalog.mit.edu/interdisciplinary/graduate-programs/microbiology/",
+      "label": "Official program/curriculum",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://oge.mit.edu/programs/microbiology/",
+      "label": "OGE program-specific admissions and funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/",
+      "label": "Central application fee-waiver eligibility",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://apply.mit.edu/apply/",
+      "label": "Application management",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "location": "Cambridge, Massachusetts",
+  "applyUrl": "https://apply.mit.edu/apply/",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; the application deadline is published without an entry year, so Fall 2027 is not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1 at 11:59 PM Eastern Time",
+      "note": "Recurring date on the OGE program page, with no admission year attached. Confirm the applicable cycle; no year inferred."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "100 (iBT) or 5 (iBT26)",
+      "ielts": 7,
+      "note": "Scores must be less than two years old. Department English-test waiver rules and documentation are separate from the application-fee waiver. May request a documented Medium of Instruction waiver for an English-taught four-year undergraduate degree, or English as primary and secondary school instruction. Upload academic history/transcripts before request; ELP waiver request deadline November 20, 2026."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International applicants must currently attend a US college/university AND have participated in selected graduate research preparation programs. International financial hardship alone is not eligible. Domestic routes include financial hardship, preparation programs and US military service; eligibility/documentation required."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online statement of objectives",
+      "Transcripts"
+    ],
+    "note": "All test scores must be verified by December 1, 2026. Courses section optional only if a transcript PDF is attached; otherwise complete it and follow up with an official transcript. List Biology, Chemistry, Physics, Math, then Engineering/Other Sciences. Incomplete applications may not be reviewed."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "allFunded": true,
+    "note": "Financial support throughout training includes full tuition, stipend and individual health insurance. First fall/spring supported by program fellowship, then research assistant support in thesis lab; external fellowships encouraged."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }

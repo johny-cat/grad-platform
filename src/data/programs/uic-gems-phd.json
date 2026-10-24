@@ -5,15 +5,80 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://chicago.medicine.uic.edu/gems/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://chicago.medicine.uic.edu/gems/",
-      "label": "UIC College of Medicine: Graduate Education in Biomedical Sciences (GEMS)",
-      "checked": "2026-10-18"
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://chicago.medicine.uic.edu/education/masters-doctoral/gems/apply/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://chicago.medicine.uic.edu/education/masters-doctoral/gems/students/gems-student-stipend-support-and-benefits/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.uic.edu/graduate-professional/requirements-deadlines/international-requirements",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.uic.edu/graduate-professional/application-process/application-fee-waivers",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://chicago.medicine.uic.edu/education/masters-doctoral/gems/apply/",
+  "summary": "Biomedical Sciences umbrella PhD with six concentrations and first-year laboratory rotations.",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Domestic and international fall application",
+      "dateText": "December 1st",
+      "note": "No year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Preset enrollment/alumni/employment/research-engagement/McNair/veteran categories; no financial-hardship waiver or deferral. Confirm international category eligibility. Additional$100 credential-evaluation fee for overseas coursework (exceptions apply). GEMS page stilllists$70; currentcentral$80 used."
+    },
+    "english": {
+      "toefl": "80 oldscale;4.5 newscale (R19/4,L17/4,S20/4.5,W21/4.5)",
+      "ielts": 6.5,
+      "duolingo": 130,
+      "note": "IELTS eachsection6; DET each125, acceptedFall2027 onward. PTE54(R51,L47,S53,W56). Tests valid2years atapplication. Education/employment-based exemptions depend location/time; English-mediuminstruction alone does not waive. GEMS page specifically requests officialTOEFL; confirmalternatives."
+    },
+    "documents": [
+      "Statement of purpose, relevant research experience and goals",
+      "Uploaded academic records, degree certificates and certified English translations; official sealed credentials after admission"
+    ],
+    "note": "Select PHD BIOMEDICAL SCIENCES, code20FS6047PHD. Maynameup to5faculty and3researchareas. Selectedapplicants interviewed; subjectGREoptional. Threefirstyearrotations beforethesislabchoice."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 40000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-2026"
+    },
+    "note": "Enrolled and matriculating students offered stipend with continuous program support; publishedamount2025–26. Tuition/fee waiver not confirmed by openedbenefits page."
+  }
 }

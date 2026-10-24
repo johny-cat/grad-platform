@@ -5,15 +5,73 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://dbm.rutgers.edu/graduate",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://dbm.rutgers.edu/graduate",
-      "label": "Rutgers Department of Biochemistry and Microbiology: Microbial Biology Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://dbm.rutgers.edu/graduate/application",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://dbm.rutgers.edu/graduate/faqs",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/apply/application-guidelines",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/information/international-students",
+      "label": "Official program/admissions information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://dbm.rutgers.edu/graduate/application",
+  "summary": "Microbial Biology doctoral research on microbial life processes, diversity and applications.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Fall PhD application",
+      "dateText": "December 15",
+      "note": "No year stated on official page."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central scholar/military categories apply; program FreeApp waiver specifically for qualifying underrepresented U.S. citizens. International eligibility for other central categories not explicit; confirm."
+    },
+    "english": {
+      "toefl": "ThroughJan21,2026: W22/S23/R21/L17; fromJan22,2026: W4.5/S4.5/R4/L4",
+      "ielts": 7,
+      "note": "Program accepts DET; central consideration range120–130, confirm precise program threshold. Official testing-agency scores valid within two years of semester start. Entire English-medium degree may qualify for case-by-case waiver with official proof."
+    },
+    "documents": [
+      "Personal statement describing microbiology interest and research experience",
+      "Transcripts from all colleges/universities, unofficial for review",
+      "Original-language records and official complete English translations if needed"
+    ],
+    "note": "CV requested but optional. Relevant advanced microbiology, biochemistry, genetics coursework and research considered. Three references preferably research advisors/advanced-course professors. Committee meets once mid-January; submit all materials including letters before review. Status/funding notification byFebruary. Full-time, fall-only. Distinct from Microbiology&MolecularGenetics under MBS; select Microbial Biology in application."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive first-year fellowships. Later good-standing students receive fellowships, research/teaching assistantships depending on advisor resources. No universal/international support guarantee stated."
+  },
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed."
 }

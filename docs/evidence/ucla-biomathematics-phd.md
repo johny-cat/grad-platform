@@ -37,3 +37,10 @@ at https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-
 says "Applicable only to students admitted during the 2025-2026 academic year."
 Its adviser-selection text therefore cannot substantiate a Fall 2027 model.
 The reviewer confirmed that leaving the JSON unchanged and pending is necessary.
+
+## 2026-10-23 next-100 publication
+
+The current major-specific page above was reopened; all previously quoted deadline, GRE, letter and document requirements still match. Current 2027–2028 dates published. Missing admission model is now omitted under owner instruction, rather than blocking other facts. Central current excerpts below supersede old waiver-unknown conclusion; see _ucla-central.md. Location is stated in the major page address. No department funding guarantee or interview dates inferred.
+
+## Independent review — 2026-10-24
+Reopened current requirements page. Additional retained preparation quote: “High academic achievement in one scientific or mathematical field is required for admission.” “It is not necessary for an applicant to be proficient in both mathematics and biology, although some prior preparation in both fields is desirable.” Deadline December 1, 2026 and recommended test alternatives confirmed.

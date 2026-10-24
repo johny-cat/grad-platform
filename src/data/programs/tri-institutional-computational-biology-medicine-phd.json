@@ -5,15 +5,65 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://gradschool.weill.cornell.edu/programs/tri-institutional-computational-biology-and-medicine",
+  "details": "checked",
+  "officialUrl": "https://compbio.triiprograms.org/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://gradschool.weill.cornell.edu/programs/tri-institutional-computational-biology-and-medicine",
-      "label": "Weill Cornell Graduate School of Medical Sciences: Tri-Institutional Computational Biology and Medicine",
-      "checked": "2026-10-18"
+      "url": "https://compbio.triiprograms.org/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://compbio.triiprograms.org/apply/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://compbio.triiprograms.org/about-cbm/faq-for-prospective-students/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://compbio.triiprograms.org/about-cbm/program-of-study/",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://compbio.triiprograms.org/apply/",
+  "summary": "Computational and systems biology PhD across Cornell Ithaca, Weill Cornell, Rockefeller and Memorial Sloan Kettering.",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "All application components",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Source states end-of-day (midnight EST) December1,2026. No late or incomplete applications."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "TOEFL, IELTS, Duolingo or Cambridge English accepted direct from testing site. TOEFL/IELTS/DET valid two years. CBM FAQ English exemptions narrower than central WCGS policy; confirm program-specific eligibility."
+    },
+    "documents": [
+      "Application essay describing research experience and scientific potential",
+      "Academic transcripts; official NACES course-by-course evaluation for non-U.S. degrees including Canada",
+      "Recommendation letters from faculty/investigators familiar with research"
+    ],
+    "note": "Apply page expects quantitative bachelor’s/master’s degree, science GPA3.6, linear algebra, statistics, programming, foundational biology and substantive lab research. FAQ calls research beneficial rather than required; safer apply-page expectation retained. Publications not required. Interfolio not accepted. Letter count not confirmed on program sources. Fee waiver available: Documented financial hardship, requested within application before paying; allow seven business days. International eligibility not explicitly restricted, confirm. Amount not confirmed in program-specific sources."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 54000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-2026"
+    },
+    "note": "International students fully funded regardless of citizenship. Full tuition, fees and health insurance scholarship. Stipend published for2025–2026; confirm updated amount. No teaching requirement."
+  }
 }

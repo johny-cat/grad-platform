@@ -1,0 +1,6 @@
+# MIT next-100 central waiver check
+
+Opened 2026-10-23: https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/
+“International applicants may request a graduate application fee waiver if they meet both criteria below:” “Currently attending a college or university in the U.S.” and “Participated in select graduate research preparation programs”. “cannot consider fee waiver requests solely on the basis of financial hardship for our international applicants.” Domestic categories: “Demonstrated financial hardship in the past year”; “Participated in select graduate research preparation programs in the past 3 years”; “Served as a current or former member of the United States Armed Forces”. Supporting financial/preparation documentation required. Available classification expressly covers limited international eligibility, not general international hardship.
+
+Program-specific OGE pages supply each English policy/fee/funding, not another department. Existing Biology entry not modified. Original CSB https://csbphd.mit.edu/ and Microbiology https://microbiology.mit.edu/graduate-program failed twice (502); official catalogs and OGE pages opened as alternatives. OGE Microbiology linked web.mit.edu home also failed; no facts taken from failed pages.

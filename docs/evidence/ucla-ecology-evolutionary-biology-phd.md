@@ -34,3 +34,10 @@ and central program page. The deadline, GRE, letters and document observations
 above match. Neither page establishes a specific lab application, faculty
 sponsorship requirement or program admission with rotations. The reviewer
 confirmed that leaving the JSON unchanged and pending is necessary.
+
+## 2026-10-23 next-100 publication
+
+The current major-specific page above was reopened; all previously quoted deadline, GRE, letter and document requirements still match. Current 2027–2028 dates published. Missing admission model is now omitted under owner instruction, rather than blocking other facts. Central current excerpts below supersede old waiver-unknown conclusion; see _ucla-central.md. Location is stated in the major page address. No department funding guarantee or interview dates inferred.
+
+## Independent review — 2026-10-24
+Reopened current major requirements. Preparation support: “expects successful applicants to have or to acquire a background comparable to the requirements for the bachelor's degree in biology at UCLA.” “A background in chemistry, physics, and mathematics is desirable.” “Students with academic deficiencies may be admitted on a provisional basis.” Doctoral December 1, 2026 distinguished from the explicitly MS-only May 1, 2027 deadline.

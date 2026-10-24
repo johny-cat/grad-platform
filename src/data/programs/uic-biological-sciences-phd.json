@@ -5,15 +5,82 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://bios.uic.edu/academics/graduate-studies/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://bios.uic.edu/academics/graduate-studies/",
-      "label": "UIC Department of Biological Sciences: Graduate Studies",
-      "checked": "2026-10-18"
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://bios.uic.edu/academics/graduate-studies/graduate-application/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://catalog.uic.edu/gcat/colleges-schools/liberal-arts-sciences/bios/phd/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://bios.uic.edu/academics/graduate-studies/information-for-students-considering-graduate-school/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://bios.uic.edu/academics/graduate-studies/assistantships/",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.uic.edu/graduate-professional/requirements-deadlines/international-requirements",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.uic.edu/graduate-professional/application-process/application-fee-waivers",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://bios.uic.edu/academics/graduate-studies/graduate-application/",
+  "summary": "Biological Sciences doctoral research spanning laboratory and field approaches, with four research tracks.",
+  "detailsNote": "Official information available; deadline date year is not printed. Admission model varies by track.",
+  "publishedDeadlines": [
+    {
+      "label": "Full consideration for Fall2027",
+      "dateText": "December 1st",
+      "note": "Fall2027 heading; individual date has no year. Later applications case-by-case."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Preset enrollment/alumni/employment/research-engagement/McNair/veteran categories; no financial-hardship waiver or deferral. Confirm international category eligibility. Additional$100 credential-evaluation fee for overseas coursework (exceptions apply)."
+    },
+    "english": {
+      "toefl": "90 old(R19,L24,S26,W21);4.5 new(R4,L5,S5,W4.5)",
+      "ielts": 6.5,
+      "note": "IELTS R6,L7.5,S8,W6. PTE54(R51,L47,S53,W56). Program names TOEFL/IELTS; centralDET130 acceptedFall2027 onward, confirm BIOS acceptance. Central validity/exemptions apply."
+    },
+    "documents": [
+      "Personal statement (1–3 pages): research area, potential mentors, experience and goals",
+      "Resume/CV",
+      "Uploaded academic records, degree certificates and certified English translations; official sealed credentials after admission"
+    ],
+    "note": "Any bachelor’s field; advanced biology recommended. GPA3.0 final60semester/90quarterhours; deficiencies may requirefirstyearcourses. Ecology&Evolution requires advisorcommitment; ABC,MCDB,Neurobiology admit toprogram with3rotations beforementorchoice."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Assistantships available with offer-specific stipend/tuition/fee terms; no universal funding promise stated."
+  }
 }

@@ -5,15 +5,86 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://artsandsciences.osu.edu/academics/programs/graduate/molecular-cellular-and-developmental-biology-phd",
+  "details": "checked",
+  "officialUrl": "https://mcdb.osu.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://artsandsciences.osu.edu/academics/programs/graduate/molecular-cellular-and-developmental-biology-phd",
-      "label": "Ohio State College of Arts and Sciences: Molecular, Cellular and Developmental Biology PhD",
-      "checked": "2026-10-18"
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html",
+      "label": "Application and fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "label": "Fee waiver categories",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "label": "University English minimums",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://mcdb.osu.edu/admissions",
+      "label": "MCDB current application",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://mcdb.osu.edu/prospective-students/admissions-requirements",
+      "label": "MCDB preparation",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://mcdb.osu.edu/prospective-students/financial-support",
+      "label": "MCDB funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://mcdb.osu.edu/",
+      "label": "Official program page",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://gpadmissions.osu.edu/grad/apply-online.html",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-01"
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "85 internet-based or600 paper-based; 4.5 on updated TOEFL launched January2026",
+      "ielts": 7,
+      "duolingo": 120
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$60 U.S.; $70 international. Waiver categories vary; international applicants should confirm eligibility. Financial-need and FreeApp waivers exclude international applicants."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose (one page)",
+      "CV",
+      "Official transcripts"
+    ],
+    "note": "GPA3.0 and biological-sciences major-equivalent training required; physics, calculus and chemistry through organic expected. Biochemistry, molecular biology, genetics, developmental/cell biology recommended. Research experience desirable; optional writing sample."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 37440,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "Program philosophy supports all active doctoral students; first-year program support during rotations, then usually advisor grants. Tuition/academic fees and health insurance premiums covered; bus/activity/recreation/legal/student union fees excluded."
+  }
 }

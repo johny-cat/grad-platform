@@ -5,15 +5,93 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://graduate.ucsf.edu/tetrad",
+  "details": "checked",
+  "officialUrl": "https://tetrad.ucsf.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://graduate.ucsf.edu/tetrad",
-      "label": "UCSF Graduate Division: Tetrad",
-      "checked": "2026-10-18"
+      "url": "https://tetrad.ucsf.edu/",
+      "label": "Official program overview",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://tetrad.ucsf.edu/apply",
+      "label": "Program admissions requirements/funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://tetrad.ucsf.edu/research-rotations",
+      "label": "First-year rotations and mentor selection",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/program-application-timelines",
+      "label": "Fall 2027 deadlines",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/requirements",
+      "label": "Central admissions requirements and fees",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/application-fee-waivers",
+      "label": "Fee waiver eligibility",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/admission/intl-admission-requirements",
+      "label": "International English/transcripts policy",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/academics/phd-degree/tetrad",
+      "label": "Tetrad areas of study",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "summary": "Interdisciplinary training in biochemistry and molecular biology, cell biology and genetics.",
+  "applyUrl": "https://tetrad.ucsf.edu/apply",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "applicationFee": {
+      "amount": 140,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$120 for U.S. citizens/permanent residents; $140 international. International applicants are not eligible for central fee waivers. Request eligible waivers at least two weeks before the deadline."
+    },
+    "english": {
+      "toefl": "5.0 for tests on or after January 21, 2026; 80 for earlier tests",
+      "ielts": 7,
+      "note": "TOEFL/IELTS exemptions may apply for qualifying English-language education. Tests must be valid on the application deadline; electronic results only. Duolingo, TOEFL Home Edition and MyBest scores are not accepted."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement or statement of purpose",
+      "Comprehensive research summary",
+      "Transcripts"
+    ],
+    "note": "A bachelor’s degree or equivalent and normally at least a 3.0 GPA are required. Only one UCSF graduate program application per cycle. Unofficial transcripts may be used for review; final official transcripts are due after admission. Foreign transcripts require an approved credential evaluation; check program-specific timing. Research exposure of at least one year (preferably two or more) is regarded as important."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Central policy currently says UCSF cannot process applications from people located in Iran or ordinarily resident in Iran; see official international admissions policy."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Admitted students are assured a stipend and tuition/fees including health insurance for their time in the program. Program funds years one and two; thesis advisor funds later years. International scope is not explicitly universal."
+  }
 }

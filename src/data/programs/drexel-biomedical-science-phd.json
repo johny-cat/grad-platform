@@ -5,15 +5,88 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://drexel.edu/grad/programs/biomed/biomedical-science/",
+  "details": "checked",
+  "officialUrl": "https://drexel.edu/biomed/academics/graduate-programs/biomedical-science-phd-degree/",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://drexel.edu/grad/programs/biomed/biomedical-science/",
-      "label": "Drexel University: Biomedical Science",
-      "checked": "2026-10-18"
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/biomedical-science-phd-degree/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/academics/grad-professional-programs/biomed/biomedical-science",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/how-to-apply/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/fellowships-and-assistantships/",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/admissions/apply/grad-instructions",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process",
+      "label": "Official requirements and program information",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "applyUrl": "https://drexel.edu/biomed/academics/graduate-programs/how-to-apply/",
+  "summary": "Biomedical Science doctoral training combines life sciences with quantitative analysis, mathematical modeling, computing and informatics.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Assistantship consideration",
+      "dateText": "February 1",
+      "note": "PhD-specific assistantship deadline; no year stated."
+    },
+    {
+      "label": "Fall international application",
+      "dateText": "June 13",
+      "note": "Program requirements table; no year stated."
+    },
+    {
+      "label": "Fall U.S. application",
+      "dateText": "Sept. 1",
+      "note": "Program requirements table; no year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown"
+    },
+    "english": {
+      "toefl": "90 iBT / 577 paper / 233 computer",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Program page also accepts PTE61 and qualifying waivers. School checklist says TOEFL required for international/outside-U.S.-degree applicants; confirm alternatives/exemption with school. No new TOEFL scale stated."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Approximately500-word essay on reasons, goals and background",
+      "Resume",
+      "Official transcripts from all institutions with course-by-course grades/degree conferrals",
+      "Degree certificates when conferral missing; certified English translations and original-language records"
+    ],
+    "note": "Program page and school checklist differ on English-test alternatives/exemptions; confirm with school. Admission model not confirmed."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Outstanding applicants may qualify as graduate assistants or Calhoun Fellows. Apply by February1 for assistantship consideration; no universal guarantee stated."
+  }
 }

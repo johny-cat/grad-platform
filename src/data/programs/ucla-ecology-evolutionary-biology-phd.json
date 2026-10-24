@@ -5,15 +5,78 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://eeb.ucla.edu/doctoral-program/",
+  "details": "checked",
+  "officialUrl": "https://grad.ucla.edu/requirements/?app=admission&major=0123",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://eeb.ucla.edu/doctoral-program/",
-      "label": "UCLA Department of Ecology and Evolutionary Biology: Doctoral Program",
-      "checked": "2026-10-18"
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0123",
+      "label": "2027–2028 major-specific admission requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/research-requirements/",
+      "label": "Central application, fee and waiver requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/english-requirements/",
+      "label": "Central English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/materials-to-be-uploaded-or-sent-to-the-departmentprogramschool/",
+      "label": "Central required materials",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/international-applicants/",
+      "label": "International applicants",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/",
+      "label": "Application entry",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "detailsNote": "Fall 2027 deadline and published requirements confirmed. Admission model and additional departmental policies could not be confirmed from the accessible official pages.",
+  "location": "Los Angeles, California",
+  "applyUrl": "https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "87 before January 21, 2026; 4.5 on or after January 21, 2026",
+      "ielts": 7,
+      "note": "University admission minima; departments may require higher scores. Scores valid for two years at submission. Prior degree from an accredited institution in the US or a country where English is the sole instructional language under WHED may exempt testing. MyBest TOEFL not accepted."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$135 for US citizens/permanent residents; $155 for others. Waivers offered for listed preparation programs, qualifying financial need and benefits. International applicants should confirm eligibility; need-based routes require qualifying California aid or US tax documentation."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement (500 words maximum)",
+      "Unofficial transcripts, including grading-scale key",
+      "CV",
+      "Diversity statement"
+    ],
+    "note": "Central regular admission GPA expectation is B (3.0/4.0) or equivalent; departments may request a discretionary exception. International records must meet degree-equivalence rules; official records and authorized English translations are required after admission. Biology background comparable to UCLA bachelor’s expected or acquired; chemistry, physics and mathematics desirable. Deficiencies should be remedied and provisional admission may be possible.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "University central policy accepts international applications; confirm program-specific restrictions."
+  }
 }

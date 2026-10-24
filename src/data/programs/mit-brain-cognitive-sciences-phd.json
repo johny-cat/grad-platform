@@ -5,15 +5,80 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program",
-      "label": "MIT Brain and Cognitive Sciences: PhD Program",
-      "checked": "2026-10-18"
+      "label": "Official program/curriculum",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://oge.mit.edu/programs/brain-and-cognitive-sciences/",
+      "label": "OGE program-specific admissions and funding",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/",
+      "label": "Central application fee-waiver eligibility",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://apply.mit.edu/apply/",
+      "label": "Application management",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program/how-apply",
+      "label": "BCS application checklist and instructions",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "location": "Cambridge, Massachusetts",
+  "applyUrl": "https://apply.mit.edu/apply/",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; the application deadline is published without an entry year, so Fall 2027 is not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1 at 11:59 PM Eastern Time",
+      "note": "Recurring date on the OGE program page, with no admission year attached. Confirm the applicable cycle; no year inferred."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "100 (iBT) or 5 (iBT26)",
+      "ielts": 7,
+      "note": "Scores must be less than two years old. Department English-test waiver rules and documentation are separate from the application-fee waiver. BCS waiver routes include current English-medium enrollment, four years in an English-speaking country, or an English-medium degree. Documentation required; published waiver-request date November 25 has no year.",
+      "duolingo": 135
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International applicants must currently attend a US college/university AND have participated in selected graduate research preparation programs. International financial hardship alone is not eligible. Domestic routes include financial hardship, preparation programs and US military service; eligibility/documentation required."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Online statement of objectives",
+      "Transcripts"
+    ],
+    "note": "Outstanding academic record particularly in mathematics/sciences expected; research experience highly desirable. Upload transcripts from every university; official copies after admission. Complete relevant Subjects Taken entries. Do not send papers, theses, writing samples or other supplemental material. OGE explicitly says GRE scores are not reviewed, clarifying the department’s not-required wording. OGE English section contains a copied Mechanical Engineering label; confirm any ambiguity with BCS."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "BCS aims to support all students for their full study, regardless of citizenship: 12-month stipend, tuition and individual health insurance. An aim is not an unconditional guarantee. Faculty labs expected to support students after year three."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "decisions": "Department says final admission emails typically arrive in April; no cycle year stated."
+  }
 }

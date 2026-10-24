@@ -5,15 +5,75 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://catalog.illinois.edu/graduate/las/biophysics-quantitative-biology-phd",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://biophysics.illinois.edu/academics/graduate-admissions",
+  "applyUrl": "https://biophysics.illinois.edu/academics/graduate-admissions",
+  "location": "Urbana, Illinois",
+  "admissionModel": "program",
+  "deadlines": [
     {
-      "url": "https://catalog.illinois.edu/graduate/las/biophysics-quantitative-biology-phd",
-      "label": "University of Illinois Graduate Catalog: Biophysics & Quantitative Biology, PhD",
-      "checked": "2026-10-18"
+      "label": "Fall 2027 application",
+      "date": "2026-12-15",
+      "time": "23:00",
+      "timezone": "America/Chicago"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "Full: 5.0 new scale or 103 old; limited: 4.0 new or 79 old",
+      "ielts": 7.5,
+      "note": "IELTS 6.5 / Duolingo 115 can meet limited-status minimum. New-scale scores after January 20, 2026; old before January 21. TOEFL Essentials/MyBest and IELTS One Skill Retake not accepted. Exemptions include degree, two years study, or two years work in U.S./approved country within five years. Biophysics lists TOEFL speaking 24; 20–23 may be considered after phone interview. Own old full-status threshold (<102) conflicts with central 103; central higher retained. Program names TOEFL/IELTS only."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Domestic and international $90 under current central policy. Domestic waivers for eligible categories; international waiver only under approved valid exchange agreement. Program pages generally exclude international waivers. Biophysics still quotes domestic $70; current central $90 retained. Central exchange-agreement exception means waiver availability is not exclusively domestic; international applicants should confirm approved agreement with Graduate College."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Uploaded official transcript copies and grade legend",
+      "Personal statement",
+      "International applicants: passport and English test if required"
+    ],
+    "note": "GPA guideline 3.0 for final two undergraduate years; report home institution grading scale, do not convert. Declaration/Certification of Finance not required because incoming students' support guaranteed."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Incoming support guaranteed. Continued support while in good standing and satisfactory progress contingent on funds. Center funds first semester; research advisor typically thereafter; tuition/fee waivers and assistantships/fellowships. One semester teaching required."
+  },
+  "timeline": {
+    "interviews": "Contiguous-U.S. residents may interview on campus; applicants outside U.S. contacted for remote interviews March–April."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://biophysics.illinois.edu/academics/graduate-admissions",
+      "label": "Fall 2027 biophysics application",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biophysics.illinois.edu/academics/courses-requirements",
+      "label": "Biophysics laboratory rotations",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/international-applicants",
+      "label": "Graduate English tests and exemptions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+      "label": "Graduate application fee and waiver rules",
+      "checked": "2026-10-24"
+    }
+  ],
+  "lastChecked": "2026-10-24"
 }

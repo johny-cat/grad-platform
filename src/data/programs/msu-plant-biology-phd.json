@@ -5,15 +5,82 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://plantbiology.natsci.msu.edu/graduate-program/",
   "cycle": "fall-2027",
-  "sources": [
+  "officialUrl": "https://plantbiology.natsci.msu.edu/graduate-program/index.aspx",
+  "applyUrl": "https://plantbiology.natsci.msu.edu/graduate-program/application-process.aspx",
+  "location": "East Lansing, Michigan",
+  "detailsNote": "Fall 2027 application dates confirmed. The admission model is not explicitly established on the opened pages.",
+  "deadlines": [
     {
-      "url": "https://plantbiology.natsci.msu.edu/graduate-program/",
-      "label": "Michigan State University Plant Biology: Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Complete application",
+      "date": "2026-12-01"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Old-scale sections: reading/listening/speaking 19, writing 22. New-scale: reading/speaking 4, listening/writing 4.5. IELTS sections at least 6.0. Automatic waivers include qualifying completed U.S./English-speaking-country bachelor's and U.S.-campus AAU master's degrees; other waiver requests go through department."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Academic statement",
+      "Personal statement",
+      "CV/resume",
+      "Official transcripts sent directly by institutions",
+      "Faculty and Research Interest Form",
+      "International applicants: English proficiency and financial affidavit/proof of support"
+    ],
+    "note": "Contact prospective faculty about sponsorship before deadline. Typical preparation: bachelor's degree, one year biology and one year each chemistry, physics and mathematics. Graduate School offers McNair and targeted recruitment-event waivers; international eligibility not explicitly stated, confirm. FreeApp participation ends December 31, 2026. Fee amount not stated on opened program pages."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Plant Science Fellowship on-site visit February 4–7, 2027.",
+    "decisions": "Admission/offer letters early March; acceptance due April 15 (2027 timeline)."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "note": "Department commits financial assistance to accepted students; minimum five years expected with satisfactory progress. Page warns limited programmatic funding for international students. Undated listed awards: UDF and Plant Science Fellowship $32,000; CNS $33,000. TA nine-month package $23,940; confirm current rates."
+  },
+  "details": "checked",
+  "sources": [
+    {
+      "url": "https://plantbiology.natsci.msu.edu/graduate-program/index.aspx",
+      "label": "Plant Biology program",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://plantbiology.natsci.msu.edu/graduate-program/application-process.aspx",
+      "label": "2026–2027 application timeline",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://plantbiology.natsci.msu.edu/graduate-program/application-materials.aspx",
+      "label": "Plant Biology required materials",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://plantbiology.natsci.msu.edu/graduate-program/assistantships.aspx",
+      "label": "Plant Biology financial support",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.msu.edu/admissions/apply/international-applicants/english-language-competency",
+      "label": "Graduate English competency",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://grad.msu.edu/admissions/apply",
+      "label": "Graduate School application and waiver options",
+      "checked": "2026-10-23"
+    }
+  ],
+  "lastChecked": "2026-10-23"
 }

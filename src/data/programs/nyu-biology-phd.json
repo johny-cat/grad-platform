@@ -5,15 +5,43 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://bulletins.nyu.edu/graduate/arts-science/programs/biology-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://bulletins.nyu.edu/graduate/arts-science/admissions/",
+      "label": "GSAS admission and English recommendations",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://bulletins.nyu.edu/graduate/arts-science/programs/biology-phd/",
-      "label": "NYU Bulletins: Biology (PhD)",
-      "checked": "2026-10-18"
+      "label": "Biology official bulletin",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "100 iBT recommended, not hard minimum",
+      "ielts": 7,
+      "note": "GSAS recommendations, not hard minimums; lower scores may apply. No TOEFL scale conversion inferred."
+    },
+    "documents": [
+      "Academic transcripts",
+      "Applicant statements",
+      "Resume/CV",
+      "Letters of recommendation"
+    ],
+    "note": "Bachelor-equivalent required. Program-specific GRE, letter count, fee amount/waiver and admission deadline not established because GSAS/department pages unavailable."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Enrolled Biology PhD students guaranteed paid living stipend; amount and tuition coverage not established."
+  }
 }

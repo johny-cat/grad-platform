@@ -5,15 +5,102 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://neuroscience-gp.brown.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://neuroscience-gp.brown.edu/",
-      "label": "Brown University: Neuroscience Graduate Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateprograms.brown.edu/graduate-program/biomed-neuroscience-phd",
+      "label": "Current program deadline",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neuroscience-gp.brown.edu/prospective-students/how-apply",
+      "label": "Application checklist",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neuroscience-gp.brown.edu/prospective-students/fees-and-financial-support",
+      "label": "Full support and international waiver eligibility",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://neuroscience-gp.brown.edu/current-students/coursework-and-degree-requirements",
+      "label": "Laboratory rotations",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply-mfa-or-doctoral-study-brown",
+      "label": "Graduate application materials and fee",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/application-fee-waivers",
+      "label": "Financial-need fee waivers",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts",
+      "label": "English proficiency and exemptions",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/financing-support/funding-guarantee",
+      "label": "Domestic and foreign doctoral support",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://apply.graduateschool.brown.edu/portal/gs_app_management",
+      "label": "Online application",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-23",
+  "location": "Providence, Rhode Island",
+  "applyUrl": "https://apply.graduateschool.brown.edu/portal/gs_app_management",
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 on or after January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS 7 is a recommended minimum. Programs may require higher scores. English-medium degrees may exempt testing; applicants outside the listed countries should arrange a Registrar/Dean letter confirming English instruction."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Documented financial hardship: request through the application with an explanation and accepted financial-aid/FAFSA/CSS/unemployment/test-fee-reduction documentation. Recommended at least two weeks before deadline. International applicants should confirm documentation eligibility. Program funding page explicitly allows international need-based waivers, superseding the US-only wording on its checklist. Program-participation requests (e.g. SACNAS/MARC/Leadership Alliance) should reach NSGP at least seven days before the deadline with proof."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "College transcripts with certified English translations where needed",
+      "Personal statement (maximum two single-spaced pages, PDF)",
+      "Program short answers: research failure, teamwork strengths/weaknesses, intellectual contribution",
+      "Graduate School community/inclusion short answer"
+    ],
+    "note": "At least two recommendations should be from faculty at the current or most recently attended institution. Recommenders submit online; Interfolio not accepted. Official final transcripts required before matriculation. Separate Brown and NIH applications needed if applying to both Brown Neuroscience and the Brown–NIH partnership. Unofficial transcripts/scores accepted initially; official TOEFL needed for an offer. Language tests valid two years; confirm program undergraduate-study exemption versus central degree-based exemption."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Central doctoral support applies to domestic and foreign students, conditional on satisfactory academic progress; transfer-student funding may vary. All Neuroscience/Brown–NIH students fully supported during graduate school; stipend, tuition, health insurance and health-services fee, plus a one-time transition stipend. No financial-support forms needed.",
+    "allFunded": true
+  },
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "Current central program listing; older department FAQ dates are not substituted."
+    }
+  ]
 }

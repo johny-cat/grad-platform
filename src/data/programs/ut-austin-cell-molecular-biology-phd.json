@@ -5,15 +5,80 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://ils.utexas.edu/cmb/prospective-students/program-overview",
+  "details": "checked",
+  "officialUrl": "https://ils.utexas.edu/cell-molecular-biology/cmb-program-overview",
   "cycle": "fall-2027",
   "sources": [
     {
-      "url": "https://ils.utexas.edu/cmb/prospective-students/program-overview",
-      "label": "UT Austin Cell and Molecular Biology: Program Overview",
-      "checked": "2026-10-18"
+      "url": "https://graduate.utexas.edu/admissions/apply",
+      "label": "Application fees/waivers/transcripts",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://graduate.utexas.edu/admissions/apply/international",
+      "label": "University English requirements",
+      "checked": "2026-10-23"
+    },
+    {
+      "url": "https://ils.utexas.edu/prospective-graduate-students/admissions",
+      "label": "ILS Fall2027 requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://ils.utexas.edu/prospective-graduate-students/frequently-asked-questions",
+      "label": "ILS English/model",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://ils.utexas.edu/current-graduate-students/funding-employment",
+      "label": "ILS support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://ils.utexas.edu/cell-molecular-biology/cmb-program-overview",
+      "label": "Program overview",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://graduate.utexas.edu/admissions/apply",
+  "deadlines": [
+    {
+      "label": "Fall2027 application",
+      "date": "2026-11-30"
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "80 iBT program minimum; central4 on6-pointscale",
+      "ielts": 7,
+      "note": "Program IELTS range6.5–7.0; safer7 retained. Central DET115 accepted, but program instructions mention only TOEFL/IELTS; confirm DET. US/qualifying-country bachelor exemption."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "$65 US;$90 international. Need-based waiver only US citizens/PR pursuing first graduate degree."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Two separate purpose essays (recommended one page each): future goals; research/faculty interests",
+      "Current CV/resume",
+      "Official transcripts from every prior college/university; translation if needed"
+    ],
+    "note": "Research/faculty-interest essay up to5 faculty. Initial application at least3days early recommended. Three first-semester rotations before advisor selection."
+  },
+  "timeline": {
+    "interviews": "Typically February recruitment.",
+    "decisions": "Typically mid-February."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Undated published stipend $40,000/year ($3,333/month), in-state tuition and access to insurance; ISSS fee for internationals. Program first semester, then permanent lab; continued funding depends on standing and funds. At least one semester TA."
+  }
 }

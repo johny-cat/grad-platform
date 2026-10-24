@@ -5,15 +5,73 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://inp.uci.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
+      "url": "https://inp.uci.edu/admissions-and-application/",
+      "label": "INP current admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://inp.uci.edu/curriculum/laboratory-rotations/",
+      "label": "INP model",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://inp.uci.edu/wp-content/uploads/sites/20/2025/09/INP_STUDENT_HANDBOOK_2025.26.F.pdf",
+      "label": "Historical INP support",
+      "checked": "2026-10-23"
+    },
+    {
       "url": "https://inp.uci.edu/",
-      "label": "UC Irvine Interdepartmental Neuroscience Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-23"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "applyUrl": "https://apply.grad.uci.edu",
+  "deadlines": [
+    {
+      "label": "Application/all materials",
+      "date": "2026-12-01"
+    }
+  ],
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "TOEFL/TSE required internationally unless undergraduate degree taught solely in English perWHED; admission-score minimums not established on opened INP pages."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "$135 domestic;$155 international. Waiver eligibility not established on opened pages."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose including3–4 faculty interests",
+      "Postsecondary transcripts",
+      "Bachelor graduation certificate if not on transcript"
+    ],
+    "note": "Personal history statement and CV optional. Three10weekrotations encouraged; fewer permitted by committee."
+  },
+  "timeline": {
+    "interviews": "Late January or early February2027."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 37200,
+      "currency": "USD",
+      "period": "year",
+      "year": "Fall2025 approximate"
+    },
+    "note": "2025–26 handbook: all students offered full support, university fees/health insurance and foreign/out-of-state tuition; first summer stipend advisor-provided afterJuly1. Satisfactory progress and home lab required."
+  }
 }
