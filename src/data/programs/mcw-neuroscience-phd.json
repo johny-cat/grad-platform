@@ -5,15 +5,86 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd",
       "label": "Medical College of Wisconsin Graduate School: Neuroscience PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions",
+      "label": "MCW Graduate School: Admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/application-deadlines",
+      "label": "MCW Graduate School: Application deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements",
+      "label": "MCW Graduate School: Admission requirements",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "A PhD program at the Medical College of Wisconsin where new students rotate through labs, then match with one of the labs they rotated in at the end of the first year. An interview is part of evaluation.",
+  "applyUrl": "https://admissions.mcw.edu/apply",
+  "location": "Milwaukee, Wisconsin",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; the program page gives a December 15 priority date with no year, so Fall 2027 is not confirmed. The Graduate School's deadline list shows 'December 4: All Doctorate Programs', also without a year.",
+  "publishedDeadlines": [
+    {
+      "label": "Program priority deadline (no year stated)",
+      "dateText": "December 15",
+      "note": "The program page says applications received by the priority application deadline of December 15 receive first priority; reviewed on a rolling basis. No year is given. Confirm Fall 2027 directly."
+    },
+    {
+      "label": "Graduate School deadline list, doctorate programs (no year stated)",
+      "dateText": "December 4",
+      "note": "Listed on the Graduate School deadlines page under Doctorate Programs without a year or program names. Confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 on the internet-based test (recommended for competitive consideration)",
+      "ielts": 6,
+      "duolingo": 105,
+      "note": "Program page: TOEFL required of applicants without a US-based bachelor's or master's degree; waivers requested in writing to gradschool@mcw.edu. IELTS 6.0 and Duolingo 105 are Graduate School recommended scores, not minimums."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Graduate School waivers go to people who, within the last three years, did MCW research, held a GRE Fee Reduction Certificate, attended an MCW Graduate School fair or presented at a conference. The page does not limit them to US applicants but does not say international applicants qualify; confirm. It also says waivers are not offered for financial difficulty."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from all current or previously attended undergraduate, graduate and medical institutions",
+      "Personal statement",
+      "Interview (in person or by phone)"
+    ],
+    "note": "Graduate School: international applicants (anyone residing outside the US or studying on a visa) submit official transcripts with English translations if needed and a WES credential evaluation."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 36355,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-26"
+    },
+    "note": "Package: stipend, full tuition coverage and health insurance, guaranteed through completion of degree requirements, with no extra process beyond accepting an offer. The Graduate School says it goes to all full-time PhD students in good standing. The stipend shown is the 2025-26 figure."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "English test and credential-evaluation rules for international applicants are on the Graduate School requirements page."
+  }
 }

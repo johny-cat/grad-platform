@@ -3,17 +3,63 @@
   "institution": "University of Rochester",
   "institutionShort": "Rochester",
   "country": "US",
+  "location": "Rochester, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is published without a year and is not confirmed for Fall 2027 (the fee-waiver cutoff, November 15, 2026, is dated). How students are admitted and funding are not stated on the pages checked.",
+  "summary": "PhD program at the University of Rochester Medical Center in translational biomedical science. Students select a primary mentor and a co-mentor, one with basic and one with population, clinical or translational expertise.",
   "officialUrl": "https://www.urmc.rochester.edu/education/graduate/phd/translational-biomedical-science",
+  "applyUrl": "https://www.urmc.rochester.edu/education/graduate/application",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1st",
+      "note": "The apply page says \"By December 1st - Complete application due\", without a year. Not confirmed for Fall 2027; confirm with the program. Applications received by November 15, 2026 get the fee automatically waived."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are scheduled December to March; campus interviews are held in February and Zoom interviews through early April.",
+    "decisions": "Offer notices are mailed February to March, after interviews. Responses are due by April 15."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "Required if your native language is not English; no minimum score stated",
+      "note": "Acceptable tests: TOEFL iBT or ITP Plus, IELTS and DuoLingo. Scores must be within 2 years of the test date. No minimum scores are stated."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The $60 fee is automatically waived for PhD applications submitted by November 15, 2026. After that, waivers are considered on request for financial hardship. The page does not say whether international applicants qualify, so confirm before relying on it."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application",
+      "Statement of purpose",
+      "Transcripts uploaded to the online application (no hard copy)"
+    ],
+    "note": "GRE scores taken within 5 years are accepted but not required, and not submitting them is not held against the applicant."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Applicants whose native language is not English must demonstrate English proficiency."
+  },
   "sources": [
     {
       "url": "https://www.urmc.rochester.edu/education/graduate/phd/translational-biomedical-science",
-      "label": "University of Rochester Medical Center: Translational Biomedical Science PhD",
-      "checked": "2026-10-18"
+      "label": "Translational Biomedical Science PhD (URMC)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/translational-biomedical-science/apply",
+      "label": "URMC TBS: How to apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

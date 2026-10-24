@@ -6,3 +6,17 @@ Official program and central pages repeatedly returned502 or cache errors. Offic
 Opened 2026-10-24: https://catalog.ucsc.edu/current/general-catalog/academic-units/baskin-engineering/biomolecular-engineering/biomolecular-engineering-and-bioinformatics-phd
 
 > Biomolecular Engineering and Bioinformatics Ph.D.
+
+## Check: 2026-10-24
+
+- GRE | https://pbse.ucsc.edu/resources/application-procedures/ | "GRE General or Subject Test Scores are not required for application or admission to any of the tracks."
+- Letters | https://pbse.ucsc.edu/resources/application-procedures/ | "Three letters in electronic format only."
+- TOEFL 89 for CB3 and BMEB; IELTS | https://pbse.ucsc.edu/resources/application-procedures/ | "TOEFL minimums are 89 for CB3 and BMEB and 83 for MCDB and METX (summary of page); A minimum overall score of 7 from the IELTS test is required for admission."
+- Fee | https://pbse.ucsc.edu/resources/application-procedures/ | "The completed application must be accompanied by a non-refundable $135.00 fee. (International applicants $155.00)"
+- International funding | https://pbse.ucsc.edu/resources/application-procedures/ | "due to limited financial resources, we can only make a small number of offers to non-U.S. residents"
+- Decisions | https://pbse.ucsc.edu/resources/application-procedures/ | "To be formally admitted, the Graduate Studies Office must receive acceptance by April 15th."
+- Funding | https://pbse.ucsc.edu/resources/financial-support/ | "Continuing support beyond the first year is contingent on maintaining the academic standards required by the program."
+- Tuition/insurance | https://pbse.ucsc.edu/resources/financial-support/ | "The financial support provides full tuition remission, payment of student health insurance,"
+- Deadline (no year) | https://graduateadmissions.ucsc.edu/application-deadlines/ | "Biomolecular Engineering & Bioinformatics | Ph.D. | December 1"
+- Documents | https://graduateadmissions.ucsc.edu/how-to-apply/ | "Three letters of recommendation are required ... Personal History Statement is required of all applicants."
+- Rotations | https://pbse.ucsc.edu/bme/ | "Incoming BMEB students undertake rigorous core coursework, conduct laboratory rotations"

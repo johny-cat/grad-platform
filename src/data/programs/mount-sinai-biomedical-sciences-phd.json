@@ -5,15 +5,58 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://icahn.mssm.edu/education/phd/biomedical-sciences",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://icahn.mssm.edu/education/phd/biomedical-sciences",
       "label": "Icahn School of Medicine at Mount Sinai: PhD in Biomedical Sciences",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://icahn.mssm.edu/education/admissions/graduate-education/phd-biomedical-sciences",
+      "label": "Mount Sinai: PhD in Biomedical Sciences admissions",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Mount Sinai's umbrella PhD in Biomedical Sciences, with applicants choosing among seven training areas such as microbiology, immunology and cancer biology. The admissions page lists what to submit.",
+  "applyUrl": "https://applygs.mssm.edu/security/login.aspx?ReturnUrl=%2f",
+  "detailsNote": "Official information available; the published December 1 deadline has no year stated, so Fall 2027 is not confirmed. How students are admitted (rotations or a program match), funding, GRE policy and minimum English scores are not stated on the official pages we opened, so they are left out.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (no year stated)",
+      "dateText": "December 1",
+      "note": "The admissions page says 'All application materials are due by December 1, and reviews begin after this deadline.' No year is given; confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "TOEFL is required if English is your second language and you are not a US resident. International applicants whose last degree was taught in English are exempt. Minimum scores are not stated."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers may be granted for circumstances including financial hardship (with official documentation), military service, full-time nonprofit volunteering and underserved educational programs. The page does not limit waivers to US applicants but does not say international applicants qualify; confirm with admissions@mssm.edu."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Completed online application",
+      "Transcripts from post-secondary institutions attended (copies accepted; official transcripts required if you enroll)",
+      "Foreign transcripts translated into English with a General Analysis evaluation from a certified credential evaluation service (international applicants)"
+    ],
+    "note": "Recommenders are asked for letters by email from admissions@mssm.edu; the page says the school is particularly interested in people who have seen you work in research."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The page says applications are encouraged 'regardless of country of origin'."
+  },
+  "timeline": {
+    "interviews": "The page says applicants will hear about interviews during review, and decisions come within three weeks of the interview."
+  }
 }

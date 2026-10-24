@@ -3,17 +3,69 @@
   "institution": "Arizona State University",
   "institutionShort": "ASU",
   "country": "US",
+  "location": "Phoenix, Arizona",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 priority deadline is published without a year and is not confirmed for Fall 2027. GRE, how students are admitted, funding and fee waivers are not stated on the pages checked. ASU says programs may set higher English requirements than the university minimums shown.",
+  "summary": "PhD in biomedical informatics and data science at Arizona State University, offered through the College of Health Solutions in Downtown Phoenix.",
   "officialUrl": "https://degrees.asu.edu/masters-phd/major/ASU00/ESBMIPHD/biomedical-informatics-phd",
+  "applyUrl": "https://admission.asu.edu/apply/graduate/admission",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority deadline (in-person)",
+      "dateText": "12/01",
+      "note": "The program page lists a Fall priority deadline of 12/01 for the in-person session, with no year. Applications completed before it get priority; later ones are reviewed in completion order on a space-available basis. Not confirmed for Fall 2027; confirm with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80 for exams before January 21, 2026; 4 for exams on or after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "ASU graduate minimums for applicants whose native language is not English; some programs set higher requirements. Exempt: US citizens and permanent residents, citizens of listed English-speaking countries, and holders of qualifying degrees (some by form)."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "$75 for US citizens, permanent residents, those applying for permanent residency and DACA; $120 for international students on any nonimmigrant visa. Non-refundable. The pages checked do not mention fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Graduate admission application and application fee",
+      "Official transcripts",
+      "Statement of purpose (one to two pages)",
+      "Educational background essay (no longer than one page)",
+      "Resume or curriculum vitae",
+      "Three references (academic or professional)",
+      "Proof of English proficiency"
+    ],
+    "note": "Applicants must meet the requirements of both the Graduate College and the College of Health Solutions, including a minimum 3.00 GPA in the relevant prior degree. The program page does not mention the GRE."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESBMIPHD/biomedical-informatics-phd",
-      "label": "Arizona State University: Biomedical Informatics and Data Science, PhD",
-      "checked": "2026-10-19"
+      "label": "ASU: Biomedical Informatics and Data Science, PhD",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admission.asu.edu/apply/graduate/admission",
+      "label": "ASU: Graduate admission",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency",
+      "label": "ASU: English proficiency for international graduate applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-19"
+  "lastChecked": "2026-10-24"
 }

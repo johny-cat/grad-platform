@@ -3,17 +3,75 @@
   "institution": "University of Rochester",
   "institutionShort": "Rochester",
   "country": "US",
+  "location": "Rochester, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is published without a year and is not confirmed for Fall 2027 (the fee-waiver cutoff, November 15, 2026, is dated). Whether international applicants are covered by funding is not stated.",
+  "admissionModel": "program",
+  "summary": "PhD program at the University of Rochester Medical Center. Students do research rotations in three laboratories and usually choose an advisor at the end of the first year.",
   "officialUrl": "https://www.urmc.rochester.edu/education/graduate/phd/biophysics/program",
+  "applyUrl": "https://www.urmc.rochester.edu/education/graduate/phd/biophysics/apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1st",
+      "note": "The page says completed applications must be received by December 1st for Fall admission, without a year. Not confirmed for Fall 2027; confirm with the program. Applications received by November 15, 2026 get the fee automatically waived."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are scheduled December to March; campus interviews are held in February and Zoom interviews through early April.",
+    "decisions": "Offer notices are mailed February to March, after interviews. Responses are due by April 15."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "Required if your primary language is not English; no minimum score stated",
+      "note": "TOEFL or IELTS is mandatory for applicants whose primary language is not English; DuoLingo is also listed as acceptable. The Test of Spoken English is highly recommended. Scores must be within 2 years of the test date. No minimum scores are stated."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The $60 fee is automatically waived for PhD applications submitted by November 15, 2026. After that, waivers are considered on request for financial hardship. The page does not say whether international applicants qualify, so confirm before relying on it."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application",
+      "Statement of purpose",
+      "Transcripts uploaded to the online application (no hard copy)"
+    ],
+    "note": "GRE scores taken within 5 years are accepted but not required, and not submitting them is not held against the applicant. Evidence of the earned degree is required before matriculation."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 35800,
+      "currency": "USD",
+      "period": "year",
+      "year": "2027-2028"
+    },
+    "note": "Full tuition scholarship including academic fees, single-coverage student health insurance, and a stipend of $35,800 per year for 12-month programs ($29,833 for 10-month programs). The page does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants whose primary language is not English must submit TOEFL or IELTS scores."
+  },
   "sources": [
     {
       "url": "https://www.urmc.rochester.edu/education/graduate/phd/biophysics/program",
-      "label": "University of Rochester Medical Center: Biophysics, Structural and Computational Biology PhD Program",
-      "checked": "2026-10-18"
+      "label": "Biophysics, Structural and Computational Biology PhD Program (URMC)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/biophysics/apply",
+      "label": "URMC BSCB: How to apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

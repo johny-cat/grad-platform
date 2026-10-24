@@ -3,17 +3,67 @@
   "institution": "University of Massachusetts Amherst",
   "institutionShort": "UMass Amherst",
   "country": "US",
+  "location": "Amherst, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is published without a year and is not confirmed for Fall 2027. GRE, how students are admitted (program or lab) and stipend amounts are not stated on the pages checked.",
+  "summary": "PhD program in neuroscience and behavior at UMass Amherst. Promising candidates are invited to a recruiting weekend; strong international applicants are interviewed by phone or in person.",
   "officialUrl": "https://www.umass.edu/natural-sciences/academics/phd-neuroscience-and-behavior",
+  "applyUrl": "https://www.umass.edu/graduate/apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1 of each calendar year for admission in September of the following year",
+      "note": "Published without a year. Not confirmed for Fall 2027; confirm with the program. Reference letters must arrive no later than December 8."
+    }
+  ],
+  "timeline": {
+    "interviews": "Promising candidates are invited to the annual \"recruiting weekend\". Foreign applicants who have strong credentials must also be interviewed, by telephone and/or in person."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "4 (tests from January 2026) or 80 (earlier tests)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Minimums are the Graduate School's for international applicants. The program page says TOEFL scores should be sent to the Graduate Admissions Office; check the Graduate School page for who is exempt."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "The program page lists $85.00 for Massachusetts residents, other US citizens and permanent residents, and international applicants. Waivers are offered to eligible domestic students from underrepresented groups."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Official transcripts of coursework at other institutions",
+      "Completed bachelor's degree"
+    ],
+    "note": "Most successful applicants have a cumulative undergraduate GPA of 3.25 or better. Reference letters must be submitted by December 8."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.umass.edu/natural-sciences/academics/phd-neuroscience-and-behavior",
       "label": "UMass Amherst College of Natural Sciences: PhD in Neuroscience and Behavior",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.umass.edu/neuroscience-behavior/how-apply",
+      "label": "UMass Amherst Neuroscience and Behavior: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.umass.edu/graduate/apply/international-applicants",
+      "label": "UMass Amherst Graduate School: International applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

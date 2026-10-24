@@ -3,17 +3,72 @@
   "institution": "Wake Forest University",
   "institutionShort": "Wake Forest",
   "country": "US",
+  "location": "Winston-Salem, North Carolina",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 6 deadline is published without a year and is not confirmed for Fall 2027. How students are admitted (program or lab), stipend amounts and whether funding covers international students are not stated on the pages checked.",
+  "summary": "PhD in neuroscience at Wake Forest University School of Medicine. The first two years combine an interdisciplinary curriculum with hands-on training in research laboratories.",
   "officialUrl": "https://school.wakehealth.edu/education-and-training/graduate-programs/graduate-programs-in-neuroscience/doctor-of-philosophy",
+  "applyUrl": "https://school.wakehealth.edu/education-and-training/graduate-programs/how-to-apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published Neuroscience PhD deadline (Fall)",
+      "dateText": "12/6",
+      "note": "Listed in the School of Medicine deadline table without a year or time, and the page says deadlines are subject to change. Not confirmed for Fall 2027; confirm with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Many, but not all, programs require an interview for admission; invitations go out no later than 2 weeks before the interview date. The pages do not give Neuroscience-specific interview dates."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90 (iBT)",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Minimum recommended scores for international applicants whose native language is not English and who did not attend a US college or university, unless English was the primary medium of instruction."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The page says most programs have a $70 fee or a waiver code and that Neuroscience follows this general rule. Waivers are based on financial need, and international students are held to the same criteria as domestic students."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Demographic and personal information",
+      "School transcripts",
+      "Three recommendation letters",
+      "Written personal statement",
+      "CV or resume",
+      "Research statement",
+      "Attestation",
+      "Application fee"
+    ],
+    "note": "Applications not complete 5 business days after the close date are not reviewed. Official transcripts are required from all schools that granted a degree in order to enroll."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "PhD applicants are automatically considered for a full tuition scholarship and stipend for living expenses; no amount is stated and no form is required. The page does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://school.wakehealth.edu/education-and-training/graduate-programs/graduate-programs-in-neuroscience/doctor-of-philosophy",
-      "label": "Wake Forest University School of Medicine, Graduate Programs in Neuroscience: Doctor of Philosophy",
-      "checked": "2026-10-18"
+      "label": "Wake Forest School of Medicine: Neuroscience PhD",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://school.wakehealth.edu/education-and-training/graduate-programs/how-to-apply",
+      "label": "Wake Forest School of Medicine: How to apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

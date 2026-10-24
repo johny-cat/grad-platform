@@ -5,15 +5,81 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://neuroscience.arizona.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://neuroscience.arizona.edu/",
-      "label": "University of Arizona: Graduate Interdisciplinary Program in Neuroscience",
-      "checked": "2026-10-18"
+      "label": "University of Arizona Neuroscience: Home",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuroscience.arizona.edu/admissions/how-apply",
+      "label": "University of Arizona Neuroscience: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuroscience.arizona.edu/admissions/admission-requirements",
+      "label": "University of Arizona Neuroscience: Admission requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://neuroscience.arizona.edu/admissions/financial-support",
+      "label": "University of Arizona Neuroscience: Financial support",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "The University of Arizona's neuroscience PhD program, admitting for fall. First-year students are supported by the program while they take courses and rotate through labs.",
+  "applyUrl": "https://apply.grad.arizona.edu/users/login",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; the December 1 deadline has no year stated, so Fall 2027 is not confirmed. The application page still mentions sending GRE scores, but the requirements page says the GRE is no longer required.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (no year stated)",
+      "dateText": "December 1",
+      "note": "The how-to-apply page says 'The deadline for applications is December 1st.' No year, time or time zone is given. Confirm Fall 2027 directly."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews typically begin late January for fall admission."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 (iBT) or 550 (paper-based) or higher",
+      "note": "For international students, from the Program in Neuroscience requirements page. International students should also provide at least one letter from a scientist who knows the US system."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Same fee ($90) for international students. 'Fee waived on case by case based upon request.' The page does not say who qualifies; confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement",
+      "CV or resume",
+      "Transcripts (sending official transcripts is optional)",
+      "Contact information for three recommenders"
+    ],
+    "note": "The program describes a strong application as a GPA of 3.5 or higher with a research background, but sets no absolute GPA cutoff."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 33350,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-27"
+    },
+    "note": "Page: 'All students in good standing in the Program of Neuroscience receive financial support in the form of an annual stipend.' Stipend shown is Level 1 in the 2026-27 example table (Level 2 is $34,350). Non-Arizona residents get an out-of-state tuition waiver; student health plan is covered. Visa holders are not eligible for NRSA support."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }

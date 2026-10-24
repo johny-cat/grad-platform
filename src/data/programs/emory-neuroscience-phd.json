@@ -5,15 +5,94 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The program apply page shows December 1, 2027, which looks like a typo; the division page says December 1, 2026. No stipend amount is stated by the program; the Laney page figure applies only to students covered by its collective bargaining agreement.",
+  "admissionModel": "program",
+  "summary": "Emory PhD program in neuroscience, part of the Graduate Division of Biological and Biomedical Sciences. Students do three rotations before choosing a faculty mentor.",
   "officialUrl": "https://biomed.emory.edu/PROGRAM_SITES/NS/",
+  "applyUrl": "https://biomed.emory.edu/admissions/apply.html",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "GDBBS apply page: 'The application deadline for the Fall 2027 admissions cycle is December 1, 2026.' Letters are due the same day. The program's own apply page shows 'December 1, 2027' for the same cycle; this looks like a typo, so the GDBBS date is used."
+    }
+  ],
+  "timeline": {
+    "interviews": "Program interviews are usually held in late January through late February."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "TOEFL is required if your native language is not English; applicants may upload a student score report for TOEFL or IELTS. No minimum score is stated."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Laney Graduate School fee; waivers for financial hardship (low-income) and participation in a graduate-preparation program. The Laney page says international applicants are eligible for the hardship waiver."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Resume/CV",
+      "Transcript from each university attended (official transcripts only after an offer is accepted)"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "FAQ: 'All students who are accepted and enroll receive a competitive stipend, tuition scholarship, and health insurance.' Tuition scholarship covers 100% of tuition; funding is guaranteed while progress is satisfactory. Laney page: $43,260 for FY26-27 for PhD students covered by its collective bargaining agreement."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "About 35% of applications in a typical cycle are from international students."
+  },
   "sources": [
     {
       "url": "https://biomed.emory.edu/PROGRAM_SITES/NS/",
-      "label": "Emory Graduate Division of Biological and Biomedical Sciences: Neuroscience",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biomed.emory.edu/PROGRAM_SITES/NS/admissions/apply.html",
+      "label": "Program: Apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biomed.emory.edu/PROGRAM_SITES/NS/admissions/factsfaq.html",
+      "label": "Program: FAQ",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biomed.emory.edu/PROGRAM_SITES/NS/admissions/financial.html",
+      "label": "Program: Financial information",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biomed.emory.edu/admissions/apply.html",
+      "label": "GDBBS: Apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gs.emory.edu/admissions/application.html",
+      "label": "Laney Graduate School: Application (fee)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gs.emory.edu/admissions/fee-waivers.html",
+      "label": "Laney Graduate School: Application fee waivers",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gs.emory.edu/funding/index.html",
+      "label": "Laney Graduate School: Funding",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

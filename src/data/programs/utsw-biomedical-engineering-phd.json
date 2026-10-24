@@ -3,17 +3,73 @@
   "institution": "University of Texas Southwestern Medical Center",
   "institutionShort": "UT Southwestern",
   "country": "US",
+  "location": "Dallas, Texas",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is published without a year and is not confirmed for Fall 2027. The admission page covers Basic Sciences and says each program makes its own admission decision; the pages checked do not say how Biomedical Engineering students are admitted (program or lab), so no admission model is shown.",
+  "summary": "PhD in biomedical engineering at UT Southwestern's Graduate School of Biomedical Sciences. It is separate from the Basic Biomedical Sciences umbrella, but its students can work with faculty from that program.",
   "officialUrl": "https://gsbs.utsouthwestern.edu/programs/biomedical-engineering/",
+  "applyUrl": "https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "December 1st, 11:59 pm Central Standard Time",
+      "note": "The page gives the deadline as \"December 1st, 11:59 pm Central Standard Time\" with no year (application opens \"Sept. 1\"). Not confirmed for Fall 2027; confirm with the Graduate School."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are by invitation; US applicants are invited on a rolling basis and all international applicants are interviewed virtually. Invitations are emailed no later than February 1."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "No minimum stated; competitive scores are typically equivalent to TOEFL iBT 100 or above",
+      "note": "Required for international applicants whose native language is not English. Accepted: TOEFL iBT, TOEFL Essentials, IELTS and DuoLingo. Expired scores may be submitted. Scores can be waived on request, case by case."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Online application",
+      "Unofficial transcripts from every institution attended",
+      "Three letters of recommendation",
+      "English test scores (international applicants only)",
+      "NACES-member course-by-course credential evaluation for non-US/Canada degrees"
+    ],
+    "note": "There is no application fee. All materials, including the three letters, are due by 11:59 pm Central Standard Time on December 1, with no exceptions. Official transcripts are required before matriculation."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All students receive a nationally competitive stipend/research assistantship of $40,000 per year (the page gives no year). The Graduate School supports students in the first year; later years are paid from mentors' grants, NIH training grants or fellowships. Tuition, health insurance and student service fees are covered. Funding is the same regardless of citizenship for students in good academic standing."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://gsbs.utsouthwestern.edu/programs/biomedical-engineering/",
-      "label": "UT Southwestern Graduate School of Biomedical Sciences: Biomedical Engineering Ph.D. Program",
-      "checked": "2026-10-19"
+      "label": "UT Southwestern GSBS: Biomedical Engineering Ph.D. Program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html",
+      "label": "UT Southwestern GSBS: Ph.D. Degrees in Basic Sciences (covers BME)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/",
+      "label": "UT Southwestern GSBS: Application and admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://gsbs.utsouthwestern.edu/cost-financial-support/phd-degrees-in-basic-sciences.html",
+      "label": "UT Southwestern GSBS: Cost and financial support, Basic Sciences",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-19"
+  "lastChecked": "2026-10-24"
 }

@@ -3,17 +3,60 @@
   "institution": "University of Massachusetts Amherst",
   "institutionShort": "UMass Amherst",
   "country": "US",
+  "location": "Amherst, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is published without a year and is not confirmed for Fall 2027. How PhD students are admitted (program or lab), the application fee amount and funding are not stated on the pages checked.",
+  "summary": "PhD program in molecular and cellular biology at UMass Amherst, with faculty from the university and nearby colleges. Applications open for fall entry only through the Graduate School.",
   "officialUrl": "https://www.umass.edu/natural-sciences/academics/phd-molecular-and-cellular-biology",
+  "applyUrl": "https://www.umass.edu/graduate/apply",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published PhD application deadline",
+      "dateText": "December 1",
+      "note": "The program pages say \"December 1 each year\" and give no year. Not confirmed for Fall 2027; confirm with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "4 (tests from January 2026) or 80 (earlier tests)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Graduate School minimums for international applicants. A waiver applies for citizens of listed English-speaking countries, holders of a degree from the US or those countries, and some others; waived applicants are reviewed if recommended for admission."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Application with personal statement",
+      "All official transcripts",
+      "TOEFL (or other accepted test) and Financial Statement (international applicants only)"
+    ],
+    "note": "An application fee is required; the amount and any fee waiver are not stated on the program page. Applicants are expected to have college-level biology, organic chemistry, calculus and physics. A file is generally not reviewed until all materials are received."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants must show advance proof of funding sufficient for a full 12-month year (Graduate School page)."
+  },
   "sources": [
     {
       "url": "https://www.umass.edu/natural-sciences/academics/phd-molecular-and-cellular-biology",
       "label": "UMass Amherst College of Natural Sciences: PhD in Molecular and Cellular Biology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.umass.edu/molecular-cellular/how-apply",
+      "label": "UMass Amherst MCB: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.umass.edu/graduate/apply/international-applicants",
+      "label": "UMass Amherst Graduate School: International applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

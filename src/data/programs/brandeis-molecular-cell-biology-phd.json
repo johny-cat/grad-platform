@@ -3,17 +3,74 @@
   "institution": "Brandeis University",
   "institutionShort": "Brandeis",
   "country": "US",
+  "location": "Waltham, Massachusetts",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available; the December 1 deadline is published without a year and is not confirmed for Fall 2027. The application fee amount, fee waivers, English test minimum scores and how students are admitted (program or lab) are not stated on the pages checked.",
+  "summary": "PhD in molecular and cell biology at Brandeis University in Waltham. Admission is holistic: the committee weighs the whole application, with heavy weight on letters of recommendation.",
   "officialUrl": "https://www.brandeis.edu/molecular-cell-biology/graduate/phd-program/index.html",
+  "applyUrl": "https://www.brandeis.edu/molecular-cell-biology/graduate/phd-program/apply-phd.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published PhD application deadline",
+      "dateText": "December 1",
+      "note": "The pages say \"The deadline to apply to the PhD program is December 1.\" and \"For fall admission: December 1.\" with no year. Not confirmed for Fall 2027; confirm with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "International applicants may need official English test results (TOEFL, IELTS or PTE-Academic); no minimum scores are stated on these pages. Exempt: citizens of countries where English is an official language, graduates of accredited degree programs at English-speaking institutions, and current Brandeis students or alumni. Brandeis does not accept ETS MyBest, IELTS One Skill Retake or TOEFL Essentials scores. Brandeis TOEFL code: 3261."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application through the Graduate School of Arts and Sciences",
+      "Application fee (amount not stated on the pages checked)",
+      "Transcripts",
+      "Three letters of recommendation, submitted electronically",
+      "CV or resume",
+      "Statement of purpose"
+    ],
+    "note": "The program no longer considers GRE scores; applicants should not submit them. Applicants are encouraged to visit and meet students and faculty; visits are generally scheduled by the admissions committee."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The funding page says all students are guaranteed funding, including a stipend of $38,496 (as of July 1, 2023), full tuition and health insurance while they maintain satisfactory progress. It does not say whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.brandeis.edu/molecular-cell-biology/graduate/phd-program/index.html",
       "label": "Brandeis University: MCB PhD Program",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.brandeis.edu/molecular-cell-biology/graduate/phd-program/apply-phd.html",
+      "label": "Brandeis MCB: Apply to the PhD program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.brandeis.edu/gsas/programs/mcbio.html",
+      "label": "Brandeis GSAS: Graduate programs in Molecular and Cell Biology",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.brandeis.edu/molecular-cell-biology/graduate/phd-program/funding.html",
+      "label": "Brandeis MCB: PhD funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.brandeis.edu/gsas/admissions/international.html",
+      "label": "Brandeis GSAS: International students",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

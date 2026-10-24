@@ -5,15 +5,91 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The program's page shows 'December 1' without a year, so the deadline is not confirmed for Fall 2027.",
+  "admissionModel": "program",
+  "summary": "Columbia doctoral program in neurobiology and behavior. Entering students do a series of lab rotations and work with the program co-directors.",
   "officialUrl": "https://www.neurosciencephd.columbia.edu/",
+  "applyUrl": "https://apply.gsas.columbia.edu/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application submission deadline",
+      "dateText": "December 1",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Applicants selected for interviews are invited to one of two scheduled Open House events, where they interview with 5 faculty members."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5.5 (tests after 21 Jan 2026) or 100 (earlier tests)",
+      "ielts": 7.5,
+      "duolingo": 135,
+      "note": "Scores must be under two years old. Exemptions for a degree from an institution in a country where English is the sole official language, and case-by-case waivers where the language of instruction was English."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Fee for the 2027 online application. Waivers are for financial need or hardship, research pathways programs, outside fellowship organizations and US military service; the page does not limit them by citizenship, but confirm eligibility."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Personal statement of approximately 500 words",
+      "Transcripts",
+      "Letters of recommendation (from research advisors are especially helpful)"
+    ],
+    "note": "No paper applications. Applicants must submit all materials directly, without an agent or third-party vendor."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students making progress toward their degree are 'guaranteed to receive full financial support covering tuition and fees plus a stipend for living expenses.' No amount or year is given."
+  },
+  "international": {
+    "accepted": "unknown"
+  },
   "sources": [
     {
       "url": "https://www.neurosciencephd.columbia.edu/",
-      "label": "Columbia University: Welcome to Columbia's NB&B Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.neurosciencephd.columbia.edu/content/application-process",
+      "label": "NB&B: Application process",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.neurosciencephd.columbia.edu/content/application-materials",
+      "label": "NB&B: Application materials",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.neurosciencephd.columbia.edu/content/housing-and-financial-support",
+      "label": "NB&B: Housing and financial support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/application-fee",
+      "label": "Columbia GSAS: Application fee",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/application-fee-waivers",
+      "label": "Columbia GSAS: Application fee waivers",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/information-international-applicants",
+      "label": "Columbia GSAS: Information for international applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

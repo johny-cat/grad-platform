@@ -5,15 +5,90 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The December 1 PhD deadline is published without a year, so it is not confirmed for Fall 2027. A direct admission model is not stated; the CB3 page mentions rotations only, so none is shown.",
+  "summary": "PhD track in chemical biology, biochemistry and biophysics in UC Santa Cruz's Physical and Biological Sciences Engineering group. New students take coursework and do research rotations.",
   "officialUrl": "https://pbse.ucsc.edu/cb3",
+  "applyUrl": "https://applygrad.ucsc.edu/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (PhD)",
+      "dateText": "December 1",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program. Page is marked updated 10/08/2026 but gives no year."
+    }
+  ],
+  "timeline": {
+    "decisions": "Offers typically go out from mid-February through March, with waitlist offers possibly into mid-April. Acceptance must reach the Graduate Studies Office by April 15."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "89 on the older scale (PBSE page, for CB3 and BMEB). The Graduate Division lists 4.5 for certain programs and 4.0 for all others on the 2026 scale, 83 on the older scale for all other programs.",
+      "ielts": 7,
+      "note": "Required of applicants from countries where English is not the primary language. Teaching assistants also need a Speaking score (TOEFL 5.0 or IELTS 8). Duolingo is not mentioned. A waiver exists for applicants with a four-year bachelor's degree from an English-speaking institution, issued only to admitted applicants."
+    },
+    "applicationFee": {
+      "amount": 135,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "PBSE page: $135, and $155 for international applicants; non-refundable. The Graduate Division page does not state an amount. CB3 page: 'All qualified applicants are eligible to apply for a fee waiver' (limited number; minimum GPA and English requirements apply). The online portal treats international applicants as ineligible, but the department says it will consider international requests case by case; email the CB3 coordinator after completing, but not submitting, the application, by 11:59 pm PST on November 22 (year not stated)."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal history statement",
+      "Unofficial transcripts (official sealed transcripts required before enrolling)"
+    ],
+    "note": "Letters must be electronic. Requirements for the statements vary by program."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "PBSE page: students receive support throughout their graduate career, contingent on academic standards; support includes full tuition remission, student health insurance and a monthly stipend. Because of limited resources, only a small number of offers go to non-US residents. No stipend amount is given."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Offers to non-US residents are limited by funding; see the funding note."
+  },
   "sources": [
     {
       "url": "https://pbse.ucsc.edu/cb3",
-      "label": "UC Santa Cruz Program in Biomedical Sciences and Engineering: CB3 Training Track",
-      "checked": "2026-10-18"
+      "label": "Official CB3 track page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://pbse.ucsc.edu/cb3/https-pbse-cb3-fee-waiver-html/",
+      "label": "CB3: Application fee waiver",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://pbse.ucsc.edu/resources/application-procedures/",
+      "label": "PBSE: Application procedures (GRE, letters, English, fee)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://pbse.ucsc.edu/resources/financial-support/",
+      "label": "PBSE: Financial support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/application-deadlines/",
+      "label": "UCSC Graduate Admissions: Application deadlines",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/test-score-requirements/",
+      "label": "UCSC Graduate Admissions: Test score requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduateadmissions.ucsc.edu/how-to-apply/",
+      "label": "UCSC Graduate Admissions: How to apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

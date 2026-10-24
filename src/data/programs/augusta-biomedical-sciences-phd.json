@@ -3,17 +3,88 @@
   "institution": "Augusta University",
   "institutionShort": "Augusta",
   "country": "US",
+  "location": "Augusta, Georgia",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available for Fall 2027 entry. Whether funding covers international students is not stated. The pages list a TOEFL minimum of 4.5 for tests after January 2026 next to 79 for earlier tests; confirm the new-scale minimum.",
+  "admissionModel": "program",
+  "summary": "Umbrella PhD in biomedical sciences at Augusta University's Health Sciences Campus. Most students use the traditional pathway: choose an advisor and program after lab rotations.",
   "officialUrl": "https://www.augusta.edu/gradschool/biomed/index.php",
+  "applyUrl": "https://www.augusta.edu/admissions/apply.php",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "International applicants: application",
+      "date": "2026-11-17",
+      "note": "The admissions page lists, for Fall 2027, \"Application Deadline: November 17, 2026\" for international applicants. No time is given."
+    },
+    {
+      "label": "International applicants: documents",
+      "date": "2026-11-30",
+      "note": "\"Document Deadline: November 30, 2026\" for international applicants."
+    },
+    {
+      "label": "Domestic applicants: application",
+      "date": "2026-12-01",
+      "note": "\"Application Deadline: December 1, 2026\" for domestic applicants. No time is given."
+    },
+    {
+      "label": "Domestic applicants: documents",
+      "date": "2026-12-15",
+      "note": "\"Document Deadline: December 15, 2026\" for domestic applicants."
+    }
+  ],
+  "timeline": {
+    "interviews": "Interviews are by invitation only, after an initial review of the application. Selected applicants are notified directly by the program."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 (before January 2026); 4.5 (after January 2026)",
+      "ielts": 6.5,
+      "note": "Required for applicants whose first language is not English; scores must be from within 2 years and sent directly to Augusta University (code 5406). Waived for citizens of listed countries such as Canada (except Quebec) and the United Kingdom, and for applicants meeting other listed criteria."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from all universities and colleges ever attended",
+      "Personal and research statements within the application",
+      "CV or resume uploaded after submitting the application",
+      "Reference form and letter of recommendation from each of three recommenders",
+      "International applicants: official course-by-course credential evaluation from a NACES member"
+    ],
+    "note": "The application fee is listed as waived. At least one letter from a research supervisor documenting laboratory research experience is strongly recommended."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Twelve-month graduate research assistants (GRAs) receive an annual stipend of $31,000 (no year given), with a $1,000 increase on admission to candidacy; tuition is a reduced $25 per semester plus all student fees; part to all of health insurance is covered. The page does not guarantee funding or say whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.augusta.edu/gradschool/biomed/index.php",
       "label": "Augusta University: Biomedical Sciences (PhD) Programs",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.augusta.edu/gradschool/biomed/admissions.php",
+      "label": "Augusta University Biomedical Sciences: Admission criteria",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.augusta.edu/gradschool/biomed/assistantship.php",
+      "label": "Augusta University Biomedical Sciences: Assistantship",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.augusta.edu/gradschool/international-applicants.php",
+      "label": "Augusta University: International applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

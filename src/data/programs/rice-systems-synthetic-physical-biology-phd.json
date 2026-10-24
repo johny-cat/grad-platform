@@ -5,15 +5,93 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://ga.rice.edu/programs-study/departments-programs/interdisciplinary/systems-synthetic-physical-biology/systems-synthetic-physical-biology-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://ga.rice.edu/programs-study/departments-programs/interdisciplinary/systems-synthetic-physical-biology/systems-synthetic-physical-biology-phd/",
-      "label": "Rice University General Announcements: PhD in Systems, Synthetic, and Physical Biology",
-      "checked": "2026-10-18"
+      "label": "Rice University General Announcements: SSPB PhD",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://sspb.rice.edu/phd-program/how-apply",
+      "label": "Rice SSPB: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://sspb.rice.edu/phd-program/faq",
+      "label": "Rice SSPB: FAQ",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.rice.edu/admissions/language-proficiency-requirements",
+      "label": "Rice Graduate and Postdoctoral Studies: Language proficiency",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.rice.edu/admissions/how-to-apply",
+      "label": "Rice Graduate and Postdoctoral Studies: How to apply",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Rice's interdisciplinary PhD in systems, synthetic and physical biology. Students rotate through three labs in their first semester and are not admitted directly into a lab.",
+  "applyUrl": "https://sspb.rice.edu/phd-program/how-apply",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Priority consideration",
+      "date": "2026-12-07",
+      "note": "Page: 'Applications received before December 7, 2026, will receive priority consideration'. No time stated. The page's banner reads 'Apply now for Fall 2027 admissions'."
+    },
+    {
+      "label": "Final application deadline",
+      "date": "2027-01-04",
+      "note": "Page: applications 'will be accepted until January 4, 2027'; all materials must be received by the final deadline. No time stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "In-person interviews are planned for February and March; first invitations are aimed for mid-January and continue on a rolling basis."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90 (iBT, exams before January 21, 2026); 4.5 (iBT, exams on or after January 21, 2026)",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Required of international applicants who need a visa (page asks for TOEFL scores); Rice Graduate and Postdoctoral Studies lists the minimums shown and several ways to show proficiency."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The program waives the application fee for all applicants, automatically; no request needed. The $85 figure is Rice's general graduate application fee."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from all undergraduate and graduate schools attended (unofficial accepted for review; official required before matriculating)",
+      "Curriculum vitae or resume",
+      "Short statements on research interests",
+      "Optional diversity statement"
+    ],
+    "note": "GRE scores are not required but will be considered if provided. Applicants need training in biochemistry or molecular biology, ordinary differential equations and statistics, or must take equivalent courses in the first year."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 40500,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-27"
+    },
+    "note": "Incoming students receive a first-year Graduate Research Fellowship (full tuition waiver and stipend). After they join a lab, the advisor becomes responsible for financial support. The pages do not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International students needing visas must meet the English proficiency requirements."
+  }
 }

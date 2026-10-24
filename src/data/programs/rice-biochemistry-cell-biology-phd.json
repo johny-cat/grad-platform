@@ -5,15 +5,91 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://ga.rice.edu/programs-study/departments-programs/natural-sciences/biosciences/biochemistry-cell-biology-phd/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://ga.rice.edu/programs-study/departments-programs/natural-sciences/biosciences/biochemistry-cell-biology-phd/",
       "label": "Rice University General Announcements: PhD in Biochemistry and Cell Biology",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biosciences.rice.edu/biochemistry-and-cell-biology-graduate-program/",
+      "label": "Rice BioSciences: Biochemistry and Cell Biology graduate program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biosciences.rice.edu/how-apply-bcb",
+      "label": "Rice BioSciences: How to apply to BCB",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://biosciences.rice.edu/bcb-financial-support",
+      "label": "Rice BioSciences: BCB financial support",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.rice.edu/admissions/language-proficiency-requirements",
+      "label": "Rice Graduate and Postdoctoral Studies: Language proficiency",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.rice.edu/application-fee-waiver-weeks",
+      "label": "Rice Graduate and Postdoctoral Studies: Fee waiver weeks",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Rice's PhD in Biochemistry and Cell Biology, entered in fall only. New students complete three lab rotations and choose a thesis advisor in the second semester.",
+  "applyUrl": "https://gradapply.rice.edu",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; the program's application window (September 1 to December 31) is not tied to a year on its page, so Fall 2027 is not confirmed. Rice's Graduate School says it is accepting applications for 2027 admission. Interview timing is not stated.",
+  "publishedDeadlines": [
+    {
+      "label": "Application window and deadline (no year stated)",
+      "dateText": "Open September 1 through December 31; applications submitted by December 1 prioritized for early evaluation",
+      "note": "The program page says 'The application deadline is December 31' and that applicants who miss December 1 'will be in a less competitive position'. No year is given. Confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90 (iBT, exams before January 21, 2026); 4.5 (iBT, exams on or after January 21, 2026)",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Rice Graduate and Postdoctoral Studies minimums for applicants who are foreign nationals or whose native language is not English. Exemptions apply for degrees from English-language institutions."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The program page offers waivers only to US citizens and permanent residents. Rice's Graduate School runs a Fall 2027 doctoral fee-waiver window (Oct. 14 to Nov. 1) that it says is open to domestic and international students worldwide (minimum 3.0 GPA, doctoral programs, while waivers last). Confirm eligibility with the program."
+    },
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "documents": [
+      "Online application",
+      "Personal statement (PDF)",
+      "Official transcripts (offers are contingent on them; required once selected for interview)",
+      "Recommendations requested from four people; review starts once at least three are received"
+    ],
+    "note": "GRE is optional and applicants who do not submit scores 'will not be at a disadvantage'. Applicants should hold a BA or BS in biochemistry, biology, chemistry, chemical engineering, physics or an equivalent."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 39500,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-27"
+    },
+    "note": "Admission includes a research stipend and full tuition waiver; there is no separate financial aid application. Incoming students without external fellowships receive a first-year fellowship. The pages do not say whether this covers international students, but they state about a third of incoming doctoral students are international."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The program page says about one third of its incoming doctoral students are international."
+  }
 }

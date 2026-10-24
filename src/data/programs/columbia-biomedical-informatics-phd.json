@@ -5,15 +5,87 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The DBMI page gives 'Dec. 1, 2027' for the 2027-28 cohort, which does not match Fall 2027 entry as normally dated; it is published as written and not confirmed. The GRE is not mentioned.",
+  "admissionModel": "program",
+  "summary": "PhD in biomedical informatics from Columbia's Department of Biomedical Informatics. Students rotate through two research labs in their first year before choosing an advisor.",
   "officialUrl": "https://www.dbmi.columbia.edu/?p=489",
+  "applyUrl": "https://www.dbmi.columbia.edu/apply/",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline (2027-28 cohort)",
+      "dateText": "Dec. 1, 2027",
+      "note": "Page says \"the deadline for the 2027-28 cohort is currently scheduled to be Dec. 1, 2027.\" The year looks inconsistent with Fall 2027 entry; not treated as confirmed. Confirm with DBMI."
+    }
+  ],
+  "timeline": {
+    "interviews": "PhD finalists selected for an interview are notified through the admissions portal by late December."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "5.5 (tests after 21 Jan 2026) or 100 (earlier tests)",
+      "ielts": 7.5,
+      "duolingo": 135,
+      "note": "Scores must be under two years old. Exemptions for a degree from an institution in a country where English is the sole official language, and case-by-case waivers where the language of instruction was English."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Fee for the 2027 online application. Waivers are for financial need or hardship, research pathways programs, outside fellowship organizations and US military service; the page does not limit them by citizenship, but confirm eligibility. DBMI says its office cannot provide TOEFL waivers."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Official transcripts",
+      "Personal statement",
+      "TOEFL scores where applicable"
+    ],
+    "note": "Applications are accepted only electronically. Fellowships from the National Library of Medicine are limited to US citizens and permanent residents."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "GSAS guarantees funding for all Ph.D. students under certain conditions. Funding covers tuition, health insurance fees, University fees and a stipend; the amount is set each summer and given in the offer letter."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The page asks international applicants to meet the GSAS English requirement; it states no other limit."
+  },
   "sources": [
     {
       "url": "https://www.dbmi.columbia.edu/?p=489",
-      "label": "Columbia Department of Biomedical Informatics: PhD in Biomedical Informatics",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.dbmi.columbia.edu/apply/",
+      "label": "DBMI: Apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.dbmi.columbia.edu/student-funding-2/",
+      "label": "DBMI: Student funding",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/application-fee",
+      "label": "Columbia GSAS: Application fee",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/application-fee-waivers",
+      "label": "Columbia GSAS: Application fee waivers",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/information-international-applicants",
+      "label": "Columbia GSAS: Information for international applicants",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

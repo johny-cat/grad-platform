@@ -5,15 +5,70 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. PhD deadlines (December 1 for fall, September 1 for spring) are published without a year, so they are not confirmed for Fall 2027. Students may be admitted to a supervisor directly or rotate, so no single admission model is shown. The application fee is left out because the department page and the Graduate School page disagree.",
+  "summary": "PhD in genetics and biochemistry at Clemson. Some students are admitted under a specific supervisor and others rotate with potential supervisors in their first semester.",
   "officialUrl": "https://www.clemson.edu/science/academics/departments/genbio/academics/doctorate.html",
+  "applyUrl": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published PhD deadline, fall admission",
+      "dateText": "December 1",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    },
+    {
+      "label": "Published PhD deadline, spring admission",
+      "dateText": "September 1",
+      "note": "Official page gives this date without a year; not confirmed for Fall 2027. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80 or higher (department page)",
+      "ielts": 6.5,
+      "note": "If English is the applicant's second language. IELTS 6.5 or higher is the alternative. PTE scores are also listed as accepted. The Graduate School's own minimums are TOEFL 4.0 (new scale), IELTS 6.5 and Duolingo 115."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts of all colleges and universities attended",
+      "Resume/CV",
+      "Personal statement",
+      "TOEFL, IELTS or PTE scores (international applicants)"
+    ],
+    "note": "Application fee: the department page says it 'does not waive application fees', while the Graduate School says there is no fee to apply to Clemson graduate programs. Confirm before applying. The department page does not mention the GRE."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "'The current stipend ranges from $25,000-$30,000 for Ph.D. students' (no year given). Research assistantships are at each faculty member's discretion. Ph.D. students on assistantships pay minimal fees of $1,050 each fall and spring."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/doctorate.html",
-      "label": "Clemson University Genetics and Biochemistry: Doctorate",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html",
+      "label": "Department: Apply to the program",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/",
+      "label": "Clemson Graduate Admissions: Apply (fee)",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/international-applicants/elp-requirement.html",
+      "label": "Clemson Graduate Admissions: English language proficiency",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

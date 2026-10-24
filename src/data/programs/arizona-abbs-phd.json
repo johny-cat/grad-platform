@@ -5,15 +5,80 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://abbs.arizona.edu/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://abbs.arizona.edu/",
-      "label": "University of Arizona: Arizona Biological and Biomedical Sciences",
-      "checked": "2026-10-18"
+      "label": "University of Arizona ABBS: Home",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://abbs.arizona.edu/how-apply",
+      "label": "University of Arizona ABBS: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://abbs.arizona.edu/frequently-asked-questions",
+      "label": "University of Arizona ABBS: FAQ",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://grad.arizona.edu/admissions/requirements/english-proficiency",
+      "label": "University of Arizona Graduate College: English proficiency",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "An umbrella first-year program for biology and biomedical PhD students at the University of Arizona. Students rotate through labs, then join one of the participating programs; admitted students are funded.",
+  "applyUrl": "https://apply.grad.arizona.edu/users/login",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "Page: 'The application portal for Fall 2027 is open from September 1, 2026 - December 1, 2026.' All materials, including letters of reference, are due December 1, 2026. No time or time zone is stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "Applicants chosen for interviews are notified starting in mid-December and attend a recruitment session; the admission process runs early December through mid-March. Virtual interviews are offered to applicants outside the US. (The FAQ still names Fall 2025 interview weekends, so check the current dates.)"
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 (iBT) or 550 (paper-based)",
+      "ielts": 7,
+      "note": "University of Arizona Graduate College minimums for international applicants: IELTS composite 7 with no subject area below 6; Pearson PTE Academic 60 also accepted. Individual departments may require higher scores. Exemptions apply for applicants whose native language is English or with two years of full-time study in the US or English-speaking Canada."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The FAQ says 'The ABBS program is not able to provide any fee waivers, regardless of financial or citizenship status.'"
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts of all college and university work",
+      "Statement of purpose",
+      "Current CV or resume"
+    ],
+    "note": "At least one letter should come from a research advisor or supervisor. Recommenders must respond by the December 1 deadline."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 32500,
+      "currency": "USD",
+      "period": "year",
+      "year": "not stated"
+    },
+    "note": "All incoming students, regardless of citizenship status, are offered a $32,500 yearly stipend (the FAQ gives no year), tuition and health insurance; funding is guaranteed for the next 4-5 years in the lab and program joined, with satisfactory progress."
+  },
+  "international": {
+    "accepted": "yes"
+  }
 }

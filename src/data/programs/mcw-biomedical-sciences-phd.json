@@ -5,15 +5,78 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/Biomedical-sciences-phd",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/Biomedical-sciences-phd",
       "label": "Medical College of Wisconsin Graduate School: Biomedical Sciences PhD",
-      "checked": "2026-10-18"
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions",
+      "label": "MCW Graduate School: Admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements",
+      "label": "MCW Graduate School: Admission requirements",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "An 18-month umbrella program: students do four 6-week lab rotations, choose a mentor in the spring of the first year, then join one of six departmental PhD programs.",
+  "applyUrl": "https://admissions.mcw.edu/apply",
+  "location": "Milwaukee, Wisconsin",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Recommended application date",
+      "date": "2026-12-04",
+      "note": "The program page calls this the 'recommended date to have your application submitted and completed' and says applications are still accepted and reviewed after it. No time or time zone is stated."
+    }
+  ],
+  "timeline": {
+    "interviews": "Virtual interviews January 25-27, 2027; in-person recruitment March 11-13, 2027."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "100 on the internet-based test (recommended, not a stated minimum)",
+      "ielts": 6,
+      "duolingo": 105,
+      "note": "The Graduate School lists these as recommended scores (IELTS 6.0, Duolingo 105, TOEFL 100), not minimums. Required of international applicants not enrolled in or graduated from a US-based non-online program; exemptions possible where English was the language of instruction (request in writing to gradadmissions@mcw.edu)."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Graduate School waivers go to people who, within the last three years, did MCW research, held a GRE Fee Reduction Certificate, attended an MCW Graduate School fair or presented at a conference. The page does not limit them to US applicants but does not say international applicants qualify; confirm. It also says waivers are not offered for financial difficulty."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application",
+      "Official academic transcripts (required to be uploaded to complete an application)",
+      "English test scores for international students"
+    ],
+    "note": "Graduate School: international applicants (anyone residing outside the US or studying on a visa) submit official transcripts with English translations if needed and a WES credential evaluation."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 36355,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-26"
+    },
+    "note": "Package: stipend, full tuition coverage and health insurance, guaranteed from enrollment through completion of degree requirements. The Graduate School says it goes to all full-time PhD students in good standing. The stipend shown is the 2025-26 figure; the page does not state a 2026-27 amount."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "English test and credential-evaluation rules for international applicants are on the Graduate School requirements page."
+  }
 }

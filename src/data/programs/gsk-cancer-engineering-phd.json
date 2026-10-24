@@ -5,15 +5,85 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "detailsNote": "Official information available. The application opens August 15, 2026 and closes December 1 'of the year prior to entry'; the pages do not name Fall 2027 outright, so the December 1, 2026 date follows from that wording. The TOEFL score needed is not stated.",
+  "admissionModel": "program",
+  "summary": "Gerstner Sloan Kettering PhD in cancer engineering. Students do not commit to a lab when they start and explore potential mentors during the first-year curriculum.",
   "officialUrl": "https://sloankettering.edu/gerstner/cancer-engineering/overview",
+  "applyUrl": "https://gskapp.sloankettering.edu/Admission",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "note": "Apply page: 'December 1 of the year prior to entry'; FAQ: application opens August 15, 2026, with submission deadline December 1."
+    }
+  ],
+  "timeline": {
+    "interviews": "Applicants under serious consideration are invited to interview. The in-person requirement may be waived if geographical constraints are overwhelming."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "Official TOEFL scores are required, with exceptions such as a US bachelor's or master's degree. No minimum score is stated."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "FAQ: 'there is no application fee.'"
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Official transcripts from all post-secondary institutions (non-encrypted PDF)",
+      "Letters of recommendation from advisors and/or research mentors, submitted online"
+    ],
+    "note": "GPA and grades must be on a 4.0 scale."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 55620,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "All matriculated students receive a fellowship package: stipend, a tuition scholarship covering tuition and fees, and yearly continuation with satisfactory progress. Students who win certain competitive predoctoral fellowships receive an additional $5,000."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "FAQ: 'Yes, we do accept international students.' Visa help is given once accepted."
+  },
   "sources": [
     {
       "url": "https://sloankettering.edu/gerstner/cancer-engineering/overview",
-      "label": "Gerstner Sloan Kettering: Cancer Engineering PhD Program",
-      "checked": "2026-10-18"
+      "label": "Official program page",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.sloankettering.edu/gerstner/admissions/requirements",
+      "label": "GSK: Admission requirements",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.sloankettering.edu/gerstner/admissions/apply",
+      "label": "GSK: How to apply",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.sloankettering.edu/gerstner/admissions/faqs",
+      "label": "GSK: Application FAQs",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.sloankettering.edu/gerstner/admissions/international-students",
+      "label": "GSK: International students",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24"
 }

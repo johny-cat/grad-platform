@@ -5,15 +5,81 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://eccb.tamu.edu/ph-d-in-ecology-and-conservation-biology/",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://eccb.tamu.edu/ph-d-in-ecology-and-conservation-biology/",
-      "label": "Texas A&M Department of Ecology and Conservation Biology: Ph.D. in Ecology and Conservation Biology",
-      "checked": "2026-10-18"
+      "label": "Texas A&M ECCB: PhD in Ecology and Conservation Biology",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://eccb.tamu.edu/graduate-admissions/",
+      "label": "Texas A&M ECCB: Graduate admissions",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://eccb.tamu.edu/scholarships-and-financial-aid/",
+      "label": "Texas A&M ECCB: Scholarships and financial aid",
+      "checked": "2026-10-24"
+    },
+    {
+      "url": "https://admissions.tamu.edu/apply/graduate.html",
+      "label": "Texas A&M Admissions: Graduate application fee and waivers",
+      "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-18"
+  "lastChecked": "2026-10-24",
+  "summary": "Texas A&M's PhD in Ecology and Conservation Biology. A faculty member must agree to be your advisor before your application is reviewed, and applicants discuss funding with that advisor.",
+  "applyUrl": "https://www.tamu.edu/admissions/how-to-apply/apply-as-graduate.html",
+  "admissionModel": "lab",
+  "detailsNote": "Official information available; the department's deadline table has no year, so Fall 2027 is not confirmed. Funding amounts, stipend and funding coverage for international students are not stated, so they are left out.",
+  "publishedDeadlines": [
+    {
+      "label": "International applicants, fall (no year stated)",
+      "dateText": "February 1",
+      "note": "Department table lists International Fall as February 1. No year is given. Confirm Fall 2027 directly."
+    },
+    {
+      "label": "Domestic applicants, fall (no year stated)",
+      "dateText": "April 1",
+      "note": "Department table lists Domestic Fall as April 1. No year is given. Confirm Fall 2027 directly."
+    },
+    {
+      "label": "Future fellowship candidates (no year stated)",
+      "dateText": "December 1",
+      "note": "Listed as 'Future Fellowship Candidates December 1*'; the fellowship nomination deadline is mid-January and a complete application is needed on file by December 1. No year is given."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "550 (paper-based) or 80 (internet-based), as stated by the department",
+      "note": "Required of international students only. The department states these older-scale scores; no new-scale score is stated."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Texas A&M charges $65 plus a centralized application service fee. The fee 'may be waived only in exceptional cases for low-income applicants and McNair Scholars', shown by a Pell Grant award letter or SAR, or a McNair Program Director letter. The page does not say whether international applicants qualify; confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose and CV through GradCAS",
+      "Three letters of recommendation submitted in GradCAS",
+      "Official transcripts from each senior-level post-secondary institution attended"
+    ],
+    "note": "Applications will not be considered if materials are not complete by the deadline. Applicants must find an ECCB faculty member willing to serve as major professor before the application is reviewed."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The department says about 95% of its current full-time on-campus graduate students are supported by assistantships or fellowships. It tells applicants to discuss funding with the advisor; no stipend amount is stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The department lists separate international deadlines and a TOEFL requirement."
+  }
 }
