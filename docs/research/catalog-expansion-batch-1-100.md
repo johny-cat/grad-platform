@@ -113,22 +113,22 @@ Official pages and field evidence are recorded per program in docs/evidence/. In
 
 These attempts are disclosed, including attempts involving pending programs retained for a later batch. Facts available only on inaccessible pages were omitted. Official alternatives were used where available.
 
-- https://bio.nmsu.edu/students/graduate.html — Internal Error () citeturn879view0 [wordlim: 200] Source: open({"ref_id":"https://bio.nmsu.edu/students/graduate.html","lineno":null}); URL https://bio.nmsu.edu/students/graduate.html is not accessible via this tool.
+- https://bio.nmsu.edu/students/graduate.html — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
 - https://biology.byu.edu/graduate — Could not open.
-- https://biology.louisiana.edu/node/28 — Internal Error () citeturn907view0 [wordlim: 200] Source: open({"ref_id":"https://biology.louisiana.edu/node/28","lineno":null}); Failed to fetch https://biology.louisiana.edu/node/28: (400) Timeout fetching
+- https://biology.louisiana.edu/node/28 — Timed out. Facts from this inaccessible page were omitted; official alternatives used where available.
 - https://catalog.memphis.edu/preview_program.php?catoid=40&poid=17044&returnto=2719 — 403 Forbidden; official2020 handbook used with explicit age qualification.
 - https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15260 — 403 Forbidden; retained pending identity only.
 - https://catalog.usd.edu/ — 403 Forbidden
 - https://cell.byu.edu/graduate — Could not open.
-- https://cmbdept.jabsom.hawaii.edu/graduate-program/ — Internal Error () citeturn809view0 [wordlim: 200] Source: open({"ref_id":"https://cmbdept.jabsom.hawaii.edu/graduate-program/","lineno":null}); URL https://cmbdept.jabsom.hawaii.edu/graduate-program/ is not accessible via this tool.
+- https://cmbdept.jabsom.hawaii.edu/graduate-program/ — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
 - https://degree-search.nau.edu/degree/BIOPHD — JavaScript-only; official2026–27 legacy catalog opened successfully instead.
 - https://go.lehigh.edu/languagepolicy — Current2027 Google Drive policy viewer did not expose contents; prior2026 numerical scores labelled in notes.
 - https://gradschool.duke.edu/academics/programs-degrees/pathobiology-and-translational-biosciences/ — Failed twice; the official Graduate School pathology/ profile and departmental program page opened instead.
 - https://graduatecatalog24byu.catalog.prod.coursedog.com/programs/33284 — Could not open.
-- https://manoa.hawaii.edu/marinebiograd/students/financial-support/ — Internal Error () citeturn853view0 [wordlim: 200] Source: open({"ref_id":"https://manoa.hawaii.edu/marinebiograd/students/financial-support/","lineno":null}); URL https://manoa.hawaii.edu/marinebiograd/students/financial-support/ is not accessible via this tool.
+- https://manoa.hawaii.edu/marinebiograd/students/financial-support/ — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
 - https://medicine.louisville.edu/application-process-0 — Could not open; official alternatives used or unsupported facts omitted.
 - https://mmbio.byu.edu/mmbio-grads — Could not open.
-- https://nau.edu/admissions/graduate-admissions/ — Internal Error () citeturn944view0 [wordlim: 200] Source: open({"ref_id":"https://nau.edu/admissions/graduate-admissions/","lineno":null}); URL https://nau.edu/admissions/graduate-admissions/ is not accessible via this tool.
+- https://nau.edu/admissions/graduate-admissions/ — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
 - https://usd.edu/sitecore/content/USD/DotEdu/Home/Academics/catalog-links/graduate/Admissions%20Requirements/biological-sciences-integrative-biology-phd — 403 Forbidden
 - https://usd.edu/sitecore/content/USD/DotEdu/Home/Academics/catalog-links/graduate/Admissions%20Requirements/biological-sciences-neuroscience-phd — Cache miss
 - https://usd.edu/sitecore/content/USD/DotEdu/Home/Academics/catalog-links/graduate/Admissions%20Requirements/biological-sciences-phd — 403 Forbidden
@@ -140,8 +140,8 @@ These attempts are disclosed, including attempts involving pending programs reta
 - https://www.cedars-sinai.edu/education/graduate-school/phd-program/application.html — Timeout; current replacement opened
 - https://www.grad.msstate.edu/prospective-students/apply-now/general-admissions-requirements/statement-of-purpose — Cache miss; unsupported statement requirement not copied to programs lacking own evidence.
 - https://www.grad.msstate.edu/prospective-students/apply/admissions — Cache miss; unsupported full checklist not inferred.
-- https://www.sdstate.edu/biology-microbiology/graduate-programs — Internal Error () citeturn946view0 [wordlim: 200] Source: open({"ref_id":"https://www.sdstate.edu/biology-microbiology/graduate-programs","lineno":null}); URL https://www.sdstate.edu/biology-microbiology/graduate-programs is not accessible via this tool.
-- https://www.sdstate.edu/biology-microbiology/graduate-students — Internal Error () citeturn947view0 [wordlim: 200] Source: open({"ref_id":"https://www.sdstate.edu/biology-microbiology/graduate-students","lineno":null}); URL https://www.sdstate.edu/biology-microbiology/graduate-students is not accessible via this tool.
+- https://www.sdstate.edu/biology-microbiology/graduate-programs — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
+- https://www.sdstate.edu/biology-microbiology/graduate-students — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
 - https://www.slu.edu/admission/graduate/faq.php — Could not open; official alternatives used or unsupported facts omitted.
 - https://www.stowers.org/gradschool/academics — 403; admission model omitted
 - https://www.uams.edu/ibs — Unavailable; current Graduate School sources opened
