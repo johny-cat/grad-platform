@@ -22,9 +22,10 @@
   "requirements": {
     "gre": "unknown",
     "english": {
-      "toefl": "79 (internet-based) or 550 (paper-based)",
+      "toefl": "79 iBT/Home Edition or Essentials8.5 for tests before January21,2026; 4.5 iBT for tests after January21,2026",
       "ielts": 6.5,
-      "note": "Academic IELTS. Official TOEFL or IELTS scores are required if your educational history is from a non-English-speaking country. Duolingo is not mentioned."
+      "duolingo": 115,
+      "note": "Academic IELTS; PTE59 and Cambridge176 also accepted. Scores within two years; program may require higher. Exemptions cover U.S. citizenship, or citizenship/degree in an approved listed English-speaking country. A general overseas English-medium exemption is not stated. The central page leaves the January21 transition-day treatment unclear; confirm for a test on that date."
     },
     "applicationFee": {
       "amount": 95,
@@ -35,7 +36,8 @@
     "documents": [
       "Transcripts (unofficial copies for review; official copies required if recommended for admission)",
       "Test scores",
-      "Resume or CV"
+      "Resume or CV",
+      "Statement of purpose"
     ],
     "note": "Recommendation requests are generated automatically from the names and emails you enter. Applicants should have coursework in organic chemistry, biology, physics and calculus; deficiencies must be made up in the first year."
   },
@@ -63,10 +65,10 @@
       "checked": "2026-10-24"
     },
     {
-      "url": "https://www.unr.edu/grad/admissions/international",
+      "url": "https://www.unr.edu/grad/admissions/requirements/international",
       "label": "University of Nevada, Reno Graduate School: International applicants",
-      "checked": "2026-10-24"
+      "checked": "2026-10-28"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-28"
 }

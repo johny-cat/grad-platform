@@ -113,22 +113,22 @@ Official pages and field evidence are recorded per program in docs/evidence/. In
 
 These attempts are disclosed, including attempts involving pending programs retained for a later batch. Facts available only on inaccessible pages were omitted. Official alternatives were used where available.
 
-- https://bio.nmsu.edu/students/graduate.html — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
+- https://bio.nmsu.edu/students/graduate.html — Could not be opened by the research tool; unsupported facts omitted and official alternatives used where available.
 - https://biology.byu.edu/graduate — Could not open.
-- https://biology.louisiana.edu/node/28 — Timed out. Facts from this inaccessible page were omitted; official alternatives used where available.
+- https://biology.louisiana.edu/node/28 — Timed out; unsupported facts omitted and official alternatives used where available.
 - https://catalog.memphis.edu/preview_program.php?catoid=40&poid=17044&returnto=2719 — 403 Forbidden; official2020 handbook used with explicit age qualification.
 - https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15260 — 403 Forbidden; retained pending identity only.
 - https://catalog.usd.edu/ — 403 Forbidden
 - https://cell.byu.edu/graduate — Could not open.
-- https://cmbdept.jabsom.hawaii.edu/graduate-program/ — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
+- https://cmbdept.jabsom.hawaii.edu/graduate-program/ — Could not be opened by the research tool; unsupported facts omitted and official alternatives used where available.
 - https://degree-search.nau.edu/degree/BIOPHD — JavaScript-only; official2026–27 legacy catalog opened successfully instead.
 - https://go.lehigh.edu/languagepolicy — Current2027 Google Drive policy viewer did not expose contents; prior2026 numerical scores labelled in notes.
 - https://gradschool.duke.edu/academics/programs-degrees/pathobiology-and-translational-biosciences/ — Failed twice; the official Graduate School pathology/ profile and departmental program page opened instead.
 - https://graduatecatalog24byu.catalog.prod.coursedog.com/programs/33284 — Could not open.
-- https://manoa.hawaii.edu/marinebiograd/students/financial-support/ — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
+- https://manoa.hawaii.edu/marinebiograd/students/financial-support/ — Could not be opened by the research tool; unsupported facts omitted and official alternatives used where available.
 - https://medicine.louisville.edu/application-process-0 — Could not open; official alternatives used or unsupported facts omitted.
 - https://mmbio.byu.edu/mmbio-grads — Could not open.
-- https://nau.edu/admissions/graduate-admissions/ — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
+- https://nau.edu/admissions/graduate-admissions/ — Could not be opened by the research tool; unsupported facts omitted and official alternatives used where available.
 - https://usd.edu/sitecore/content/USD/DotEdu/Home/Academics/catalog-links/graduate/Admissions%20Requirements/biological-sciences-integrative-biology-phd — 403 Forbidden
 - https://usd.edu/sitecore/content/USD/DotEdu/Home/Academics/catalog-links/graduate/Admissions%20Requirements/biological-sciences-neuroscience-phd — Cache miss
 - https://usd.edu/sitecore/content/USD/DotEdu/Home/Academics/catalog-links/graduate/Admissions%20Requirements/biological-sciences-phd — 403 Forbidden
@@ -140,8 +140,8 @@ These attempts are disclosed, including attempts involving pending programs reta
 - https://www.cedars-sinai.edu/education/graduate-school/phd-program/application.html — Timeout; current replacement opened
 - https://www.grad.msstate.edu/prospective-students/apply-now/general-admissions-requirements/statement-of-purpose — Cache miss; unsupported statement requirement not copied to programs lacking own evidence.
 - https://www.grad.msstate.edu/prospective-students/apply/admissions — Cache miss; unsupported full checklist not inferred.
-- https://www.sdstate.edu/biology-microbiology/graduate-programs — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
-- https://www.sdstate.edu/biology-microbiology/graduate-students — Could not be opened by the research tool. Facts from this inaccessible page were omitted; official alternatives used where available.
+- https://www.sdstate.edu/biology-microbiology/graduate-programs — Could not be opened by the research tool; unsupported facts omitted and official alternatives used where available.
+- https://www.sdstate.edu/biology-microbiology/graduate-students — Could not be opened by the research tool; unsupported facts omitted and official alternatives used where available.
 - https://www.slu.edu/admission/graduate/faq.php — Could not open; official alternatives used or unsupported facts omitted.
 - https://www.stowers.org/gradschool/academics — 403; admission model omitted
 - https://www.uams.edu/ibs — Unavailable; current Graduate School sources opened
@@ -155,3 +155,9 @@ These attempts are disclosed, including attempts involving pending programs reta
 ## Validation and publication
 
 Each researched university passed npm run check and npm run build before its research commit. The isolated 100-program publishing checkout is checked and built again before the PR. Generated catalog SQL contains exactly the existing catalog plus this batch. Live publication and database synchronization are verified after merge.
+
+
+## Link-check follow-up
+
+The full catalog scan found two moved central-policy URLs on existing Arizona ABBS and Nevada Reno CMB entries. Their replacement official pages were opened and English-policy details refreshed with evidence. The two old addresses are https://grad.arizona.edu/admissions/requirements/english-proficiency and https://www.unr.edu/grad/admissions/international. Two historical official PDFs (NAU Biology 2020–2021 and NDSU Biology 2022–2023) opened in the page reader despite automated404 responses; manual check dates are recorded with the existing60-day expiry rule. These two existing-program repairs do not change the batch's100 new-program count.
+

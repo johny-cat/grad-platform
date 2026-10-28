@@ -159,3 +159,7 @@ Opened and checked 2026-10-28. Exact relevant sentences/table entries follow.
 > recipients. However, all graduate students must pay semester fees as assessed by the
 
 > university. Tuition waivers can be delayed pending completion of required safety training.
+
+## Automated-link discrepancy — 2026-10-28
+
+Opened the official source PDF directly with the page reader: NDSU Biological Sciences 2022–2023 Graduate Handbook,24-page official PDF. The automated checker reports404, while the reader displays the official PDF. Recorded the manual opening date in scripts/links-checked-by-hand.json, following docs/DATA.md; this expires after60days. Historical document year remains explicitly qualified in program notes.

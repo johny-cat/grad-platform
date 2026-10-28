@@ -25,12 +25,12 @@
       "checked": "2026-10-24"
     },
     {
-      "url": "https://grad.arizona.edu/admissions/requirements/english-proficiency",
+      "url": "https://grad.arizona.edu/admissions/requirements/international-applicants",
       "label": "University of Arizona Graduate College: English proficiency",
-      "checked": "2026-10-24"
+      "checked": "2026-10-28"
     }
   ],
-  "lastChecked": "2026-10-24",
+  "lastChecked": "2026-10-28",
   "summary": "An umbrella first-year program for biology and biomedical PhD students at the University of Arizona. Students rotate through labs, then join one of the participating programs; admitted students are funded.",
   "applyUrl": "https://apply.grad.arizona.edu/users/login",
   "admissionModel": "program",
@@ -47,9 +47,9 @@
   "requirements": {
     "gre": "not-required",
     "english": {
-      "toefl": "79 (iBT) or 550 (paper-based)",
+      "toefl": "79 iBT/Home Edition before January 21, 2026; 4.0 overall for tests on/after January 21, 2026",
       "ielts": 7,
-      "note": "University of Arizona Graduate College minimums for international applicants: IELTS composite 7 with no subject area below 6; Pearson PTE Academic 60 also accepted. Individual departments may require higher scores. Exemptions apply for applicants whose native language is English or with two years of full-time study in the US or English-speaking Canada."
+      "note": "IELTS/IELTS Online no subject below 6; One Skill Retake not currently accepted. PTE Academic60 or CEPT Full Academic110 also accepted; DET and doctoral TOEFL Essentials not accepted. Scores must be within two years of enrollment. Exemptions cover citizenship in English-official countries, qualifying U.S./approved-guide degrees, or, before degree completion, two years of specified U.S./approved-guide graded study with credit/recency conditions. Teaching appointments have separate speaking requirements; English-medium attendance alone does not qualify."
     },
     "applicationFee": {
       "amount": 90,
