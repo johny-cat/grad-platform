@@ -1,0 +1,83 @@
+{
+  "name": "Anthropology: Biological Anthropology PhD",
+  "institution": "University of Washington",
+  "institutionShort": "UW",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://anthropology.washington.edu/phd-anthropology-biological-anthropology",
+  "cycle": "fall-2027",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "4.0 minimum;80 for tests beforeJanuary21,2026. Recommended4.5 or92 on older scale.",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central minimums; recommended IELTS7 or DET130. Admission below recommended scores requires1–2Academic English Program courses with additional fees. Programs can impose higher standards. Qualifying English-medium bachelor/master/doctoral degrees can satisfy policy with official documentation and full-duration campus/country residency. Official scores valid2years; MyBest/IELTSOneSkillRetake not accepted."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central need/preparation-program waivers exclude F1/J1 applicants. A separate stacked-degree waiver concerns subsequent applications in approved pathways and is not a general first-PhD fee waiver."
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Recommendation letters (count not established)",
+      "English proficiency evidence if required"
+    ],
+    "note": "BA/BS required; anthropology major helpful but not required. Preparatory coursework in anthropology, biology/zoology, mathematics, epidemiology, demography and statistics is especially desirable. Contact prospective mentors and check whether they accept students before applying. Entering students are assigned an adviser. Applicants may apply to only one of the department’s three PhD track programs; additional portal materials should be confirmed directly."
+  },
+  "sources": [
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "University English tests and degree exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "University application fee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "University fee waiver restrictions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://anthropology.washington.edu/phd-anthropology-biological-anthropology",
+      "label": "Biological Anthropology current deadline, eligibility and optional GRE",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://anthropology.washington.edu/graduate-program-admission",
+      "label": "Department application process and international applicants",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://anthropology.washington.edu/department-uw-funding",
+      "label": "Conditional departmental funding and appointment terms",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28",
+  "detailsNote": "The current Fall 2027 deadline is confirmed. A rotation-based admission model and complete program document checklist were not established on the opened department pages.",
+  "deadlines": [
+    {
+      "label": "Autumn 2027 application deadline",
+      "date": "2026-12-15",
+      "note": "Applications open September 1, 2026. Autumn entry only."
+    }
+  ],
+  "timeline": {
+    "decisions": "Offers usually mailed before March 1; response due April 15."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Newly accepted PhD students receive a letter stating how many years of funding, if any, are pledged; no universal guarantee. Assistantships provide tuition waiver and stipend for appointment quarters. Other TA/RA/SA opportunities depend on availability after guaranteed commitments; fellowships/scholarships also exist. International funding coverage was not established on these pages."
+  },
+  "international": {
+    "accepted": "yes"
+  }
+}

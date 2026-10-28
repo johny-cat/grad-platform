@@ -1,0 +1,75 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "bioengineering",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Auburn University",
+  "institutionShort": "Auburn",
+  "applyUrl": "https://applygrad.auburn.edu/",
+  "detailsNote": "Official information is available; Fall 2027 dates and an admission model were not explicitly confirmed.",
+  "international": {
+    "accepted": "yes"
+  },
+  "name": "Biosystems Engineering PhD",
+  "officialUrl": "https://eng.auburn.edu/program/phd-biosystems-engineering",
+  "publishedDeadlines": [
+    {
+      "label": "Engineering application materials",
+      "dateText": "60 days prior to the semester",
+      "note": "Undated engineering guidance; central international minimum is90 days, so international applicants should follow earlier90-day rule or program guidance."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 with each component 16 (before January 21, 2026); 4.5 with each 4.0 (after January 21, 2026)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Duolingo each component 110. Official scores sent directly are required before review. Prior US degree may qualify for exemption; other exemptions are case-by-case based on government language and medium of instruction after official transcript submission."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic fee $60. Waivers limited to current Auburn graduate students enrolled in graduate courses, full-time Auburn employees, active-duty military with confirmation, and second application to approved dual program. Select eligible category and supply documentation. International eligibility for a particular route must be confirmed; no general hardship waiver established."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application",
+      "Transcripts of undergraduate and later coursework",
+      "Three recommendations from instructors or supervisors"
+    ],
+    "note": "Generally requires engineering MS. Nonengineering MS eligibility reviewed case-by-case; contact program coordinator. Central test-waiver page explicitly encourages GRE but does not require it, overriding generic engineering GRE list. Engineering instructions say two official transcript copies; central policy permits unofficial upload initially. Confirm program statement requirements."
+  },
+  "sources": [
+    {
+      "url": "https://eng.auburn.edu/program/phd-biosystems-engineering",
+      "label": "Program identity and MS eligibility",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.eng.auburn.edu/future-students/graduate/how-to-apply.html",
+      "label": "Engineering application documents",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/apply.php",
+      "label": "Central application and fee policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/international-instructions.php",
+      "label": "International and English policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php",
+      "label": "Program-specific test waivers",
+      "checked": "2026-10-28"
+    }
+  ]
+}

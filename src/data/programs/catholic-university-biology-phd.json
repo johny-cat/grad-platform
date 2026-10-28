@@ -1,0 +1,90 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "The Catholic University of America",
+  "institutionShort": "Catholic University",
+  "officialUrl": "https://biology.catholic.edu/academics/graduate/phd-biology/index.html",
+  "detailsNote": "Official requirements are available; Fall 2027 dates and an admission model were not confirmed. Department and central pages conflict on GRE.",
+  "publishedDeadlines": [
+    {
+      "label": "Scholarship consideration",
+      "dateText": "February 1",
+      "note": "Undated departmental doctoral deadline."
+    },
+    {
+      "label": "Fall international application",
+      "dateText": "July 1",
+      "note": "Undated department and central deadline."
+    },
+    {
+      "label": "Fall domestic application",
+      "dateText": "August 15",
+      "note": "Undated departmental doctoral deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Central international doctoral fee. The no-fee Biology language is explicitly for master’s applications."
+    },
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE58 also accepted. Case-by-case testing exemption with appropriate documentation of an accredited US degree; no general English-medium overseas-degree exemption established."
+    },
+    "documents": [
+      "Online application",
+      "All postsecondary transcripts; unofficial copies accepted for review",
+      "Three recommendations",
+      "Statement of purpose",
+      "English proficiency for international applicants"
+    ],
+    "note": "Biology-specific PhD page calls GRE optional; central international PhD page calls GRE required and says individual requirements vary. The Biology-specific optional rule is used because the central page directs applicants to individual program requirements; confirm directly. Prerequisites: two years chemistry, two biology including biochemistry/microbiology, one physics and one calculus; deficiencies completed in first year. Direct PhD and MS/PhD routes available; direct route full-time until written comprehensive exam, intended for applicants with undergraduate research experience."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Competitive doctoral scholarships can cover full tuition; teaching assistantships provide tuition remission and a stipend. Noncitizens are eligible for university/department/private funding, but the department says these funds are extremely limited. Incoming faculty-grant support is unusual. No universal award guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://biology.catholic.edu/academics/graduate/phd-biology/index.html",
+      "label": "Degree identity and entry routes",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.catholic.edu/admission/graduate/index.html",
+      "label": "Doctoral requirements and annual dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.catholic.edu/admission/graduate/funding-opportunities/index.html",
+      "label": "Biology funding and international limitations",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.catholic.edu/admission-aid/international-admission/english-proficiency",
+      "label": "Graduate English scores",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.catholic.edu/admission-aid/international-admission/graduate-international-admission",
+      "label": "International PhD fee and requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "Mississippi State University",
+  "institutionShort": "Mississippi State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.msstate.edu/graduate/colleges-degree-programs/arts-sciences/biological-sciences/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Department and central GRE policies differ; confirm with program.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall teaching assistantship priority",
+      "dateText": "July 1st",
+      "note": "Undated department page. International applicants advised about one month earlier, but central May1 final deadline is earlier still."
+    },
+    {
+      "label": "Central fall final: international on campus",
+      "dateText": "May 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    },
+    {
+      "label": "Central fall final: domestic on campus",
+      "dateText": "August 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    }
+  ],
+  "admissionModel": "lab",
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "79 old-scale iBT / 5.0 new scale",
+      "ielts": 6.5,
+      "note": "Program-level requirements apply. Central proficient-level alternatives DET115 / Essentials9; confirm program acceptance. Central exemptions include qualifying US degree or documented first-language country/institution conditions. Scores accepted within five years with official reporting; departments may require ESL."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic $60. Central waivers restricted to full-time benefits-eligible employees, US military/veterans and McNair Scholars. Other applicants may inquire with department; program-specific approval is unconfirmed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Statement of professional interests and goals"
+    ],
+    "note": "Bachelor's degree; GPA2.75 overall undergraduate and3.0 biological-sciences coursework. Catalog and department request general GRE (no departmental minimum); central policy no longer requires it, and2026 handbook omits it. Use department's stricter published rule and confirm. Major professor required; contact before application strongly advised. Lower English scores may entail ESL; confirm department approval."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Research/teaching/service assistantships available, with faculty sponsorship, credentials, teaching needs and funds considered. Satisfactory progress and enrollment required; no universal guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/arts-sciences/biological-sciences/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.biology.msstate.edu/sites/www.biology.msstate.edu/files/2026-01/BIOSci%20Graduate%20Handbook%202026.pdf",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/explore/graduate-school-faq",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/admissions-deadlines",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/general-admissions-requirements/test-scores",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/current-students/community-resources/international-students/english-proficiency",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/funding-tuition/assistantships",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

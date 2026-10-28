@@ -1,0 +1,89 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biological Sciences PhD",
+  "institution": "Binghamton University",
+  "institutionShort": "Binghamton",
+  "officialUrl": "https://www.binghamton.edu/biology/graduate/",
+  "detailsNote": "Official information is available; Fall 2027 dates are not explicitly confirmed. The handbook describes advisor matching before most offers rather than a universal admission route.",
+  "publishedDeadlines": [
+    {
+      "label": "Recommended fall application",
+      "dateText": "December 15 (Recommended)",
+      "note": "Undated program-specific table."
+    },
+    {
+      "label": "Fall application",
+      "dateText": "January 15",
+      "note": "Undated program-specific table."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "100 (old iBT) or 4 (iBT26); new scale no band below 4",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Program requirements exceed several central minimums. PTE68 also listed. Central IELTS policy requires no band below5.0. Exemptions depend on listed-country citizenship/residence or education, or current Binghamton enrollment; English-medium education anywhere is not a general exemption."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Departments may periodically pay the fee based on academic eligibility, enrollment needs or extraordinary circumstances. Begin the application and upload transcripts, statement and resume, then contact the department well before deadline. Wait for approval before submission. International eligibility is not explicitly guaranteed. Separate pipeline/GEM/US military routes have their own conditions."
+    },
+    "documents": [
+      "Personal statement of 2–3 pages on program interest and career aspirations",
+      "Resume or CV",
+      "Scanned official transcripts from all institutions, with English translations and degree proof when needed",
+      "Three recommendations"
+    ],
+    "note": "GRE required for international applicants; not required for domestic applicants. Program GPA3.0. Bachelor or equivalent required (or completing within a year). Advisor preferences, interests and faculty resources determine matching; contact prospective faculty. International financial/visa documentation can follow an admission decision."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Limited TA positions provide stipend and/or tuition scholarship, with priority for doctoral students. Research assistantships depend on faculty grant resources. Full-time registered/certified PhD students receive broad-based fee scholarships, excluding international student fees. No universal stipend or tuition guarantee established."
+  },
+  "sources": [
+    {
+      "url": "https://www.binghamton.edu/biology/graduate/",
+      "label": "Degree identity and fee scholarship",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.binghamton.edu/apps/catalog/application-requirement/view/C13",
+      "label": "Program-specific requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/application-materials.html",
+      "label": "Central application materials and fee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/application-fee-waivers.html",
+      "label": "Fee waiver conditions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html",
+      "label": "International requirements and English",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.binghamton.edu/biology/documents/bio-grad-handbook.pdf",
+      "label": "2026–2027 departmental handbook",
+      "checked": "2026-10-28"
+    }
+  ]
+}

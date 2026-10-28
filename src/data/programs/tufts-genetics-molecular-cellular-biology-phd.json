@@ -1,0 +1,98 @@
+{
+  "name": "Genetics, Molecular and Cellular Biology PhD",
+  "institution": "Tufts University",
+  "institutionShort": "Tufts",
+  "country": "US",
+  "degree": "phd",
+  "field": "cell-biology",
+  "details": "checked",
+  "officialUrl": "https://gsbs.tufts.edu/academics/basic-science-phd-programs/genetics-molecular-and-cellular-biology",
+  "applyUrl": "https://gradhlthsci.admissions.tufts.edu",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 deadline not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Basic Science PhD application",
+      "dateText": "December 1",
+      "note": "Undated GSBS table; no year or deadline time assigned."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 old scale accepted through end of 2027; 5 new scale",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "PTE 68 also accepted; TOEFL MyBest accepted. Exemptions: qualifying non-online 2-/4-year US or specified English-country degree before start, ECFMG certification, or GRE Verbal at 50% or above (as written). GSBS rules differ from GSAS Biology."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Conditional Tufts affiliation, recruiting-event or qualifying-program routes through portal, with proof. No citizenship restriction stated for these routes; international applicants must confirm eligibility. Hardship route excludes international applicants and is limited to US citizens/nationals/permanent residents. Email requests not processed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV/résumé",
+      "Academic statement of purpose, maximum 750 words",
+      "Personal statement, maximum 750 words",
+      "Transcripts or required evaluations for completed/in-progress postsecondary degrees",
+      "Official English scores unless exempt"
+    ],
+    "note": "Optional additional-information essay 250 words. Foreign degrees, including Canada, require official NACES course-by-course evaluation sent directly; final official transcripts required before matriculation. No PhD enrollment deposit stated. Life/biological-sciences major recommended, not required. Prior research strongly valued, not required. Three first-year rotations before selecting thesis laboratory; thesis research begins by March."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 46500,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    },
+    "note": "Full-time Basic Science PhD support includes tuition scholarship, stipend/research assistantship, health insurance and fees except Student Activity Fee; rare self-funded students exist. Tuition charged/scholarship awarded first five years. No separate school aid form. Future stipend not established."
+  },
+  "timeline": {
+    "interviews": "Selected applicants interview virtually or in person; no current dates stated."
+  },
+  "sources": [
+    {
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs/genetics-molecular-and-cellular-biology",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs/genetics-molecular-and-cellular-biology/genetics-molecular-cellular-biology-admissions",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/about/school-history",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/application-deadlines",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements/application-fee-waivers",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsbs.tufts.edu/admissions/financing-your-education/basic-science-division-phd-programs",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

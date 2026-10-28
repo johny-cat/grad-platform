@@ -1,0 +1,78 @@
+{
+  "name": "Pathobiology PhD",
+  "institution": "University of Washington",
+  "institutionShort": "UW",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "Published application deadline is undated; Fall2027 deadline and admission model are not confirmed.",
+  "officialUrl": "https://globalhealth.washington.edu/academic-programs/phd-pathobiology/admissions",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "publishedDeadlines": [
+    {
+      "label": "Autumn application deadline",
+      "dateText": "usually December 1st",
+      "note": "Recurring undated date; applies to domestic and international applicants. Confirm current cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.0 minimum;80 for tests beforeJanuary21,2026. Recommended4.5 or92 on older scale.",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central minimums; recommended IELTS7 or DET130. Admission below recommended scores requires1–2Academic English Program courses with additional fees. Programs can impose higher standards. Qualifying English-medium bachelor/master/doctoral degrees can satisfy policy with official documentation and full-duration campus/country residency. Official scores valid2years; MyBest/IELTSOneSkillRetake not accepted."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central need/preparation-program waivers exclude F1/J1 applicants. A separate stacked-degree waiver concerns subsequent applications in approved pathways and is not a general first-PhD fee waiver."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "CV or resume",
+      "Statement of purpose",
+      "Three letters of recommendation",
+      "English proficiency evidence when required"
+    ],
+    "note": "Knowledge of molecular biology and laboratory experience expected. All materials submitted electronically."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Students,including international students, receive research-assistant salary,tuition waiver and healthinsurance throughout study while maintaining satisfactory academic progress."
+  },
+  "sources": [
+    {
+      "url": "https://globalhealth.washington.edu/academic-programs/phd-pathobiology/admissions",
+      "label": "Program admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://globalhealth.washington.edu/academic-programs/phd-pathobiology",
+      "label": "PhD program identity",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "University English tests and degree exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "University application fee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "University fee waiver restrictions",
+      "checked": "2026-10-28"
+    }
+  ]
+}

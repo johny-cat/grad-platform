@@ -1,0 +1,67 @@
+{
+  "name": "Computational Cell Biology, Anatomy and Pathology PhD",
+  "institution": "University at Buffalo",
+  "institutionShort": "UB",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "The official application deadlines have no stated year; Fall 2027 dates, direct-entry funding and admission model are not confirmed. This separate departmental application is also accessible through the existing PPBS umbrella.",
+  "officialUrl": "https://medicine.buffalo.edu/departments/pathology/education/graduate/ccbap-phd/admissions.html",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published departmental deadlines",
+      "dateText": "May 1 for domestic applicants and April 1 for international applicants",
+      "note": "Undated. International applicants are strongly advised to apply 6–9 months before the term begins for processing."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 (old scale) or 4 (new scale)",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Central minima. Department says scores must be no older than two years when students enter, stricter than central review-time wording; follow the earlier expiry. Central country/prior-study exemptions have specific conditions; a rare waiver petition must come from the department, not the applicant."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Graduate School profile lists $85. No direct-entry CCBAP fee-waiver policy established; do not transfer PPBS fee or waivers to this separate application."
+    },
+    "documents": [
+      "Scanned transcripts",
+      "Personal statement",
+      "Recommendation letters (number not stated)",
+      "English proficiency scores for international applicants if required"
+    ],
+    "note": "Bachelor's degree required. Strong chemistry, physics, mathematics and upper-level biology background desirable; research experience is a major plus. A personal interview may be requested. Official documents required if admission is offered. GRE policy was not stated on the opened departmental page."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://medicine.buffalo.edu/departments/pathology/education/graduate/ccbap-phd/admissions.html",
+      "label": "Departmental separate application and requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/programs/computational-cell-biology-anatomy-and-pathology-phd.html",
+      "label": "Graduate School identity and fee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/explore/admissions/requirements.html",
+      "label": "Central English proficiency and exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medicine.buffalo.edu/phdprogram.html",
+      "label": "Separate departmental and PPBS entry routes",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

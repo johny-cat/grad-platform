@@ -1,0 +1,67 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "City of Hope",
+  "institutionShort": "City of Hope",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.imgs-coh.edu/phd-in-biological-sciences-program",
+  "cycle": "fall-2027",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Application and recommendation deadline",
+      "date": "2026-12-16",
+      "note": "Requirements page says December 16; main program page instead says December 17, 2026 (11:59 EST, without am/pm). The earlier date is used."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90 recommended",
+      "ielts": 7,
+      "note": "Recommended scores, not stated absolute minima. Testing applies if English is not native and fewer than two years of English education; documented college instruction in English or a U.S. bachelor's/master's degree may support a waiver petition."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "not-available"
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement (maximum 1,000 words)",
+      "Transcripts from all post-secondary institutions; international equivalency evaluation",
+      "Optional perseverance statement (maximum 300 words)"
+    ],
+    "note": "Undergraduate GPA 3.2 required for review; waived for applicants with an advanced degree. Letters must be signed, sent from institutional email as PDF, preferably on letterhead. Recommended science preparation and laboratory research experience are listed on the admissions page."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Published undated stipend $47,000/year, full tuition waiver and medical, dental and vision benefits. Annual student fee $150. Fall 2027 stipend amount is not separately confirmed."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.imgs-coh.edu/phd-in-biological-sciences-program",
+      "label": "Official program requirements and policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.imgs-coh.edu/phd-in-biological-sciences-program/admission-requirements",
+      "label": "Official program requirements and policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.imgs-coh.edu/phd-in-biological-sciences-program/curriculum-overview",
+      "label": "Official program requirements and policies",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

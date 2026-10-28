@@ -1,0 +1,90 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Auburn University",
+  "institutionShort": "Auburn",
+  "applyUrl": "https://applygrad.auburn.edu/",
+  "detailsNote": "Official information is available; Fall 2027 dates and an admission model were not explicitly confirmed.",
+  "international": {
+    "accepted": "yes"
+  },
+  "name": "Biological Sciences PhD",
+  "officialUrl": "https://cosam.auburn.edu/biology/students/grad/programs/phd-biology.php",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application with guaranteed GTA offer",
+      "dateText": "Feb. 1",
+      "note": "Undated program wording; confirm guarantee terms and Fall 2027 availability."
+    },
+    {
+      "label": "Late international application",
+      "dateText": "90 days before the start of the semester",
+      "note": "Undated relative rule; GTA support not guaranteed after February 1."
+    },
+    {
+      "label": "Late domestic application",
+      "dateText": "45 days before the start of the semester",
+      "note": "Undated relative rule; GTA support not guaranteed after February 1."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "79 with each component 16 (before January 21, 2026); 4.5 with each 4.0 (after January 21, 2026)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Duolingo each component 110. Official scores sent directly are required before review. Prior US degree may qualify for exemption; other exemptions are case-by-case based on government language and medium of instruction after official transcript submission."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic fee $60. Waivers limited to current Auburn graduate students enrolled in graduate courses, full-time Auburn employees, active-duty military with confirmation, and second application to approved dual program. Select eligible category and supply documentation. International eligibility for a particular route must be confirmed; no general hardship waiver established."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from all institutions",
+      "CV",
+      "Letter of intent",
+      "Three recommendations, preferably academic"
+    ],
+    "note": "Contact prospective faculty advisors before applying. Bachelor or equivalent required centrally."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Admissions page describes fall admission with a guaranteed Graduate Teaching Assistantship offer for applications by February 1; after that, GTA support is not guaranteed. Confirm award terms and current availability. No stipend amount or tuition coverage established from the opened program pages."
+  },
+  "sources": [
+    {
+      "url": "https://cosam.auburn.edu/biology/students/grad/programs/phd-biology.php",
+      "label": "Degree identity",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cosam.auburn.edu/biology/students/grad/how-to-apply.php",
+      "label": "Biological Sciences application procedure",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/apply.php",
+      "label": "Central application and fee policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/international-instructions.php",
+      "label": "International and English policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php",
+      "label": "Program-specific test waivers",
+      "checked": "2026-10-28"
+    }
+  ]
+}

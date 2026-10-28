@@ -1,0 +1,82 @@
+{
+  "name": "Plant and Soil Sciences PhD",
+  "institution": "Mississippi State University",
+  "institutionShort": "Mississippi State",
+  "country": "US",
+  "degree": "phd",
+  "field": "plant-sciences",
+  "details": "checked",
+  "officialUrl": "https://catalog.msstate.edu/graduate/colleges-degree-programs/agriculture-life-sciences/plant-soil-sciences/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Central fall final: international on campus",
+      "dateText": "May 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    },
+    {
+      "label": "Central fall final: domestic on campus",
+      "dateText": "August 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    }
+  ],
+  "tracks": [
+    "Agronomy",
+    "Horticulture",
+    "Weed Science"
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "Catalog concentration minima: Weed Science TOEFL79iBT/550paper or IELTS6.5; Agronomy/Horticulture TOEFL61iBT/500paper or IELTS5.5. Lower scores can entail ESL and restrict assistantships under central policy. Central proficient level is TOEFL79 old/5new, IELTS6.5, DET115 or Essentials9. Confirm concentration test alternatives. Central documented qualifying degree/country exemptions apply."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic $60. Central waivers restricted to full-time benefits-eligible employees, US military/veterans and McNair Scholars. Other applicants may inquire with department; program-specific approval is unconfirmed."
+    },
+    "documents": [
+      "Degree transcripts"
+    ],
+    "note": "PhD requires GPA3.00 on graduate work. Prerequisites set by major professor, graduate coordinator and dean; Weed Science prerequisite/core courses specified by professor and committee. Current catalog does not state GRE or full document list; confirm program and funding requirements. Archive Weed Science lead is a concentration in this degree."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate assistantships subject to funds; undergraduate B average or better needed for assistantship eligibility. No universal award guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/agriculture-life-sciences/plant-soil-sciences/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/explore/graduate-school-faq",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/admissions-deadlines",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/general-admissions-requirements/test-scores",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/current-students/community-resources/international-students/english-proficiency",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/funding-tuition/assistantships",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

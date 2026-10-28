@@ -1,0 +1,74 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University at Buffalo",
+  "institutionShort": "UB",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "The official December 1 deadline has no stated entry year; Fall 2027 is not confirmed.",
+  "admissionModel": "program",
+  "officialUrl": "https://arts-sciences.buffalo.edu/biological-sciences/graduate/admissions.html",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published PhD application deadline",
+      "dateText": "December 1",
+      "note": "Undated official deadline; confirm the intended entry cycle with the department."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 (old scale) or 4 (new scale)",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Department also lists PTE55. English scores valid two years at International Admissions review and sent by testing agency. English exemption requires citizenship AND English-medium education in one of the listed countries, or another listed category. A qualifying transfer from a US college needs a completed degree or at least two years there, GPA2.0 and no more than a three-year break. Recent UB program/degree changes and reciprocal nondegree exchanges have separate criteria. Overseas English-medium study alone is not an automatic exemption. Rare exceptions require a petition from the UB academic department, not the applicant, with justification and supporting records; International Admissions decides."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "U.S. citizens and current permanent residents may request a waiver through the portal after completing the application and uploading materials."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "All undergraduate and graduate transcripts, with English translations where applicable; unofficial copies accepted for review",
+      "Resume/CV including research experience",
+      "Personal statement (750–1,000 words)",
+      "At least three recommendation letters",
+      "English proficiency scores if required",
+      "Passport biographical page for international applicants"
+    ],
+    "note": "Statement covers reasons for UB, academic/research experiences, proposed topics, faculty fit and career plans. Faculty contact is not required before applying; students enter the program and later explore rotations or lab placements. After admission, international visa processing requires a financial form and bank statements, with additional documents depending on funding, visa status or dependents. Recommendation letters: At least two should be from faculty, preferably in the sciences; additional letters may be from supervisors or professional mentors."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted PhD students are automatically awarded an assistantship with funding. The opened admissions page does not specify an amount, duration or detailed benefits."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants are encouraged to apply early for visa processing."
+  },
+  "sources": [
+    {
+      "url": "https://arts-sciences.buffalo.edu/biological-sciences/graduate/admissions.html",
+      "label": "Department admissions, deadline, requirements, funding and international applicants",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/programs/biological-sciences-phd.html",
+      "label": "Graduate School PhD profile, fee and optional GRE",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/explore/admissions/requirements.html",
+      "label": "Central English proficiency and exemption/department-petition policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

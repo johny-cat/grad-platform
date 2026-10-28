@@ -1,0 +1,80 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Wesleyan University",
+  "institutionShort": "Wesleyan",
+  "officialUrl": "https://www.wesleyan.edu/bio/graduate/overview_biologyphd.html",
+  "applyUrl": "https://admission.wesleyan.edu/apply/",
+  "detailsNote": "Fall 2027 deadline is confirmed. Admission model was not established. Department and central pages disagree on English minima and insurance support; safer English scores and both support descriptions are retained.",
+  "deadlines": [
+    {
+      "label": "Complete Fall 2027 application and official English scores",
+      "date": "2026-12-12"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "96 or greater on department FAQ; central Biology table gives 90 old scale / 4.5 new scale",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Department FAQ requires IELTS 7, TOEFL 96 and DET 120; current central Biology table instead lists IELTS 6.5, TOEFL 90 old scale or 4.5 new scale and DET 115. Higher stated scores retained; confirm the conflict. Central US-degree/citizenship exemptions exist and are managed by Graduate Student Affairs. Official scores due by the program deadline."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No application fee; no waiver needed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial undergraduate and graduate transcripts; official copies after accepting admission",
+      "Statement of purpose covering research preparation, research interests/groups, and long-term goals",
+      "Official English scores for applicable international applicants"
+    ],
+    "note": "Bachelor degree sufficient; no standard GPA minimum. Prior advisor commitment not required. Research groups of interest should be discussed in the statement."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 44904,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025–2026"
+    },
+    "note": "Department states all PhD candidates in good standing receive a 12-month stipend, tuition remission, basic health insurance and applicable dependent allowance; minimum three semesters as a teaching assistant. Central page instead gives an undated $46,000 and a two-thirds health-plan contribution. Confirm the current offer; future rate not established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.wesleyan.edu/bio/graduate/overview_biologyphd.html",
+      "label": "Biology PhD identity",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.wesleyan.edu/bio/graduate/How%20To%20Apply.html",
+      "label": "Application,deadline and departmental support",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.wesleyan.edu/bio/graduate/Frequently%20Asked%20Questions.html",
+      "label": "Department English and international FAQ",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.wesleyan.edu/admission/graduate-admission.html",
+      "label": "Fall2027central table and conflicting policies",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Integrated Biology PhD",
+  "institution": "University of Iowa",
+  "institutionShort": "Iowa",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://biology.uiowa.edu/graduate/admissions",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "Program page states at least100 overall on iBT, with recommended Speaking25; no new-scale program minimum stated.",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Department admissions names TOEFL; central IELTS7/no subscore below6 and DET120 are university standards. Confirm program acceptance of alternatives. TA appointments require separate English certification."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee 100 USD; domestic fee 60 USD. Central policy expressly excludes international fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "CV or resume",
+      "Statement of research experience and future goals",
+      "Statement of purpose",
+      "Supplemental Data Form",
+      "Three letters of recommendation",
+      "English proficiency evidence if required"
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://grad.admissions.uiowa.edu/academics/integrated-biology-phd",
+      "label": "Graduate Admissions program requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.uiowa.edu/graduate/admissions",
+      "label": "Program application instructions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements",
+      "label": "University English tests and exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.admissions.uiowa.edu/graduate-fee-waiver",
+      "label": "Application fee waiver eligibility",
+      "checked": "2026-10-28"
+    }
+  ],
+  "detailsNote": "Published January1 PhD deadline is undated; Fall2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "PhD materials deadline",
+      "dateText": "January 1",
+      "note": "Recurring undated deadline; review begins aroundDecember1. No year assigned."
+    }
+  ],
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Both US and international applicants may receive assistantships, tuition scholarship, low-cost health insurance and50%mandatory fee coverage for up to5years. Funding is not guaranteed and depends on availability. Program page quotes undated27048 per academic year; no future amount inferred."
+  }
+}

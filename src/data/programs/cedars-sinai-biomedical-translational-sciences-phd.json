@@ -1,0 +1,74 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biomedical and Translational Sciences PhD",
+  "institution": "Cedars-Sinai Health Sciences University",
+  "institutionShort": "Cedars-Sinai",
+  "officialUrl": "https://www.cedars-sinai.edu/health-sciences-university/education/programs/graduate-school/phd-in-biomedical-and-translational-sciences/overview",
+  "applyUrl": "https://csmc.maestrosis.com",
+  "admissionModel": "program",
+  "detailsNote": "Official deadlines conflict: the overview accepts applications through January 16, 2027, but admissions FAQ gives December 31 and referee January 15 without years. Use the earlier December 31 as a planning target and confirm the current deadline and letter-delivery method.",
+  "publishedDeadlines": [
+    {
+      "label": "Admissions FAQ application deadline",
+      "dateText": "Dec. 31",
+      "note": "Undated and conflicts with dated overview; no year inferred."
+    },
+    {
+      "label": "Referee evaluation deadline",
+      "dateText": "Jan. 15",
+      "note": "Undated admissions FAQ."
+    },
+    {
+      "label": "Overview application window",
+      "dateText": "Sep 14, 2026 - Jan 16, 2027",
+      "note": "Exact dated window; conflicts with admissions FAQ. Entry term not explicitly named."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "Current admissions page requires official TOEFL scores directly from ETS for non-native English speakers; no score minimum or IELTS alternative established. Page also accepts official MCAT scores without clarifying their relationship to English proficiency; no substitution inferred."
+    },
+    "applicationFee": {
+      "amount": 55,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "One-time waiver for currently participating in, or at least one year of, an eligible program; coordinator letter before submission. Applicants outside listed programs with financial hardship may request a waiver application. International eligibility not explicit; confirm before relying on waiver."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose PDF: maximum 3 double-spaced pages, 11 or 12 point font and 0.5–1 inch margins",
+      "Official transcripts; FAQ also permits unofficial copies for initial review",
+      "Three recommendation letters from research/academic mentors or supervisors",
+      "Official TOEFL scores if applicable"
+    ],
+    "note": "Accredited bachelor degree in biomedical or related science required. Recommended preparation: one year each of biology, biochemistry, mathematics and physics; two years of general/organic chemistry; chemistry and physics laboratories; significant laboratory research. Separate-letter instructions conflict with FAQ instructions to use portal referee requests; confirm. Three first-year rotations before mentor selection."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Overview states enrolled students receive an undated $52,000 per year plus health benefits and support until graduation, with a seven-year time limit. It says tuition is covered by the stipend; no separate tuition-waiver or international guarantee inferred."
+  },
+  "timeline": {
+    "interviews": "February interview invitations; campus interview weekend required for admission consideration.",
+    "decisions": "March acceptance invitations; page also says enrollment decisions within 10 days of visits."
+  },
+  "sources": [
+    {
+      "url": "https://www.cedars-sinai.edu/health-sciences-university/education/programs/graduate-school/phd-in-biomedical-and-translational-sciences/overview",
+      "label": "Current program,rotations,funding and datedwindow",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.cedars-sinai.edu/health-sciences-university/education/programs/graduate-school/phd-in-biomedical-and-translational-sciences/admission",
+      "label": "Application requirements and conflicting FAQ",
+      "checked": "2026-10-28"
+    }
+  ]
+}

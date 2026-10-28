@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Neuroscience and Experimental Therapeutics PhD",
+  "institution": "Albany Medical College",
+  "institutionShort": "Albany Medical",
+  "officialUrl": "https://www.amc.edu/education/basic-science-ms-phd/neuroscience-experimental-therapeutics/",
+  "applyUrl": "https://gradadmissions.amc.edu",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Annual rolling PhD application period",
+      "dateText": "September 1 - December 1",
+      "note": "Undated annual period for the following fall; not a confirmed Fall 2027 date."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International-applicant section explicitly calls fee waivable; criteria and approval process not stated. Confirm approval before payment."
+    },
+    "english": {
+      "note": "TOEFL/IELTS required when English is not the first language and the applicant has no degree from a US college/university. Numerical minimum not stated."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV",
+      "Personal statement under 500 words",
+      "Official transcripts from all college/university courses and institutions",
+      "Official TOEFL/IELTS score where applicable"
+    ],
+    "note": "Bachelor degree or equivalent required; no specific GPA minimum. International applicants need documentation of financial support for living in the US. Program curriculum includes laboratory rotations."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Trustee Tuition Scholarships available to all full-time matriculated basic-science doctoral/graduate students. Stipend,insurance and universal award guarantee not established."
+  },
+  "timeline": {
+    "interviews": "Virtual interview required. In-person interviews may be requested subject to availability; applicant bears costs."
+  },
+  "sources": [
+    {
+      "url": "https://www.amc.edu/education/basic-science-ms-phd/neuroscience-experimental-therapeutics/",
+      "label": "Official PhD program",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.amc.edu/education/basic-science-ms-phd/neuroscience-experimental-therapeutics/about-dnet/",
+      "label": "Program curriculum and rotations",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.amc.edu/admissions/basic-science-ms-phd-admissions/",
+      "label": "Shared admissions requirements and annualdates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.amc.edu/apply/cost-aid/",
+      "label": "Basic-science tuition scholarships",
+      "checked": "2026-10-28"
+    }
+  ]
+}

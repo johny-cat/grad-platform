@@ -1,0 +1,69 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "Fordham University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.fordham.edu/academics/departments/biological-sciences/graduate-program/phd-in-biological-sciences/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Fall 2027 deadline confirmed; admission model is not stated on the checked pages.",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "100 before January 21, 2026; 5.0 thereafter",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Also accepts PTE Academic 68 and Cambridge 185. Exemptions are case by case; request within the application. Qualifying routes include native English/country criteria, two years of recent study in specified English-language countries, or a degree from India."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Résumé",
+      "Statement of intent: four answers, maximum 300 words each",
+      "Unofficial transcripts"
+    ],
+    "applicationFee": {
+      "amount": 89,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "2026–2027 published fee. International and domestic financial-hardship requests considered case by case; upload explanation and supporting documents through the application process. Not guaranteed. Submit application without paying, then complete the status-page waiver form with documentation by the program deadline; prior fees are not refunded."
+    },
+    "note": "US four-year bachelor's degree or international equivalent required. Transcripts need English or certified translation; final official records required on acceptance. GRE subject test recommended, not required."
+  },
+  "sources": [
+    {
+      "url": "https://www.fordham.edu/academics/departments/biological-sciences/graduate-program/phd-in-biological-sciences/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.fordham.edu/academics/departments/biological-sciences/graduate-program/phd-in-biological-sciences/admissions-informationrequirements/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/how-to-apply/application-deadlines/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.fordham.edu/student-financial-services/tuition-and-payments/graduate-tuition/graduate-school-of-arts-and-sciences/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/how-to-apply/application-fee-waivers/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2027-01-08"
+    }
+  ]
+}

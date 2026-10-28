@@ -1,0 +1,71 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "Louisiana State University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "January 3rd",
+      "note": "Undated department policy; earlier submission by 17 December encouraged."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "100 iBT or equivalent",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Department higher TOEFL threshold applies to international applicants without a degree from an English-based institution. Central policy's qualifying exemption documentation still applies; obtain confirmation of department acceptance. Central IELTS6.5, DET110 and other alternatives are university minima; confirm equivalence to department's higher TOEFL."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee; domestic fee $50. Central waivers exclude international applicants. Some departments offer selective discount codes; availability here is not confirmed."
+    },
+    "documents": [
+      "Official transcripts",
+      "CV/résumé",
+      "Statement of purpose"
+    ],
+    "note": "GPA minimum3.0. Relevant biology, genetics, biochemistry, chemistry, calculus and physics preparation expected; one or two deficiencies may be remedied after admission. Statement should explain research fit and list chosen section and 1–4 faculty; contact encouraged. No writing sample used."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "All accepted students can receive departmental teaching-assistant support up to five years with continuing progress. Awards competitive; page currently quotes $23,000 over nine months without an award year, with possible advisor summer support. Confirm individual offer."
+  },
+  "sources": [
+    {
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/biological-sciences.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/requirements-deadlines.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/apply.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/international_admissions.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

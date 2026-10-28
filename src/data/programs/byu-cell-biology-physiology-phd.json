@@ -1,0 +1,51 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Brigham Young University",
+  "institutionShort": "BYU",
+  "detailsNote": "Official requirements are available; Fall 2027 dates are not explicitly confirmed. Department pages were blocked, and a uniform admission model was not established.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "January 15th",
+      "note": "Published catalog month/day; no explicit Fall 2027 year."
+    }
+  ],
+  "international": {
+    "accepted": "yes"
+  },
+  "name": "Cell Biology and Physiology PhD",
+  "officialUrl": "https://graduatecatalog26byu.catalog.prod.coursedog.com/programs/34545",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "85 (old): S22, L/R/W21; 4.5 (new), each4.0",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "IELTS each module6.0; Duolingo each skill125. CAE180/C also accepted. Scores less than two years old at enrollment, sent directly. Listed-country citizenship or residential bachelor/higher degree within24 months can exempt; other waiver petitions require a prior accepted exam and evidence of all four English skills. University can still require testing."
+    },
+    "documents": [
+      "Resume",
+      "Document explaining interest, fit and desire to work with at least five specific program faculty",
+      "Unofficial transcripts",
+      "Department-required statements and recommendations"
+    ],
+    "note": "GRE not required but highly recommended. Catalog lists minimum GPA3.0 and six credits of lab research/rotation, but does not establish a universal lab-selection admission route. Central requirements: bachelor-equivalent, GPA3.0, CES Honor Code Commitment and ecclesiastical endorsement. Foreign degree evaluation is required before final admission; consult the recommendation letter for agency and timing. Programs may occasionally pay the fee for an exceptional applicant with a complete application; amount and international approval are not confirmed."
+  },
+  "sources": [
+    {
+      "url": "https://graduatecatalog26byu.catalog.prod.coursedog.com/programs/34545",
+      "label": "Program catalog identity, requirements and date",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.byu.edu/gradstudiesinfo/graduate-studies-policy-handbook",
+      "label": "Central application and English policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

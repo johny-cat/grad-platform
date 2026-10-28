@@ -1,0 +1,105 @@
+{
+  "name": "Biomedical and Veterinary Medical Sciences PhD",
+  "institution": "Louisiana State University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biomedical-sciences",
+  "details": "checked",
+  "officialUrl": "https://www.lsu.edu/vetmed/ms_phd_degrees/index.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official umbrella information available; Fall 2027 dates not confirmed. Department-specific requirements differ. All checked application instructions select Pathobiological Sciences; confirm the appropriate departmental selection with LSU. Admission routes differ: PBS allows rotations, whereas VCS requires prior laboratory acceptance; no single umbrella admission model is asserted.",
+  "tracks": [
+    "Comparative Biomedical Sciences",
+    "Pathobiological Sciences",
+    "Veterinary Clinical Sciences"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "PBS early nominated fellowship",
+      "dateText": "October 15",
+      "note": "Undated PBS fall table; not a common deadline for all departments."
+    },
+    {
+      "label": "PBS regular fellowship",
+      "dateText": "January 15",
+      "note": "Undated PBS fall table."
+    },
+    {
+      "label": "PBS late international",
+      "dateText": "April 15",
+      "note": "Undated PBS other-stipend applications."
+    },
+    {
+      "label": "PBS late domestic",
+      "dateText": "June 15",
+      "note": "Undated PBS other-stipend applications."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 iBT",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Central alternatives PTE59 / Michigan English53 (B2). TOEFL/IELTS valid two years, single sitting, no superscoring. Exemptions require qualifying US degree, listed primary-English-country degree, or qualifying country of origin and official documentation; program may set higher requirements."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee; domestic fee $50. Central waivers exclude international applicants. Some departments offer selective discount codes; availability here is not confirmed."
+    },
+    "documents": [
+      "Degree transcripts",
+      "CV/résumé"
+    ],
+    "note": "PBS: bachelor's US/equivalent, GPA3.0, no veterinary training required; contact faculty encouraged, not required, fellowship students may rotate three labs or enter sponsored lab. VCS: bachelor's or DVM, GPA3.0, faculty must accept applicant into laboratory before admission considered; initiate at least six months before entry. VCS's linked 2020 handbook requires GRE300 combined verbal/quantitative (within five years); current page does not restate this, so confirm. VCS competitive aid differs from PBS."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Current PBS page says all admitted students receive full stipend; its older linked guidelines say stipend cannot be guaranteed, so confirm an award in the offer. VCS states stipends/fellowships/assistantships for non-residency master's and doctoral students are competitive. These claims do not establish universal funding across the umbrella."
+  },
+  "sources": [
+    {
+      "url": "https://www.lsu.edu/vetmed/ms_phd_degrees/index.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/vetmed/pbs/graduate_program.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/vetmed/vcs/graduate_program.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/vetmed/pbs/grad_program_guidelines.pdf",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/vetmed/vcs/gradhandbook.pdf",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/requirements-deadlines.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/apply.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/international_admissions.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

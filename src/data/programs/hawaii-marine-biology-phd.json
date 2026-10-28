@@ -1,0 +1,87 @@
+{
+  "name": "Marine Biology PhD",
+  "institution": "University of Hawaii at Manoa",
+  "institutionShort": "Hawaiʻi Mānoa",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://manoa.hawaii.edu/marinebiograd/apply/requirements-for-admission-to-the-university-of-hawai%CA%BBi-marine-biology-graduate-program/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "admissionModel": "lab",
+  "applyUrl": "https://manoa.hawaii.edu/marinebiograd/apply/how-to-apply/",
+  "deadlines": [
+    {
+      "label": "Fall2027 complete application",
+      "date": "2026-11-15",
+      "time": "23:59",
+      "timezone": "Pacific/Honolulu"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "english": {
+      "toefl": "3.5 (2026 onward); 61 (pre-2026), central minimum",
+      "ielts": 5.5,
+      "duolingo": 90,
+      "note": "Central admission minimum; program may require higher. Graduate-assistant eligibility minima: TOEFL5 overall with Listening/Speaking5 (old scale100 with25 each), IELTS7 overall with Listening7/Speaking7.5, or Duolingo135 overall with Listening135/Speaking145. Tests valid two years. Exemption: native English or qualifying degree within five years in a listed exempt country; English-medium education elsewhere is not sufficient under this policy."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Limited fee scholarships for applicants who qualify as permanent Hawaiʻi residents and/or recently earned a University of Hawaiʻi bachelor’s degree, and complete the application. Confirm eligibility; no general international waiver established."
+    },
+    "documents": [
+      "CV",
+      "Statement of objectives (500–2,000 words)",
+      "University transcripts",
+      "Program questions naming faculty interests and research experience"
+    ],
+    "note": "Minimum recommended GPA3.2; University minimum3.0. Strong life-science undergraduate/MS preparation expected. Research experience recommended rather than required. Applicants select the PhD degree track; new students immediately join a laboratory."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://manoa.hawaii.edu/marinebiograd/apply/requirements-for-admission-to-the-university-of-hawai%CA%BBi-marine-biology-graduate-program/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/marinebiograd/apply/how-to-apply/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/marinebiograd/apply/deadlines-and-admission-process/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/graduate/documentation-requirements/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/graduate/english-proficiency-exemption-eligibility/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/marinebiograd/apply/identifying-a-potential-faculty-advisor/",
+      "label": "Official faculty/advisor and funding guidance",
+      "checked": "2026-10-28"
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program advises applicants to seek external fellowships, including the International Fulbright Foreign Student Program. No universal program-funded package or current stipend verified."
+  }
+}

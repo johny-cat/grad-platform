@@ -1,0 +1,98 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Graduate Program in Biomedical Sciences (GPiBS)",
+  "institution": "University of Oklahoma Health Sciences",
+  "institutionShort": "OU Health Sciences",
+  "officialUrl": "https://graduate.ouhsc.edu/Graduate-Programs/PhD-Programs/Graduate-Program-in-Biomedical-Sciences",
+  "applyUrl": "https://applyhealth.ou.edu",
+  "admissionModel": "program",
+  "tracks": [
+    "Biochemistry & Molecular Biology",
+    "Cancer Biology",
+    "Cell Biology",
+    "Microbiology and Immunology",
+    "Neuroscience",
+    "Pathology",
+    "Pharmaceutical Sciences",
+    "Physiology"
+  ],
+  "deadlines": [
+    {
+      "label": "Priority: all materials for guaranteed review",
+      "date": "2026-12-01"
+    },
+    {
+      "label": "Final application",
+      "date": "2027-01-31",
+      "note": "Late applications may be accepted but review is not guaranteed."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 before January 21, 2026; 4.5 on new scale",
+      "ielts": 6.5,
+      "note": "Scores must be within two years at the beginning of the enrollment term. Listed US-degree/native-English-country exemptions and discretionary documented waiver requests exist; approval is not guaranteed."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No application fee; no waiver needed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from every undergraduate and graduate institution",
+      "Personal statement PDF",
+      "CV PDF",
+      "WES or ECE official course-by-course foreign undergraduate transcript evaluation",
+      "Official TOEFL/IELTS scores unless waived"
+    ],
+    "note": "Relevant undergraduate major and minimum GPA 3.0 in the last 60 credits. Research experience and a research-mentor recommendation are strongly encouraged. Students undertake research rotations before selecting a laboratory."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All students in good standing receive an undated $37,080 annual stipend, tuition/fees and health insurance. No teaching assistantship is required. Confirm the future stipend in the offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "decisions": "Decision/acceptance response by April 15, 2027; program start July 26, 2027. Interview dates on the admissions page conflict with the current cycle and are omitted."
+  },
+  "sources": [
+    {
+      "url": "https://graduate.ouhsc.edu/Graduate-Programs/PhD-Programs/Graduate-Program-in-Biomedical-Sciences",
+      "label": "GPiBS entry programs and current dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.ouhsc.edu/Programs/PhD-Programs/Graduate-Program-in-Biomedical-Sciences/Admissions",
+      "label": "Application requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.ouhsc.edu/LinkClick.aspx?fileticket=t4rX6TtL-3U%3D&portalid=269&tabid=28942",
+      "label": "GPiBS FAQ and support",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.ouhsc.edu/Portals/1047/assets/documents/International/English%20Proficiency%20Requirements.pdf",
+      "label": "April2026 English table",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.ouhsc.edu/prospective-students/international-applicants",
+      "label": "English validity and exemptions",
+      "checked": "2026-10-28"
+    }
+  ]
+}

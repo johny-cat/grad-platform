@@ -1,0 +1,69 @@
+{
+  "name": "Tropical Plant Pathology PhD",
+  "institution": "University of Hawaii at Manoa",
+  "institutionShort": "Hawaiʻi Mānoa",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://manoa.hawaii.edu/graduate/tropical-plant-pathology/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "applyUrl": "https://cms.ctahr.hawaii.edu/peps2/GRADUATE/Plant-Pathology",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "March 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "3.5 (2026 onward); 61 (pre-2026), central minimum",
+      "ielts": 5.5,
+      "duolingo": 90,
+      "note": "Central admission minimum; program may require higher. Graduate-assistant eligibility minima: TOEFL5 overall with Listening/Speaking5 (old scale100 with25 each), IELTS7 overall with Listening7/Speaking7.5, or Duolingo135 overall with Listening135/Speaking145. Tests valid two years. Exemption: native English or qualifying degree within five years in a listed exempt country; English-medium education elsewhere is not sufficient under this policy."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "unknown"
+    },
+    "documents": [
+      "Statement of objectives",
+      "Transcripts (unofficial for review; official after admission)"
+    ],
+    "note": "MS in plant pathology or equivalent expected. Bachelor’s holders may petition for PhD entry only after enrolling in the MS. Faculty advisor must be willing and available. GRE waiver considered based on research experience or insurmountable testing circumstances."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://manoa.hawaii.edu/graduate/tropical-plant-pathology/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cms.ctahr.hawaii.edu/peps2/GRADUATE/Plant-Pathology",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/graduate/documentation-requirements/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/graduate/english-proficiency-exemption-eligibility/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "admissionModel": "lab"
+}

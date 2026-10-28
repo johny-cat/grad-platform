@@ -1,0 +1,60 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Clark University",
+  "institutionShort": "Clark",
+  "officialUrl": "https://www.clarku.edu/departments/biology/phd-program/",
+  "detailsNote": "Official requirements are available; a Biology PhD deadline, Fall 2027 GRE policy and admission model were not confirmed. The central GRE statement is explicitly for Fall 2026.",
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Waivers for Clark alumni, employees and applicants from partner organizations such as Fulbright, McNair, AmeriCorps, Peace Corps, City Year and Teach for America. International eligibility depends on the relevant category; no general hardship waiver was established."
+    },
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "note": "International applicants submit official TOEFL, IELTS, Duolingo or PTE Academic scores. PhD page does not give minimum scores. Exemption requires citizenship in a listed country or an accredited degree earned with at least two years of in-person study in a listed country."
+    },
+    "documents": [
+      "Resume",
+      "Personal statement explaining graduate-study reasons, research interests, prospective faculty and professional objectives",
+      "Three academic recommendations",
+      "All academic transcripts and degree confirmation, with original-language records and English translations"
+    ],
+    "note": "GRE not required but strongly suggested for Biology in the published Fall 2026 policy; confirm Fall 2027. Unofficial transcripts can be used for review; official final transcripts and degree proof required before enrollment. Department seeks prior independent research experience."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The Biology doctoral page guarantees graduate students tuition remission and teaching assistantships for five years; stipend amount not stated."
+  },
+  "sources": [
+    {
+      "url": "https://www.clarku.edu/departments/biology/phd-program/",
+      "label": "Biology PhD and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.clarku.edu/graduate-admissions/apply/application-requirements-phd/",
+      "label": "PhD application requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.clarku.edu/graduate-admissions/apply/",
+      "label": "Central waivers and transcript policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

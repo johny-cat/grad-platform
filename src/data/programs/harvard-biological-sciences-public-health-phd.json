@@ -1,0 +1,84 @@
+{
+  "name": "Biological Sciences in Public Health PhD",
+  "institution": "Harvard University",
+  "institutionShort": "Harvard",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "admissionModel": "program",
+  "officialUrl": "https://hsph.harvard.edu/program/phd-biological-sciences-public-health/",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "note": "Current Graduate School program page; all components are due by5pm Eastern."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "5 overall and4.5 Speaking for tests fromJanuary21,2026;100 overall and23 Speaking for earlier tests",
+      "ielts": 7,
+      "note": "IELTS Academic Speaking minimum6.5. An undergraduate degree from an institution whose primary instruction language is English can satisfy proficiency; a graduate degree alone cannot. Scores valid no longer than two years."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Request via the Application Fee questions in the application. International applicants should confirm eligibility; an unrestricted offer is not an automatic award."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Statement of purpose",
+      "Personal statement",
+      "Letters of recommendation",
+      "English proficiency evidence if required"
+    ],
+    "note": "The program begins in July each year. Statement of purpose should address research experience, interests and faculty alignment."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students, including international students, are guaranteed funding including a stipend, tuition and health insurance."
+  },
+  "sources": [
+    {
+      "url": "https://gsas.harvard.edu/program/biological-sciences-public-health",
+      "label": "Graduate School program requirements and current deadline",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://hsph.harvard.edu/program/phd-biological-sciences-public-health/",
+      "label": "Program admissions and curriculum",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs",
+      "label": "Graduate School application fee, waivers and materials",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "label": "Graduate School English rules",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/letters-recommendation",
+      "label": "Three recommendations",
+      "checked": "2026-10-20"
+    },
+    {
+      "url": "https://gsas.harvard.edu/apply",
+      "label": "Deadline Eastern time rule",
+      "checked": "2026-10-20"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

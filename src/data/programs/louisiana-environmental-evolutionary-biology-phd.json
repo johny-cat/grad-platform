@@ -1,0 +1,91 @@
+{
+  "name": "Environmental and Evolutionary Biology PhD",
+  "institution": "University of Louisiana at Lafayette",
+  "institutionShort": "UL Lafayette",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "applyUrl": "https://biology.louisiana.edu/programs/graduate/how-apply",
+  "publishedDeadlines": [
+    {
+      "label": "Fall complete application",
+      "dateText": "February 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "First-time international fee $30; domestic and international re-entry $25. University explicitly says it cannot offer fee waivers. Late applications incur a further $25."
+    },
+    "english": {
+      "toefl": "79 (0–120 scale) or 4.5 (1–6 scale)",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Tests valid two years. Degree exemption requires primary English instruction at an accredited institution in a listed country; university may still request proof."
+    },
+    "documents": [
+      "Transcripts",
+      "Graduate assistantship application",
+      "Resume/CV",
+      "Three references"
+    ],
+    "note": "A prospective faculty advisor must agree to support the application before it is complete. GRE conflict: current doctoral-program directory says No GRE Required, while program landing page and the 2025 department letter request GRE scores; confirm directly before applying."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "2025 international-applicant letter describes limited, competitive teaching assistantships with a target $20,000 doctoral stipend for nine months, tuition and most-fee waiver. International TAs were responsible for approximately $585 including health-insurance share; confirm current rates. The department says it rarely admits doctoral students it cannot fund; this is not an unconditional guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.louisiana.edu/programs/graduate/how-apply",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://louisiana.edu/graduateschool/graduate-programs/doctoral-degrees",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://louisiana.edu/graduateschool/admissions/you-apply/required-documents-and-application-fee",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://louisiana.edu/graduateschool/admissions/international-applicants/english-language-proficiency-requirements",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://louisiana.edu/graduateschool/admissions/admissions-requirements/letters-reference",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.louisiana.edu/sites/biology/files/ctools/Letter_to_international%20applicants_2025.pdf",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

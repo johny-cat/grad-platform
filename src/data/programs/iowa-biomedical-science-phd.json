@@ -1,0 +1,105 @@
+{
+  "name": "Biomedical Science PhD",
+  "institution": "University of Iowa",
+  "institutionShort": "Iowa",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://biomed.medicine.uiowa.edu/application-checklist",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "81 for tests beforeJanuary2026;4.5 for tests afterJanuary2026",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "University IELTS minimum7 overall with no subscore below6; PTE68 overall with no subscore below58. Program requirements may be higher. Country/qualifying-degree exemptions apply; see the central policy."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee 100 USD; domestic fee 60 USD. Central policy expressly excludes international fee waivers. BSP separately reimburses the application fee after an invited applicant completes the interview; confirm international reimbursement eligibility before relying on it."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial academic records/transcripts",
+      "Resume or CV",
+      "Research statement",
+      "Personal statement",
+      "Three letters of recommendation",
+      "English proficiency scores when required"
+    ],
+    "note": "Minimum GPA3.00/4 or evaluated foreign equivalent. The two-part application requires payment/submission first, then all supporting materials in MyUI."
+  },
+  "sources": [
+    {
+      "url": "https://grad.admissions.uiowa.edu/academics/biomedical-science-phd",
+      "label": "Graduate Admissions program requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biomed.medicine.uiowa.edu/application-checklist",
+      "label": "Program application instructions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biomed.medicine.uiowa.edu/financial-support",
+      "label": "Program funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements",
+      "label": "University English tests and exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.admissions.uiowa.edu/graduate-fee-waiver",
+      "label": "Application fee waiver eligibility",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biomed.medicine.uiowa.edu/",
+      "label": "Seven-subprogram umbrella identity",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biomed.medicine.uiowa.edu/admission-overview",
+      "label": "Umbrella admissions and minimum GPA",
+      "checked": "2026-10-28"
+    }
+  ],
+  "admissionModel": "program",
+  "tracks": [
+    "Cancer Biology",
+    "Cell and Developmental Biology",
+    "Experimental Pathology",
+    "Free Radical and Radiation Biology",
+    "Molecular Medicine",
+    "Molecular Physiology and Biophysics",
+    "Pharmacology"
+  ],
+  "detailsNote": "The official December1 application deadline is recurring and not explicitly labeled for Fall2027. This is one first-year umbrella, not separate applications to each listed subprogram.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application deadline",
+      "dateText": "December 1",
+      "note": "Official central program and current checklist agree on December1; year not stated. Older Molecular Medicine pages discuss a January1 final date, but the current BSP checklist requires all materials byDecember1."
+    }
+  ],
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 36350,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–27"
+    },
+    "note": "Stipend36350 for July1,2026–June30,2027, tuition/mandatory fees and health/dental benefits. Continued support after the first year depends on satisfactory progress. Not a confirmed2027–28 stipend."
+  }
+}

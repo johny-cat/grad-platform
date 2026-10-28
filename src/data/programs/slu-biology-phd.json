@@ -1,0 +1,50 @@
+{
+  "name": "Biology PhD",
+  "institution": "Saint Louis University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://gradapp.slu.edu/arts-and-sciences/academics/degrees/graduate/biology-phd.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "institutionShort": "SLU",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Assistantship consideration",
+      "dateText": "Dec. 15",
+      "note": "Undated program page; later applications considered if assistantships remain."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "International applicants must demonstrate English proficiency. Linked policy was unavailable; numerical minimum and exemptions not confirmed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Résumé",
+      "Goal statement"
+    ],
+    "note": "Interview desired; laboratory/research experience preferred. Suggested preparation includes upper-division biology and chemistry, physics and calculus. Identify and correspond with suitable research faculty early. Program page mentions an application fee but no amount; central FAQ unavailable."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive fellowships and assistantships provide a stipend and may include health insurance and a tuition scholarship for the award period; no universal guarantee stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "English translations of academic records and financial documentation for an I-20 required."
+  },
+  "sources": [
+    {
+      "url": "https://gradapp.slu.edu/arts-and-sciences/academics/degrees/graduate/biology-phd.php",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    }
+  ]
+}

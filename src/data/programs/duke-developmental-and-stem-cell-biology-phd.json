@@ -1,0 +1,92 @@
+{
+  "name": "Developmental and Stem Cell Biology PhD admitting program",
+  "institution": "Duke University",
+  "institutionShort": "Duke",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "This is a separately selectable PhD admitting/certificate program; students ultimately earn the PhD through an affiliated degree department. Department affiliation timing differs between central and program pages; confirm with DSCB.",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Graduate School current Fall2027 table controls discrepancies; exact published time11:59:59pm Eastern Standard Time."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "5 for exams on/afterJanuary21,2026;90 for earlier exams",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "Graduate School guidelines generally sought, not absolute cutoffs. IELTS Academic; DET report must include subscores. Fall2027 reports must be datedAugust1,2024 or later. A test waiver requires2years full-time English-only study in a country whose primary spoken language is English, completed before program start."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central waivers require US citizenship/permanent residency plus eligibility conditions. Departmental limited waivers for other applicants may be available; confirm program availability before payment."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Statement of purpose",
+      "Resume",
+      "Three letters of recommendation",
+      "English proficiency scores if required",
+      "Life Experiences Statement"
+    ],
+    "note": "Undergraduate GPA calculated on a4.0scale required. Current Graduate School program table controls over older departmental pages. No writing sample required. Optional2-minute video essay is listed by the Graduate School."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "limited",
+    "note": "All admitted students regardless of citizenship receive tuition,fees,healthinsurance and monthly stipend for5–6years; NIH-based funding limits positions for non-US-citizen/non-permanent-resident applicants. Program funds first year; adviser supports students not on training grant."
+  },
+  "sources": [
+    {
+      "url": "https://gradschool.duke.edu/academics/programs-degrees/developmental-and-stem-cell-biology/",
+      "label": "Graduate School program requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students",
+      "label": "Department program and admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/application-fee/",
+      "label": "Central application fee and waiver rules",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/",
+      "label": "Central English tests and waiver rules",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-deadlines/",
+      "label": "Current Fall2027 deadlines",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.duke.edu/financial-support/phd-financial-support/",
+      "label": "Central PhD funding guarantee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/",
+      "label": "Required application documents",
+      "checked": "2026-10-28"
+    }
+  ],
+  "admissionModel": "program"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Biology PhD",
+  "institution": "Idaho State University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates are not confirmed.",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "Above 90 iBT / 577 paper / 233 computer",
+      "note": "Program requires this for nonnative international applicants without an accredited US college/university degree. No IELTS alternative established on this program page. Published TOEFL numbers use legacy scales; confirm requirements for the newer test scale rather than infer conversion."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV or academic résumé",
+      "Personal statement, maximum two pages",
+      "Transcripts from all universities/colleges attended"
+    ],
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Nonrefundable and nontransferable; an additional program fee may apply."
+    },
+    "note": "Contact a suitable advisor before applying; faculty must agree to review, with no acceptance guarantee. Biological-sciences bachelor's or related preparation; cumulative GPA above 3.0 in most recent undergraduate or graduate degree."
+  },
+  "sources": [
+    {
+      "url": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.isu.edu/biology/degree-programs/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.isu.edu/graduate/student-success/faq--/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "admissionModel": "lab",
+  "publishedDeadlines": [
+    {
+      "label": "Fall final",
+      "dateText": "April 1",
+      "note": "Recurring annual deadline."
+    },
+    {
+      "label": "Fall priority / teaching assistantships",
+      "dateText": "January 15th",
+      "note": "Submit by the preceding January; undated recurring policy."
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate Teaching Assistantship consideration has a preceding January 15 priority date. Availability is not an award guarantee."
+  }
+}

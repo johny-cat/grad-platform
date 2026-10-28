@@ -1,0 +1,79 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Maine",
+  "institutionShort": "Maine",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://sbe.umaine.edu/graduate/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "applyUrl": "https://umaine.edu/graduate/apply/application-checklist/",
+  "publishedDeadlines": [
+    {
+      "label": "Suggested fall target for assistantship consideration",
+      "dateText": "January 15",
+      "note": "Department accepts rolling applications but strongly recommends its January target. No year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "82 or 4.5; TA minimum 98 or 6, as published",
+      "ielts": 6.5,
+      "note": "Teaching assistants need IELTS7. A degree from an English-speaking institution can exempt the test; academic units may still request scores. Current central scores supersede old paper-TOEFL numbers on the department application page."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "IRT/McNair scholars, current/former US Armed Forces members/dependents and University of Maine System alumni qualify under listed categories. Confirm international eligibility for an applicable category. Program-specific temporary waivers, when offered, are announced to applicants who started an application."
+    },
+    "documents": [
+      "Transcripts (unofficial accepted for review; official after a decision)",
+      "Resume",
+      "Personal statement/essay (300–500 words)"
+    ],
+    "note": "Biological-science bachelor’s preparation expected; related science/math coursework assessed. Faculty advisor commitment required before admission; contact prospective advisors before applying. International applicants are urged to apply at least six months before arrival."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department typically supports graduate students through teaching/research assistantships for 4–5 PhD years and automatically considers applicants unless they indicate no need. Teaching assistantships are nine-month appointments with tuition waiver up to nine credits per semester. Funding package depends on advisor and appointment; no unconditional all-admitted guarantee retained."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://sbe.umaine.edu/graduate/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://sbe.umaine.edu/graduate/application-to-the-program/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umaine.edu/graduate/apply/faq/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umaine.edu/graduate/apply/test-scores/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umaine.edu/graduate/apply/application-checklist/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}
