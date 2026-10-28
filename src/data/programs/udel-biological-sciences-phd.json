@@ -1,0 +1,86 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Delaware",
+  "institutionShort": "Delaware",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/biological-sciences/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "tracks": [
+    "Cell and Organ Systems Physiology",
+    "Chemistry-Biology Interface",
+    "Molecular Biology and Genetics"
+  ],
+  "summary": "Biological Sciences doctoral research includes microbiology, cell and developmental biology, neurobiology, physiology, molecular biology and genetics.",
+  "applyUrl": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "December 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall international final (department FAQ)",
+      "dateText": "April 1",
+      "note": "Department FAQ states April 1 for international applicants; overview gives April 15 without this distinction. Confirm with the department."
+    },
+    {
+      "label": "Fall domestic final",
+      "dateText": "April 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "100 (published scale not identified)",
+      "ielts": 7.5,
+      "note": "Department states these minima for graduate-assistantship eligibility. Previous US education, training or residence does not automatically exempt applicants; Graduate College approval required for language-test waiver."
+    },
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central waivers limited to listed participating-program categories, with documentation. GEM requires US citizenship/permanent residence. Other applicants may ask their program whether it will cover the fee; approval is not guaranteed. Confirm international eligibility for an applicable category."
+    },
+    "documents": [
+      "Undergraduate transcript",
+      "Resume/CV",
+      "Personal statement describing research experience, research interests, professional objectives and departmental fit"
+    ],
+    "note": "Minimum GPA 2.8 overall and 3.0 in sciences. Preparation: two years biological sciences, one year mathematics preferably calculus/statistics, one year physics, one year general chemistry and a course in organic chemistry. PhD students complete 2–3 first-year rotations before choosing a mentor."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All research PhD students receive assistantship support. PhD graduate assistants also receive full tuition scholarships and university-subsidized health insurance."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/biological-sciences/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

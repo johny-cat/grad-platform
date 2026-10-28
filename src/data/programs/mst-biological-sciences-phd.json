@@ -1,0 +1,79 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "Missouri University of Science and Technology",
+  "institutionShort": "Missouri S&T",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://biosci.mst.edu/academicprograms/phdinbiologicalsciences/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "tracks": [
+    "Bioinnovation",
+    "Biomedicine",
+    "Environmental Biology"
+  ],
+  "applyUrl": "https://futurestudents.mst.edu/admissions/graduate/index.html",
+  "publishedDeadlines": [
+    {
+      "label": "Recommended fall doctoral deadline",
+      "dateText": "Feb. 15",
+      "note": "Rolling admissions continue after recommended deadline; earlier filing improves admission/funding consideration."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "4.5; 80 for tests before January1,2026, as published",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central country list or degree from US, UK, Australia, New Zealand or Canada except Quebec can exempt proof. Additional English assessment applies to teaching appointments; PTE58/Cambridge176 also listed."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International on-campus fee $75; domestic $55. Fee waivers may be offered for attendance at specified in-person/virtual graduate events. Confirm event conditions and international eligibility before paying."
+    },
+    "documents": [
+      "Transcripts from all colleges/universities (unofficial for application; official after admission)",
+      "Statement of purpose (1,000 words or less)",
+      "Resume/CV"
+    ],
+    "note": "Direct bachelor’s and master’s entry available. GRE explicitly required for Biological Sciences MS/PhD on current central page. Research statement, previous research examples/publications encouraged but not required."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive teaching assistantships are available for excellent applicants with an identified faculty mentor. No universal funding guarantee or current program stipend established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biosci.mst.edu/academicprograms/phdinbiologicalsciences/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://futurestudents.mst.edu/admissions/graduate/index.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://futurestudents.mst.edu/admissions/graduate/doctoralapplicantchecklist/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

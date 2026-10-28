@@ -1,0 +1,75 @@
+{
+  "name": "Biochemistry PhD",
+  "institution": "North Dakota State University",
+  "institutionShort": "North Dakota State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.ndsu.edu/curriculum/graduate/biochemistry-doctorate/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "applyUrl": "https://www.ndsu.edu/graduate-school/apply",
+  "publishedDeadlines": [
+    {
+      "label": "Catalog fall deadline",
+      "dateText": "April 15",
+      "note": "Department says it reviews on a rolling basis, considers fall applications by mid-March, and advises early submission; confirm availability."
+    }
+  ],
+  "requirements": {
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 35,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Nonrefundable fee. Waivers listed for McNair Scholars, US Armed Forces/Veterans and Native American applicants, under Domestic and Permanent Resident Applicants. Confirm category scope and international eligibility; no unrestricted international waiver established."
+    },
+    "documents": [
+      "Statement of interest, maximum two pages, covering motivation, scientific interests, prospective research groups and scholarly/teaching/research background",
+      "Resume/CV",
+      "Official transcripts/marksheets from every institution, degree documents and English translations where applicable"
+    ],
+    "gre": "required",
+    "english": {
+      "toefl": "81/4.5 as published; department also states old-scale Speaking23 and Writing21",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Department lists IELTS Speaking/Writing6.0. Central exempt-country/degree list applies. Check equivalent new TOEFL section minima with department."
+    },
+    "note": "GPA at least3.0; MS not needed. GRE required when degree earned outside US; US-degree applicants encouraged but not required. Preference for quantitative50th percentile and other components at least20th percentile, described as soft guidelines. First-semester rotations in three groups precede supervisor choice; prior faculty contact not needed."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Appointed first-year TAs receive an undated $18,000 academic-year salary; up to $24,000 calendar-year total depends on summer PI funds. TA/GRA appointments include full tuition waiver while in good academic standing; continuation depends satisfactory PhD progress. No universal funding guarantee retained."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/biochemistry-doctorate/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ndsu.edu/graduate-school/apply",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/financial-support",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

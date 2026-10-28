@@ -1,0 +1,64 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Louisville",
+  "institutionShort": "Louisville",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-biology/",
+  "cycle": "fall-2027",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "publishedDeadlines": [
+    {
+      "label": "Fall admission",
+      "dateText": "December 1",
+      "note": "Undated catalog date; old department January 15 funding link redirects to a general landing page."
+    },
+    {
+      "label": "Spring admission",
+      "dateText": "July 1",
+      "note": "Undated catalog date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 iBT; 213 cBT; 550 pBT; TOEFL Essentials 9.0",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Central IELTS minimum has no subscore below 5; PTE Academic 55 with no subscore below 53. Country/qualifying-degree exemptions apply; consult official policy and program-specific requirements."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Official transcript of all undergraduate and graduate coursework",
+      "English translations of non-English academic credentials"
+    ],
+    "note": "Biology or acceptable subdiscipline bachelor's degree and undergraduate GPA 3.0 required. Faculty agreement to serve as major professor required before formal admission. GRE optional and not used for funding decisions. A non-refundable application fee is required; amount not stated on opened central pages. Limited departmental fee waivers may be available case by case; international applicants should confirm eligibility."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-biology/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.louisville.edu/graduate/application-admission/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.louisville.edu/admission/apply/application-fee-waiver-information",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28",
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Faculty-funded research assistantships may be available; a small number of top admitted applicants are nominated for university fellowships with stipend, tuition remission and health insurance. No universal guarantee stated."
+  }
+}

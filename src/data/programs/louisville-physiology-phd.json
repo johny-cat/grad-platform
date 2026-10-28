@@ -1,0 +1,64 @@
+{
+  "name": "Physiology PhD",
+  "institution": "University of Louisville",
+  "institutionShort": "Louisville",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physiology-biophysics/",
+  "cycle": "fall-2027",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "IPIBS fellowship full consideration",
+      "dateText": "January 15th",
+      "note": "Central IPIBS annual date, not an individually stated Physiology final admission deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "4.0 overall, with at least 4.0 in each skill area (program policy)",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Program also accepts advanced Intensive English as a Second Language exit exam or degree from an acceptable English-language institution; central IELTS subscore minimum 5 applies."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Official transcript from every college/university",
+      "Personal statement explaining interest in the Physiology PhD"
+    ],
+    "note": "Undergraduate GPA usually 3.0 or higher. Program TOEFL overall 4.0 with at least 4.0 each skill; IELTS Academic 6.5 or Duolingo 105; approved English institution degree or advanced IESL exit exam may establish proficiency. A non-refundable application fee is required; amount not stated on opened central pages. Limited departmental fee waivers may be available case by case; international applicants should confirm eligibility."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physiology-biophysics/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.louisville.edu/graduate/application-admission/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.louisville.edu/admission/apply/application-fee-waiver-information",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medicine.louisville.edu/academicsprograms/phd-program-academics",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28",
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Selected IPIBS fellows receive support. Published undated IPIBS stipend $33,000, increasing to $35,000 after candidacy, tuition waiver and health insurance. Fellowship selection and continued support depend on program conditions."
+  }
+}

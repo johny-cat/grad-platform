@@ -1,0 +1,93 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biological Sciences PhD",
+  "institution": "Bowling Green State University",
+  "institutionShort": "BGSU",
+  "officialUrl": "https://www.bgsu.edu/arts-and-sciences/biological-sciences/graduate-programs/prospective-students",
+  "detailsNote": "Official information is available; Fall 2027 program dates and an admission model were not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Full funding consideration",
+      "dateText": "February 1",
+      "note": "Undated departmental and central program date."
+    },
+    {
+      "label": "Fall application complete",
+      "dateText": "May 15",
+      "note": "Undated program deadline, earlier than central general dates."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee; domestic fee $45. Central instructions explicitly say international fees will not be waived. Automatic category waivers include McNair, US military veterans, returned Peace Corps volunteers and currently employed US K–12 public-school teachers."
+    },
+    "english": {
+      "toefl": "80 (published scale)",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Central FAQ suggests these scores and PTE53; no MyBest TOEFL. Program requires scores within two years. Country-list citizenship/degree exemptions apply; program education route specifies at least two university years. Confirm exemption with Graduate Admissions."
+    },
+    "documents": [
+      "Transcripts from all institutions; final official degree-granting transcripts upon admission",
+      "Statement of purpose, maximum 500 words, with research experience, goals and three potential advisors",
+      "CV with research roles/methods/outcomes, publications/presentation abstracts and relevant experience",
+      "Master’s thesis abstract (working draft allowed if degree in progress)",
+      "Two professional, usually academic, recommendations"
+    ],
+    "note": "MS or MA must be completed before the PhD starts, preferably Biology or related field. Contact prospective faculty before applying and identify three faculty interests. Indicate whether seeking assistantship in application. Central GRE is not required but defers to program; current Biology guidelines do not give an explicit GRE rule, so confirm."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive TA stipends normally cover nine months with instructional and nonresident fee waiver. PhD eligibility up to four years; renewal requires GPA3.2, satisfactory duties and progress. Summer support depends on budget and progress. No all-student funding guarantee established."
+  },
+  "timeline": {
+    "decisions": "Assistantship decisions usually finalized by June 1 (undated program guidance)."
+  },
+  "sources": [
+    {
+      "url": "https://www.bgsu.edu/arts-and-sciences/biological-sciences/graduate-programs/prospective-students",
+      "label": "Program admissions and annual dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bgsu.edu/arts-and-sciences/biological-sciences/graduate-programs/prospective-students/application-guidelines.html",
+      "label": "Biology application guidelines",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bgsu.edu/arts-and-sciences/biological-sciences/graduate-programs/funding.html",
+      "label": "Competitive funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions",
+      "label": "Central fees and documents",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions/international-faq",
+      "label": "International fee and English FAQ",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bgsu.edu/content/bgsu/en/admissions/graduate/graduate-application-instructions/gradadmissionsdeadlines.html",
+      "label": "Program deadline table",
+      "checked": "2026-10-28"
+    }
+  ]
+}

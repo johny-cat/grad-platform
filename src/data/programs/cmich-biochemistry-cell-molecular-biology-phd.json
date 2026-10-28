@@ -1,0 +1,74 @@
+{
+  "name": "Biochemistry, Cell and Molecular Biology PhD",
+  "institution": "Central Michigan University",
+  "institutionShort": "Central Michigan",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/biochemistry-cell-molecular-biology",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "applyUrl": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/biochemistry-cell-molecular-biology",
+  "admissionModel": "lab",
+  "summary": "Biochemistry, Cell and Molecular Biology PhD with an individually tailored research program and faculty mentor commitment required from the start.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Complete fall application",
+      "dateText": "January 10",
+      "note": "Undated recurring deadline. Later consideration only if a matched mentor requests an exception."
+    }
+  ],
+  "timeline": {
+    "decisions": "For January 10 applications, admission recommendation letters sent by March 15; offer acceptance due April 15 (recurring, undated)."
+  },
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "International graduate application fee. No applicable graduate waiver verified; the site-wide freshman/transfer waiver banner is not a graduate policy."
+    },
+    "english": {
+      "toefl": "550 PBT or 79 iBT (published scale)",
+      "ielts": 6.5,
+      "note": "Central regular-admission minima; PTE53 also accepted. Qualifying English-speaking-country or English-medium education alternatives are listed centrally."
+    },
+    "documents": [
+      "Graduate application",
+      "Official transcripts for bachelor’s and any master’s degrees",
+      "CV/resume",
+      "Proof of English proficiency for international applicants"
+    ],
+    "note": "Bachelor’s in biology, chemistry, biochemistry or related field; overall and major GPA 3.0; strong science/math preparation and research experience required. Contact faculty during fall before applying with CV/unofficial transcripts; admission depends on a faculty member committing to mentor from the start. Three recommendations through portal from academic/research referees. GRE/MCAT or similar scores optional."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Typically funded through teaching/research assistantships with stipend and tuition waiver. Faculty sponsor develops a semester-by-semester funding plan during application. No universal funding or explicit international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/biochemistry-cell-molecular-biology",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.cmich.edu/international-admissions/graduate/apply-international",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.cmich.edu/international-admissions/contact/english-proficiency",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    }
+  ]
+}

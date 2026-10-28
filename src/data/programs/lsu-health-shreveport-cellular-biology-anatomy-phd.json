@@ -1,0 +1,66 @@
+{
+  "name": "Cellular Biology and Anatomy PhD",
+  "institution": "Louisiana State University Health Sciences Center Shreveport",
+  "country": "US",
+  "degree": "phd",
+  "field": "cell-biology",
+  "details": "checked",
+  "officialUrl": "https://schoolofgradstudies.lsuhs.edu/academics/cellular-biology-and-anatomy/phd-degree",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not explicitly confirmed. Central admissions includes legacy FAQ text; confirm GRE requirements with the department.",
+  "tracks": [
+    "Anatomy Track",
+    "Cellular Biology Track"
+  ],
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application closes",
+      "dateText": "April 1",
+      "note": "Recurring policy: admission year; opens August 1 of preceding year."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "90/120",
+      "ielts": 6.5,
+      "note": "Program threshold. Central policy exempts natives of official-English countries or graduates of English-instruction universities; older FAQ specifies at least a bachelor's degree. Confirm documentation. Central80 is lower than department90."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Degree transcripts with ECE evaluation for international records"
+    ],
+    "applicationFee": {
+      "amount": 38,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "GradCAS charge stated on central admissions page; confirm current portal charge."
+    },
+    "note": "GPA3.0+ undergraduate and/or prior graduate; science/health degree or experience. Chemistry, biochemistry, physics, biology preparation; advanced mathematics recommended. Central page says international GRE required for some programs, while legacy2023 FAQ says all; department page does not resolve it. Three academic recommendations required."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "All PhD students in good standing receive stipend; undated page quotes $32,000 annually. Tuition and fee waiver stated; graduation fees remain. Handbook makes eligibility subject to annual performance review and full-time status; confirm charges and insurance in offer."
+  },
+  "sources": [
+    {
+      "url": "https://schoolofgradstudies.lsuhs.edu/academics/cellular-biology-and-anatomy/phd-degree",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://schoolofgradstudies.lsuhs.edu/admissions",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://schoolofgradstudies.lsuhs.edu/academics/student-handbook/~board/sogs-handbook/post/financial-support",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

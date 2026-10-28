@@ -1,0 +1,68 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "Michigan Technological University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.mtu.edu/biological/graduate/bio-sci/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall recommended",
+      "dateText": "January 15",
+      "note": "Undated rolling-admission policy; apply at least a semester ahead to improve funding chances."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Transcripts",
+      "Student statements",
+      "Résumé/CV"
+    ],
+    "english": {
+      "toefl": "Recommended 85 before January21,2026; 4.5 thereafter",
+      "ielts": 6.5,
+      "note": "Central old-scale minimum79; program recommends85. Scores within24months of enrollment. Waiver only for eligible country of citizenship, and stricter program requirements may override; English-medium study alone not listed as route."
+    },
+    "applicationFee": {
+      "amount": 10,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "International processing fee per application, despite no application fee. Must pay before document upload and within15days or application canceled. Domestic application is free."
+    },
+    "note": "Bachelor's/equivalent and preparation for advanced study. Admitted applicants typically GPA3.0+. Contact faculty strongly encouraged. Admission rolling."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate research assistantship support comes from advisor research grants; availability not guaranteed."
+  },
+  "sources": [
+    {
+      "url": "https://www.mtu.edu/biological/graduate/bio-sci/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.mtu.edu/globalcampus/gradadmissions/prospective/international-applicants/index.html",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.mtu.edu/globalcampus/gradadmissions/prospective/international-applicants/english-language-exempt-countries/index.html",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.mtu.edu/biological/graduate/funding/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

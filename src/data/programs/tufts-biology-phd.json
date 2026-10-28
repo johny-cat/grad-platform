@@ -1,0 +1,83 @@
+{
+  "name": "Biology PhD",
+  "institution": "Tufts University",
+  "institutionShort": "Tufts",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://asegrad.tufts.edu/program/biology-doctorate",
+  "applyUrl": "https://gradase.admissions.tufts.edu",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 deadline not confirmed. Biology's English minima exceed central guidance. Funding pages differ on five versus six years; confirm award duration.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall final",
+      "dateText": "December 1",
+      "note": "Undated GSAS Biology policy; no calendar year assigned."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "97 iBT in Biology FAQ; central guidance 90 old/4.5 new",
+      "ielts": 7.5,
+      "duolingo": 120,
+      "note": "Biology FAQ sets IELTS 7.5 vs central generally advised 6.5; use higher program minimum. Degree taught in English can exempt; central rule requires degree earned before application, or qualifying current full-time study with two consecutive years completed before enrollment. Qualifying citizenship routes also exist; confirm documentation/program acceptance. No new-scale Biology-specific TOEFL minimum stated."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "GSAS affiliation/service/recent Tufts-graduate waivers have conditions and require proof. Central page invites hardship applicants to contact Graduate Admissions without stating citizenship eligibility; international approval not confirmed. These are separate from GSBS waiver rules. Biology FAQ lists narrower categorical exceptions; confirm the applicability of any central hardship request to Biology."
+    },
+    "documents": [
+      "Transcripts from all institutions; unofficial copies for review",
+      "Current CV/résumé",
+      "Personal statement,maximum five pages/2,500 words unless program prompt differs",
+      "Recommendation letters",
+      "Official English scores unless exempt"
+    ],
+    "note": "Biology minimum GPA 3.0; extensive laboratory experience may warrant exception. GSAS generally asks three recommendations, with two for current Tufts/Tufts-certificate applicants; confirm portal requirement. Contact possible mentors encouraged, not a stated prerequisite; first-year rotations lead to research-focus selection. List one or two concentrations and prospective faculty. GRE not required; FAQ says provided scores may be considered, while central says scores reviewed only when required."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Biology FAQ explicitly welcomes international students with same financial package as US citizens."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Admissions-and-aid page guarantees admitted PhD students full tuition, competitive stipend and health coverage for six years through TA/RA support. FAQ separately says full-time students in good standing typically receive tuition and stipend, with mandatory health-services fee and student insurance covered for first five years. Confirm which offer terms apply; no stipend amount established."
+  },
+  "timeline": {
+    "interviews": "Selected PhD candidates invited for interview/department visit in February or March (undated policy)."
+  },
+  "sources": [
+    {
+      "url": "https://asegrad.tufts.edu/program/biology-doctorate",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://as.tufts.edu/biology/prospective-students/faqs-prospective-graduate-students",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://as.tufts.edu/biology/prospective-students/graduate-admissions-and-aid",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://asegrad.tufts.edu/applying/requirements",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://asegrad.tufts.edu/applying/application-fee-waivers",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

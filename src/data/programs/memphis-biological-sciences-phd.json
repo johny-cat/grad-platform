@@ -1,0 +1,81 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Memphis",
+  "institutionShort": "Memphis",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.memphis.edu/biology/graduate/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "applyUrl": "https://www.memphis.edu/graduateadmissions/future/grad.php",
+  "publishedDeadlines": [
+    {
+      "label": "Fall graduate teaching-assistantship consideration",
+      "dateText": "February 1",
+      "note": "Later applications considered if teaching positions remain; no year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International initial application $60; domestic $35. Previously applied but did not enroll: choose Additional Application to avoid paying again; readmission options also avoid another fee. Confirm category eligibility; no general hardship waiver verified."
+    },
+    "english": {
+      "toefl": "80 before2026; 4 on current scale",
+      "ielts": 6.5,
+      "note": "IELTS Academic. Central country/degree exemption list applies; program may set higher requirements.",
+      "duolingo": 110
+    },
+    "documents": [
+      "Transcripts (unofficial for review; official after admission)",
+      "Statement of interest, about500 words, on research interests/experience and academic/career objectives",
+      "Faculty sponsor letter describing willingness to mentor and proposed funding",
+      "NACES course-by-course evaluation when highest degree is from a foreign institution (2020 department handbook)"
+    ],
+    "note": "Current central doctoral GPA minimum3.0; bachelor’s or master’s entry. Department requires prospective mentor identification. GRE, two-letter count and statement/evaluation specifications are from the opened2020 handbook because current catalog is blocked; confirm current department instructions."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Teaching assistantships are competitive and depend on available positions. Applications may be accepted without an assistantship. Earlier handbook states teaching assistants typically receive a tuition waiver; no current stipend amount or all-student guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.memphis.edu/biology/graduate/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.memphis.edu/biology/graduate/pdfs/2020_graduate_handbook.pdf",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.memphis.edu/graduateadmissions/future/admproc.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.memphis.edu/graduateadmissions/future/admission-requirements.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.memphis.edu/graduateadmissions/future/grad.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

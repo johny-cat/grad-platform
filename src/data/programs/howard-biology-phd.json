@@ -1,0 +1,69 @@
+{
+  "name": "Biology PhD",
+  "institution": "Howard University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://programs.howard.edu/biology-phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Fall 2027 early deadline confirmed. Other dates are reproduced as published without an unstated calendar year; admission model is not stated.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "90 iBT",
+      "ielts": 6.5,
+      "note": "ielts: 6.5 overall; no band below 6.0. Graduate School policy accepts TOEFL/IELTS. Foreign English-medium degree exemption requires the policy's qualifying country/institution conditions and admissions approval; do not assume automatic exemption."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts via GradCAS",
+      "Statement of purpose, 500–1,000 words",
+      "Autobiographical statement, 500–750 words",
+      "Résumé or CV"
+    ],
+    "note": "Accredited bachelor's degree or international equivalent; overall and undergraduate GPA minimum 3.0. Biology, chemistry, mathematics and physics preparation is recommended, not required. Graduate Admissions states it does not offer application fee waivers; amount not established on checked pages. Reference table requires a professor; supervisors/managers also accepted. Friends, family, coworkers, clergy and other evaluator types are not accepted."
+  },
+  "sources": [
+    {
+      "url": "https://programs.howard.edu/biology-phd",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gs.howard.edu/admissions/evidence-english-language-proficiency",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admission.howard.edu/graduate",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Early deadline and competitive assistantship application",
+      "date": "2026-11-15"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall 2027 priority",
+      "dateText": "Feb. 15",
+      "note": "Fall 2027 entry table; calendar year not printed."
+    },
+    {
+      "label": "Fall 2027 final",
+      "dateText": "Apr. 15",
+      "note": "Fall 2027 entry table; calendar year not printed."
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive assistantships require a separate funding application by November 15, 2026. Rolling review; early applications improve consideration for departmental funding. No universal award guarantee stated."
+  }
+}

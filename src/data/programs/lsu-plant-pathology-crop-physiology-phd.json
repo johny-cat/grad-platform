@@ -1,0 +1,74 @@
+{
+  "name": "Plant Pathology and Crop Physiology PhD",
+  "institution": "Louisiana State University",
+  "country": "US",
+  "degree": "phd",
+  "field": "plant-sciences",
+  "details": "checked",
+  "officialUrl": "https://www.lsu.edu/agriculture/ppcp/programs/doctorate.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "tracks": [
+    "Plant Pathology",
+    "Crop Physiology"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Central fall final, international",
+      "dateText": "May 1",
+      "note": "University final deadline; department may be earlier. Seek funding well in advance."
+    },
+    {
+      "label": "Central fall final, domestic",
+      "dateText": "July 1",
+      "note": "University final deadline; department may be earlier."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 iBT",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Central alternatives PTE59 / Michigan English53 (B2). TOEFL/IELTS valid two years, single sitting, no superscoring. Exemptions require qualifying US degree, listed primary-English-country degree, or qualifying country of origin and official documentation; program may set higher requirements."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee; domestic fee $50. Central waivers exclude international applicants. Some departments offer selective discount codes; availability here is not confirmed."
+    },
+    "documents": [
+      "Degree transcripts",
+      "CV/résumé"
+    ],
+    "note": "Central bachelor's-equivalent and GPA3.0 standards apply; program-specific GRE and recommendation requirements not established on checked pages. Unless self-funded, department recommends not submitting until faculty financial commitment secured. Self-funded applicants may apply meeting Graduate School requirements and should note self-funding."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Some students receive competitive faculty-awarded research/teaching assistantships, with full tuition and fee waiver. Contact individual faculty; funding is a limiting admissions factor."
+  },
+  "sources": [
+    {
+      "url": "https://www.lsu.edu/agriculture/ppcp/programs/doctorate.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/requirements-deadlines.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/apply.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsu.edu/graduateschool/admissions/international_admissions.php",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

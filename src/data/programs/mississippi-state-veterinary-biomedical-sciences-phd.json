@@ -1,0 +1,93 @@
+{
+  "name": "Veterinary and Biomedical Sciences PhD",
+  "institution": "Mississippi State University",
+  "institutionShort": "Mississippi State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biomedical-sciences",
+  "details": "checked",
+  "officialUrl": "https://catalog.msstate.edu/graduate/colleges-degree-programs/veterinary-medicine/veterinary-medical-science/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Central fall final: international on campus",
+      "dateText": "May 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    },
+    {
+      "label": "Central fall final: domestic on campus",
+      "dateText": "August 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    }
+  ],
+  "tracks": [
+    "Veterinary Medical Research",
+    "Computational Biology",
+    "Infectious Diseases",
+    "Population Medicine"
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 old-scale iBT / 5.0 new scale",
+      "ielts": 6.5,
+      "note": "Program-level requirements apply. Central proficient-level alternatives DET115 / Essentials9; confirm program acceptance. Central exemptions include qualifying US degree or documented first-language country/institution conditions. Scores accepted within five years with official reporting; departments may require ESL."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic $60. Central waivers restricted to full-time benefits-eligible employees, US military/veterans and McNair Scholars. Other applicants may inquire with department; program-specific approval is unconfirmed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Degree transcripts"
+    ],
+    "note": "DVM or at least bachelor's from recognized four-year institution. Scholastic record should exceed GPA3.0 undergraduate and graduate; veterinary curriculum criterion2.75. GRE scores considered if available. Infectious Diseases and Population Medicine archive leads are concentrations within this PhD, not separate degrees."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Central research, teaching and service assistantships may be available; departments award and set stipends. No program-wide guarantee established."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/veterinary-medicine/veterinary-medical-science/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/veterinary-medicine/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/explore/graduate-school-faq",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/admissions-deadlines",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/general-admissions-requirements/test-scores",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/current-students/community-resources/international-students/english-proficiency",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/funding-tuition/assistantships",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of North Dakota",
+  "institutionShort": "North Dakota",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://und.edu/programs/biology-phd/index.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "applyUrl": "https://und.edu/admissions/graduate/apply/",
+  "summary": "Biology doctoral research spanning ecology, evolution, conservation and wildlife, and molecular, cellular and developmental biology.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. No single admission model is assigned because faculty advisor agreement is required but prior contact is not mandatory.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application and teaching-assistantship consideration",
+      "dateText": "February 15",
+      "note": "No year stated. Submit all materials before the deadline. University international fall deadline is May1, but earlier program deadline controls."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 35,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Non-refundable fee required for each application; no application-fee waivers available."
+    },
+    "english": {
+      "toefl": "4.0 on the published current graduate scale",
+      "ielts": 6,
+      "duolingo": 110,
+      "note": "IELTS within the last three years. English proficiency may also be satisfied by a qualifying degree in a listed country or approved ELS study; central country list governs degree exemption. Central policy additionally requires TOEFL speaking 26/30 for Graduate Teaching Assistantship consideration; the page does not state a new-scale equivalent, so confirm rather than convert."
+    },
+    "documents": [
+      "Official transcripts from every college/university attended",
+      "Statement of goals/personal statement (about 1–2 pages)"
+    ],
+    "note": "Bachelor’s or master’s entry. GPA 3.0 for master’s work; bachelor-only applicants need2.75 overall or 3.0 junior/senior credits. Strong biology background required; undergraduate deficiencies cannot be made up within the graduate program. Advisor agreement needed for admission, although prior faculty contact is not required. WES evaluation desired where possible."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Teaching/research assistantships, fellowships and internships are competitive. Teaching assistantships may be renewed for satisfactory progress/service; most offers begin in early March. Tuition waivers are not guaranteed."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://und.edu/programs/biology-phd/index.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://und.edu/programs/biology-phd/requirements.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://arts-sciences.und.edu/academics/biology/graduate.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://und.edu/admissions/graduate/apply/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://und.edu/admissions/international/requirements-application.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Pharmacology and Toxicology PhD",
+  "institution": "University of Louisville",
+  "institutionShort": "Louisville",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-pharmacology-toxicology/",
+  "cycle": "fall-2027",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "IPIBS fellowship full consideration",
+      "dateText": "January 15",
+      "note": "Annual fellowship consideration date; department accepts applications year-round for starts around August 1."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 iBT; 213 cBT; 550 pBT; TOEFL Essentials 9.0",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Central IELTS minimum has no subscore below 5; PTE Academic 55 with no subscore below 53. Country/qualifying-degree exemptions apply; consult official policy and program-specific requirements."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcript from each college",
+      "Statement of experience and professional goals (two to three pages)"
+    ],
+    "note": "Successful applicants normally GPA 3.0 with biology, chemistry and mathematics preparation. Interview in person or Zoom whenever possible. English test exemption for U.S. bachelor's/advanced degree; international credential evaluation required. A non-refundable application fee is required; amount not stated on opened central pages. Limited departmental fee waivers may be available case by case; international applicants should confirm eligibility."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-pharmacology-toxicology/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.louisville.edu/graduate/application-admission/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.louisville.edu/admission/apply/application-fee-waiver-information",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medicine.louisville.edu/academicsprograms/phd-program-academics",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28",
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Selected IPIBS fellows receive support. Published undated IPIBS stipend $33,000, increasing to $35,000 after candidacy, tuition waiver and health insurance. Fellowship selection and continued support depend on program conditions."
+  }
+}

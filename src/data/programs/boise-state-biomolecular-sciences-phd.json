@@ -1,0 +1,99 @@
+{
+  "name": "Biomolecular Sciences PhD",
+  "institution": "Boise State University",
+  "institutionShort": "Boise State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/biomolecular-ph-d/",
+  "detailsNote": "Official requirements are available, but Fall 2027 deadlines and waiver availability are not confirmed. Published deadline and waiver pages refer to 2025 or 2026. Admission routes differ by assistantship.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority admission and financial assistance",
+      "dateText": "January 10",
+      "note": "Page references Fall 2026; not confirmed for Fall 2027."
+    },
+    {
+      "label": "Late fall applications",
+      "dateText": "May 7",
+      "note": "Page references Fall 2026. Financial assistance depends on availability; contact the program before applying late."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 (published iBT scale)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "New TOEFL scale minimum is still being finalized. Scores must be valid when received and sent directly by the provider. An English-medium degree qualifies for exemption only from an approved country; additional proof may be requested."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Amount is the international graduate fee. Central admissions cannot waive international graduate fees. Limited program waivers require US citizenship/permanent residence, GPA above 3.50, prerequisites and research experience. Waiver instructions are labelled FA25; confirm current availability."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Academic transcripts",
+      "CV or resume",
+      "Personal statement of no more than 1,750 words, including 3–6 faculty interests",
+      "Scientific writing sample",
+      "International applicants: official transcripts, degree proof, English proficiency and passport name page"
+    ],
+    "note": "Appropriate scientific bachelor or graduate degree and minimum GPA 3.00. International transcripts must be official for review; documents not in English need certified literal translations. No external credential evaluation is required. TA students complete three five-week first-semester rotations; grant-funded RA students may enter with a major advisor and rotations are optional."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "All PhD applicants are considered automatically for competitive fall teaching assistantships, with tuition and fee waiver, health insurance and an undated annual stipend of $25,000. Funding is not guaranteed. The FAQ describes three years of program funding followed by advisor grant support."
+  },
+  "timeline": {
+    "interviews": "Interview invitations typically by mid-February (annual FAQ timing).",
+    "decisions": "After interviews, admission and funding decisions usually by mid-March (annual FAQ timing)."
+  },
+  "sources": [
+    {
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/biomolecular-ph-d/",
+      "label": "Program identity",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/frequently-asked-questions-for-prospective-students/",
+      "label": "Program FAQ",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/biomolecular-ph-d/application-process/",
+      "label": "PhD application materials",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/applicationdeadlines/",
+      "label": "Published deadlines",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.boisestate.edu/biomolecularsciences/fee-waiver/",
+      "label": "Restricted program fee waiver",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/",
+      "label": "International graduate admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/biomolecular-ph-d/laboratory-rotations/",
+      "label": "Assistantship and rotation routes",
+      "checked": "2026-10-28"
+    }
+  ]
+}

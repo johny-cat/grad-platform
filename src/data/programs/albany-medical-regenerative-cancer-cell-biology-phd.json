@@ -1,0 +1,75 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Regenerative and Cancer Cell Biology PhD",
+  "institution": "Albany Medical College",
+  "institutionShort": "Albany Medical",
+  "officialUrl": "https://www.amc.edu/education/basic-science-ms-phd/regenerative-cancer-cell-biology/",
+  "applyUrl": "https://gradadmissions.amc.edu",
+  "detailsNote": "Official general admissions information is available, but the department suspended PhD admissions for the 2026 application cycle. Fall 2027 reopening and dates are not confirmed; do not assume applications are open.",
+  "publishedDeadlines": [
+    {
+      "label": "Annual rolling PhD application period",
+      "dateText": "September 1 - May 31",
+      "note": "General admissions window conflicts with the department’s 2026 PhD suspension; confirm current reopening."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International-applicant section explicitly calls fee waivable; criteria and approval process not stated. Confirm approval before payment."
+    },
+    "english": {
+      "note": "TOEFL/IELTS required when English is not the first language and the applicant has no degree from a US college/university. Numerical minimum not stated."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV",
+      "Personal statement under 500 words",
+      "Official transcripts from all college/university courses and institutions",
+      "Official TOEFL/IELTS score where applicable"
+    ],
+    "note": "Bachelor degree or equivalent required; no specific GPA minimum. International applicants need documentation of financial support for living in the US."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Trustee Tuition Scholarships available to all full-time matriculated basic-science doctoral/graduate students. Stipend,insurance and universal award guarantee not established."
+  },
+  "timeline": {
+    "interviews": "Virtual interview required. In-person interviews may be requested subject to availability; applicant bears costs."
+  },
+  "sources": [
+    {
+      "url": "https://www.amc.edu/education/basic-science-ms-phd/regenerative-cancer-cell-biology/",
+      "label": "Official PhD program",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.amc.edu/education/basic-science-ms-phd/regenerative-cancer-cell-biology/about-rccb/",
+      "label": "HistoricalPhDsuspension",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.amc.edu/admissions/basic-science-ms-phd-admissions/",
+      "label": "Shared admissions requirements and annualdates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.amc.edu/apply/cost-aid/",
+      "label": "Basic-science tuition scholarships",
+      "checked": "2026-10-28"
+    }
+  ]
+}

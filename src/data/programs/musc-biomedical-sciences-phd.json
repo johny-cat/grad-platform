@@ -1,0 +1,70 @@
+{
+  "name": "Biomedical Sciences PhD",
+  "institution": "Medical University of South Carolina",
+  "institutionShort": "MUSC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "tracks": [
+    "Biochemistry & Molecular Biology",
+    "Cell & Molecular Pharmacology & Experimental Therapeutics",
+    "Drug Discovery",
+    "Microbiology & Immunology",
+    "Molecular & Cellular Biology & Pathobiology"
+  ],
+  "applyUrl": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences",
+  "admissionModel": "program",
+  "summary": "Biomedical Sciences PhD with laboratory rotations and flexibility to explore research areas across molecular, cellular and translational science.",
+  "deadlines": [
+    {
+      "label": "Final application and all supporting materials",
+      "date": "2026-12-01"
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected applicants have virtual faculty interviews, followed by campus invitations. On-campus visits take place in January and March."
+  },
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Application fee shown in the 2026–27 fee table; confirm the fee for the new application cycle and any additional application-service charge. No applicable waiver policy verified."
+    },
+    "english": {
+      "toefl": "100 (scale not identified on program page)",
+      "ielts": 7,
+      "note": "Official scores required for non-native English speakers and must be no more than two years old. US study or foreign English-medium institution exceptions are considered case by case."
+    },
+    "documents": [
+      "GradCAS application and MUSC supplemental application",
+      "Transcripts from every postsecondary institution (official records required after an offer)",
+      "Personal statement, maximum 1,000 words, on career goals and program choice",
+      "Updated resume/CV",
+      "Professionally evaluated foreign academic records in English"
+    ],
+    "note": "Bachelor’s degree or foreign equivalent required before enrolling. GPA 3.0 or greater is a favorable guideline, not a single admission cutoff. No course prerequisites, but research experience should be demonstrated. Three letters preferably from scientific/health-care instructors or supervisors."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program publishes a $39,000 annual stipend effective July 1,2026, with tuition, fees and health insurance covered. The funding paragraph does not separately establish international eligibility; confirm the individual offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

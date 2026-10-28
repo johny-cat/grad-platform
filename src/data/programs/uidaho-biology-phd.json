@@ -1,0 +1,61 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Idaho",
+  "institutionShort": "Idaho",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.uidaho.edu/academics/degree-finder/biology-phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "applyUrl": "https://www.uidaho.edu/academics/degree-finder/biology-phd",
+  "publishedDeadlines": [
+    {
+      "label": "Priority consideration",
+      "dateText": "December 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "4.5",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "PTE Academic 58 also accepted. English proof applies when education was completed in countries where English is not an official language."
+    },
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown"
+    },
+    "documents": [
+      "Transcripts for all postsecondary education (unofficial for review; official after admission)",
+      "Resume",
+      "Statement of purpose",
+      "Valid picture ID"
+    ],
+    "note": "Bachelor’s degree in a similar field and GPA3.0; lower GPA may be considered with relevant experience/graduate study and program approval. Secure a major professor’s commitment to supervise research. Fall intake; spring only with special program permission."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Beginning Fall2026, appointed PhD teaching assistants receive $23,368.80 for the nine-month academic year, in-state tuition coverage, nonresident tuition waiver and health insurance. Summer scholarship up to $8,000 depends on funding. This is an appointment package, not an all-admitted funding guarantee."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "F-1/J-1 financial documentation required after admission."
+  },
+  "sources": [
+    {
+      "url": "https://www.uidaho.edu/academics/degree-finder/biology-phd",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

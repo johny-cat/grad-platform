@@ -1,0 +1,75 @@
+{
+  "name": "Biology PhD",
+  "institution": "Miami University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 deadline not explicitly confirmed. GRE guidance differs across the program listing and department guide; confirm current policy.",
+  "institutionShort": "Miami (Ohio)",
+  "admissionModel": "lab",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "January 1st",
+      "note": "Undated program policy; later applications may not receive full consideration."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Résumé/CV",
+      "Transcripts",
+      "Statement of research interests and career objectives"
+    ],
+    "english": {
+      "toefl": "100",
+      "ielts": 6.5,
+      "note": "Program-specific table; central qualifying US-degree/listed-country-degree or citizenship exemptions apply. Confirm applicability of central alternative tests to the program."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Limited central waivers for Miami graduate-degree holders, McNair scholars/alumni, or applicants from World Bank low-income countries. Not a general international hardship waiver."
+    },
+    "note": "Faculty sponsor required; contact before January1. Central bachelor's/equivalent and GPA2.75 minimum. Department guide asks for general GRE, while current program page and doctoral table omit GRE; confirm requirement."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Central doctoral page describes competitive graduate assistantships; individual Biology award not guaranteed."
+  },
+  "sources": [
+    {
+      "url": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://miamioh.edu/cas/departments/biology-new/guide-to-graduate-studies.html",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://miamioh.edu/graduate-school/academics/doctoral-programs.html",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/international-application.html",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

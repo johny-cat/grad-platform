@@ -1,0 +1,70 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "North Dakota State University",
+  "institutionShort": "North Dakota State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.ndsu.edu/curriculum/graduate/biological-sciences-doctorate/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "applyUrl": "https://www.ndsu.edu/graduate-school/apply",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full assistantship consideration",
+      "dateText": "January 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 35,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Nonrefundable fee. Waivers listed for McNair Scholars, US Armed Forces/Veterans and Native American applicants, under Domestic and Permanent Resident Applicants. Confirm category scope and international eligibility; no unrestricted international waiver established."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Resume/CV",
+      "Official transcripts/marksheets from every institution, degree documents and English translations where applicable"
+    ],
+    "gre": "unknown",
+    "english": {
+      "toefl": "81/4.5 as published",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Program-specific minima. Higher English standards apply to teaching appointments."
+    },
+    "note": "Advisor must agree to supervise before application consideration.2022–23 handbook generally expects GPA3.0 and lists GRE scores among evaluation factors, while current catalog gives no GRE requirement; confirm current GRE policy. International applicants require four-year bachelor’s equivalent or evaluation of a shorter degree."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "2022–23 department handbook says students are normally supported, but TA renewal depends availability and performance. Resident/nonresident graduate tuition waived for assistantship/fellowship recipients; students still pay semester fees. Confirm current offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/biological-sciences-doctorate/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ndsu.edu/graduate-school/apply",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ndsu.edu/fileadmin/biology/Graduate_Education/Graduate_Handbook_2022-3.pdf",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

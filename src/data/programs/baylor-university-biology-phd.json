@@ -1,0 +1,81 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Baylor University",
+  "institutionShort": "Baylor University",
+  "officialUrl": "https://biology.artsandsciences.baylor.edu/graduate/programs-and-degrees/doctor-philosophy-biology",
+  "tracks": [
+    "Ecology, Evolution, and Organismal Biology (EEO)",
+    "Cell, Molecular, Health, and Disease Biology (CMHD)"
+  ],
+  "detailsNote": "Official information is available; Fall 2027 dates are not explicitly confirmed. Admission routes differ between the two tracks.",
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1 of the year preceding admission",
+      "note": "Published annual rule; no explicit Fall 2027 date."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee per central admissions; domestic fee $50. Biology pages give $50 without a residency distinction. Biology explicitly offers international waivers with endorsement as a strong candidate by current graduate faculty; ask the Graduate Program Director. This program-specific route differs from central limited-waiver policy; confirm approval before paying."
+    },
+    "english": {
+      "toefl": "4.5 (PhD research doctorates)",
+      "ielts": 6.5,
+      "duolingo": 125,
+      "note": "Scores valid two years; confirm any higher department expectations. Exemption can be requested after uploading transcripts for a conferred US degree or a degree where English is the only language of instruction."
+    },
+    "documents": [
+      "Transcripts for all college and university studies; official copies needed before an admission decision",
+      "Personal statement identifying prospective professors and any prior contact"
+    ],
+    "note": "At least a BS in Biology, Biochemistry or related field and GPA 3.0. MS preferred but not required. EEO applicants apply directly to labs and should contact potential advisors. CMHD students enter the program and rotate among three labs in the first semester before choosing a lab."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "All accepted PhD applicants are guaranteed five years of tuition remission. All accepted PhD students are eligible for up to five years of teaching-assistant funding; this is eligibility, not a stipend guarantee. Research assistantships depend on PI funding."
+  },
+  "sources": [
+    {
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/programs-and-degrees/doctor-philosophy-biology",
+      "label": "PhD identity and tracks",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/graduate-programs-and-degrees",
+      "label": "Admissions and annual deadline",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/faqs",
+      "label": "Program FAQ, funding and waiver",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.baylor.edu/admissions/how-apply",
+      "label": "Central fee and admission requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination",
+      "label": "Graduate English policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

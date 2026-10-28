@@ -1,0 +1,87 @@
+{
+  "name": "Biomedical Sciences PhD",
+  "institution": "University of North Texas Health Science Center at Fort Worth",
+  "institutionShort": "UNT Health",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.unthealth.edu/college-of-biomedical-and-translational-sciences/degree-programs/phd-ms-biomedical-sciences/phd-in-biomedical-sciences.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "applyUrl": "https://www.unthealth.edu/students/future-students/admissions/phd-biomedical-sciences-application-guide.html",
+  "admissionModel": "program",
+  "summary": "Biomedical Sciences PhD with first-year laboratory rotations to identify a dissertation mentor and discipline-specific research training.",
+  "tracks": [
+    "Biochemistry and Cancer Biology",
+    "Cell Biology, Immunology and Microbiology",
+    "Genetics",
+    "Integrative Physiology",
+    "Pharmaceutical Sciences and Pharmacotherapy",
+    "Pharmacology and Neuroscience",
+    "Structural Anatomy and Rehabilitation Science",
+    "Visual Sciences"
+  ],
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Priority for funding opportunities",
+      "dateText": "Dec. 1",
+      "note": "No year stated."
+    },
+    {
+      "label": "Final application",
+      "dateText": "March 1",
+      "note": "No year stated; applications open Nov. 1."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 161,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "$86 BioMedCAS fee plus $75 UNT Health processing fee on the linked PhD guide. No applicable waiver verified."
+    },
+    "english": {
+      "toefl": "85 legacy scale; 4.0 modern scale",
+      "ielts": 6.5,
+      "note": "IELTS Academic; official scores within two years of the application deadline. International policy accepts IELTS/TOEFL and documented English-medium waiver requests; the PhD guide specifically names TOEFL, so confirm the program accepts the central alternatives. Documentation does not automatically grant a waiver."
+    },
+    "documents": [
+      "BioMedCAS application",
+      "Official transcripts from every college/university; WES course-by-course evaluation of non-US education",
+      "Statement of purpose on research interests, career goals and program choice",
+      "Resume/CV",
+      "Three signed recommendation letters on letterhead"
+    ],
+    "note": "Accredited bachelor’s degree required; final-semester students may apply. Core science preparation recommended, not required: biology, chemistry including organic chemistry, biochemistry, calculus or statistics. First-year rotations identify mentor/lab."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program states all PhD students receive $35,000/year plus tuition, fees and health insurance (amount undated), but separately says international students may qualify with proper documentation. Confirm international offer and documentation."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.unthealth.edu/college-of-biomedical-and-translational-sciences/degree-programs/phd-ms-biomedical-sciences/phd-in-biomedical-sciences.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.unthealth.edu/students/future-students/admissions/phd-biomedical-sciences-application-guide.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.unthealth.edu/students/future-students/admissions/international-admissions-requirements.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    }
+  ]
+}

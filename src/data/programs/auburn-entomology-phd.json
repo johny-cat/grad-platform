@@ -1,0 +1,81 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Auburn University",
+  "institutionShort": "Auburn",
+  "applyUrl": "https://applygrad.auburn.edu/",
+  "detailsNote": "Official information is available; Fall 2027 dates and an admission model were not explicitly confirmed.",
+  "international": {
+    "accepted": "yes"
+  },
+  "name": "Entomology PhD",
+  "officialUrl": "https://agriculture.auburn.edu/academic-programs/entomology.php",
+  "publishedDeadlines": [
+    {
+      "label": "International complete application",
+      "dateText": "4 months (international applicants)",
+      "note": "Department text adds stray word weeks; it otherwise states months before entry semester. Confirm exact date."
+    },
+    {
+      "label": "Domestic complete application",
+      "dateText": "2 months (domestic applicants)",
+      "note": "Undated relative deadline before entry semester; confirm exact date."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "79 with each component 16 (before January 21, 2026); 4.5 with each 4.0 (after January 21, 2026)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Duolingo each component 110. Official scores sent directly are required before review. Prior US degree may qualify for exemption; other exemptions are case-by-case based on government language and medium of instruction after official transcript submission. Department specifies TOEFL/IELTS within two years of planned entry and also describes possible US degree or two full-time US semester exemptions; confirm central approval."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic fee $60. Waivers limited to current Auburn graduate students enrolled in graduate courses, full-time Auburn employees, active-duty military with confirmation, and second application to approved dual program. Select eligible category and supply documentation. International eligibility for a particular route must be confirmed; no general hardship waiver established."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official undergraduate and graduate transcripts",
+      "GRE General scores directly from testing agency",
+      "CV",
+      "Letter of intent with research interests, experience, goals and any prospective-supervisor contact",
+      "Three recommendations sent directly by referees"
+    ],
+    "note": "Bachelor or equivalent with strong biology-related preparation; GPA3.0 preferred. GRE scores within five years of planned entry. Program describes PhD building on MS or similar experience, rather than an explicit universal MS prerequisite."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "TA/RA availability depends on faculty grants. Department PhD assistantships normally three years, possible one-year extension subject to funds/progress; awards temporary and performance-dependent. Stipend negotiated with advisor. Most full-time assistantship students may receive course tuition waivers; online courses excluded. Student fees/tuition can remain applicant responsibility; no full-funding guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://agriculture.auburn.edu/academic-programs/entomology.php",
+      "label": "Entomology requirements, relative dates and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/apply.php",
+      "label": "Central application and fee policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/international-instructions.php",
+      "label": "International and English policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php",
+      "label": "Program-specific test waivers",
+      "checked": "2026-10-28"
+    }
+  ]
+}

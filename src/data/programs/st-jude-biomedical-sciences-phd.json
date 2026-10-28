@@ -1,0 +1,71 @@
+{
+  "name": "Biomedical Sciences PhD",
+  "institution": "St. Jude Children's Research Hospital Graduate School of Biomedical Sciences",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/academics/phd-biomedical-sciences.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "institutionShort": "St. Jude",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Application and supporting materials",
+      "dateText": "December 1, 11:59 p.m. PST",
+      "note": "Admissions table does not state an entry year; not confirmed for Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No application fee."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "CV",
+      "Unofficial transcripts; final official records upon matriculation",
+      "One-page original scientific research summary",
+      "Two-page personal statement; identify two to three faculty of interest"
+    ],
+    "note": "U.S. citizenship or permanent residency required, plus English proficiency, scientific undergraduate degree and previous laboratory research. Transcripts in another language require certified word-by-word English translation."
+  },
+  "international": {
+    "accepted": "no",
+    "note": "Published minimum eligibility requires U.S. citizenship or permanent resident status."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "no",
+    "note": "Five years of institutional funding with good standing, independent of laboratory choice; full tuition scholarship and medical, dental and vision insurance. Undated published stipend $48,500."
+  },
+  "sources": [
+    {
+      "url": "https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/academics/phd-biomedical-sciences.html",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/academics/phd-biomedical-sciences/admissions.html",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/academics/phd-biomedical-sciences/faqs.html",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/academics/phd-biomedical-sciences/benefits.html",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    }
+  ]
+}

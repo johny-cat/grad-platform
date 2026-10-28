@@ -1,0 +1,86 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "PhD Program in Biology",
+  "institution": "Stowers Institute for Medical Research",
+  "institutionShort": "Stowers",
+  "officialUrl": "https://www.stowers.org/gradschool",
+  "applyUrl": "https://biomedcas.cas.myliaison.com",
+  "detailsNote": "Official requirements and Fall 2027 dates are available; an admission model was not established from the accessible pages.",
+  "deadlines": [
+    {
+      "label": "Complete application and recommendations",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "Standardized tests, including TOEFL, are not required or considered in admission."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Application is free; no waiver needed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV and educational/biographical information",
+      "Detailed research summary and additional research experience",
+      "Publications, if any, with contribution descriptions",
+      "Three faculty interests with reasons",
+      "Personal candidate statement",
+      "Official or unofficial transcripts from every postsecondary institution"
+    ],
+    "note": "Bachelor degree or equivalent required. Prior research is central to selection. At least one recommendation should come from a scientist who supervised the applicant’s research. Publications are not required."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 45320,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    },
+    "note": "No tuition; support guaranteed throughout the program in good standing. Required medical/pharmacy/dental plans have shared premiums; vision coverage can be purchased."
+  },
+  "timeline": {
+    "interviews": "March 4–5, 2027; selected applicants first give a virtual scientific presentation. Virtual interviews can be arranged when in-person attendance is not possible.",
+    "decisions": "Acceptance notices in March; final wait-list status by April 15 (annual FAQ timing)."
+  },
+  "sources": [
+    {
+      "url": "https://www.stowers.org/gradschool",
+      "label": "Fall 2027 program",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stowers.org/gradschool/admissions",
+      "label": "Admissions requirements and dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stowers.org/gradschool/phd-program-admissions-faq",
+      "label": "Admissions FAQ",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stowers.org/gradschool/program-benefits",
+      "label": "Funding and benefits",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Microbiology PhD",
+  "institution": "Miami University",
+  "country": "US",
+  "degree": "phd",
+  "field": "microbiology",
+  "details": "checked",
+  "officialUrl": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Central priority January1 is earlier than program January15; use earlier for funding/full consideration. Bulletin GRE request conflicts with current program's optional policy.",
+  "institutionShort": "Miami (Ohio)",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Central fall funding priority",
+      "dateText": "Jan. 1",
+      "note": "Undated doctoral table; earlier than program deadline."
+    },
+    {
+      "label": "Program fall full consideration",
+      "dateText": "January 15th",
+      "note": "Undated program page; later applications only if assistantships available."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Résumé/CV",
+      "Brief research-interest and career-objective statement"
+    ],
+    "english": {
+      "toefl": "100",
+      "ielts": 7.5,
+      "note": "Central program table. Own page says lower scores reduce chances. Central qualifying degree/citizenship exemptions available; confirm alternative tests with program."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Limited waivers for Miami graduate-degree holders, McNair scholars/alumni or World Bank low-income-country applicants."
+    },
+    "note": "At least two recommendations from science-oriented individuals. Interview encouraged; research experience beneficial. Strong biology/biochemistry preparation expected, with master's likely for degrees from outside specified regions. No faculty match before regular admission: three lab rotations. Bulletin asks GRE but current program explicitly optional; confirm any change."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Assistantships/associateships offered to all admitted master's/doctoral students; admission and funding competitive. Teaching appointees eligible for summer fellowships. Confirm award terms."
+  },
+  "sources": [
+    {
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletin.miamioh.edu/graduate-fields-study/microbiology/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://miamioh.edu/graduate-school/academics/doctoral-programs.html",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/international-application.html",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

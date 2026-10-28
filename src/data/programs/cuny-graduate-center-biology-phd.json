@@ -1,0 +1,79 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "CUNY Graduate Center",
+  "institutionShort": "CUNY Graduate Center",
+  "officialUrl": "https://www.gc.cuny.edu/biology",
+  "tracks": [
+    "Ecology, Evolutionary Biology, and Behavior",
+    "Molecular, Cellular, and Developmental Biology",
+    "Neuroscience",
+    "Plant Sciences"
+  ],
+  "detailsNote": "Official information is available; Fall 2027 dates and a uniform admission model across subprograms were not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Neuroscience and MCD",
+      "dateText": "December 1",
+      "note": "Undated fall-only date. Central policy states 11:59PM EST."
+    },
+    {
+      "label": "EEB and Plant Sciences",
+      "dateText": "January 1",
+      "note": "Undated fall-only date. Central policy states 11:59PM EST."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Only US Armed Services veterans and McNair Scholars qualify. Select pay by mail/check, notify admissions that application is complete and attach status documentation; do not send a check."
+    },
+    "english": {
+      "note": "TOEFL iBT or IELTS required unless qualifying English-only postsecondary degree in a listed country. Duolingo and other tests are not accepted. No numeric admission minimum established from the opened pages."
+    },
+    "documents": [
+      "Transcripts from each college or university attended, including unfinished and transferred coursework",
+      "Certified English translations with original-language records where needed",
+      "Letters of recommendation uploaded by recommenders through the application",
+      "Applicant statement"
+    ],
+    "note": "Science and mathematics background expected; other academic backgrounds may be admitted with conditions. Select preferred subprogram in program specialty. EEB and Plant Sciences applicants identify one or two faculty interests and should contact them. AMNH mentors require a separate AMNH application by December15; NYBG laboratories require both CUNY and NYBG applications. Only one doctoral program application at a time. All supporting documents due by program deadline."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Almost all accepted Biology students receive CUNY Science Scholarships, including full tuition waivers for domestic and foreign students, direct scholarships, teaching assistantships and other funds usually from research grants. This is not a universal award guarantee. All doctoral applicants automatically considered for five-year merit-based institutional packages. Student activity, senate, consolidated-service and technology fees are billed separately."
+  },
+  "sources": [
+    {
+      "url": "https://www.gc.cuny.edu/biology",
+      "label": "Degree identity and four subprograms",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.gc.cuny.edu/biology/admissions-and-aid",
+      "label": "Biology admissions and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.gc.cuny.edu/admissions-aid/how-apply/frequently-asked-questions",
+      "label": "Central application, English and fee FAQ",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.gc.cuny.edu/admissions-aid/how-apply/application-deadlines-and-requirements",
+      "label": "Subprogram deadlines and GRE",
+      "checked": "2026-10-28"
+    }
+  ]
+}

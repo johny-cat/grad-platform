@@ -1,0 +1,43 @@
+{
+  "name": "Biology PhD",
+  "institution": "Loma Linda University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://llu.edu/academics/programs/school-medicine/biology-phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official Biology PhD information available; no published application deadline. Admission model is not stated. Program and catalog prerequisites differ; confirm required preparation with the department.",
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "80 iBT / 550 paper",
+      "ielts": 6.5,
+      "duolingo": 105.0,
+      "note": "University policy also lists PTE Academic60, MELAB77 and iTEP Academic-Plus3.5; program may set higher standards."
+    },
+    "note": "Biology bachelor's required; M.S. recommended. Catalog requires acceptable general GRE (subject GRE not required), recommends M.S. GPA3.5+, and lists biology/chemistry year, physics course, genetics, organic chemistry or biochemistry, precalculus and statistics; select prerequisites may be waived by EBS committee. Main program page instead lists a year of physics and organic chemistry. Confirm this discrepancy. Applications accepted at any time; catalog review starts in February for autumn."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Research assistantships are competitively awarded; no universal funding guarantee stated."
+  },
+  "sources": [
+    {
+      "url": "https://llu.edu/academics/programs/school-medicine/biology-phd",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://llucatalog.llu.edu/medicine/biology/phd/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://llucatalog.llu.edu/about-university/admission-policies-information/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

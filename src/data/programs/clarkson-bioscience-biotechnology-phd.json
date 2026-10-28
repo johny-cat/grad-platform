@@ -1,0 +1,66 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "PhD in Bioscience and Biotechnology, Interdisciplinary",
+  "institution": "Clarkson University",
+  "institutionShort": "Clarkson",
+  "officialUrl": "https://www.clarkson.edu/academics/majors-minors/bioscience-technology-phd",
+  "applyUrl": "https://gradapp.clarkson.edu/",
+  "detailsNote": "Official information is available. Admissions are rolling without set deadlines; an admission model was not established from these pages.",
+  "publishedDeadlines": [
+    {
+      "label": "Graduate admissions",
+      "dateText": "rolling basis",
+      "note": "Central admissions states no set deadlines; confirm program funding availability."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "80; TOEFL Essentials 8.5",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "PTE 56 also accepted. English-medium instruction alone and university certificates do not waive testing. A degree from a listed country where English is the native language can qualify for exemption."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central admissions currently waives graduate application fees; no end date or nationality restriction stated. Confirm continued availability."
+    },
+    "documents": [
+      "Online application",
+      "Resume or CV",
+      "Statement of purpose naming two or three prospective faculty advisors",
+      "Three recommendations",
+      "Official transcripts"
+    ],
+    "note": "Four-year bachelor in biology or relevant science. Prerequisites: three biology semesters including genetics; four chemistry including organic; two physics; two mathematics including calculus. Central personal-statement guidance is 250–500 words."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "All graduate students are considered for merit assistance, awarded by departments; an award is not guaranteed. Teaching and research assistantships provide stipend plus full tuition, but not every assistantship type is available in every program."
+  },
+  "sources": [
+    {
+      "url": "https://www.clarkson.edu/academics/majors-minors/bioscience-technology-phd",
+      "label": "PhD identity, requirements and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.clarkson.edu/admissions-aid/graduate/how-to-apply",
+      "label": "Central rolling admissions, fee and documents",
+      "checked": "2026-10-28"
+    }
+  ]
+}

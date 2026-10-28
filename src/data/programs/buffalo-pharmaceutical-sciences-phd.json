@@ -1,0 +1,87 @@
+{
+  "name": "Pharmaceutical Sciences PhD",
+  "institution": "University at Buffalo",
+  "institutionShort": "UB",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "Published rolling application dates have no entry year. Fall 2027 dates and a rotation-based admission model are not confirmed.",
+  "officialUrl": "https://pharmacy.buffalo.edu/admissions/pharmaceutical-sciences/graduate-programs/doctor-of-philosophy--phd-.html",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published rolling admissions",
+      "dateText": "MS and PhD applications open July 1 and are reviewed on a rolling basis until all seats are filled.",
+      "note": "Undated. International applicants should apply by February 15 for timely I-20 processing; early application encouraged."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 (old scale) or 4 (new scale); Essentials 8.5",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "University minima also include PTE Academic/Academic Online 55 and CPE/CAE 185. Scores must be within two years of International Admissions review and sent by the agency. Upload an unofficial score copy to the application. English exemption requires citizenship AND English-medium education in one of the listed countries, or another listed category. A qualifying transfer from a US college needs a completed degree or at least two years there, GPA2.0 and no more than a three-year break. Recent UB program/degree changes and reciprocal nondegree exchanges have separate criteria. Overseas English-medium study alone is not an automatic exemption. Rare exceptions require a petition from the UB academic department, not the applicant, with justification and supporting records; International Admissions decides."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Only documented participation in listed categories qualifies: AmeriCorps, McNair/LSAMP/SSS/TRIO/CSTEP, EOP/HEOP/SEEK, military/veteran (including spouses), GRE fee waiver or Project 1000. The page lists no citizenship restriction for these categories, but says no other waivers, including for international applicants. International applicants must confirm category eligibility; no general international hardship waiver is offered."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Transcripts from every college/university; unofficial copies for review, official copies after admission",
+      "Personal statement of purpose (maximum 500 words)",
+      "Resume/CV",
+      "Two faculty recommendation letters",
+      "English proficiency evidence if required",
+      "Passport photo page for international applicants; current I-20/visa if studying in the U.S."
+    ],
+    "note": "Bachelor's degree or higher in pharmacy, biochemistry, chemistry, biology, engineering or another science; GPA at least 3.0/4.0; demonstrated proficiency in organic/physical chemistry, biochemistry, biology and mathematics. Research experience/publications considered favorably. Requirements tab explicitly says GRE optional; FAQ says not required. Faculty mentors are assigned after enrollment, and prior adviser identification is unnecessary. International WES evaluation is not required, but accepted if available; financial form and bank documents are not required for PhD applicants. Recommendation letters: From faculty knowledgeable about the applicant's ability; address laboratory research, communication, creativity and academic performance."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Doctoral students receive full tuition scholarship and stipend; additional scholarships possible. Broad-based fee coverage applies to full-time, fully funded doctoral students and includes the international student fee where applicable. Stipend amount, duration and health-insurance terms were not established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://pharmacy.buffalo.edu/admissions/pharmaceutical-sciences/graduate-programs/doctor-of-philosophy--phd-.html",
+      "label": "Program entry requirements, published dates and doctoral funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://pharmacy.buffalo.edu/admissions/pharmaceutical-sciences/graduate-programs/doctor-of-philosophy--phd-.requirements.html",
+      "label": "Application materials and optional GRE",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://pharmacy.buffalo.edu/admissions/pharmaceutical-sciences/graduate-programs/doctor-of-philosophy--phd-.international-applicants.html",
+      "label": "International applicant requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://pharmacy.buffalo.edu/admissions/faq.html",
+      "label": "Graduate program fee-waiver limits and adviser assignment",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/programs/pharmaceutical-sciences-phd.html",
+      "label": "Graduate School profile and application fee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/explore/admissions/requirements.html",
+      "label": "Central English proficiency and exemptions",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

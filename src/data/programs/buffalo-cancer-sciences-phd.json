@@ -1,0 +1,75 @@
+{
+  "name": "Cancer Sciences PhD",
+  "institution": "University at Buffalo",
+  "institutionShort": "UB / Roswell Park",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "admissionModel": "program",
+  "officialUrl": "https://www.roswellpark.org/education/masters-phd-programs/phd-program",
+  "cycle": "fall-2027",
+  "tracks": [
+    "Cancer Prevention",
+    "Cancer Genomics and Computational Oncology",
+    "Tumor Immunology",
+    "Cell Stress and Biophysical Oncology",
+    "Experimental Therapeutics"
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-12-05",
+      "note": "Applications open September 1, 2026. Program starts August 23, 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 (old scale) or 4 (new 1–6 scale); Home Edition 79; Essentials 8.5",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Also accepts IELTS Indicator/One Skill Retake, PTE Academic/Academic Online 55, CPE/CAE 185. Scores must be within two years of International Admissions review and sent by the testing agency. English exemption requires citizenship AND English-medium education in one of the listed countries, or another listed category. A qualifying transfer from a US college needs a completed degree or at least two years there, GPA2.0 and no more than a three-year break. Recent UB program/degree changes and reciprocal nondegree exchanges have separate criteria. Overseas English-medium study alone is not an automatic exemption. Rare exceptions require a petition from the UB academic department, not the applicant, with justification and supporting records; International Admissions decides."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The international-applicant FAQ explicitly says fee waivers are not available."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts from every college/university attended",
+      "Personal statement (no word limit), highlighting biological coursework and research",
+      "Current resume or CV",
+      "Three recommendation letters",
+      "Unofficial WES evaluation for all international transcripts",
+      "Official English proficiency scores if required"
+    ],
+    "note": "Bachelor's degree or equivalent from an accredited/government-recognized institution and undergraduate GPA of at least 3.0 required. Some three-year degrees are recognized; the page explicitly accepts accredited Indian three-year degrees. Apply to the program, not directly to a laboratory; three research rotations precede mentor selection. Transfer applicants need a letter from a current faculty member familiar with their work and reasons for transfer in the statement."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All doctoral students receive a stipend, full tuition scholarship and paid student fees, guaranteed for the duration of training contingent on good academic standing. No stipend amount or health-insurance coverage is stated on this page."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants are welcome; the program expects approximately 30% of its incoming class to be international. An unofficial WES report is required."
+  },
+  "sources": [
+    {
+      "url": "https://www.roswellpark.org/education/masters-phd-programs/phd-program",
+      "label": "Roswell Park / UB Cancer Sciences PhD admissions, Fall 2027 dates and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/explore/admissions/requirements.html",
+      "label": "Central English proficiency and exemption/department-petition policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

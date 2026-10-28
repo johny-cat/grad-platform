@@ -1,0 +1,72 @@
+{
+  "name": "Biology PhD",
+  "institution": "Lehigh University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://cas.lehigh.edu/graduate/degrees/biological-sciences",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 deadline is not explicitly confirmed. English scores below come from the published 2026 policy; the linked 2027 policy could not be read.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Fall PhD application and supporting materials",
+      "dateText": "January 1",
+      "note": "Undated program deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Transcripts (unofficial accepted for review)",
+      "Statement of purpose",
+      "Résumé/CV"
+    ],
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Limited opportunities each admission cycle; inquire through the CAS inquiry form. Eligibility and approval not guaranteed."
+    },
+    "english": {
+      "toefl": "2026 policy: 85 overall; R21 L15 S24 W25",
+      "note": "2026 policy: Duolingo 115; IELTS 6.5 overall; R6.5 L6 S7.5 W6.5; 2026 policy also lists Cambridge 185/169 per skill and PTE 68/53 per band (PTE accepted beginning 2027). Alternative routes include qualifying English-speaking citizenship/permanent residence, qualifying bachelor's study, or two consecutive years of qualifying recent study/work; country, instruction and physical-presence conditions apply. Teaching assistants may need further assessment. Recheck the linked 2027 policy."
+    }
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Twelve months of financial support through teaching/research assistantships and fellowships. Satisfactory-progress students normally supported until degree completion."
+  },
+  "sources": [
+    {
+      "url": "https://cas.lehigh.edu/graduate/degrees/biological-sciences",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.cas.lehigh.edu/graduate/admissions/faqs",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bio.cas.lehigh.edu/graduate",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cas.lehigh.edu/files/cas/2025-08/2026%20CAS%20English%20Language%20Proficiency%20Policy.pdf",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://go.lehigh.edu/languagepolicy",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

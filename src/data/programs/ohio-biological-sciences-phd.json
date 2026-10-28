@@ -1,0 +1,77 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "Ohio University",
+  "institutionShort": "Ohio University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.ohio.edu/cas/biology/graduate/phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "tracks": [
+    "Cell, Developmental and Microbiology",
+    "Ecology and Evolutionary Biology",
+    "Integrative Physiology and Neuroscience"
+  ],
+  "applyUrl": "https://www.ohio.edu/graduate/apply/degree-seeking",
+  "publishedDeadlines": [
+    {
+      "label": "Fall admission and funding consideration",
+      "dateText": "January 8",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 55,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "First international graduate-degree application $55; US categories $50; additional applications $25. Central waiver for documented McNair participants requested before payment. Academic programs may offer case-by-case waivers; confirm offer and international eligibility with program."
+    },
+    "english": {
+      "toefl": "Department requires TOEFL-iBT90 plus faculty documentation of spoken English ability (published scale not identified)",
+      "note": "Department says its requirement exceeds central admission minimum. Central IELTS Academic: admission6.0 overall/all bands; funding6.5 overall/all bands; TA6.5 overall, Speaking7 and other bands6.5. No department-specific IELTS conversion verified; confirm accepted alternative to departmental TOEFL90. Tests valid two years; central exemptions depend degree location/country, date and funding category."
+    },
+    "documents": [
+      "Transcripts from bachelor’s institution and all post-bachelor/graduate study",
+      "Statement of purpose naming section, three active faculty interests and at least one interested interim advisor",
+      "Resume"
+    ],
+    "note": "GPA3.2 in most recent degree. Undergraduate calculus, organic chemistry, physics and biology preparation equivalent to the university biology major expected. An interested interim advisor is requested, but admission may place students in another research lab; no single admission model assigned."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admission/funding decisions depend on hierarchical applicant ranking and available funding if aid is needed. No all-admitted guarantee or current department stipend verified."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.ohio.edu/cas/biology/graduate/phd",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ohio.edu/cas/biology/graduate/admissions",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ohio.edu/graduate/apply/degree-seeking",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ohio.edu/graduate/english-proficiency",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -18,3 +18,11 @@
 - Virtual: <https://abbs.arizona.edu/frequently-asked-questions> "We will host virtual interviews for candidates who are applying from outside of the United States."
 - TOEFL: <https://grad.arizona.edu/admissions/requirements/english-proficiency> "TOEFL (Test of English as a Foreign Language) minimum score of 79 internet based (iBT) or 550 paper based (PB)"
 - IELTS: <https://grad.arizona.edu/admissions/requirements/english-proficiency> "IELTS (International English Language Testing System) minimum composite score of 7 (no subject area below a 6)"
+
+## Link and English-policy refresh — 2026-10-28
+
+The old central URL https://grad.arizona.edu/admissions/requirements/english-proficiency could not be opened. Opened its current official replacement: https://grad.arizona.edu/admissions/requirements/international-applicants. Earlier English-policy evidence above is historical; the JSON uses this current policy.
+
+Sections: English Proficiency; Acceptable Credentials; Exemptions; Teaching Proficiency. Exact fragment: “Minimum overall score of 4.0 on the TOEFL 1-6 scale.” Current requirements: older TOEFL79; IELTS7/allsubjects6; PTE60; CEPT110; two-year enrollment validity. DET/doctoral Essentials/IELTS One Skill Retake excluded. Exemptions require qualifying citizenship, completed U.S./approved-guide degrees, or qualifying two-year study (48 upper-division undergraduate or30 graduate graded credits, units no older than two years). Teaching has separate speaking proof; no blanket English-medium-degree exemption. No other program facts changed.
+
+Independent link-repair review (2026-10-28): replacement official page opened independently; all refreshed English scores, exclusions, validity and exemption/teaching conditions match. Clarified that the two-year graded-study exemption concerns applicants who have not yet completed a degree. Source and lastChecked use the new review date; older program-source dates retained.

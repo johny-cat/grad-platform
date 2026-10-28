@@ -1,0 +1,61 @@
+{
+  "name": "Biology PhD",
+  "institution": "Georgia State University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.gsu.edu/program/biology-phd/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "institutionShort": "Georgia State",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Program describes both direct research admission and laboratory rotations, so a single admission model is not assigned.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall admission",
+      "dateText": "February 15",
+      "note": "Program page gives no year; no spring/summer admission."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "TOEFL or IELTS Academic required for international applicants; numerical program minima not established on opened page."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central listed-program participation waivers; eligibility verified. International eligibility not explicit; confirm. IBMS merit waivers are not applied to this separate Biology program."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Statement of purpose"
+    ],
+    "note": "Undergraduate or master's degree in biology, chemistry or related field. Department describes one integrated PhD replacing previous concentrations. Entry may be direct into research or through two eight-week rotations."
+  },
+  "sources": [
+    {
+      "url": "https://www.gsu.edu/program/biology-phd/",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.gsu.edu/academics/graduate/graduate-curriculum-changes/",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.gsu.edu/future/admissions/",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department offers competitive graduate assistantships including a stipend and tuition waiver, and advises early application. No all-admitted or separate international guarantee stated."
+  }
+}

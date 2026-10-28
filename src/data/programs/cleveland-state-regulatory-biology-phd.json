@@ -1,0 +1,78 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Regulatory Biology PhD",
+  "institution": "Cleveland State University",
+  "institutionShort": "Cleveland State",
+  "officialUrl": "https://artsandsciences.csuohio.edu/bges/doctoral-degree",
+  "tracks": [
+    "Cellular and Molecular Medicine Specialization"
+  ],
+  "detailsNote": "Official information is available; Fall 2027 program deadlines and an admission model were not confirmed. The broad archive biology directory lead resolves to Regulatory Biology, jointly offered with Cleveland Clinic.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall assistantship consideration",
+      "dateText": "by March",
+      "note": "Department describes typical initial decisions from completed applications received by March; no exact date or year."
+    },
+    {
+      "label": "Central international fall deadline",
+      "dateText": "July 21st",
+      "note": "Undated central outer deadline; programs may require earlier applications."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Central international graduate admissions states no CSU application fee. External application-system fees are excluded."
+    },
+    "english": {
+      "toefl": "78 with each section17 (old); 4.0 overall, R/L/S3.5 and W4.0 (new)",
+      "ielts": 6,
+      "duolingo": 110,
+      "note": "IELTS each section5.0; Duolingo each section95. PTE50 and iTEP3.8 accepted centrally. Exemptions for US or listed-country education. Department requires TOEFL speaking26 for a teaching assistantship and spoken-English certification; confirm current-scale equivalent rather than infer."
+    },
+    "documents": [
+      "Official postsecondary records with certified English translations",
+      "Statement of purpose including research interests",
+      "Two recommendations",
+      "GRE or MCAT, or research portfolio",
+      "International applicants: foreign transcript evaluation"
+    ],
+    "note": "Undergraduate GPA3.3; master’s or combined bachelor/master GPA3.5. GRE or MCAT at least50th percentile in every category can be replaced by research portfolio (contact director), including previous-project summary, an additional research-focused recommendation and publications if available. Thus portfolio route needs a third letter. Bachelor equivalent required centrally."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive TA/RA support may include tuition and stipend, typically no more than six years. Funding is not guaranteed; award thresholds exceed admission minima. Limited service-based tuition waivers may also be available. International TA applicants have additional spoken-English requirements."
+  },
+  "sources": [
+    {
+      "url": "https://artsandsciences.csuohio.edu/bges/doctoral-degree",
+      "label": "Regulatory Biology identity, requirements and assistantships",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.csuohio.edu/international-admissions/graduate-admission-requirements-0",
+      "label": "International degree, evaluation and English requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions",
+      "label": "International application fee, records and outer dates",
+      "checked": "2026-10-28"
+    }
+  ]
+}

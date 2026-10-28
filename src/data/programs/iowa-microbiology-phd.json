@@ -1,0 +1,84 @@
+{
+  "name": "Microbiology PhD",
+  "institution": "University of Iowa",
+  "institutionShort": "Iowa",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://microbiology.medicine.uiowa.edu/graduate-education/admissions",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "81 for tests beforeJanuary2026;4.5 for tests afterJanuary2026",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "University IELTS minimum7 overall with no subscore below6; PTE68 overall with no subscore below58. Program requirements may be higher. Country/qualifying-degree exemptions apply; see the central policy. The department describes TOEFL100 or IELTS8 as qualities of the strongest international applicants, not admission minima."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee100USD; domestic fee60USD. Central policy expressly excludes international fee waivers. Reimbursement after an invited, completed interview is a separate process; confirm whether it covers international applicants."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial academic records/transcripts",
+      "Resume or CV",
+      "Research statement",
+      "Personal statement",
+      "Three letters of recommendation",
+      "English proficiency scores when required"
+    ],
+    "note": "Minimum GPA3.00/4 or foreign equivalent. Department says all invited applicants completing interview receive fee reimbursement, while separately excluding international fee waivers; confirm reimbursement eligibility before relying on it."
+  },
+  "sources": [
+    {
+      "url": "https://grad.admissions.uiowa.edu/academics/microbiology-phd",
+      "label": "Graduate Admissions program requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://microbiology.medicine.uiowa.edu/graduate-education/admissions",
+      "label": "Program application instructions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://microbiology.medicine.uiowa.edu/graduate-education/admissions/financial-support",
+      "label": "Program funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements",
+      "label": "University English tests and exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.admissions.uiowa.edu/graduate-fee-waiver",
+      "label": "Application fee waiver eligibility",
+      "checked": "2026-10-28"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Priority application deadline",
+      "date": "2026-12-01"
+    }
+  ],
+  "detailsNote": "Current priority deadline confirmed; the admissions model is not established by the opened admissions pages.",
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 36350,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–27"
+    },
+    "note": "All Microbiology PhD students are financially supported. July2026–June2027 stipend36350 plus tuition/mandatory fees and health/dental benefits; support beyond year1 requires satisfactory progress."
+  }
+}

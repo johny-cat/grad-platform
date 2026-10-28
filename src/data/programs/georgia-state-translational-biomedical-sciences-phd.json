@@ -1,0 +1,76 @@
+{
+  "name": "Translational Biomedical Sciences PhD",
+  "institution": "Georgia State University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://biomedical.gsu.edu/program/translational-biomedical-sciences-phd/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "institutionShort": "Georgia State",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Early decision",
+      "dateText": "November 1",
+      "note": "Annual fall date without year."
+    },
+    {
+      "label": "Final admission",
+      "dateText": "March 1",
+      "note": "Annual fall date without year."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "69 total or 4 on the 2026 scale",
+      "ielts": 6,
+      "note": "IELTS Academic, including Online/One Skill Retake; TOEFL Home Edition/MyBest accepted. Scores must be no older than two years at application. U.S. degree or qualifying English-official-country degree/birth may exempt; consult official country list."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Limited merit waivers require GPA 3.8+, relevant wet-lab experience, no eligibility for central waiver, submitted application and supporting form/transcripts/CV. International eligibility not explicit; confirm. Central listed-program participation waivers also exist; no financial hardship waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from every institution attended",
+      "CV/resume and personal statement",
+      "Writing sample (abstract preferred; maximum 20 pages)",
+      "Graduate-assistant questions within the online application",
+      "Passport copy for international applicants"
+    ],
+    "note": "Conferred bachelor's degree required; prerequisites built into curriculum. No prior lab match required; accepted students matched with two to three labs at start. Application steps require a writing sample, although a general page teaser calls it optional; follow the explicit requirement and confirm any exception."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted doctoral students receive GRA, full tuition waiver and undated minimum stipend $2,500/month. Student fees, health insurance and $37.50 registration remain payable; legal-presence verification required."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.gsu.edu/future/admissions/",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biomedical.gsu.edu/program/translational-biomedical-sciences-phd/",
+      "label": "Official admissions and program policies",
+      "checked": "2026-10-28"
+    }
+  ]
+}

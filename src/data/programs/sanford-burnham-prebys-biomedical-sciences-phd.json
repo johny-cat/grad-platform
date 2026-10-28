@@ -1,0 +1,78 @@
+{
+  "name": "Biomedical Sciences PhD",
+  "institution": "Sanford Burnham Prebys",
+  "institutionShort": "Sanford Burnham Prebys",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://sbpdiscovery.org/education/graduate-school/admissions/",
+  "cycle": "fall-2027",
+  "admissionModel": "lab",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "label": "Supporting documents",
+      "date": "2026-12-03",
+      "note": "Recommendation letters and official transcripts due."
+    }
+  ],
+  "timeline": {
+    "interviews": "Virtual interview day in February 2027."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "note": "TOEFL/IELTS within two years. Successful applicants generally score at least TOEFL 100 or IELTS 7; these are typical successful scores, not stated hard minima. English-instructed undergraduate or graduate degree exempts."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Waivers restricted to U.S. citizens/permanent residents; documented program participation, need or veteran status. Approval required in advance."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV/resume",
+      "Personal statement (approximately 1,000 words)",
+      "All undergraduate and graduate transcripts; official documents by December 3",
+      "Official translations of foreign documents"
+    ],
+    "note": "Faculty commitment and favorable admissions committee review required; no rotations. Undergraduate degree expected; relevant scientific preparation and research experience considered."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 51500,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "All GSBS students receive a stipend and medical, dental and vision benefits. Published amount is 2026–27; Fall 2027 amount not separately confirmed."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "School issues F-1 student visas to accepted international applicants."
+  },
+  "sources": [
+    {
+      "url": "https://sbpdiscovery.org/education/graduate-school/admissions/",
+      "label": "Official program requirements and policies",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://sbpdiscovery.org/wp-content/uploads/2026/08/GSBS-Application-Fee-Waiver-Policy_Aug-192026.pdf",
+      "label": "Official program requirements and policies",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

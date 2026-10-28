@@ -1,0 +1,79 @@
+{
+  "name": "Cell and Molecular Biology PhD",
+  "institution": "University of Hawaii at Manoa",
+  "institutionShort": "Hawaiʻi Mānoa",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://manoa.hawaii.edu/graduate/cell-and-molecular-biology/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "applyUrl": "https://cmb.jabsom.hawaii.edu/graduate-program/admissions.html",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "3.5 (2026 onward); 61 (pre-2026), central minimum",
+      "ielts": 5.5,
+      "duolingo": 90,
+      "note": "Central admission minimum; program may require higher. Graduate-assistant eligibility minima: TOEFL5 overall with Listening/Speaking5 (old scale100 with25 each), IELTS7 overall with Listening7/Speaking7.5, or Duolingo135 overall with Listening135/Speaking145. Tests valid two years. Exemption: native English or qualifying degree within five years in a listed exempt country; English-medium education elsewhere is not sufficient under this policy."
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Program explicitly says it has no provision for application-fee waivers."
+    },
+    "documents": [
+      "CV",
+      "Statement of objectives",
+      "Transcripts (unofficial for review; official before enrollment)"
+    ],
+    "note": "Typical undergraduate GPA3.0. Required coursework: two semesters each general biology/microbiology, upper-level biology/genetics/cell biology, general chemistry, organic chemistry and physics; one semester calculus or statistics."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://manoa.hawaii.edu/graduate/cell-and-molecular-biology/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cmb.jabsom.hawaii.edu/graduate-program/admissions.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/graduate/documentation-requirements/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://manoa.hawaii.edu/graduate/english-proficiency-exemption-eligibility/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cmb.jabsom.hawaii.edu/graduate-program/faqs.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admission is independent of securing an assistantship. PhD students are expected to work in laboratories able to sponsor research assistantships, occasionally substituted by teaching appointments. Appointed assistants receive salary, medical benefits after at least three months, and tuition waiver; funding is not established for every admitted student."
+  }
+}

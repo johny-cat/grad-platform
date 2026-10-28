@@ -1,0 +1,86 @@
+{
+  "name": "Biology PhD",
+  "institution": "New Mexico State University",
+  "institutionShort": "New Mexico State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.nmsu.edu/degree-programs/graduate/doctoral/biology.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "tracks": [
+    "Behavioral, Ecological and Evolutionary Biology",
+    "Cell and Organismal Biology",
+    "Microbiology"
+  ],
+  "applyUrl": "https://gradschool.nmsu.edu/future-students/admission.html",
+  "publishedDeadlines": [
+    {
+      "label": "Fall early review",
+      "dateText": "December 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall later review (2025 department document)",
+      "dateText": "March 1",
+      "note": "Applications after March1 may be reviewed but Fall entry is not guaranteed. Confirm with department; current degree page lists December15 only."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "First graduate application is free. Subsequent applications cost $40 domestic/$50 international."
+    },
+    "english": {
+      "toefl": "79 before January21,2026; 4.0 on/after that date",
+      "ielts": 6.5,
+      "note": "Doctoral students must meet published minimum. Waiver categories include a qualifying US study period or degree from US/listed countries; English-medium education alone is not a universal exemption.",
+      "duolingo": 105
+    },
+    "documents": [
+      "Transcripts",
+      "CV/resume",
+      "Personal statement (2025 department guidance specifies two pages)",
+      "Three recommendation letters; list three potential faculty mentors in order of preference"
+    ],
+    "note": "Bachelor’s degree and GPA3.0 required. Advisor must agree to accept the applicant before committee review. Current degree page says no GRE; older2025 admissions PDF still requests GRE for non-US graduates, so the current no-GRE statement is used and the inconsistency should be confirmed."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "2025 department guidance: research students need documented independent/RA support or a TA request for acceptance. All admitted students are eligible for TA support but availability is not guaranteed; RA support is at the investigator’s discretion."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.nmsu.edu/degree-programs/graduate/doctoral/biology.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.nmsu.edu/future-students/admission.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.nmsu.edu/future-students/requirements/english-proficiency-transcript-evaluation.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bio.nmsu.edu/students/2025-Biology-Grad-Admissions.pdf",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

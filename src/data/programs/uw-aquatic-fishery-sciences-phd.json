@@ -1,0 +1,92 @@
+{
+  "name": "Aquatic and Fishery Sciences PhD",
+  "institution": "University of Washington",
+  "institutionShort": "UW",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://fish.uw.edu/students/graduate-program/prepare-apply/",
+  "cycle": "fall-2027",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "4.0 minimum;80 for tests beforeJanuary21,2026. Recommended4.5 or92 on older scale.",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central minimums; recommended IELTS7 or DET130. Admission below recommended scores requires1–2Academic English Program courses with additional fees. Programs can impose higher standards. Qualifying English-medium bachelor/master/doctoral degrees can satisfy policy with official documentation and full-duration campus/country residency. Official scores valid2years; MyBest/IELTSOneSkillRetake not accepted."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central need/preparation-program waivers exclude F1/J1 applicants. A separate stacked-degree waiver concerns subsequent applications in approved pathways and is not a general first-PhD fee waiver."
+    },
+    "letters": {
+      "min": 2,
+      "max": 4
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Two to four electronic recommendation letters",
+      "Faculty interests",
+      "Research statement (maximum 1,000 words)",
+      "Personal statement (maximum 500 words)",
+      "Curriculum vitae"
+    ],
+    "note": "Secure a faculty sponsor before applying; applicants without sponsorship are unlikely to be admitted. Applicants without a master’s degree at entry should use the MS application and indicate their PhD intent; transition to PhD requires committee support. Optional extenuating-circumstances statement (500 words); no additional writing samples or publications accepted. Research statement addresses proposed research and preparation; personal statement covers rationale, goals and relevant skills."
+  },
+  "sources": [
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "University English tests and degree exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "University application fee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "University fee waiver restrictions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://fish.uw.edu/students/graduate-program/prepare-apply/",
+      "label": "Department application requirements and undated deadline",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://fish.uw.edu/students/graduate-program/ms-and-ph-d-in-aquatic-and-fisheries-science/",
+      "label": "PhD identity and MS-entry route",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://fish.uw.edu/students/graduate-program/funding/",
+      "label": "Funding required for admission and package limits",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28",
+  "admissionModel": "lab",
+  "detailsNote": "The official November 15 deadline is undated; Fall 2027 is not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "November 15",
+      "note": "For both domestic and international applicants; undated. Late/incomplete applications not considered."
+    }
+  ],
+  "timeline": {
+    "decisions": "Offers begin in March; all applicants hear before April 15 (annual schedule, year not specified)."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "SAFS admits only students with confirmed funding for at least six to eight quarters; packages vary by sponsor and available RA/TA, fellowships, employer or external aid. Packages typically include stipend/salary, health insurance, tuition and some fees. This is not a full-PhD-duration guarantee; students pay remaining fees and must meet progress/work/enrollment conditions. Personal savings/loans do not count toward admission funding."
+  },
+  "international": {
+    "accepted": "yes"
+  }
+}

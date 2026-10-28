@@ -1,0 +1,84 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Graduate Program in Interdisciplinary Biomedical Sciences (GPIBS) PhD",
+  "institution": "University of Arkansas for Medical Sciences",
+  "institutionShort": "UAMS",
+  "officialUrl": "https://gradschool.uams.edu/prospective-students/programs/graduate-program-in-interdisciplinary-biomedical-sciences",
+  "applyUrl": "https://gradschool.uams.edu/prospective-students/programs/graduate-program-in-interdisciplinary-biomedical-sciences/admission-information",
+  "admissionModel": "program",
+  "tracks": [
+    "Biochemistry and Molecular Biology",
+    "Cancer Biology",
+    "Cell Biology and Physiology",
+    "Microbiology and Immunology",
+    "Neuroscience",
+    "Pathobiology",
+    "Pharmacology, Toxicology and Experimental Therapeutics"
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application and all materials",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79, described as computer-based on the central page; confirm applicable scale",
+      "ielts": 6.5,
+      "note": "Central suggested minima; departments may set higher scores. Tests must be within two years preceding the admission semester. Native-English and qualifying US bachelor/master degree exemptions exist. Official reports required."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No application fee; no waiver needed."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV/resume",
+      "Statement of purpose: approximately 2 pages or 1,000–1,200 words",
+      "Official transcripts for all coursework, including transfer credit",
+      "Official foreign transcript evaluation if records are not in English and on a 4.0 scale",
+      "Official TOEFL/IELTS scores for applicable international applicants"
+    ],
+    "note": "Strong biological/chemical science preparation preferred; GPA 3.0 equivalent or higher is competitive. Three fall lab rotations before mentor/track selection. Select Biomedical Sciences Doctor of Philosophy in Workday. All materials, letters and scores are due by the deadline."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "PhD students in good standing receive full tuition remission and an undated published $35,000/year stipend throughout the program. Insurance and fee coverage not established."
+  },
+  "sources": [
+    {
+      "url": "https://gradschool.uams.edu/prospective-students/programs/graduate-program-in-interdisciplinary-biomedical-sciences",
+      "label": "GPIBS tracks,current deadline and curriculum",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.uams.edu/prospective-students/programs/graduate-program-in-interdisciplinary-biomedical-sciences/admission-information",
+      "label": "PhD admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.uams.edu/prospective-students/programs/graduate-program-in-interdisciplinary-biomedical-sciences/uams-gpibs-faqs",
+      "label": "FAQ: model,GRE,funding and materials deadline",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.uams.edu/prospective-students/application-international",
+      "label": "International requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}

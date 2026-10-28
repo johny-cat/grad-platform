@@ -1,0 +1,52 @@
+{
+  "name": "Anatomy and Cell Biology PhD",
+  "institution": "Liberty University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biomedical-sciences",
+  "details": "checked",
+  "officialUrl": "https://www.liberty.edu/residential-at-liberty/phd-doctor-philosophy-anatomy-cell-biology/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "International fall admission",
+      "dateText": "March 31",
+      "note": "Central policy requires application complete and acceptance by this date before fall; no year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official college transcripts",
+      "Statement of purpose, 1,000–1,500 words"
+    ],
+    "english": {
+      "toefl": "80 iBT or equivalent; Essentials 8.5",
+      "ielts": 6.5,
+      "duolingo": 105.0,
+      "note": "If English is not primary language. Alternatives PTE55 or iTEP3.9. Foreign academic records require NACES-member evaluation."
+    },
+    "note": "B.S. or M.S. in biomedical-sciences-related field, GPA minimum 3.0; research preferred. Must submit GRE300 combined verbal/quantitative OR MCAT60th percentile OR conferred M.S. GPA3.0. Statement must discuss personal background, motivation, career goals, Christian commitment and views on origins. Three faculty/professional letters require physical signatures and email submission. Application fee deferred until enrollment; amount and waiver not established."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate assistantship opportunities may provide a full-time tuition scholarship. International applicants may seek GSA openings; no universal appointment or living stipend guarantee stated."
+  },
+  "sources": [
+    {
+      "url": "https://www.liberty.edu/residential-at-liberty/phd-doctor-philosophy-anatomy-cell-biology/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.liberty.edu/residential/international/graduate/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

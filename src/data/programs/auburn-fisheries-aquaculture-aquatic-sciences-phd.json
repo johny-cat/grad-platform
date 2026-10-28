@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Auburn University",
+  "institutionShort": "Auburn",
+  "applyUrl": "https://applygrad.auburn.edu/",
+  "detailsNote": "Official information is available; Fall 2027 dates and an admission model were not explicitly confirmed.",
+  "international": {
+    "accepted": "yes"
+  },
+  "name": "Fisheries, Aquaculture, and Aquatic Sciences PhD",
+  "officialUrl": "https://agriculture.auburn.edu/academic-programs/fisheries-aqua-sciences.php",
+  "publishedDeadlines": [
+    {
+      "label": "International acceptance",
+      "dateText": "90 (international) days before the start of the target semester",
+      "note": "Program says new students must be accepted by then; central application documents also due90 days before term. Apply earlier for processing."
+    },
+    {
+      "label": "Domestic acceptance",
+      "dateText": "45 (domestic) days before the start of the target semester",
+      "note": "Program says accepted by then; apply earlier."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "79 with each component 16 (before January 21, 2026); 4.5 with each 4.0 (after January 21, 2026)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Duolingo each component 110. Official scores sent directly are required before review. Prior US degree may qualify for exemption; other exemptions are case-by-case based on government language and medium of instruction after official transcript submission."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic fee $60. Waivers limited to current Auburn graduate students enrolled in graduate courses, full-time Auburn employees, active-duty military with confirmation, and second application to approved dual program. Select eligible category and supply documentation. International eligibility for a particular route must be confirmed; no general hardship waiver established."
+    },
+    "documents": [
+      "Online application",
+      "Transcripts from all institutions",
+      "English proficiency where required"
+    ],
+    "note": "GRE required unless waived by faculty. Prospective students should identify a faculty member who will support their application before applying. Bachelor-equivalent required centrally; recommendation count and further program documents were not established from the opened page."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program lists an undated PhD assistantship range of $20,484–$27,500 for0.5FTE and12 months, at department discretion and subject to change. No all-student award or international funding guarantee established."
+  },
+  "sources": [
+    {
+      "url": "https://agriculture.auburn.edu/academic-programs/fisheries-aqua-sciences.php",
+      "label": "PhD identity, faculty support, dates and assistantship range",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/apply.php",
+      "label": "Central application and fee policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/international-instructions.php",
+      "label": "International and English policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php",
+      "label": "Program-specific test waivers",
+      "checked": "2026-10-28"
+    }
+  ]
+}

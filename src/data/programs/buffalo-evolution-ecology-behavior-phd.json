@@ -1,0 +1,70 @@
+{
+  "name": "Evolution, Ecology and Behavior PhD",
+  "institution": "University at Buffalo",
+  "institutionShort": "UB",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "The department labels its published deadlines Fall 2026, not Fall 2027. These are older reference dates only.",
+  "admissionModel": "lab",
+  "officialUrl": "https://arts-sciences.buffalo.edu/environment-sustainability/graduate/graduate-admissions.html",
+  "cycle": "fall-2027",
+  "tracks": [
+    "Ecology",
+    "Sustainability"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Published Fall 2026 PhD dates",
+      "dateText": "January 1st for funding consideration, May 1st final application deadline",
+      "note": "Explicitly for Fall 2026. Current-cycle dates not confirmed. All supporting materials needed for full TA consideration."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "79 (old scale) or 4 (new scale)",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Central admissions minima. For international TA eligibility, the department lists TOEFL Speaking 25, IELTS Speaking 7.5 or DET Speaking 145. Lower Speaking scores of at least TOEFL 22, IELTS 6.5 or DET 120 permit consideration with a successful in-person teaching demonstration. Lower scores or a failed demonstration require ELI 512 before assistantship duties. TA PTE minimum 55 with no section below 50; Cambridge score above 185. The department's speaking thresholds use the older TOEFL scale; no new-scale conversion inferred. English exemption requires citizenship AND English-medium education in one of the listed countries, or another listed category. A qualifying transfer from a US college needs a completed degree or at least two years there, GPA2.0 and no more than a three-year break. Recent UB program/degree changes and reciprocal nondegree exchanges have separate criteria. Overseas English-medium study alone is not an automatic exemption. Rare exceptions require a petition from the UB academic department, not the applicant, with justification and supporting records; International Admissions decides."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "U.S. citizens and permanent residents may request a waiver through the application portal after uploading all required materials."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Personal statement describing the proposed theory, skills and relevant research, and adviser fit",
+      "Resume/CV",
+      "Three recommendation writers and email addresses",
+      "Passport biographical page and language scores for international applicants"
+    ],
+    "note": "Cumulative undergraduate GPA should be at least 3.0; the stated typical admitted PhD average of 3.8 is descriptive, not a minimum. Identify a potential adviser; applications require approval by both that adviser and the Graduate Affairs Committee. Correspondence before applying is strongly encouraged. Official transcripts and language scores required before enrollment. Recommendation letters: At least two PhD letter writers should be professors."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Fellowships, research and teaching assistantships may be offered when available; funding is not guaranteed. PhD applicants generally receive TA preference. International TA awards have additional speaking requirements. The older Spring2026 row says no funding consideration for that intake; current spring arrangements must be confirmed."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://arts-sciences.buffalo.edu/environment-sustainability/graduate/graduate-admissions.html",
+      "label": "EEB admissions, older deadline, funding and international TA requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.buffalo.edu/grad/explore/admissions/requirements.html",
+      "label": "Central English test minima",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

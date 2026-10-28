@@ -1,0 +1,79 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Washington",
+  "institutionShort": "UW",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "Published application deadline is undated; Fall2027 deadline and admission model are not confirmed.",
+  "officialUrl": "https://biology.washington.edu/graduate-admissions",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "publishedDeadlines": [
+    {
+      "label": "Autumn application deadline",
+      "dateText": "December 1 at Midnight",
+      "note": "Undated recurring deadline; no year or countdown assigned. Confirm current cycle. Treat the Biology midnight deadline conservatively as the start of December1."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "4.0 minimum;80 for tests beforeJanuary21,2026. Recommended4.5 or92 on older scale.",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central minimums; recommended IELTS7 or DET130. Admission below recommended scores requires1–2Academic English Program courses with additional fees. Programs can impose higher standards. Qualifying English-medium bachelor/master/doctoral degrees can satisfy policy with official documentation and full-duration campus/country residency. Official scores valid2years; MyBest/IELTSOneSkillRetake not accepted."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Biology FAQ describes a limited international faculty-sponsored waiver: identify an adviser, correspond and meet viaZoom, receive strong-candidate endorsement, and demonstrate financial need. Faculty must request; applicant requests not accepted. Admissions page says department has no routine waivers, so confirm this exception."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "CV or resume",
+      "Three letters of recommendation",
+      "Holistic short-answer statement",
+      "List of three faculty of interest",
+      "English proficiency evidence when required"
+    ],
+    "note": "Minimum GPA3.0 with petition possible for otherwise admissible applicants. Strongly encouraged to contact faculty. Official English scores and letters due by published deadline."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Department ensures tuition,stipend and insurance funding for first5years; students pay student fees (FAQ quotes around271/quarter,undated) and other additional fees."
+  },
+  "sources": [
+    {
+      "url": "https://biology.washington.edu/graduate-admissions",
+      "label": "Program admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.washington.edu/faq-frequently-asked-questions",
+      "label": "Program FAQ and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/",
+      "label": "University English tests and degree exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/",
+      "label": "University application fee",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/",
+      "label": "University fee waiver restrictions",
+      "checked": "2026-10-28"
+    }
+  ]
+}

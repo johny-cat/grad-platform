@@ -1,0 +1,87 @@
+{
+  "name": "Biology PhD",
+  "institution": "Northern Arizona University",
+  "institutionShort": "Northern Arizona",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.nau.edu/Catalog/details?mobile=true&plan=BIOPHD",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "tracks": [
+    "Ecology, Evolution and Conservation Biology"
+  ],
+  "applyUrl": "https://catalog.nau.edu/Catalog/details?mobile=true&plan=BIOPHD",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority1",
+      "dateText": "December 2",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall priority2",
+      "dateText": "January 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall final",
+      "dateText": "February 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "80; 4 for tests after January21,2026",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Central minimum for most programs; department may require higher. Valid within two years of entry term. Exemption may apply with passport or degree from an approved English-speaking country."
+    },
+    "documents": [
+      "Transcripts",
+      "Essay/letter of intent/personal statement",
+      "Resume/CV"
+    ],
+    "note": "Bachelor’s equivalent and GPA3.0 expected. Contact potential faculty before applying; a mentor must support the application. Thesis-based MS, peer-reviewed publication demonstrating research ability or equivalent credentials required. Three-reference count is from an older official program PDF; current2026–27 catalog lists references without a count. Current FAQ says GRE scores are not used. Application fee and current waiver policy were not established from opened general sources."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department FAQ says stipend depends on MS/PhD entry and TA/RA appointment; applicants should ask their potential mentor or graduate program. No all-admitted guarantee or current rate established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://catalog.nau.edu/Catalog/details?mobile=true&plan=BIOPHD",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://nau.edu/biological-sciences/graduate-program-faq/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://nau.edu/admissions/important-dates-deadlines/graduate-deadlines/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://in.nau.edu/office-graduate-professional-studies/international-graduate-admission/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://nau.edu/wp-content/uploads/sites/32/Biology-PhD.pdf",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

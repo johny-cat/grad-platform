@@ -1,0 +1,80 @@
+{
+  "name": "Engineering PhD — Biosystems Engineering",
+  "institution": "Mississippi State University",
+  "institutionShort": "Mississippi State",
+  "country": "US",
+  "degree": "phd",
+  "field": "bioengineering",
+  "details": "checked",
+  "officialUrl": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/agricultural-biological/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Central fall final: international on campus",
+      "dateText": "May 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    },
+    {
+      "label": "Central fall final: domestic on campus",
+      "dateText": "August 1",
+      "note": "Undated recurring university deadline; department may be earlier."
+    }
+  ],
+  "admissionModel": "lab",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 old-scale iBT / 5.0 new scale",
+      "ielts": 6.5,
+      "note": "Program-level requirements apply. Central proficient-level alternatives DET115 / Essentials9; confirm program acceptance. Central exemptions include qualifying US degree or documented first-language country/institution conditions. Scores accepted within five years with official reporting; departments may require ESL."
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic $60. Central waivers restricted to full-time benefits-eligible employees, US military/veterans and McNair Scholars. Other applicants may inquire with department; program-specific approval is unconfirmed."
+    },
+    "documents": [
+      "Degree transcripts"
+    ],
+    "note": "Engineering B.S. or M.S. required for PhD; remedial engineering preparation may be necessary. Identify departmental professor willing to direct research before admission. Central GRE not required, but assistantship/program expectations should be confirmed; further application materials not established on checked pages."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Limited graduate research and teaching assistantships; awards and stipends set by departments, not guaranteed."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/agricultural-biological/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/explore/graduate-school-faq",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/admissions-deadlines",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/prospective-students/apply-now/general-admissions-requirements/test-scores",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/current-students/community-resources/international-students/english-proficiency",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad.msstate.edu/funding-tuition/assistantships",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

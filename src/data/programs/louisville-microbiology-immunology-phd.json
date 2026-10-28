@@ -1,0 +1,71 @@
+{
+  "name": "Microbiology and Immunology PhD",
+  "institution": "University of Louisville",
+  "institutionShort": "Louisville",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-microbiology-immunology/",
+  "cycle": "fall-2027",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Priority application",
+      "dateText": "January 15",
+      "note": "Annual date; positions may fill before final deadline."
+    },
+    {
+      "label": "Final application",
+      "dateText": "March 1",
+      "note": "Annual date without year."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 iBT; 213 cBT; 550 pBT; TOEFL Essentials 9.0",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Central IELTS minimum has no subscore below 5; PTE Academic 55 with no subscore below 53. Country/qualifying-degree exemptions apply; consult official policy and program-specific requirements."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "CV/resume",
+      "Official undergraduate and graduate transcripts; international NACES verification"
+    ],
+    "note": "BS/BA and GPA 3.0 required. One semester each introductory biology, organic chemistry, introductory calculus and biochemistry expected. TOEFL/IELTS/Duolingo when applicable. A non-refundable application fee is required; amount not stated on opened central pages. Limited departmental fee waivers may be available case by case; international applicants should confirm eligibility."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-microbiology-immunology/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.louisville.edu/graduate/application-admission/",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.louisville.edu/admission/apply/application-fee-waiver-information",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medicine.louisville.edu/academicsprograms/phd-program-academics",
+      "label": "Official program and admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28",
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Program says all accepted students receive stipend, health care and full tuition/fee waiver. Published undated IPIBS stipend $33,000, increasing to $35,000 after candidacy, tuition waiver and health insurance. Fellowship selection and continued support depend on program conditions."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Biomedical Sciences PhD",
+  "institution": "University of North Dakota",
+  "institutionShort": "North Dakota",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://und.edu/programs/biomedical-sciences-phd/index.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "applyUrl": "https://und.edu/admissions/graduate/apply/",
+  "admissionModel": "program",
+  "summary": "Biomedical Sciences PhD with first-year laboratory exploration to select a research mentor.",
+  "tracks": [
+    "Neuroscience",
+    "Microbiology and Immunology"
+  ],
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Listed tracks are optional transcriptable specializations.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "Jan. 31",
+      "note": "Undated program deadline; first evaluation and interviews follow priority review."
+    },
+    {
+      "label": "Fall final",
+      "dateText": "April 1",
+      "note": "Undated program deadline. University international fall deadline is May1; use earlier program deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 35,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Non-refundable fee required for each application; no application-fee waivers available."
+    },
+    "english": {
+      "toefl": "4.0 on the published current graduate scale",
+      "ielts": 6,
+      "duolingo": 110,
+      "note": "IELTS within the last three years. English proficiency may also be satisfied by a qualifying degree in a listed country or approved ELS study; central country list governs degree exemption. Central policy additionally requires TOEFL speaking 26/30 for Graduate Teaching Assistantship consideration; the page does not state a new-scale equivalent, so confirm rather than convert."
+    },
+    "documents": [
+      "Official transcripts from every college/university attended",
+      "Statement of goals on academic achievements, research experience, career goals and program objectives"
+    ],
+    "note": "Four-year bachelor’s or equivalent required. Undergraduate GPA at least3.0; applicants with graduate education should have3.5 in graduate coursework. Ideal preparation: biology, general/organic chemistry and physics with labs, biochemistry, calculus and advanced biology-area coursework. At least two of three recommendation letters must be faculty with direct academic knowledge. GRE optional; strong scores may enhance application."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students receive a research-assistant stipend and full tuition waiver. Undated published rates are $29,705.76 for PhD students, increasing to $33,348.48 after candidacy. Students obtain/pay their own health insurance and student fees; confirm current rates."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://und.edu/programs/biomedical-sciences-phd/index.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://und.edu/programs/biomedical-sciences-phd/requirements.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://med.und.edu/education-training/biomedical-sciences/graduate-studies.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://und.edu/admissions/graduate/apply/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://und.edu/admissions/international/requirements-application.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

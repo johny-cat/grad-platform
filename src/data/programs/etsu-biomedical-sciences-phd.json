@@ -1,0 +1,98 @@
+{
+  "name": "Biomedical Sciences PhD",
+  "institution": "East Tennessee State University",
+  "institutionShort": "ETSU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.etsu.edu/com/admissions/programs/phd.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "applyUrl": "https://www.etsu.edu/gradschool/doctoral-degrees.php",
+  "admissionModel": "program",
+  "tracks": [
+    "Cardiovascular Sciences",
+    "Cellular, Molecular and Chemical Biology",
+    "Immunology, Inflammation and Infectious Diseases",
+    "Neuroscience",
+    "Pharmaceutical Sciences"
+  ],
+  "summary": "Biomedical science PhD with five concentrations and flexibility to select a laboratory and individual research plan after the first year.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Preferred fall deadline",
+      "dateText": "Feb 1",
+      "note": "Undated table; 11:59 p.m. ET."
+    },
+    {
+      "label": "Final fall international deadline",
+      "dateText": "April 1",
+      "note": "Undated table; 11:59 p.m. ET."
+    },
+    {
+      "label": "Final fall domestic deadline",
+      "dateText": "August 1",
+      "note": "Undated table; 11:59 p.m. ET."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee $65; domestic $55. Graduate School says no waivers except currently enrolled ETSU graduate students. Confirm international category eligibility; no general hardship waiver."
+    },
+    "english": {
+      "toefl": "79 before January 21,2026; 4.0 thereafter",
+      "ielts": 6.5,
+      "note": "Graduate-level central minima; PTE53 also listed. English exemptions depend qualifying country/education; see central policy."
+    },
+    "documents": [
+      "Transcripts (unofficial domestic copies for review; official after admission)",
+      "NACES-approved course-by-course evaluation of international transcripts",
+      "Personal statement, maximum 1,000 words, on research experience, ETSU interests and career goals",
+      "Curriculum vitae"
+    ],
+    "note": "Minimum GPA 2.5 domestic and3.0 international on program requirements page. Three online recommendations should address research ability/academic preparedness. Interview may be required. Complete applications reviewed as received; all supporting documents due by published deadline."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program publishes graduate assistantships with tuition and fees paid and an undated annual stipend of $27,000. International guarantee and health insurance coverage not established on opened program funding page."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.etsu.edu/com/admissions/programs/phd.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.etsu.edu/gradschool/doctoral-degrees.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.etsu.edu/gradschool/application-instructions.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.etsu.edu/international/english_proficiency/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.etsu.edu/com/research/graduate.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    }
+  ]
+}

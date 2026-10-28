@@ -1,0 +1,97 @@
+{
+  "name": "Interdisciplinary Graduate Program in Biomedical Sciences (IGPBS)",
+  "institution": "University of Nebraska Medical Center",
+  "institutionShort": "UNMC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.unmc.edu/gradstudies/programs/igpbs/admissions/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "tracks": [
+    "Biochemistry & Molecular Biology",
+    "Bioinformatics & Systems Biology",
+    "Cancer Research",
+    "Immunology, Pathology & Infectious Disease",
+    "Integrative Physiology & Molecular Medicine",
+    "Molecular Genetics & Cell Biology",
+    "Neuroscience"
+  ],
+  "applyUrl": "https://www.unmc.edu/gradstudies/programs/igpbs/admissions/",
+  "admissionModel": "program",
+  "summary": "Biomedical sciences PhD entry through one IGPBS application, with single-program or multi-program options and laboratory rotations.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority review",
+      "dateText": "November 15",
+      "note": "Undated recurring deadline. All supporting documents are required for priority status."
+    },
+    {
+      "label": "Fall international final",
+      "dateText": "March 1",
+      "note": "Undated recurring deadline for all listed IGPBS programs."
+    },
+    {
+      "label": "Fall US applicant final",
+      "dateText": "April 1",
+      "note": "Undated recurring deadline for all listed IGPBS programs."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "No application fee for any applicant; no formal waiver needed."
+    },
+    "english": {
+      "toefl": "95, no section below 20",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Published TOEFL scale is not identified. English-test waivers depend on country/education criteria and are assessed after submission; medium of instruction alone does not qualify."
+    },
+    "documents": [
+      "CV/resume",
+      "Personal statement on research, goals and transferable skills (try to limit to two pages; no fixed word minimum/maximum)",
+      "Official US transcripts and NACES-member course-by-course evaluations of all non-US education"
+    ],
+    "note": "Bachelor’s degree required; recommended GPA 3.25/4.0 and preparation in biology, calculus, physics and chemistry including organic chemistry. Cancer Research also accepts mathematics or statistics preparation. Letters must be signed, on institutional letterhead and sent from institutional email; recent research-mentor letter requested if available. No faculty commitment needed before applying; mentor selected after third rotation. One application per cycle; no Chinese Scholarship Council-supported applications. Program says statements must be written without AI assistance."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 34150,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025-2026"
+    },
+    "note": "All IGPBS students receive tuition/fee remission, individual health-insurance premiums and stipend support throughout PhD studies. Published stipend covers August 1,2025–July 31,2026; confirm later offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.unmc.edu/gradstudies/programs/igpbs/admissions/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.unmc.edu/gradstudies/programs/igpbs/admissions/deadlines.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    },
+    {
+      "url": "https://www.unmc.edu/gradstudies/programs/igpbs/financial-support.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-27"
+    }
+  ]
+}

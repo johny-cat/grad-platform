@@ -187,3 +187,8 @@ Uploaded by hand:
 ## October 2026 next-100 details batch
 
 The branch publishes 100 previously pending programs, taking published details from 112 to 212 (95 pending, 307 total). Official current information is preferred; older/undated dates are qualified and excluded from countdowns. Three inaccessible UCSC programs remain pending; Utah supplies three replacements. Evidence and independent reviews are in `docs/evidence/` and `docs/research/next-100-official-details-2026-10.md`. No names or permanent IDs changed, and the generated catalog SQL is unchanged, so this details-only batch requires no database update. Publication is complete only after the merged main build succeeds.
+
+## Catalog expansion batch 1 — 2026-10-28
+
+Adds exactly 100 new checked programs at 58 institutions: 407 total catalog entries, 403 checked and 4 pending. Per-program official sources/evidence and a deadline/fee/GRE table plus inaccessible-page list are in docs/research/catalog-expansion-batch-1-100.md. The isolated publishing checkout passed npm run check and npm run build. The generated supabase/seed/catalog.sql must be synchronized after merge; live publication is verified only after the main deployment finishes. Remaining archive research is kept outside this 100-program batch.
+

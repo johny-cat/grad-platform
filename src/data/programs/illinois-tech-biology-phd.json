@@ -1,0 +1,65 @@
+{
+  "name": "Biology PhD",
+  "institution": "Illinois Institute of Technology",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.iit.edu/academics/programs/biology-phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model are not confirmed.",
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "80 overall / 15 each section before January 21, 2026; 4.5 overall and each section thereafter",
+      "ielts": 6.5,
+      "duolingo": 115.0,
+      "note": "duolingo: 115 overall; 110 each subsection. ielts: 6.5 overall; 6.0 each subsection. Scores valid two years. Alternatives include approved intensive English programs, 60 US semester hours within 36 months, or a listed-country degree with two years attendance. Special Indian NAAC-A institution routes also apply; conditional admission may be possible."
+    },
+    "documents": [
+      "Transcripts and completed degree certificates",
+      "CV/résumé",
+      "Personal statement"
+    ],
+    "note": "Biology PhD GRE minimum 310 quantitative + verbal and 3.0 writing; catalog allows case-by-case waiver for qualified applicants. Minimum GPA 3.0/4.0; bachelor's in the discipline or closely allied preparation. Master's not normally required for full-time PhD, but may be for part-time. Central application instructions normally request two PhD recommendations; confirm program-specific requirements."
+  },
+  "sources": [
+    {
+      "url": "https://www.iit.edu/academics/programs/biology-phd",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/biology/",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/how-apply",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements",
+      "label": "Official program / admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall PhD",
+      "dateText": "January 31",
+      "note": "Undated central graduate admissions table, domestic and international PhD applicants."
+    }
+  ],
+  "international": {
+    "accepted": "yes",
+    "note": "Program explicitly meets F-1 visa requirements."
+  }
+}
