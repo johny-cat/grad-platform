@@ -204,3 +204,8 @@ The list includes failed official-page attempts made during these university rev
 ## Publication checks
 
 The complete isolated batch passes npm run check and npm run build after review corrections. University changes are committed separately; identical unchanged content is not repeatedly tested. GitHub runs code, build, database and full catalog link checks before merge. Synchronize the generated Supabase catalog after merge and verify all 100 new IDs on the live site.
+
+## Link-check follow-up — 2026-10-30
+
+The automated scan found one404:Kentucky's July2023 Animal/FoodSciences handbook PDF. The same official15-page PDF opened directly and its historical qualification remains. The documented manual-open exception expires after60days; no policy fact was inferred from the failed automated response.
+

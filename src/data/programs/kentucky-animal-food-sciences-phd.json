@@ -4,7 +4,7 @@
   "field": "biology",
   "cycle": "fall-2027",
   "details": "checked",
-  "lastChecked": "2026-10-29",
+  "lastChecked": "2026-10-30",
   "name": "Animal and Food Sciences PhD",
   "institution": "University of Kentucky",
   "institutionShort": "Kentucky",
@@ -52,7 +52,7 @@
     {
       "url": "https://afs.mgcafe.uky.edu/sites/afs.ca.uky.edu/files/ASC-Grad-Handbook-7-19-2023.pdf",
       "label": "Official program or admissions policy",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     }
   ],
   "admissionModel": "lab",

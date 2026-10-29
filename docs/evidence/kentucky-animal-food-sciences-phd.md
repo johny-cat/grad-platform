@@ -15,3 +15,8 @@ Short exact programme anchor ([source](https://afs.mgcafe.uky.edu/sites/afs.ca.u
 ## Independent review — 2026-10-29
 
 Reopened central Application Fee / US Military Waivers: the route requires US military veteran status, or qualifying spouse/dependent benefits proof, but does not state citizenship/permanent-residence eligibility. Replaced domestic-only with conditional available under the catalog fee rule. No broad hardship route or guaranteed international eligibility inferred.
+
+## Automatic link-check discrepancy — 2026-10-30
+
+The GitHub checker reported404 for the official PDF above. I opened the same URL directly and read the15-page UniversityofKentucky GraduateStudentHandbook, marked Updated:July2023. Identity and admissions content remain accessible through the official-page reader. The old-year qualification remains. The URL is recorded in scripts/links-checked-by-hand.json for the documented60-day recheck period; this does not turn the historical conditions into Fall2027 policy.
+
