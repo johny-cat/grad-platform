@@ -57,7 +57,7 @@
     {
       "url": "https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated",
       "label": "UT San Antonio Graduate School of Biomedical Sciences: Ph.D. in Integrated Biomedical Sciences",
-      "checked": "2026-10-24"
+      "checked": "2026-10-28"
     },
     {
       "url": "https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated/admissions",
@@ -70,5 +70,14 @@
       "checked": "2026-10-24"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-28",
+  "tracks": [
+    "Biochemical Mechanisms in Medicine",
+    "Biology of Aging",
+    "Cancer Biology",
+    "Cell Biology, Genetics, and Molecular Medicine",
+    "Molecular Immunology & Microbiology",
+    "Neuroscience",
+    "Physiology and Pharmacology"
+  ]
 }

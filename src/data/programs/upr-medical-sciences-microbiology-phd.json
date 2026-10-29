@@ -1,0 +1,63 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Microbiology PhD",
+  "institution": "University of Puerto Rico Medical Sciences Campus",
+  "institutionShort": "UPR Medical Sciences",
+  "officialUrl": "https://md.rcm.upr.edu/micro/doctor-of-philosophy-with-specialty-in-microbiology-ph-d/",
+  "detailsNote": "Official 2026 revised requirements available; Fall 2027 dates not confirmed. Department-specific application; no single admission model assigned unless rotations evidenced.",
+  "publishedDeadlines": [
+    {
+      "label": "August intake final",
+      "dateText": "First Monday of March",
+      "note": "Annual date in August 2026 revised PDF; department March 1 references may differ, confirm."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "note": "Proficiency in both English and Spanish required; no numeric test threshold stated."
+    },
+    "documents": [
+      "Official transcripts",
+      "English essay 250–400 words",
+      "Three recommendations on official form",
+      "Additional information form",
+      "Research evidence if applicable"
+    ],
+    "note": "GPA 3 overall and required science/math. Natural-science degree. Biology/general chemistry/organic chemistry/physics with labs 8 each; CalculusI 3. Faculty interview. Current central 2026 document rules and referee conditions detailed in source; fee amount and waiver unconfirmed."
+  },
+  "funding": {
+    "note": "Teaching/research assistantships available; no universal guarantee, amount, tuition coverage or international eligibility confirmed.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://md.rcm.upr.edu/micro/doctor-of-philosophy-with-specialty-in-microbiology-ph-d/",
+      "label": "Official PhD identity and 2026 admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://md.rcm.upr.edu/biomed/admission-requirements/",
+      "label": "Official PhD identity and 2026 admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://md.rcm.upr.edu/biomed/wp-content/uploads/sites/27/2026/09/Requested-information_espanol-ingles_2026-2027.pdf",
+      "label": "Official PhD identity and 2026 admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://md.rcm.upr.edu/biomed/science-and-math-prerequisite-courses-for-the-selected-program/",
+      "label": "Official PhD identity and 2026 admissions requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}

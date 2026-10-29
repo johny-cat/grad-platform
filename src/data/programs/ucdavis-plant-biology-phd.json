@@ -1,0 +1,93 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Plant Biology PhD",
+  "institution": "University of California, Davis",
+  "institutionShort": "UC Davis",
+  "officialUrl": "https://grad.ucdavis.edu/programs/gpbi",
+  "detailsNote": "Official available requirements and 2027–28 deadlines. Funding amounts are qualified by the period explicitly published; confirm offer-specific terms.",
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement/history",
+      "Academic transcripts from every college-level institution",
+      "Three electronic recommendations",
+      "English evidence if applicable"
+    ],
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 for tests on/after that date",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Two-year scores; no MyBest or IELTS One Skill Retake. DET only when other exams unavailable; DET-only admits take TOEP. English-only US degree or foreign degree with sole English instruction recorded in WHED may exempt; other documentation not accepted. Programs/TA employment may set higher standards."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "US applicants$135. Central waiver limited to listed graduate-preparation programs, not general financial need. Identify program/coordinator in application; participation verified. International applicants should confirm category eligibility."
+    },
+    "note": "Biological-sciences bachelor equivalent, GPA 3. Recommended biology, chemistry, physics, calculus, statistics, genetics and plant coursework; limited deficiencies can be completed after admission. Three recommendations, ideally scientists/research mentors. Opportunity to rotate through four labs in first year."
+  },
+  "deadlines": [
+    {
+      "label": "General and fellowship",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Current 2027–28 central table; follow earlier department closing rules."
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Incoming rotation students offered two-quarter fellowship covering tuition, fees and stipend at annual compensation-plan rate. Later GSR/TA, competitive fellowships and external funding; separate departmental TA applications. No multi-year universal guarantee or stipend amount stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://grad.ucdavis.edu/programs/gpbi",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://pbi.ucdavis.edu/apply",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradstudies.ucdavis.edu/program-application-deadlines",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/application-components",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://pbi.ucdavis.edu/financial-support",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program"
+}

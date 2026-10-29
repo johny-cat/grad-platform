@@ -86,7 +86,15 @@
       "url": "https://graduateschool.colostate.edu/apply",
       "label": "Graduate School: fee, letters, documents",
       "checked": "2026-10-24"
+    },
+    {
+      "url": "https://catalog.colostate.edu/general-catalog/university-wide-programs/interdisciplinary-studies/cell-molecular-biology/phd-cell-molecular-cancer-biology-specialization/",
+      "label": "Cancer Biology specialization within CMB PhD",
+      "checked": "2026-10-28"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-28",
+  "tracks": [
+    "Cancer Biology"
+  ]
 }

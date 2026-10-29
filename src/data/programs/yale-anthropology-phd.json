@@ -1,0 +1,91 @@
+{
+  "name": "Anthropology PhD (including Biological Anthropology)",
+  "institution": "Yale University",
+  "institutionShort": "Yale",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://gsas.yale.edu/programs-of-study/anthropology",
+  "applyUrl": "https://gsas.yale.edu/admissions/phdmasters-application-process",
+  "lastChecked": "2026-10-30",
+  "tracks": [
+    "Archaeology",
+    "Sociocultural and Linguistic Anthropology",
+    "Biological Anthropology"
+  ],
+  "summary": "Anthropology doctorate including biological anthropology research in human and primate evolution, functional anatomy, biological diversity and ecology.",
+  "detailsNote": "Biological Anthropology is a subfield of the Anthropology PhD,not a separately verified application. The admission model was not established from the opened official sources. Department programme page could not be opened; GSAS programme profile and central requirements used.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-15",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Current central dates list Anthropology. A combined degree uses the earlier partner deadline or December15,whichever comes first."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Non-US citizens explicitly eligible. Financial-hardship or qualifying affiliation requests require supporting documentation through a separate account-linked form; allow2–3businessdays. Request well before programme deadline; final form availability January2 is not permission to miss December15. Do not pay before decision; no refunds."
+    },
+    "english": {
+      "note": "TOEFL iBT or IELTS Academic for most non-native English speakers; no programme numeric minimum established. Exemption:English-primary undergraduate degree with at least three years in residence,or native English. Advanced degree alone does not exempt. Official electronic scores required; IELTS General,Online,One Skill Retake and paper reports excluded. Exempt applicants who self-report scores must send official verification."
+    },
+    "documents": [
+      "Statement of academic purpose",
+      "Unofficial transcripts from all attended colleges/universities",
+      "Writing sample",
+      "Resume or CV"
+    ],
+    "note": "Bachelor-equivalent degree completed before matriculation; master not generally required. Writing sample explicitly required by Anthropology; no length limit inferred."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Central policy states every PhD student receives tuition fellowship,living stipend and paid health coverage. Funding normally at least five years,with programme-specific terms; no numerical Fall2027 stipend inferred."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://gsas.yale.edu/programs-of-study/anthropology",
+      "label": "Programme,subfields,GRE,writing sample",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process",
+      "label": "Eligibility and common checklist",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines",
+      "label": "Current Anthropology deadline",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers",
+      "label": "Fee and international-eligible waivers",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements",
+      "label": "English tests and undergraduate exemption",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gsas.yale.edu/graduate-financial-support-fellowships/funding-phd-students",
+      "label": "Universal doctoral funding",
+      "checked": "2026-10-29"
+    }
+  ]
+}

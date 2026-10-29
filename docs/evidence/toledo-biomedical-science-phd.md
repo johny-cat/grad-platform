@@ -1,0 +1,5 @@
+# University of Toledo — Biomedical Science PhD
+
+Checked 2026-10-28.
+
+[Biomedical admission page](https://www.utoledo.edu/med/grad/biomedical/requirements.html),Process,Requirements,GRE,Documents,FinancialAssistanceandFAQ: single PhD with five tracks selected in application; bachelor equivalent/GPA3,3letters,SOP,CV,officialrecords/approved foreign evaluation; GREnotrequired;annualDecember15priority,internationaldegreecompletionMay1;internationalfee75/domestic45,no programwaivers;allPhDs current28,000+tuition+health,bothnationalities,no mandatoryTA;firstyearrotations,no priorsponsor. Exact anchor: “We are unable to offer application fee waivers.” [Current central English](https://www.utoledo.edu/graduate/international/english-language-proficiency.html),Exam/EducationalBackground:80legacy/4newallsubscores,IELTS6.5,DET110,PTE58,Cambridge176;validatstart;qualifyingdegree/courseworkGPA2.7anddocumentation;research-onlydegreeexcluded.

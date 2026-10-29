@@ -1,0 +1,74 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "summer-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "institution": "University of Cincinnati",
+  "institutionShort": "UC Cincinnati / Cincinnati Children’s",
+  "name": "Development, Stem Cells and Regenerative Medicine PhD",
+  "officialUrl": "https://www.cincinnatichildrens.org/education/research/development-stem-cells-regenerative/apply",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Final application deadline",
+      "date": "2027-02-01",
+      "note": "Timeline on the page explicitly advertising Summer 2027, starting July 1, 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International $70; domestic $65. Automatic waiver only for current or former US armed-forces service; overseas applicants must confirm qualification."
+    },
+    "english": {
+      "toefl": "80 legacy / 4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "PTE 54 also accepted. Central exemption requests can require proof the entire university teaches exclusively in English; see source policy."
+    },
+    "documents": [
+      "Personal Background Statement",
+      "At least three electronic recommendations",
+      "Unofficial transcripts (official copies if admitted)",
+      "English evidence when required",
+      "After accepting enrollment: foreign bachelor’s degree requires a general/document-by-document NACES evaluation sent directly by the evaluator before the first term; US bachelor’s degrees exempt"
+    ],
+    "note": "Formerly Molecular and Developmental Biology. Accredited bachelor or equivalent, GPA at least 3.2, strong biology/biochemistry; prior research preferred. Statement covers preparation, research, goals and fit. Applications open September 1, 2026; interviews December–January in Cincinnati with travel covered. Lab rotations precede research-advisor selection."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 40315,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–27"
+    },
+    "note": "Guaranteed stipend, tuition and health coverage. Published 2026–27 rates: $40,315 before qualifying, $42,315 afterward; these are not a confirmed Summer 2027 rate. Relocation reimbursement up to $1,000."
+  },
+  "sources": [
+    {
+      "url": "https://www.cincinnatichildrens.org/education/research/development-stem-cells-regenerative/apply",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.cincinnatichildrens.org/education/research/development-stem-cells-regenerative/curriculum",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

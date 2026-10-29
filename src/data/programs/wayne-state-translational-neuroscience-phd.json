@@ -1,0 +1,54 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Translational Neuroscience PhD",
+  "institution": "Wayne State University",
+  "institutionShort": "Wayne State",
+  "officialUrl": "https://bulletins.wayne.edu/graduate/school-medicine/programs/translational-neuroscience-phd/",
+  "detailsNote": "Official available requirements; Fall 2027 dates not confirmed. Fee/waiver and current central numerical English policy could not be opened. Admission model omitted where unconfirmed.",
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts",
+      "One-page statement of purpose",
+      "CV/resume",
+      "Three recommendations",
+      "GRE scores"
+    ],
+    "note": "Undergraduate degree including biology/chemistry, GPA 3;3 references assessing scientific potential, one-page SOP, CV, GRE, committee interview; mentor interview desirable; writing samples optional. Foreign applicants TOEFL.",
+    "english": {
+      "note": "Central catalog accepts qualifying US/native-English-country bachelor or English testing; program may set stricter threshold. Current central score page inaccessible. "
+    }
+  },
+  "sources": [
+    {
+      "url": "https://bulletins.wayne.edu/graduate/school-medicine/programs/translational-neuroscience-phd/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletins.wayne.edu/graduate/general-information/admission/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradprograms.med.wayne.edu/admissions",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Published application date",
+      "dateText": "February1",
+      "note": "Annual School of Medicine deadline; no program-specific 2027 date confirmed."
+    }
+  ]
+}

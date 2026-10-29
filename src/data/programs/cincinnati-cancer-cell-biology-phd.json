@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "summer-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "institution": "University of Cincinnati",
+  "institutionShort": "UC Cincinnati",
+  "name": "Cancer and Cell Biology PhD",
+  "officialUrl": "https://med.uc.edu/education/cancer-biology-graduate/apply",
+  "admissionModel": "program",
+  "detailsNote": "Annual dates are not explicitly assigned a year. The doctoral application section specifies July entry; the overview inconsistently says fall.",
+  "publishedDeadlines": [
+    {
+      "label": "Early consideration",
+      "dateText": "November 1",
+      "note": "Annual early interview and decision consideration."
+    },
+    {
+      "label": "Final deadline",
+      "dateText": "December 1",
+      "note": "Annual deadline for the following summer cohort."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 1,
+      "max": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International $70; domestic $65. Automatic waiver only for current or former US armed-forces service; overseas applicants must confirm qualification."
+    },
+    "english": {
+      "toefl": "80 legacy / 4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Program requires official scores before review, valid two years. PTE 54; home tests accepted; TOEFL Essentials/MyBest excluded. Central exemption policy also applies."
+    },
+    "documents": [
+      "CV or resume",
+      "Personal statement",
+      "Transcripts (unofficial review; official after offer)",
+      "One to three recommendations",
+      "English scores when required",
+      "After accepting enrollment: foreign bachelor’s degree requires a general/document-by-document NACES evaluation sent directly by the evaluator before the first term; US bachelor’s degrees exempt"
+    ],
+    "note": "Bachelor degree by July 1; GPA at least 3.0; strong biology, chemistry and/or physics and mathematics. GRE or MCAT and a one-minute video essay are recommended but optional. First rotation starts shortly after July 4; selected interviews generally January–February, offers January–April."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All accepted PhD students receive full tuition remission, a competitive stipend and health insurance; no amount or future-year rate stated."
+  },
+  "sources": [
+    {
+      "url": "https://med.uc.edu/education/cancer-biology-graduate/apply",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

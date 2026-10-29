@@ -1,0 +1,91 @@
+{
+  "name": "Microbiology and Molecular Genetics PhD",
+  "institution": "Emory University",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://biomed.emory.edu/PROGRAM_SITES/MMG/",
+  "lastChecked": "2026-10-29",
+  "institutionShort": "Emory",
+  "admissionModel": "program",
+  "applyUrl": "https://biomed.emory.edu/PROGRAM_SITES/MMG/admissions/apply.html",
+  "summary": "Separate GDBBS doctoral program in microbiology and molecular genetics; first-year research rotations precede faculty affiliation.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-01",
+      "time": "00:00",
+      "timezone": "America/New_York",
+      "note": "GDBBS confirms Fall 2027. Central instructions say midnight Eastern on the deadline date, while the FAQ says 11:59 p.m. Pacific; earlier central time retained. Submit before December 1."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Limited financial-hardship waivers explicitly include international applicants. Upload supporting evidence; allow five business days for review. Qualifying preparation-program waivers also offered. Hardship applicants are expected to meet the US Department of Education low-income definition."
+    },
+    "english": {
+      "toefl": "100 recommended, not a fixed minimum (published score scale unspecified)",
+      "note": "TOEFL or IELTS for non-native English speakers, scores within two years. No IELTS minimum stated. English-medium BS/MS can waive TOEFL: automatic for US/English-speaking-country institutions; otherwise email the GDBBS admissions contact to confirm English instruction."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Resume/CV",
+      "Registrar-issued transcript copies from attended universities; translations if needed"
+    ],
+    "note": "Bachelor degree required; general GDBBS guidance lists B+ or better in major science courses and values research experience. Credential evaluation recommended, not required. Registrar-issued copies are the safer transcript rule where FAQ permits legible web copies. SOP recommendation: at most two double-spaced pages, not a strict limit; describe research role, interests and goals. FAQ offers an optional fourth reference; three required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All accepted students who enroll receive stipend, tuition scholarship and health insurance; FAQ explicitly confirms the same support for international students. No future stipend amount inferred."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biomed.emory.edu/PROGRAM_SITES/MMG/",
+      "label": "Program identity",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://biomed.emory.edu/admissions/apply.html",
+      "label": "GDBBS Fall 2027 checklist and funding",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://biomed.emory.edu/admissions/factsfaq.html",
+      "label": "Separate applications, rotations, English and international support",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gs.emory.edu/admissions/application.html",
+      "label": "Central fee and deadline time",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gs.emory.edu/admissions/fee-waivers.html",
+      "label": "International-eligible hardship fee waivers",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gs.emory.edu/admissions/international_appls.html",
+      "label": "International transcripts",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://biomed.emory.edu/PROGRAM_SITES/MMG/admissions/apply.html",
+      "label": "Program application instructions",
+      "checked": "2026-10-29"
+    }
+  ]
+}

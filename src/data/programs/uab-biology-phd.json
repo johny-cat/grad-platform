@@ -1,0 +1,62 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Biology PhD",
+  "institution": "University of Alabama at Birmingham",
+  "institutionShort": "UAB",
+  "officialUrl": "https://www.uab.edu/cas/biology/graduate/admissions",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual deadline available; Fall 2027 date not explicitly confirmed. Department legacy TOEFL 100 is retained beside current central new-scale 4.0 without inventing an equivalent higher program score.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall admission",
+      "dateText": "December 15",
+      "note": "Annual deadline for following fall."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts (unofficial review, official for admission)",
+      "Career-goals personal statement",
+      "Three evaluations",
+      "Course-by-course evaluation of all non-US institutions for final acceptance; UAB evaluation ($100) or an accepted outside evaluation"
+    ],
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Standard international fee $60; domestic $50, with some program exceptions. Biology explicitly cannot waive the Graduate School fee. No central waiver route was established; this is not a claim that every Graduate School exception is prohibited."
+    },
+    "english": {
+      "toefl": "100 legacy department; central 4.0 new-scale minimum",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Department thresholds stricter than central IELTS 6.5/DET 120. Central scores within 2 years of application; MyBest/IELTS One Skill Retake accepted. Possible exemption: US degree with GPA 3 or listed-country citizenship; no blanket foreign English-medium exemption."
+    },
+    "note": "Biological-science undergraduate degree, A–B biology scholarship, 2 semesters each organic chemistry/physics, calculus. No program-specific GPA cutoff; mentor acceptance required but prior approval not needed to apply. No rotations. Research publications not required. International applicants must establish equivalent four-year US bachelor’s preparation; original-language degree/transcript documents and English translations are required unless an approved evaluation substitutes for translations."
+  },
+  "funding": {
+    "note": "Competitive TA/RA; mentor funding required for acceptance, but no stipend/coverage promise stated. No separate funding application. RAs depend on mentor resources.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://www.uab.edu/cas/biology/graduate/admissions",
+      "label": "Official admissions or program source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.uab.edu/gradadmissions/apply/international-applicants",
+      "label": "Official admissions or program source",
+      "checked": "2026-10-29"
+    }
+  ]
+}

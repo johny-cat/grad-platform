@@ -1,0 +1,24 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-29",
+  "name": "Comparative Biomedical Sciences PhD",
+  "institution": "University of Georgia",
+  "institutionShort": "UGA",
+  "officialUrl": "https://grad.uga.edu/degree/phd-comparative-biomedical-sciences/",
+  "sources": [
+    {
+      "url": "https://grad.uga.edu/degree/phd-comparative-biomedical-sciences/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://vet.uga.edu/wp-content/uploads/2024/08/PhD-Student-Handbook-2024.pdf",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

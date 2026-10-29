@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Integrative Biology PhD",
+  "institution": "University of South Florida",
+  "institutionShort": "USF",
+  "officialUrl": "https://www.usf.edu/arts-sciences/departments/ib/degree-programs/graduate-program/index.aspx",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual dates available; Fall 2027 dates not confirmed.",
+  "tracks": [
+    "Ecology and Evolution",
+    "Environmental and Ecological Microbiology",
+    "Physiology and Morphology"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall international / assistantship priority",
+      "dateText": "November 30",
+      "note": "Annual; US applications continue until February 15."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central graduate page permits financial-hardship waiver requests; international eligibility must be confirmed. Some departmental pages restrict waivers to named affiliated programs; department cannot waive directly."
+    },
+    "english": {
+      "toefl": "79 legacy;4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Central scores valid within 2 years of entry; PTE 53, TOEFL Essentials 8.5 and other alternatives listed. Country-language and qualifying US degree/coursework exemptions may apply; confirm with program. No blanket English-medium exemption inferred."
+    },
+    "documents": [
+      "CV/resume",
+      "Three signed recommendations on letterhead",
+      "Transcripts",
+      "Personal statement"
+    ],
+    "note": "Acceptance requires faculty willing to direct research. Statement names 2–3 faculty and research/career goals. Unofficial review records; official records sent from institutions. Spring July 1 annual. Department waiver FAQ names affiliations including EducationUSA Opportunity Funds; confirm route against central hardship policy."
+  },
+  "funding": {
+    "note": "TA stipend and CAS tuition waiver; RA stipend/tuition from mentor grants. Available funding controls awards; not an all-funded guarantee.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/degree-programs/graduate-program/index.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/degree-programs/graduate-program/gradprogram-applynow.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/phd-degree.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/admissions/international/admission-information/graduate/academic-requirements.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/admissions/graduate/next-steps/check-application-status.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

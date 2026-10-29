@@ -1,0 +1,76 @@
+{
+  "name": "Cell, Molecular and Cancer Biology PhD",
+  "institution": "Indiana University Bloomington",
+  "institutionShort": "IU Bloomington",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://medicine.iu.edu/bloomington/graduate-programs/cell-molecular-and-cancer-biology-phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://medicine.iu.edu/bloomington/graduate-programs/cell-molecular-and-cancer-biology-phd",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://medicine.iu.edu/bloomington/graduate-programs/cell-molecular-and-cancer-biology-phd/admissions",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://medicine.iu.edu/bloomington/graduate-programs/cell-molecular-and-cancer-biology-phd/financial-support",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bloomington.iu.edu/admissions/apply/graduate/application-fees.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. The accessible admissions pages do not establish the admission model.",
+  "applyUrl": "https://medicine.iu.edu/bloomington/graduate-programs/cell-molecular-and-cancer-biology-phd/admissions",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 1",
+      "note": "Published without an explicit deadline year; confirm the intended entry cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "100 (recommended; legacy scale)",
+      "ielts": 7,
+      "note": "Recommended scores, not stated hard minima. Non-native speakers submit TOEFL or IELTS. Exception requires attendance at an English-taught college in a country where English is the official or primary language."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Conditional Graduate School waivers cover specified IU recruitment participation, qualifying service, distinguished multiyear fellowships (annual stipend at least $20,000), and some application-status cases. Separate membership/recruitment waivers are US-citizen/permanent-resident only. International applicants should confirm eligibility before applying."
+    },
+    "documents": [
+      "Transcripts from all universities; unofficial copies for review, official transcripts before an official admission offer",
+      "CV or resume",
+      "Responses to three essay questions on experience, interests and career goals",
+      "At least three letters submitted by referees familiar with scientific/research work",
+      "English test scores unless exempt"
+    ],
+    "note": "Equivalent recognized science bachelor’s degree required. Essays address research, motivation, career goals, program fit and faculty interests. Select IU Medical Science as Academic Program and Cell, Molecular and Cancer Biology as Academic Plan. Holistic review emphasizes research experience."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students receive academic-year and summer stipend support guaranteed for five years through assistantships, training grants or fellowships, with health insurance. Tuition coverage and a current stipend amount were not established on this funding page."
+  }
+}

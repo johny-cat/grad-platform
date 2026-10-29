@@ -1,0 +1,71 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Biology PhD",
+  "institution": "University of Kentucky",
+  "institutionShort": "Kentucky",
+  "officialUrl": "https://bio.as.uky.edu/graduate-program/admissions",
+  "detailsNote": "Available official requirements; older handbook conditions and undated dates qualified. Admission model omitted if not established.",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 before January 21,2026; 4.0 after that date",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central minimum. US accredited degree or official transcript/direct registrar attestation confirming sole English instruction can satisfy proficiency. DET may be evaluated by ESL professional. Program may set higher standard."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Domestic fee 65. Conditional waiver for US military veterans or spouses/dependents with qualifying benefits documentation. No explicit citizenship rule stated; international applicants must confirm qualification. No general hardship waiver established. Biology FAQ says no waivers but invites hardship applicants to contact DGS; departmental waiver not promised."
+    },
+    "documents": [
+      "Academic transcripts",
+      "English evidence if required",
+      "Personal statement",
+      "CV/resume",
+      "Recommendation letters"
+    ],
+    "note": "Accredited bachelor, no MS prerequisite; GPA 2.75 undergraduate/3 graduate central minimum. CV and personal statement~2–3 single-spaced pages. Faculty contact and research-fit identification recommended, not mandatory.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Only fully funded PhDs admitted via TA/RA: stipend, full health insurance, tuition scholarship covering most student fees. No separate assistantship application.",
+    "allFunded": true
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://bio.as.uky.edu/graduate-program/admissions",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.uky.edu/admissions/application-process",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bio.as.uky.edu/faq",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "Dec. 15",
+      "note": "Programme lists Fall 2027 recruiting faculty, but date year not attached; earlier than older January 1 target."
+    }
+  ]
+}

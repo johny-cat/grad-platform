@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD — Ecology and Organismal Biology",
+  "institution": "University of Toledo",
+  "institutionShort": "UToledo",
+  "officialUrl": "https://www.utoledo.edu/nsm/envsciences/grad/",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual dates and 2024 funding page available; Fall 2027 dates/amounts not confirmed. English department page uses obsolete computer/paper TOEFL thresholds; confirm program funding threshold.",
+  "publishedDeadlines": [
+    {
+      "label": "Admission full consideration",
+      "dateText": "February15",
+      "note": "Annual fall date; applications accepted year-round."
+    },
+    {
+      "label": "Assistantship full consideration",
+      "dateText": "February1",
+      "note": "Earlier annual date on 2024 funding page; application page saysFebruary 15, so confirm."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "80 legacy;4.0 new overall and every subscore",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Also PTE 58/Cambridge 176. Official agency reports, valid at program start. Educational exemption needs qualifying accredited English-medium degree, GPA 2.7, or qualifying US coursework; documentation reviewed. Research-only graduate degrees without coursework do not qualify."
+    },
+    "documents": [
+      "Transcripts",
+      "Educational/career objectives statement",
+      "Three recommendations",
+      "Research evidence when applicable",
+      "Foreign credential evaluation when applicable"
+    ],
+    "note": "Prior faculty acceptance required. MS applicants or exceptional bachelor candidates with proven research potential. Department evaluates research/teaching experience, publications, GPA. International assistants must passALI oral screening before teaching; coursework/remediation and possible suspension apply. Current fee or waiver not confirmed."
+  },
+  "funding": {
+    "note": "2024 page: RA/TA includes tuition waiver,$19,000 nine-monthPhD stipend+$4,100 summer; generalfees/healthstudent responsibility unless covered by a grant. Normally 5 years, renewalprogress/grantdependent; no universalguarantee.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/entrance.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/applicationinfo.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/financial.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/international/english-language-proficiency.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/admission/how-to-apply/",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}

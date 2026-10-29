@@ -1,0 +1,5 @@
+# Cincinnati A6 central policy
+
+Checked 2026-10-29. https://www.admissions.uc.edu/apply/graduate/requirements.html
+
+Sections “Applying to Multiple Programs”, “Application Fee”, “Transcripts”, “English Proficiency”, and waiver subsections. Exact anchor: “all programs at the institution are taught exclusively in English”. Paraphrase: separate applications, fees and customized references per program. Standard domestic/international fees 65/70; automatic US military service/veteran waiver, not unrestricted hardship. English baseline legacy TOEFL 80/new 4.5, IELTS Academic 6.5, DET 110, PTE 54; home tests allowed, Essentials/MyBest/One Skill Retake excluded. Agency reporting required. Listed-country bachelor/higher degree automatically exempts; documented institution-wide English instruction, qualifying professional English examination or ELS112 may support a discretionary request after application. Unofficial records for review; final foreign bachelor records generally require direct NACES evaluation by enrollment. Higher departmental criteria apply.

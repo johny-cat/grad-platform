@@ -1,0 +1,65 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Biology and Microbiology PhD entry program",
+  "institution": "Texas A&M University",
+  "institutionShort": "Texas A&M",
+  "officialUrl": "https://artsci.tamu.edu/biology/academics/graduate/doctoral-programs.html",
+  "admissionModel": "program",
+  "tracks": [
+    "Biology",
+    "Microbiology"
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 complete application",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Department offers a limited waiver request by November 1; eligibility form could not be read. Central admissions explicitly says the $90 international fee cannot be waived. No explicit international exception or department payment was established; confirm any department offer separately. Additional CAS processing charges apply."
+    },
+    "english": {
+      "toefl": "Above 100 legacy total, Speaking 23 or higher; central new 4.5 / each 4 baseline",
+      "note": "Department IELTS total must be above 7, Speaking at least 7; not a 7.0 overall minimum. No higher department new TOEFL conversion stated. Central test validity/exemptions apply."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Transcripts(unofficial review, official before fall)",
+      "Three recommendations",
+      "CV/resume",
+      "English scores when applicable"
+    ],
+    "note": "Common departmental entry offers Biology/Microbiology degree paths; faculty contact for rotations encouraged. Three 5-week first-semester lab rotations; one-year teaching requirement. GRE not accepted. SOP: research history/interests and lab fit."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted PhDs receive RA/TA covering tuition and current $2,500 monthly living stipend; support until degree completion while in good standing. No separate assistantship application. Future-year amount unconfirmed."
+  },
+  "sources": [
+    {
+      "url": "https://artsci.tamu.edu/biology/academics/graduate/doctoral-programs.html",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://admissions.tamu.edu/apply/international/international-graduate.html",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "detailsNote": "Fall 2027 deadline confirmed. Official page describes one departmental graduate entry and shared rotations for Biology and Microbiology PhD degrees. Whether GraduateCAS requires separate degree selections is not established by accessible public instructions."
+}

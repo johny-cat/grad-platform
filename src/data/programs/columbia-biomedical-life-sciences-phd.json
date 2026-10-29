@@ -1,0 +1,93 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Biomedical Life Sciences (VIBRE) PhD",
+  "institution": "Columbia University",
+  "institutionShort": "Columbia",
+  "officialUrl": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education/phd-programs/biomedical-life-sciences",
+  "detailsNote": "Current VIBRE structure replaces legacy coordinated programs beginning September 2026. Available annual admissions date; Fall 2027 year not explicitly attached. The opened curriculum establishes the Metabolism track rotation route; a uniform model across all tracks is not confirmed.",
+  "tracks": [
+    "Biochemistry, Biophysics, and Structural Biology",
+    "Cancer Biology",
+    "Cell and Molecular Biology",
+    "Computational Biology",
+    "Disease and Therapeutics",
+    "Genetics",
+    "Immunobiology and Microbial Sciences",
+    "Metabolism and Nutrient Biology",
+    "Stem Cell Biology",
+    "Systems Biology"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Application and all supporting materials",
+      "dateText": "December 1st, 5:00 PM EST",
+      "note": "Annual fall entry; no spring admission. Current page does not attach entry year."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 110,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Need route restricted to US citizens/permanent residents currently enrolled at US college/university, with signed aid-officer EFC letter; current US military category also listed. Email before submitting. No general overseas hardship waiver offered."
+    },
+    "english": {
+      "toefl": "100 before January 21, 2026; 5.5 after that date, as published",
+      "ielts": 7.5,
+      "note": "Two-year TOEFL/IELTS; based on undergraduate institution country, not citizenship. Two years study plus bachelor in US/English-official country exempts. English-country master alone does not exempt, but prior qualifying score copy may satisfy. No DET route stated by VIBRE. MyBest accepted per FAQ."
+    },
+    "documents": [
+      "Transcripts (unofficial review copies)",
+      "English translations where applicable",
+      "Recommendation letters (count unconfirmed)",
+      "Official TOEFL/IELTS evidence if required"
+    ],
+    "note": "Faculty committee holistic assessment; no specific subject prerequisites stated in FAQ. Prior related doctorate or majority of doctorate completed elsewhere makes applicant ineligible; transfers not accepted. International official records after admission: secure institutional delivery or WES course-by-course ICAP if secure delivery unavailable; PRC uses specified verification. The Metabolism and Nutrient Biology track describes at least three first-year rotations of about three months and formal track selection at year end; other tracks not verified. Complete supporting materials required by deadline."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All VIBRE PhDs receive tuition/university fees, student health and medical insurance including eligible dependent premiums. Optional dental 75% premium covered. Published FY 2026–27 stipend at least$50,008; not a future-year promise."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education/phd-programs/biomedical-life-sciences",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education/phd-programs",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education-phd-programs/becoming-student/how-apply",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education-phd-programs/becoming-student/prospective-student-frequently-asked-questions",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education-phd-programs/phd-programs/biomedical-life-sciences/metabolism-and-nutrient-biology",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.pathology.columbia.edu/education/graduate-program-pathobiology-and-mechanisms-disease",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Biomedical Science PhD",
+  "institution": "University of Connecticut",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://health.uconn.edu/graduate-school/academics/programs/ph-d-biomedical-science/",
+  "lastChecked": "2026-10-29",
+  "institutionShort": "UConn Health",
+  "admissionModel": "program",
+  "applyUrl": "https://health.uconn.edu/graduate-school/academics/programs/ph-d-biomedical-science/admissions/",
+  "summary": "UConn Health umbrella PhD with seven concentration areas and three first-year laboratory rotations.",
+  "tracks": [
+    "Cell Biology",
+    "Genetics and Developmental Biology",
+    "Immunology",
+    "Molecular Biology and Biochemistry",
+    "Neuroscience",
+    "Skeletal Biology and Regeneration",
+    "Systems Biology"
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application and supporting materials",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The department offers no waivers. Central waivers cover named affiliations, qualifying UConn enrollment or immediate progression, and US military service. These are conditional, not a general hardship offer; international applicants must confirm an eligible category before relying on a waiver."
+    },
+    "english": {
+      "toefl": "100 old scale or 5.0 new scale",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Programme minima exceed central minima. PTE68. Scores valid two years to application; tests taken on/after December1,2026 not considered. Official agency delivery required. TOEFL Essentials/MyBest/ITP (except UConn ITP), IELTS General/Indicator/One Skill Retake excluded. US citizens/permanent residents, primary-English applicants, an entire English-medium non-US degree documented by the Registrar/Controller, or qualifying US graded coursework can be exempt. US coursework requires30 undergraduate/combined or18 graduate credits and GPA3; non-graded courses excluded. TA oral-English rules are separate."
+    },
+    "documents": [
+      "Unofficial university transcripts, or required international third-party evaluations",
+      "Two-part personal statement: motivation and significant research experience; two pages total,11-point,single-spaced,1-inch margins,no attachments",
+      "Resume/CV with research,honors,publications/presentations and employment",
+      "Official English scores unless exempt"
+    ],
+    "note": "Bachelor-equivalent degree and central GPA alternatives:3.0 entire prior degree;3.0 last two full-time undergraduate years or3.5 last year; or3.0 qualifying post-degree semester. International transcript evaluations from NACES/AICE required without exception by deadline, including degree completion. Listed three-year degrees from specified countries are not accepted as four-year equivalent even with evaluation; consult source. One umbrella application only; concentration preference is nonbinding."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program says students in good standing receive GAs throughout; older financial-support page says most entering students. No universal guarantee inferred from this conflict. GA tuition waiver and subsidized insurance; published$39,100/year is undated on a page marked rev9/24, not confirmed Fall2027. Financial-support page requires regular/full-time status and GPA3.0."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://health.uconn.edu/graduate-school/academics/programs/ph-d-biomedical-science/",
+      "label": "Identity,concentrations,rotations,Fall2027",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://health.uconn.edu/graduate-school/academics/programs/ph-d-biomedical-science/admissions/",
+      "label": "Programme admissions and higher English thresholds",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uconn.edu/admissions/application-fee-waivers/",
+      "label": "Conditional central waivers",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://health.uconn.edu/graduate-school/admissions/financial-support/",
+      "label": "Assistantship terms and dated qualification",
+      "checked": "2026-10-29"
+    }
+  ]
+}

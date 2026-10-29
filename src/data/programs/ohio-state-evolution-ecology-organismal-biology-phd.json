@@ -1,0 +1,81 @@
+{
+  "name": "Evolution, Ecology and Organismal Biology PhD",
+  "institution": "The Ohio State University",
+  "institutionShort": "Ohio State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://eeob.osu.edu/grad/program-admissions",
+  "applyUrl": "https://gpadmissions.osu.edu/grad/apply-online.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; 2027 entry dates not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Autumn application",
+      "dateText": "November 15",
+      "note": "Recurring date without stated entry year."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "79 legacy / 4 current",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Official scores within two years sent by application deadline; if received valid, expiry before entry does not invalidate admission proof. No MyBest or IELTS One Skill Retake. Citizenship/degree from listed countries or US permanent-resident/asylee/refugee status over one year may exempt; overseas English-medium instruction alone does not. Higher program minima control; TA and writing assessments separate."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International 70 USD; US 60 USD. Conditional recruitment-code or preapproved departmental payment routes; international eligibility should be confirmed. Economic-disadvantage, FreeApp and SROP categories exclude international applicants. Waiver approved or fee paid before admission; one per year and no refund after payment."
+    },
+    "documents": [
+      "Official transcripts; student-issued copies can go to department temporarily while official records pending",
+      "Three recommendation letters",
+      "Statement of purpose and research interests",
+      "CV/resume, generally 1–3 pages"
+    ],
+    "note": "Bachelor’s required, master’s unnecessary. Biology, chemistry, physics, calculus and statistics recommended. Name intended faculty; prior advisor approval required, no admission without designated advisor.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Most students funded via 20-hour/week TA/RA or university fellowship; undated approximate monthly rate 2,897 USD plus full tuition waiver and employer-supported benefits. No all-admitted guarantee or explicit international coverage established."
+  },
+  "sources": [
+    {
+      "url": "https://eeob.osu.edu/grad/program-admissions",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://eeob.osu.edu/grad/graduate-program",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "lab"
+}

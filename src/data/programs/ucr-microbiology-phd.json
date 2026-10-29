@@ -28,9 +28,14 @@
       "url": "https://graduate.ucr.edu/fee-waivers",
       "label": "UC Riverside Graduate Division: Fee waivers",
       "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.ucr.edu/international-academic-records",
+      "label": "Current foreign academic record policy",
+      "checked": "2026-10-29"
     }
   ],
-  "lastChecked": "2026-10-24",
+  "lastChecked": "2026-10-29",
   "summary": "UC Riverside's Microbiology graduate program, which admits for the fall quarter only. Only PhD students receive financial support; MS students are self-funded.",
   "applyUrl": "https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student",
   "detailsNote": "Official information available; the program's December 1 and January 5 deadlines have no year stated, so Fall 2027 is not confirmed. The admission model, stipend amounts and funding for international students are not stated, so they are left out.",
@@ -54,10 +59,10 @@
       "note": "UCR Graduate Division minimums: IELTS Academic overall 7 with no component below 6. Exemption for degrees from institutions where English is the sole language of instruction."
     },
     "applicationFee": {
-      "amount": 135,
+      "amount": 155,
       "currency": "USD",
       "waiver": "domestic-only",
-      "note": "UCR Graduate Division: 'Only U.S. Citizens and U.S. Permanent Residents may request a waiver for the application fee.' The 2027-28 hardship waiver form opened October 1, 2026."
+      "note": "UCR Graduate Division: 'Only U.S. Citizens and U.S. Permanent Residents may request a waiver for the application fee.' The 2027-28 hardship waiver form opened October 1, 2026. Correction checked 2026-10-29: central Summer 2024–Spring 2027 table lists international 155 USD versus domestic 135; Fall 2027 amount not confirmed."
     },
     "letters": {
       "min": 3

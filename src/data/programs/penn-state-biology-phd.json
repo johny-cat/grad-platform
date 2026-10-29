@@ -1,0 +1,68 @@
+{
+  "name": "Biology PhD",
+  "institution": "The Pennsylvania State University",
+  "institutionShort": "Penn State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://science.psu.edu/bio/grad",
+  "applyUrl": "https://science.psu.edu/bio/grad",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Central policy pages blocked; omitted fields remain unverified. Admission model not established.",
+  "requirements": {
+    "gre": "not-accepted",
+    "note": "Biological-science or related bachelor’s and cumulative GPA 3.0 (catalog). Faculty evaluates merit, available space and financial support. Model not established.",
+    "documents": [
+      "Five essay prompts instead of personal statement",
+      "CV/resume",
+      "List of graduate faculty of interest",
+      "Official-copy transcripts from every higher-education institution, original language plus English",
+      "Three references"
+    ],
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "note": "International applicants submit TOEFL or IELTS directly; no thresholds on opened department pages, central minimums/exemptions blocked."
+    }
+  },
+  "sources": [
+    {
+      "url": "https://science.psu.edu/bio/grad/how-to-apply",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://science.psu.edu/bio/grad",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://science.psu.edu/bio/grad/financial-support",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/biology/",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Complete application",
+      "dateText": "December 10",
+      "note": "Undated recurring publication; no year assigned."
+    }
+  ],
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All biology graduate students in good standing receive year-round assistantship/fellowship stipend, full tuition and academic fees. PhD five-year guarantee; additional year may be available. Undated international TA spoken-English test condition must be confirmed."
+  },
+  "international": {
+    "accepted": "yes"
+  }
+}

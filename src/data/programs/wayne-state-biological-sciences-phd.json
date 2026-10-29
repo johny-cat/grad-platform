@@ -1,0 +1,49 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biological Sciences PhD",
+  "institution": "Wayne State University",
+  "institutionShort": "Wayne State",
+  "officialUrl": "https://bulletins.wayne.edu/graduate/college-liberal-arts-sciences/biological-sciences/biological-sciences-phd/index.html",
+  "detailsNote": "Official available requirements; Fall 2027 dates not confirmed. Fee/waiver and current central numerical English policy could not be opened. Admission model omitted where unconfirmed.",
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Three references",
+      "Goals/career statement",
+      "GRE scores"
+    ],
+    "note": "Bachelor/master in biological or other science; others individually considered. Catalog requires generalGRE, threeletters, goals/career statement. Fall only. Dual-titleUrbanSustainability requires prior BiologyPhD admission, not a separate initial application.",
+    "english": {
+      "note": "Central catalog accepts qualifying US/native-English-country bachelor or English testing; program may set stricter threshold. Current central score page inaccessible. "
+    }
+  },
+  "sources": [
+    {
+      "url": "https://bulletins.wayne.edu/graduate/college-liberal-arts-sciences/biological-sciences/biological-sciences-phd/index.html",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletins.wayne.edu/graduate/general-information/admission/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletins.wayne.edu/graduate/college-liberal-arts-sciences/biological-sciences/biological-sciences-urban-sustainability/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "tracks": [
+    "Biological Sciences and Urban Sustainability (Ph.D. Dual-Title)"
+  ]
+}

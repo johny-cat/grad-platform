@@ -6,7 +6,7 @@
   "degree": "phd",
   "field": "biology",
   "details": "checked",
-  "detailsNote": "Official information available but limited. Two official pages give different Fall dates (December 1 and January 31), neither with a year, so no Fall 2027 deadline is confirmed. GRE, English minimums and funding are not stated on the pages opened.",
+  "detailsNote": "Official information available but limited. Two official pages give different Fall dates (December 1 and January 31), neither with a year, so no Fall 2027 deadline is confirmed. GRE, English minimums and funding are not stated on the pages opened. Current HSC overview places Neuroscience within the common Biomedical Sciences application; see Biomedical Sciences PhD Programs for that route and current shared dates. Existing neuroscience-specific page differs; confirm intended route.",
   "summary": "Neuroscience PhD at West Virginia University, with mentors drawn from the Rockefeller Neuroscience Institute and nearby federal research institutes. Admission is through the common admissions process.",
   "officialUrl": "https://graduateadmissions.wvu.edu/academics/graduate-programs/neuroscience-d",
   "applyUrl": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant",
@@ -69,7 +69,12 @@
       "url": "https://graduateadmissions.wvu.edu/how-to-apply/international-graduate-applicant",
       "label": "WVU Graduate Admissions: International graduate applicant",
       "checked": "2026-10-24"
+    },
+    {
+      "url": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/",
+      "label": "Current common Biomedical Sciences application structure",
+      "checked": "2026-10-29"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-29"
 }

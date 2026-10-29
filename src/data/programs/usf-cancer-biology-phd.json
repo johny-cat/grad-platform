@@ -1,0 +1,93 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Cancer Biology PhD (Moffitt)",
+  "institution": "University of South Florida",
+  "institutionShort": "USF / Moffitt",
+  "officialUrl": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/cancer-biology/about-the-program/",
+  "detailsNote": "Official annual admission and current undated funding information available; Fall 2027 dates and future stipend amounts not confirmed. Shared Moffitt admissions, distinct named PhD majors; admission model unconfirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall complete application",
+      "dateText": "December 1",
+      "note": "Annual priority; all letters/materials must arrive by this date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central graduate page permits financial-hardship waiver requests; international eligibility must be confirmed. Some departmental pages restrict waivers to named affiliated programs; department cannot waive directly."
+    },
+    "english": {
+      "toefl": "79 legacy;4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Central scores valid within 2 years of entry; PTE 53, TOEFL Essentials 8.5 and other alternatives listed. Country-language and qualifying US degree/coursework exemptions may apply; confirm with program. No blanket English-medium exemption inferred."
+    },
+    "documents": [
+      "CV/resume",
+      "Transcripts with translations/evaluation when needed",
+      "Three recommendations on official letterhead",
+      "Statement of purpose, maximum 2 pages",
+      "English scores when applicable"
+    ],
+    "note": "Bachelor degree with extensive biology/chemistry background; GPA 3 for full consideration. Research experience favored. Unofficial transcripts accepted for review; official records after admission. Program-specific selection should be confirmed when applying."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All students tuition/fees/health; current first year $33,000 plus $4,000 arrival bonus, second $37,000, third and later $39,000 after qualifying exams. Undated rates, not a 2027 guarantee. Outside employment prohibited."
+  },
+  "sources": [
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/cancer-biology/about-the-program/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/admissions/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/funding-support/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/admissions/international/admission-information/graduate/academic-requirements.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/admissions/graduate/next-steps/check-application-status.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://secure.visualzen.com/vzcollegeapp/usf/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/arts-sciences/students/graduate/doctoral-programs.aspx",
+      "label": "Official doctoral degree directory",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/",
+      "label": "Official separate PhD program listing",
+      "checked": "2026-10-29"
+    }
+  ]
+}

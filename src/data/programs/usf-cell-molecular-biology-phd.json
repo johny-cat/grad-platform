@@ -1,0 +1,77 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Cell and Molecular Biology PhD",
+  "institution": "University of South Florida",
+  "institutionShort": "USF",
+  "officialUrl": "https://www.usf.edu/arts-sciences/departments/molecular-biosciences/graduate/phd-in-cell-and-molecular-biology.aspx",
+  "detailsNote": "Official annual dates available; Fall 2027 dates not confirmed. Directed research and rotations-if-required appear in curriculum; no single admission model assigned.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "January 1",
+      "note": "Annual date; late space-available consideration to university final deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central graduate page permits financial-hardship waiver requests; international eligibility must be confirmed. Some departmental pages restrict waivers to named affiliated programs; department cannot waive directly."
+    },
+    "english": {
+      "toefl": "79 legacy;4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Central scores valid within 2 years of entry; PTE 53, TOEFL Essentials 8.5 and other alternatives listed. Country-language and qualifying US degree/coursework exemptions may apply; confirm with program. No blanket English-medium exemption inferred. Department strongly recommends GRE for international applicants. Immediate TA oral legacy TOEFL 26 / TOEIC 160; assessment-course pathway has separate thresholds."
+    },
+    "documents": [
+      "Official transcripts",
+      "Independent foreign transcript evaluation and translations",
+      "CV",
+      "Statement of purpose",
+      "At least 3 recommendations"
+    ],
+    "note": "GPA 3. Statement should name 2–3 department faculty. Electronic references, not sealed hard copies to department. Spring priority July 1 international / August 1 US. Department legacy English 79 / IELTS 6.5 / DET 110; central new scale 4.5."
+  },
+  "funding": {
+    "note": "TA stipend plus CAS class tuition waiver; RA stipend/tuition from mentor grants. Awards depend on budget/performance; summer TA not guaranteed.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://www.usf.edu/arts-sciences/departments/molecular-biosciences/graduate/phd-in-cell-and-molecular-biology.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/arts-sciences/departments/molecular-biosciences/graduate/admission-requirements.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/arts-sciences/departments/molecular-biosciences/graduate/graduate-funding.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/admissions/international/admission-information/graduate/academic-requirements.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.usf.edu/admissions/graduate/next-steps/check-application-status.aspx",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

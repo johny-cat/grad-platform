@@ -1,0 +1,91 @@
+{
+  "name": "Evolution, Ecology, and Organismal Biology PhD",
+  "institution": "University of California, Riverside",
+  "institutionShort": "UC Riverside",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://eeob.ucr.edu/graduate-program/apply",
+  "applyUrl": "https://grad.ucr.edu/apply/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Program confirms January 10,2027 for Fall admission/fellowships; central annual funding dateJanuary 5 differs. Admission model not directly stated.",
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "80 before January 21,2026 / 4 effective January 21,2026",
+      "ielts": 7,
+      "note": "IELTS Academic no component below 6. Tests within two years before enrollment; unofficial for review, official after admission. Home Edition/IELTS Online accepted; no ITP+, MyBest or IELTS One Skill Retake. Degree where English is exclusive instruction can exempt; foreign institution checked in WHED and extra proof may be required. TA requirements separate."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central table explicitly covers Summer 2024–Spring 2027: international 155 USD/domestic 135; Fall 2027 fee not yet confirmed. Financial-hardship/preparation waivers limited to eligible US citizens/permanent residents/undocumented applicants, approved before payment, request at least 5 businessdays early."
+    },
+    "documents": [
+      "Unofficial transcripts from all colleges/universities for review; official records after acceptance",
+      "Graduate statement of purpose, maximum 2000 words: preparation, interests, UCR fit, motivation, goals/impact and community contribution",
+      "Three recommendation letters in English (two academic)",
+      "Foreign degrees: WES course-by-course ICAP evaluation after accepting offer; degree proof and certified English translations"
+    ],
+    "note": "Biology/related bachelor’s; other science backgrounds accepted with biology, organic/inorganic chemistry, physics and calculus preparation. Contact faculty early; admission unlikely without identified prospective advisor/prior communication. Three letters at least one professor, direct-knowledge mentors preferred. Conditional international financial statement. Admission model not directly established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Most students receive fellowship/TA/RA, automatic consideration, no guarantee. TA/GSR at 25% or more gives partial fees/health coverage; international GSR at 45% or more may receive nonresident tuition remission. Other uncovered costs depend on offer."
+  },
+  "sources": [
+    {
+      "url": "https://eeob.ucr.edu/graduate-program/apply",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://eeob.ucr.edu/graduate-program/financial-support",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduate.ucr.edu/admission-requirements",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduate.ucr.edu/fee-waivers",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduate.ucr.edu/international-academic-records",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduate.ucr.edu/deadlines",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Fall admission and fellowship consideration",
+      "date": "2027-01-10",
+      "note": "Program says January 10,2027, while central annual funding deadline is earlier January 5; use earlier funding date pending confirmation."
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Central Fall fellowship consideration",
+      "dateText": "January 5th",
+      "note": "Central annual date is earlier than program January 10,2027. Confirm applicability."
+    }
+  ]
+}

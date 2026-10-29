@@ -1,0 +1,96 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Integrated Plant Sciences PhD entry program",
+  "institution": "University of Georgia",
+  "institutionShort": "UGA IPS",
+  "officialUrl": "https://plantcenter.uga.edu/how-to-apply/",
+  "detailsNote": "Fall 2027 deadline confirmed. Rotation and direct-entry paths coexist; no single admission model assigned.",
+  "tracks": [
+    "Biochemistry and Molecular Biology",
+    "Bioinformatics",
+    "Crop and Soil Sciences",
+    "Entomology",
+    "Genetics",
+    "Horticulture",
+    "Microbiology",
+    "Plant Biology",
+    "Plant Breeding, Genetics & Genomics",
+    "Plant Pathology",
+    "Warnell School of Forestry & Natural Resources"
+  ],
+  "deadlines": [
+    {
+      "label": "Guaranteed consideration",
+      "date": "2026-12-01",
+      "note": "For Fall 2027; contact program before late application."
+    }
+  ],
+  "timeline": {
+    "interviews": "Brief Zoom interview in January; guide specifies mid-January versus web early January. Recruitment visit February 25–27,2027, travel/lodging/meals covered.",
+    "decisions": "Offers following interview and recruitment process."
+  },
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Current central fee $75 first / $25 additional; department pages still show old $100 international. Limited waivers only qualifying-program participants with uploaded evidence; overseas eligibility must be confirmed."
+    },
+    "english": {
+      "toefl": "80 legacy(Speaking/Writing20);4.5 new(Speaking/Writing4)",
+      "ielts": 6.5,
+      "note": "IELTS every band at least 6. TOEFL new-scale policy applies on/after January 22, 2026; no January 21 rule inferred. Agency reports, MyBest/Home Edition and IELTS Online/One Skill Retake accepted. UGA English Level 6 alternative; DET not accepted. Usually exempt after a degree from an accredited US institution or institution in a primary-English country. At least one current year of US accredited study with strong performance (for example GPA 3.0) may also support waiver. Departments may still require testing; TA English rules are separate."
+    },
+    "documents": [
+      "Personal statement written in applicant own words",
+      "CV/resume",
+      "Transcripts(unofficial review)",
+      "Recommendations",
+      "Background and Interest form"
+    ],
+    "note": "Choose IPS PhD Fall major, and rotation or direct-entry path. Three 5-week first-fall rotations or lab direct entry. Identify 3 PhD units, 3 interdisciplinary groups, 5 faculty. Contact faculty encouraged. Recommendation count not stated in opened program instructions."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "First-semester assistantship, no teaching obligation. Years 2–5 stipend guaranteed at chosen program standard; no amount given. Tuition waiver for all in Year 1, continues while RA/TA-supported; home program may require teaching."
+  },
+  "sources": [
+    {
+      "url": "https://plantcenter.uga.edu/how-to-apply/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://plantcenter.uga.edu/program-overview/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://plantcenter.uga.edu/frequently-asked-questions/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://plantcenter.uga.edu/files/2026/10/Your-Guide-to-Applying-to-IPS-2026.pdf",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/application-fee/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

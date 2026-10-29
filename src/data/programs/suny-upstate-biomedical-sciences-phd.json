@@ -1,0 +1,26 @@
+{
+  "name": "Biomedical Sciences PhD",
+  "institution": "SUNY Upstate Medical University",
+  "institutionShort": "SUNY Upstate",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "tracks": [
+    "Biochemistry & Molecular Biology",
+    "Cell & Developmental Biology",
+    "Microbiology & Immunology",
+    "Neuroscience",
+    "Pharmacology"
+  ],
+  "officialUrl": "https://www.upstate.edu/grad/index.php",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://www.upstate.edu/grad/index.php",
+      "label": "Official graduate program identity and common application",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

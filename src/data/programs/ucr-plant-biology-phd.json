@@ -38,9 +38,14 @@
       "url": "https://graduate.ucr.edu/fee-waivers",
       "label": "UC Riverside Graduate Division: Fee waivers",
       "checked": "2026-10-24"
+    },
+    {
+      "url": "https://graduate.ucr.edu/international-academic-records",
+      "label": "Current foreign academic record policy",
+      "checked": "2026-10-29"
     }
   ],
-  "lastChecked": "2026-10-24",
+  "lastChecked": "2026-10-29",
   "summary": "UC Riverside's Plant Biology PhD in the Department of Botany and Plant Sciences, with an early funding consideration deadline. Admitted PhD students are supported through assistantships, fellowships and scholarships.",
   "applyUrl": "https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student",
   "deadlines": [
@@ -76,10 +81,10 @@
       "note": "TOEFL scores are required of international students; no program-specific minimum is stated. UCR Graduate Division minimums: IELTS Academic overall 7 with no component below 6. Exemption for degrees from institutions where English is the sole language of instruction."
     },
     "applicationFee": {
-      "amount": 135,
+      "amount": 155,
       "currency": "USD",
       "waiver": "domestic-only",
-      "note": "The department pays the fee for qualifying domestic Plant Biology PhD applicants (for example cumulative GPA of 3.3 or higher). UCR Graduate Division: 'Only U.S. Citizens and U.S. Permanent Residents may request a waiver for the application fee.' The 2027-28 hardship waiver form opened October 1, 2026."
+      "note": "The department pays the fee for qualifying domestic Plant Biology PhD applicants (for example cumulative GPA of 3.3 or higher). UCR Graduate Division: 'Only U.S. Citizens and U.S. Permanent Residents may request a waiver for the application fee.' The 2027-28 hardship waiver form opened October 1, 2026. Correction checked 2026-10-29: central Summer 2024–Spring 2027 table lists international 155 USD versus domestic 135; Fall 2027 amount not confirmed."
     },
     "letters": {
       "min": 3

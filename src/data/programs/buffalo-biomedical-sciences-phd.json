@@ -9,7 +9,7 @@
   "details": "checked",
   "detailsNote": "The official page gives the application deadline as December 1 without a year, so it is shown as a published date and not confirmed for Fall 2027. The accepted English tests and minimum scores are on a separate page that was not read.",
   "admissionModel": "program",
-  "summary": "A common first-year PhD entry route at the University at Buffalo. Students explore research areas and laboratories before choosing a faculty advisor and one of ten programs.",
+  "summary": "A common first-year PhD entry route at the University at Buffalo. Students explore research areas and laboratories before choosing a faculty advisor and a participating program.",
   "officialUrl": "https://www.buffalo.edu/grad/programs/phd-programs-in-biomedical-sciences-phd.html",
   "applyUrl": "https://ubgradconnect.buffalo.edu/apply/?sr=ab29afaf-1032-4a06-a499-6bf0ed8375b5",
   "cycle": "fall-2027",
@@ -66,8 +66,21 @@
     {
       "url": "https://medicine.buffalo.edu/phdprogram",
       "label": "PhD Program in Biomedical Sciences: first-year entry",
-      "checked": "2026-10-24"
+      "checked": "2026-10-28"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-28",
+  "tracks": [
+    "Biochemistry",
+    "Biomedical Engineering",
+    "Biomedical Informatics",
+    "Genetics, Genomics and Bioinformatics",
+    "Microbiology and Immunology",
+    "Neuroscience",
+    "Oral Biology",
+    "Pathology and Anatomical Sciences",
+    "Pharmacology and Toxicology",
+    "Physiology and Biophysics",
+    "Structural Biology"
+  ]
 }

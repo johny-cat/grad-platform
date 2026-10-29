@@ -1,0 +1,98 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Chemistry and Chemical Biology PhD",
+  "institution": "University of California, Davis",
+  "institutionShort": "UC Davis",
+  "officialUrl": "https://grad.ucdavis.edu/programs/gccb",
+  "detailsNote": "Official available requirements and 2027–28 deadlines. Funding amounts are qualified by the period explicitly published; confirm offer-specific terms.",
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement/history",
+      "Academic transcripts from every college-level institution",
+      "Three electronic recommendations",
+      "English evidence if applicable"
+    ],
+    "english": {
+      "toefl": "100 before January 21, 2026; 5.0 for tests on/after that date",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Two-year scores; no MyBest or IELTS One Skill Retake. DET only when other exams unavailable; DET-only admits take TOEP. English-only US degree or foreign degree with sole English instruction recorded in WHED may exempt; other documentation not accepted. Programs/TA employment may set higher standards."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "US applicants$135. Central waiver limited to listed graduate-preparation programs, not general financial need. Identify program/coordinator in application; participation verified. International applicants should confirm category eligibility. Chemistry additionally offers a small competitive hardship pre-application route: November 1, 2026 at 23:59 PST; selection not guaranteed, international eligibility must be confirmed. Full application still due December 1."
+    },
+    "note": "Bachelor in chemistry, biochemistry, physics for Chemical Physics, or related STEM major; undergraduate cumulative GPA at least 3.0, with major-course emphasis. Three recommendations; academic preparation/research fit assessed holistically. Department TOEFL threshold higher than central. Equivalent three quarters at 25% TA appointment required (two at 50% satisfies)."
+  },
+  "deadlines": [
+    {
+      "label": "General and fellowship",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Current 2027–28 central table; follow earlier department closing rules."
+    }
+  ],
+  "funding": {
+    "coversInternational": "yes",
+    "note": "PhD support through TA/GSR guaranteed while satisfactory, timely progress maintained. Stipend, tuition/fees and health insurance available; TAs pay campus-based fees, approximately$188/quarter as published. No current stipend amount established.",
+    "allFunded": true
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://grad.ucdavis.edu/programs/gccb",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://chemistry.ucdavis.edu/graduate/prospective-students/PhD-how-apply",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradstudies.ucdavis.edu/program-application-deadlines",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/application-components",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://chemistry.ucdavis.edu/graduate/prospective-students/PhD-funding-and-financial-support",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://chemistry.ucdavis.edu/graduate/ta-chemistry/chemistry-phd-students",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

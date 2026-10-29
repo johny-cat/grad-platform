@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Biological Sciences PhD",
+  "institution": "University of Pittsburgh",
+  "institutionShort": "Pitt",
+  "officialUrl": "https://www.biology.pitt.edu/graduate/how-apply",
+  "tracks": [
+    "Ecology and Evolution (E&E)",
+    "Molecular, Cellular, and Developmental Biology (MCDB)"
+  ],
+  "detailsNote": "Fall 2027 admissions confirmed. One Biological Sciences application requires choosing one of two distinct program areas. Regular MCDB uses rotations; E&E normally applies through a mentor; advanced entry directly joins a lab.",
+  "deadlines": [
+    {
+      "label": "Regular fall application",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Same fee domestic/international. Dietrich hardship and qualifying affiliations considered case by case; international outside-fellowship route explicitly mentioned. Confirm eligibility. Survey before payment; allow up to 7 business days per Biology page, no refunds, one code per application."
+    },
+    "english": {
+      "toefl": "4.5 overall, speaking/reading/writing 4.5, listening 5.0",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "IELTS each section 6.5. These are Dietrich/Biology published thresholds; exemptions not established on opened pages. Upload DET reportPDF per FAQ."
+    },
+    "documents": [
+      "Personal statement (about 2 pages, maximum 3)",
+      "CV",
+      "Transcripts",
+      "Three electronic recommendations",
+      "Ranked list of four tenured/tenure-stream Biological Sciences faculty",
+      "English evidence when required"
+    ],
+    "note": "Typical preparation biology or related science/engineering degree, research aptitude and academic proficiency; GPA reviewed in context, not a rigid 3.5 cutoff. Personal statement covers motivation, scientific experience, research goals and community contribution. No additional writing sample required. Advanced entry for master-equivalent applicants requires prior supporting mentor agreement and accepts year-round applications."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Every admitted student supported throughout graduate career regardless of citizenship: stipend, full tuition/no fees and health benefits. Normal Fall 2026 rate$35,196/year, not a Fall 2027 promise; first two semesters department fellowship, thereafter normally advisor/TA support."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.biology.pitt.edu/graduate/how-apply",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.biology.pitt.edu/graduate/how-apply/graduate-application-faq",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.biology.pitt.edu/graduate/financial-support",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.asgraduate.pitt.edu/admissions/application-fee-waivers",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

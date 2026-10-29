@@ -1,0 +1,77 @@
+{
+  "name": "VMS - Pathobiology PhD",
+  "institution": "University of Illinois Urbana-Champaign",
+  "institutionShort": "UIUC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://vetmed.illinois.edu/about-the-college/pathobiology/grad-programs/",
+  "applyUrl": "https://choose.illinois.edu/apply/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Admission model not explicitly established.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "January 15th",
+      "note": "No entry year stated; confirm intended cycle."
+    },
+    {
+      "label": "Spring full consideration",
+      "dateText": "July 15th",
+      "note": "No entry year stated; confirm intended cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 legacy / 4 new for limited status; 103 legacy / 5 new for full status",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Limited-status minima; full status IELTS 7.5 or DET 135. Below full status requires English placement and possible ESL/reduced load. Tests valid two years before entry. No Essentials, MyBest or IELTS One Skill Retake. Exemptions require a US/approved-country degree or at least two years of study/work there, each within five years of entry; foreign English medium alone does not qualify. TA speaking rules separate; DET cannot establish TA proficiency. Department older exemption language allows English-medium study; current central approved-country restriction differs, so confirm applicability."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Current central fee $90 for all applications, overriding older department domestic $70. Waivers limited to eligible domestic categories; international exception only valid exchange agreement with approved fee waiver."
+    },
+    "documents": [
+      "CV/resume",
+      "Personal statement addressing development, inclusion and any application concerns",
+      "Academic statement, maximum 1,000 words: preparation, interests, faculty fit and goals",
+      "Three references",
+      "Unofficial degree-institution transcripts, degree certificates if needed and English translations"
+    ],
+    "note": "Accepted students join a Pathobiology faculty lab; contact faculty and name interests. Off-cycle review only by prior arrangement with specified advisor. Passport needed before admission; dependents/external funding can require financial proof."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Full tuition and partial fee waiver plus stipend through assistantship/fellowship; support guaranteed with satisfactory progress. International section explicitly extends this support to accepted international applicants."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://vetmed.illinois.edu/about-the-college/pathobiology/grad-programs/",
+      "label": "Program identity, application and support",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/international-applicants",
+      "label": "Central English and international policies",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+      "label": "Current central fee and application instructions",
+      "checked": "2026-10-29"
+    }
+  ]
+}

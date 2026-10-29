@@ -1,0 +1,74 @@
+{
+  "name": "Biostatistics PhD",
+  "institution": "Indiana University Bloomington",
+  "institutionShort": "IU Bloomington",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.publichealth.indiana.edu/doctoral/majors/phd-biostatistics.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://www.publichealth.indiana.edu/doctoral/majors/phd-biostatistics.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.publichealth.indiana.edu/doctoral/apply/index.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.publichealth.indiana.edu/doctoral/cost.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bulletins.iu.edu/iub/phb/2026-2027/graduate/doctoral/biostatistics.shtml",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "applyUrl": "https://www.publichealth.indiana.edu/doctoral/apply/index.html",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. The accessible pages do not establish an admission model or GRE policy.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "Dec. 15",
+      "note": "Published without an explicit deadline year; confirm the intended entry cycle."
+    },
+    {
+      "label": "Fall final",
+      "dateText": "Jan. 15",
+      "note": "Published without an explicit deadline year; confirm the intended entry cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "4 or higher",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Exemption may apply for a US degree, a degree from a university in an IU-listed English-speaking country, or citizenship of a listed country. Funding or assistantships may still require an English exam."
+    },
+    "documents": [
+      "SOPHAS application and invited IU Graduate School supplemental application; both required",
+      "Statement of purpose, maximum 600 words, on motivation, readiness and personal qualities",
+      "CV or resume",
+      "Recommendation letters; general school guidance says most programs require three unless otherwise noted",
+      "Transcripts from all colleges and universities; foreign records/degree documents with certified translations when needed",
+      "Foreign PhD transcripts require official WES or ECE course-by-course evaluation sent directly to SOPHAS",
+      "English proficiency results unless exempt"
+    ],
+    "note": "Biostatistics admits applicants with a bachelor’s degree or higher; a master’s is not mandatory. Official transcripts go through SOPHAS; international applicants upload unofficial academic records and degree documents, with official verification as required. Final degree-conferral transcript due within three months of completion. Applicable application charges and waiver eligibility were not established; do not substitute the separate Biology fee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Funding is not guaranteed. Most doctoral students receive competitive student academic appointments including full tuition remission, monthly stipend and health insurance. Automatic consideration without a separate funding application; priority-deadline application recommended."
+  }
+}

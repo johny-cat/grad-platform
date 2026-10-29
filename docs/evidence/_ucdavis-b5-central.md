@@ -1,0 +1,10 @@
+# UC Davis B5 central policies
+Checked 2026-10-29. Full opened text: work/public-b5-davis-central.json (outside repository).
+
+Application Components: https://grad.ucdavis.edu/application-components — components list and electronic letters/transcripts sections. International fee155, US135; SOP, personal statement, transcripts from every college institution, electronic recommendations. Unofficial review copies allowed; official on admission. Exact anchor: "$155 for international applicants".
+
+English examinations: https://grad.ucdavis.edu/english-language-examinations — score tables and Exemption Eligibility. TOEFL80 beforeJan21,2026 or4.5 after; IELTS Academic7,DET115 only when alternatives unavailable; DET-only admits take TOEP. Scores2years; noMyBest/IELTSOneSkillRetake. US accredited English-only degree or foreign degree from WHED-listed solely English instruction qualifies for review; other institutional documentation not accepted. Program may raise minimum; TA/Reader further testing possible. Exact anchor: "Minimum Score: 115".
+
+Fee waivers: https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers — introductory policy and program list. Only listed preparation-program participants; no financial-need/general waiver. Identify program and coordinator in application, immediately applied subject to verification. No citizenship restriction stated; international applicants must confirm category eligibility. Exact anchor: "Fee waivers are not available for any other reason".
+
+Deadlines: https://gradstudies.ucdavis.edu/program-application-deadlines — explicitly2027–28 cycle; all close23:59Pacific. Rows Biophysics,Chemistry/ ChemicalBiology,IntegrativePathobiology,PlantBiology generalDec1/fellowship,spaceJune1;EntomologygeneralJan5/fellowship,spaceJune1;NutritionalBiologypriorityDec15/fellowship,generalJan15,spaceJune1. All six GREnotrequiredoraccepted. Program pages may impose earlier final date; use earlier restriction and explain. Exact anchor: "Applications close at 11:59 p.m. (Pacific Time)".

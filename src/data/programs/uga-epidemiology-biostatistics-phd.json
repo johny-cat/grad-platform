@@ -1,0 +1,70 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Epidemiology and Biostatistics PhD",
+  "institution": "University of Georgia",
+  "institutionShort": "UGA",
+  "officialUrl": "https://publichealth.uga.edu/degree/ms-phd-in-epidemiology-biostatistics/",
+  "detailsNote": "Fall 2027 enrollment cycle confirmed on page; December 1 funding priority lacks explicit year, so preserved as annual. Admission model not confirmed.",
+  "tracks": [
+    "Epidemiology",
+    "Biostatistics",
+    "Data Analysis & Modeling"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Funding priority",
+      "dateText": "December 1st",
+      "note": "Annual priority for research/teaching assistantships; deadline year not explicitly repeated."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Current central fee $75 first / $25 additional; department pages still show old $100 international. Limited waivers only qualifying-program participants with uploaded evidence; overseas eligibility must be confirmed."
+    },
+    "english": {
+      "toefl": "80 legacy(Speaking/Writing20);4.5 new(Speaking/Writing4)",
+      "ielts": 6.5,
+      "note": "IELTS every band at least 6. TOEFL new-scale policy applies on/after January 22, 2026; no January 21 rule inferred. Agency reports, MyBest/Home Edition and IELTS Online/One Skill Retake accepted. UGA English Level 6 alternative; DET not accepted. Usually exempt after a degree from an accredited US institution or institution in a primary-English country. At least one current year of US accredited study with strong performance (for example GPA 3.0) may also support waiver. Departments may still require testing; TA English rules are separate."
+    },
+    "documents": [
+      "Unofficial transcripts for review; official after offer",
+      "CV/resume",
+      "Personal statement",
+      "Three recommendations"
+    ],
+    "note": "Applicants may come from varied disciplines with strong quantitative skills and MPH-level epidemiology/biostatistics knowledge. For the PhD, applicants without prior relevant master’s training (MPH/MS) or another terminal degree (MD/JD) will not be reviewed as competitive; the program advises its MS route first. Additional biostatistics for Data Analysis/Biostatistics; Biostatistics: calculus(differential, integral, multivariate), linear algebra encouraged. Statement explains research/faculty fit, preparation, funding needs. Optional GRE encouraged."
+  },
+  "funding": {
+    "note": "Program admits only with identified funding source; may be investigator RA, TA, fellowship or student-secured support. This is not an unconditional institutional funding guarantee; state independent funding clearly. No amount or coverage guarantee published.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://publichealth.uga.edu/degree/ms-phd-in-epidemiology-biostatistics/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/application-fee/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

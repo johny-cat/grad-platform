@@ -1,0 +1,19 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-29",
+  "name": "Nutrition PhD",
+  "institution": "Cornell University",
+  "institutionShort": "Cornell",
+  "officialUrl": "https://human.cornell.edu/degrees/grad/nutrition-phd",
+  "sources": [
+    {
+      "url": "https://human.cornell.edu/degrees/grad/nutrition-phd",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

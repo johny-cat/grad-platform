@@ -1,0 +1,62 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Ecology and Evolutionary Biology PhD",
+  "institution": "Texas A&M University",
+  "institutionShort": "Texas A&M EEB",
+  "officialUrl": "https://eeb.tamu.edu/graduate-program/prospective-students-2/phd-program-application-procedure/",
+  "admissionModel": "lab",
+  "detailsNote": "Official available admissions process; published deadline is for Fall 2026, not Fall 2027. Independent interdisciplinary EEB degree, not departmental Ecology and Conservation Biology.",
+  "publishedDeadlines": [
+    {
+      "label": "Historical Fall 2026 consideration",
+      "dateText": "December 1, 2025",
+      "note": "Explicit prior cycle; late evaluation only in special circumstances."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Central admissions explicitly says the $90 international fee cannot be waived. EEB advertises a generic need-based waiver contact, but does not establish international eligibility or an exception to the central rule. Confirm any department offer separately. Additional CAS processing charges apply."
+    },
+    "english": {
+      "toefl": "80 legacy;4.5 new overall/4.0 each skill",
+      "ielts": 6,
+      "note": "Within 2 years; Home Edition/Essentials 8.5 accepted, MyBest/IELTS One Skill Retake not accepted. GRE Verbal 146/GMAT alternatives subject to department approval. Exemption: listed English-country citizenship or US accredited bachelor/master; department may be stricter. EEB requires legacy TOEFL Speaking 23 or IELTS Speaking 7, prefers 26/8; program describes Level 1 TA proof with Level 2 case-by-case."
+    },
+    "documents": [
+      "Statement of purpose naming faculty sponsor",
+      "Three recommendations",
+      "Transcripts",
+      "English scores when applicable"
+    ],
+    "note": "Four-year bachelor equivalent; research aptitude through prior research/presentations/publications. Contact EEB core faculty sponsor before deadline; acceptance requires adviser agreement. General GRE not evaluated; Biology subject GRE optional."
+  },
+  "sources": [
+    {
+      "url": "https://eeb.tamu.edu/graduate-program/prospective-students-2/phd-program-application-procedure/",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://eeb.tamu.edu/wp-content/uploads/2025/06/Admissions-Process.pdf",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://admissions.tamu.edu/apply/international/international-graduate.html",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

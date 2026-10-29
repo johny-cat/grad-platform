@@ -1,0 +1,68 @@
+{
+  "name": "Entomology PhD",
+  "institution": "The Pennsylvania State University",
+  "institutionShort": "Penn State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://ento.psu.edu/graduate",
+  "applyUrl": "https://ento.psu.edu/graduate",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official application page confirms Fall 2027; stale Fall 2025 line remains below. GRE and current central fee/new TOEFL minima inaccessible.",
+  "requirements": {
+    "gre": "unknown",
+    "note": "Accredited bachelor’s, GPA 3.0 last two years; strong biology and recommended statistics, physics, organic chemistry, calculus and computing. Non-native speakers must speak with faculty for verbal assessment. Advisor contact helpful but admission without one possible; meetings/rotations arranged afterward. GRE not established for primary program; dual-title GRE requirements not borrowed. Fee waiver: Program explicitly invites fee-waiver requests by email; no nationality restriction stated, confirm international eligibility. Current amount not established; central fee page 403.",
+    "documents": [
+      "Official transcripts from every institution",
+      "Three recommendation letters",
+      "Program questions: motivation/program fit 150 words; preparation/research 400; research/faculty fit 300; goals 200; nonacademic activity 100"
+    ],
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "80 iBT, speaking 19 (published legacy scale); revised paper total 60",
+      "ielts": 6.5,
+      "note": "IELTS Academic. Degree from listed countries exempts; foreign English medium alone not stated. Faculty verbal assessment required for non-native speakers. Current central new-scale requirements inaccessible."
+    }
+  },
+  "sources": [
+    {
+      "url": "https://ento.psu.edu/graduate",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://ento.psu.edu/graduate/prospective/apply/applying-needs",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://ento.psu.edu/graduate/prospective/apply/faqs",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/entomology/",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Complete Fall 2027 application",
+      "date": "2026-12-01",
+      "note": "Page explicitly says Fall 2027, though stale Fall 2025 line also remains below."
+    }
+  ],
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department lists assistantships/fellowships and other competitive aid opportunities; no universal funding guarantee or current stipend established."
+  }
+}

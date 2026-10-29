@@ -1,0 +1,29 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD — Cell and Molecular Biology",
+  "institution": "University of Toledo",
+  "institutionShort": "UToledo",
+  "officialUrl": "https://www.utoledo.edu/nsm/bio/graduate/phd-program.html",
+  "sources": [
+    {
+      "url": "https://www.utoledo.edu/nsm/bio/graduate/phd-program.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/nsm/bio/graduate/",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/nsm/bio/graduate/phd-program-req.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}
