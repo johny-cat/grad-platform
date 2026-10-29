@@ -1,0 +1,87 @@
+{
+  "name": "Natural Sciences PhD",
+  "institution": "University of Missouri-Kansas City",
+  "institutionShort": "UMKC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://sgs.umkc.edu/academics/natural-sciences-phd/cell-biology-biophysics-phd.html",
+  "tracks": [
+    "Cell Biology and Biophysics",
+    "Molecular Biology and Biochemistry"
+  ],
+  "detailsNote": "Archive Cell Biology and Biophysics maps biology disciplines of current Natural Sciences PhD, reviewed jointly; other non-biology disciplines not detailed here. Dates undated, Fall2027 not confirmed. Uniform admission model not established.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall fullest consideration",
+      "dateText": "December 15",
+      "note": "Undated Natural Sciences schedule; late review space-available."
+    }
+  ],
+  "timeline": {
+    "decisions": "By February15 for applications received by December15, undated schedule."
+  },
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from all prior institutions",
+      "Statement of purpose",
+      "Three recommendation letters",
+      "Writing sample",
+      "Resume/CV"
+    ],
+    "note": "Natural Sciences GPA2.75 undergraduate or3.0 post-bachelor coursework; admissions page lists both benchmarks separately, confirm evaluation. Qualifying bachelor/equivalent. GRE suggested, not required except Biomedical/Health Informatics; catalog later contains generic conflicting international-GRE language, confirm with coordinator. Choose primary discipline, optional secondary; CBB/MBB reviewed as group. Coordinator contact strongly recommended. Catalog requires official records before review.",
+    "english": {
+      "ielts": 7,
+      "duolingo": 115,
+      "toefl": "90 iBT; new-scale threshold not stated",
+      "note": "Higher Graduate Biology Programs row still uses former IPhD label; IELTS each6.5. Confirm applicability to renamed degree. General exemptions: listed-country citizenship, US compositionI/II C+, degree/24 non-ESL credits US/Canada/UK/NZ/Australia, or US high school. Country-degree exemption for CS/chemistry/engineering does not name biology. Coordinator-supported written English waiver possible, not automatic."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "International75USD; domestic45. No applicable fee-waiver route established on reviewed sources."
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "CBB page describes tuition remission and undated26000USD stipend,27000after qualifying exam; payment period/year and multi-year duration unstated. This is CBB-scoped; no identical MBB funding guarantee inferred."
+  },
+  "sources": [
+    {
+      "url": "https://sgs.umkc.edu/academics/natural-sciences-phd/cell-biology-biophysics-phd.html",
+      "label": "Official Natural Sciences or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://programs.umkc.edu/graduate/school-of-graduate-studies/cell-biology-and-biophysics",
+      "label": "Official Natural Sciences or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://sgs.umkc.edu/admissions/natural-sciences-apply.html",
+      "label": "Official Natural Sciences or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.umkc.edu/colleges-schools/graduate-studies/phd-programs/application-admissions-information/",
+      "label": "Official Natural Sciences or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umkc.edu/international-students/future-students/english-proficiency.php",
+      "label": "Official Natural Sciences or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

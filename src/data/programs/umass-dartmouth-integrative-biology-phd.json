@@ -1,0 +1,84 @@
+{
+  "name": "Integrative Biology PhD",
+  "institution": "University of Massachusetts Dartmouth",
+  "institutionShort": "UMass Dartmouth",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://www.umassd.edu/programs/integrative-biology-phd/",
+  "detailsNote": "Official schedule undated; Fall2027 not confirmed. Admission model and program-specific GRE policy not established.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall assistantship priority",
+      "dateText": "January 15",
+      "note": "Undated university schedule; full-time degree seekers only."
+    },
+    {
+      "label": "Fall international closing",
+      "dateText": "July 15",
+      "note": "Undated university schedule; programs may close earlier when full."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 2,
+      "max": 2
+    },
+    "documents": [
+      "Statement of purpose, minimum300words",
+      "Resume",
+      "All postsecondary transcripts",
+      "English test if applicable"
+    ],
+    "note": "Unofficial records/scores accepted review, official before enrollment. General page says most programs do not require GRE; program-specific section does not resolve this PhD. Bachelor-only applicants can be considered; central suggested GPA3.0 not firm minimum.",
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Graduate FAQ says fee cannot be waived or deferred regardless of circumstances."
+    },
+    "english": {
+      "ielts": 6,
+      "toefl": "72 old iBT or4 new2026",
+      "note": "IELTS Academic; PTE52. TA consideration requires IELTS6.5 orTOEFL79/4. DET95 accepted many programs, but Biology/Marine Biology excluded: confirm specifically for Integrative Biology before using DET. September2026 policy exempts US/listed-country degrees, four named foreign institutions, or two full-time US semesters excluding ESL/test prep. Medium-of-instruction letter alone not accepted."
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Limited competitive assistantships depend on work needs, performance, academic record and funds. No universal offer, stipend or multi-year guarantee stated; some programs award support only later."
+  },
+  "sources": [
+    {
+      "url": "https://www.umassd.edu/programs/integrative-biology-phd/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umassd.edu/graduate/dates/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umassd.edu/graduate/international-students/language-test-waiver/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umassd.edu/graduate/faqs/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umassd.edu/graduate/assistantships/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Massachusetts Boston",
+  "institutionShort": "UMass Boston",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://www.umb.edu/academics/program-finder/biology-phd/",
+  "tracks": [
+    "Environmental Biology",
+    "Molecular Biology, Cellular Biology, and Organismal Biology (MCOB)"
+  ],
+  "detailsNote": "Official dates undated; Fall2027 not confirmed. Admission model not established on reviewed pages.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall funding priority",
+      "dateText": "January 2",
+      "note": "Undated program schedule; confirm cycle."
+    },
+    {
+      "label": "Fall final",
+      "dateText": "April 1",
+      "note": "Undated program schedule; confirm cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "All undergraduate/graduate transcripts",
+      "Three recommendation letters"
+    ],
+    "note": "Four-year bachelor/equivalent; competitive GPA usually3.0, lower possible; interests must fit faculty. Program asks two official transcript copies, whereas central accepts unofficial review copies and official records before entry: confirm timing.",
+    "english": {
+      "ielts": 6.5,
+      "duolingo": 110,
+      "toefl": "90 on/prior to January21,2026;4.5 after",
+      "note": "Biology-specific row; PTE61. Exemption: two full-time academic years excluding ESL/test prep at English-language institution in US/listed countries; overseas English instruction alone insufficient."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "UMass Boston alumni/current students completing degree before graduate enrollment exempt; no citizenship restriction stated, international applicability confirm. Codes before payment; no refunds."
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department-assigned assistantships not guaranteed. AY2026–27 full TA/RA/AA appointment:18hours/week,40weeks,25865USD,100%tuition waiver, partial health subsidy. Appointment rate, not program-wide/Fall2027 offer."
+  },
+  "sources": [
+    {
+      "url": "https://www.umb.edu/academics/program-finder/biology-phd/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/international-graduate-applicants/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umb.edu/admissions/graduate-students/graduate-students-assistantships/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

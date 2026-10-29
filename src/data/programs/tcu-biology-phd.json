@@ -1,0 +1,74 @@
+{
+  "name": "Biology PhD",
+  "institution": "Texas Christian University",
+  "institutionShort": "TCU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://graduate.catalog.tcu.edu/colleges/engineering/biology/phd",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "applyUrl": "https://cse.tcu.edu/academics/graduate-programs.php",
+  "publishedDeadlines": [
+    {
+      "label": "College-listed Biology fall date",
+      "dateText": "December 15",
+      "note": "Conflicts with department February15 full-consideration date. Confirm current deadline; earlier date shown for planning."
+    },
+    {
+      "label": "Department full admission/financial-aid consideration",
+      "dateText": "February 15",
+      "note": "Department applies this date to summer/fall starts, with later review by prior contact; college instead lists December15 for Biology fall."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Davis College graduate fee. No Biology waiver policy verified; Chemistry/Physics waiver offers are not borrowed."
+    },
+    "english": {
+      "toefl": "80 iBT/550 paper (scale as published)",
+      "ielts": 6.5,
+      "note": "College says international applicants may request a departmental telephone interview for possible TOEFL waiver; this is not automatic."
+    },
+    "documents": [
+      "Transcripts from all colleges, with English translations if applicable (unofficial review; official after admission)",
+      "Statement of purpose (college maximum1,000 words)",
+      "International Student and Scholar Form for non-permanent-resident applicants"
+    ],
+    "note": "Bachelor’s in biology/related field, overall and science GPA3.0, three academic references and identified Biology graduate faculty major advisor expected. Department encourages prospective-faculty contact; research/teaching/work experience considered."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Biology publishes undated $30,000 stipend for12 months through teaching assistantships with full tuition waiver. Years2–5 support depends on prior-year success; no explicit all-admitted/international guarantee retained."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://graduate.catalog.tcu.edu/colleges/engineering/biology/phd",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.serc.tcu.edu/biology/graduate-programs/admission-requirements-application-process.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cse.tcu.edu/academics/graduate-programs.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

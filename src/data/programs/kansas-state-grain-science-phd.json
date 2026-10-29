@@ -1,0 +1,77 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Grain Science PhD",
+  "institution": "Kansas State University",
+  "institutionShort": "K-State",
+  "officialUrl": "https://www.grains.k-state.edu/academics/graduate-programs/Application%20Information.html",
+  "detailsNote": "Official annual information is available; Fall 2027 general admission dates not confirmed. A separate domestic-only fellowship explicitly names Fall 2027; admission model and GRE policy not established.",
+  "publishedDeadlines": [
+    {
+      "label": "International fall application",
+      "dateText": "February 1",
+      "note": "Annual international deadline; earlier program dates may apply."
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Domestic GFS fellowship faculty nomination",
+      "date": "2027-03-01",
+      "note": "Fall 2027; US citizen/permanent resident, GPA 3.5 and faculty nomination required; not general admission deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International75USD; domestic65. Central McNair waiver and limited competitive departmental codes; no program-specific code offer confirmed. International applicants must confirm category eligibility before payment."
+    },
+    "english": {
+      "toefl": "79 before January 21,2026; 4.5 on/after that date",
+      "ielts": 6.5,
+      "note": "PTE 58 accepted; Duolingo not accepted. Listed exempt countries or accredited US degree may waive testing. TA speaking requirements are separate."
+    },
+    "documents": [
+      "Online graduate application",
+      "Uploaded transcripts and degree certificates; certified English translations for international records",
+      "Statement of objectives/research goals",
+      "Three recommendations",
+      "Resume/CV",
+      "Bachelor-only PhD: additional motivation page and research-supervisor recommendation"
+    ],
+    "note": "Bachelor-only PhD requires GPA 3.5, demonstrated research and additional motivation statement. Preparation in algebra/calculus/statistics, chemistry/biochemistry/organic chemistry, physics and biological sciences; waivers/deficiency courses possible."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Assistantships competitive. Fall 2027 GFS fellowship: up to two domestic US-citizen/permanent-resident awards, $30,000 yearly plus tuition/fees for at least three years subject to progress; GPA 3.5 and nominated faculty adviser required. Not an international award."
+  },
+  "sources": [
+    {
+      "url": "https://www.grains.k-state.edu/academics/graduate-programs/Application%20Information.html",
+      "label": "Program doctoral requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "label": "Current central fees, international and GRE policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grains.k-state.edu/academics/graduate-programs/2027%20GFS%20Graduate%20Fellowship.pdf",
+      "label": "Explicit Fall 2027 domestic fellowship",
+      "checked": "2026-10-28"
+    }
+  ]
+}

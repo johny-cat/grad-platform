@@ -1,0 +1,93 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Missouri-St. Louis",
+  "institutionShort": "UMSL",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://www.umsl.edu/biology/graduate-programs/phd.html",
+  "tracks": [
+    "Cell and Molecular Biology",
+    "Ecology, Evolution, and Behavior",
+    "Integrative Biology"
+  ],
+  "admissionModel": "lab",
+  "detailsNote": "Official annual deadline undated; Fall2027 not confirmed. English and transcript timing differences between department and central pages disclosed.",
+  "publishedDeadlines": [
+    {
+      "label": "Following academic-year admission",
+      "dateText": "December 1",
+      "note": "Undated department schedule; international applicants should submit well ahead."
+    }
+  ],
+  "timeline": {
+    "interviews": "May be invited in February or early March, undated."
+  },
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose, at most2pages",
+      "CV",
+      "All postsecondary transcripts",
+      "Three recommendation letters"
+    ],
+    "note": "GPA3.0 overall and biology normally required; genetics,cell biology,evolution,organic chemistry,physics,calculus preparation expected. Purpose includes motivation,UMSL,research and career plans; faculty identification recommended. Admission requires prospective advisor support. Department asks official records; international central page permits unofficial upload with official later: confirm timing.",
+    "english": {
+      "ielts": 6.5,
+      "duolingo": 115,
+      "toefl": "Department80 iBT (also550paper/213computer); central recommendation79/4.5",
+      "note": "Central recommended alternatives PTE59,Cambridge180; department specifically requests TOEFL, so confirm alternatives. Graduate academic exemption US/recognized-English-country degree within2years, or older degree plus English-country residence2ofpast3years. Other routes include listed citizenship/work-visa/ELS112; confirm graduate scope. Extraordinary circumstances alternative requires department+Graduate School approval, not cost/convenience. Oral English for TA; normally no teaching first semester."
+    },
+    "applicationFee": {
+      "amount": 40,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International40USD,US50; graduate fee paid only once. Waivers for prior payers,veterans,McNair,or event/mailer code entered in purpose statement. No nationality limitation on event-code route stated; international eligibility confirm."
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Competitive PhD TA/RA, not all guaranteed. Undated minimum10000USD per semester fall+spring totaling10months, up to5years; tuition covered, incidental fees student-paid. Summer optional/funds dependent. International students normally cannot teach first semester; oral English required."
+  },
+  "sources": [
+    {
+      "url": "https://www.umsl.edu/biology/graduate-programs/phd.html",
+      "label": "Official Biology or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umsl.edu/biology/graduate-programs/applic.html",
+      "label": "Official Biology or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umsl.edu/gradschool/prospective/how-to-apply.html",
+      "label": "Official Biology or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umsl.edu/gradschool/prospective/application-fee.html",
+      "label": "Official Biology or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umsl.edu/global/admissions/grad.html",
+      "label": "Official Biology or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umsl.edu/global/admissions/englishrequirements.html",
+      "label": "Official Biology or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

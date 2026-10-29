@@ -1,0 +1,87 @@
+{
+  "name": "Biochemistry and Neuroscience PhD",
+  "institution": "University of Alaska Fairbanks",
+  "institutionShort": "UAF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.uaf.edu/phd/biochemistry-neuroscience/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research doctorate at the University of Alaska Fairbanks; collaborative study with University of Alaska Anchorage faculty is available.",
+  "applyUrl": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php",
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central Graduate School advertises limited-time free PhD applications using code #UAFR1. Expiry and international eligibility are not stated; confirm the offer remains applicable before payment."
+    },
+    "english": {
+      "toefl": "4.5",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE55 also accepted. Central international admissions lists exempt countries; exception requests may be emailed to Admissions. No general English-medium degree exemption stated in this source."
+    },
+    "documents": [
+      "Resume/CV",
+      "Statement of academic and professional goals",
+      "Official transcripts from all postsecondary institutions",
+      "Three official recommendation letters",
+      "International course-by-course evaluation from TEC or WES (Canadian institutions outside Quebec exempt)"
+    ],
+    "note": "Central minimum bachelor’s degree with cumulative and major GPA3.0. In-progress unofficial records may be used for review, final official records required after admission. Bachelor’s in chemistry, biochemistry or related field. Goals letter at most3pages. Catalog says students typically need prior faculty-mentor agreement, while department says major advisor/committee selected in first year; confirm arrangements. International spring entry not accepted. Program catalog specifies official transcripts before matriculation; follow that earlier program condition."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://catalog.uaf.edu/phd/biochemistry-neuroscience/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaf.edu/chem/graduate/Graduates_Page.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaf.edu/admissions/apply/international.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/departments/biological-sciences/graduate/phd-biolsci.cshtml",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall domestic and international",
+      "dateText": "January 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring domestic only",
+      "dateText": "October 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students generally supported by teaching/research assistantships; all applicants automatically considered without additional paperwork. This does not establish an unconditional funding guarantee."
+  }
+}

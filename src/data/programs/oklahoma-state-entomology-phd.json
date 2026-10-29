@@ -1,0 +1,74 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Entomology PhD",
+  "institution": "Oklahoma State University",
+  "institutionShort": "Oklahoma State",
+  "officialUrl": "https://go.okstate.edu/graduate-academics/programs/doctoral/entomology-phd",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed. Admission model not explicit. Curriculum allows a bachelor-entry credit total, but admission checklist requires a thesis master; confirm any direct-entry exception.",
+  "publishedDeadlines": [
+    {
+      "label": "University fallback fall deadline",
+      "dateText": "February 1",
+      "note": "General university date only when no program deadline; international applicants advised to complete 60–90 days before program deadline. Verify department date."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; waiver only for current OSU students or alumni (one application). General domestic categories include military/veterans and selected federal programs. No general international hardship waiver."
+    },
+    "english": {
+      "toefl": "79 old scale; 4.0 on new scale beginning January 21,2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "PTE 53 also accepted centrally; program may require higher scores or restrict tests. Scores valid two years; official final reports needed. Documented English-degree waiver may be requested under country/instruction criteria, subject to approval. Teaching assignments have separate speaking/ITA requirements."
+    },
+    "documents": [
+      "Uploaded transcripts; unofficial copies for review, official final records",
+      "Three recommendations",
+      "Letter of intent on research/professional goals",
+      "CV or resume"
+    ],
+    "note": "Thesis-based master required by admission checklist; GRE official scores required. Recommended preparation spans entomology, biological/physical sciences, organic chemistry/labs, physiology, anatomy/taxonomy, genetics, statistics/calculus, biochemistry and ecology."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate research assistantship opportunities under major adviser for at least 20 hours/week; universal award and benefits not specified."
+  },
+  "sources": [
+    {
+      "url": "https://go.okstate.edu/graduate-academics/programs/doctoral/entomology-phd",
+      "label": "Doctoral program admission and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradcollege.okstate.edu/admissions/application-process",
+      "label": "Central application and fee waivers",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradcollege.okstate.edu/admissions/international-students",
+      "label": "International fee restrictions and English",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://go.okstate.edu/graduate-academics/apply",
+      "label": "University fallback dates",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biochemistry PhD",
+  "institution": "Iowa State University",
+  "institutionShort": "Iowa State",
+  "officialUrl": "https://www.grad-college.iastate.edu/programs/biochemistry",
+  "admissionModel": "program",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed. Rotation admission and direct admission to a funded faculty group are distinct routes.",
+  "publishedDeadlines": [
+    {
+      "label": "Rotation application full consideration",
+      "dateText": "January 7",
+      "note": "Annual fall date; recommendations due February 1. Direct faculty-group admission has no fixed deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; domestic $60. Central waivers exclusively McNair. Programs may postpone collection or cover/defer fees after review; Biochemistry-specific coverage not confirmed."
+    },
+    "english": {
+      "toefl": "79 before January 21, 2026; 4.5 on/after that date",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "PTE 53 also accepted. Central page describes English-medium degree exemptions but later narrows degree-country wording; confirm exemption with admissions. Program says no review without TOEFL/IELTS. Separate placement/teaching-English obligations apply."
+    },
+    "documents": [
+      "CV or resume",
+      "Unofficial transcripts for review; official records for admission",
+      "Statement of purpose addressing program and faculty fit; upload if exceeding application’s 500-word field",
+      "Three recommendations",
+      "Applicable English score report"
+    ],
+    "note": "Four-year bachelor equivalent and GPA 3.0. Preparation guidance includes chemistry through physical/analytical chemistry, calculus, physics, biology and biochemistry. Direct admission requires interested faculty with project and financial support to request review."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Most enter with assistantships. Half-time PhD assistantship: $30,000/year, full tuition scholarship and single-student health insurance; amount undated. Rotation entrants have five-year continued support conditional on annual progress; direct-entry duration varies by offer. Students pay half mandatory fees."
+  },
+  "sources": [
+    {
+      "url": "https://www.grad-college.iastate.edu/programs/biochemistry",
+      "label": "Biochemistry degree and annual deadline",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bbmb.iastate.edu/application-bbmb-program",
+      "label": "Program application requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.iastate.edu/admission-and-aid/admissions/graduate-application-information",
+      "label": "Central fee and records policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.grad-college.iastate.edu/future/english-requirements",
+      "label": "English and exemptions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bbmb.iastate.edu/financial-support-and-benefits-graduate-students",
+      "label": "Qualified assistantship support",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bbmb.iastate.edu/academics/graduate-study",
+      "label": "Rotation versus direct admission",
+      "checked": "2026-10-28"
+    }
+  ]
+}

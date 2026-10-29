@@ -1,0 +1,95 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Arkansas",
+  "institutionShort": "Arkansas",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://biology.uark.edu/academics/graduate/apply-for-graduate.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research doctorate with cell and molecular biology and ecology and evolutionary biology concentrations.",
+  "admissionModel": "lab",
+  "tracks": [
+    "Cell and Molecular Biology",
+    "Ecology and Evolutionary Biology"
+  ],
+  "applyUrl": "https://biology.uark.edu/academics/graduate/graduate-application.php",
+  "publishedDeadlines": [
+    {
+      "label": "Fall admission",
+      "dateText": "January 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring admission",
+      "dateText": "November 1",
+      "note": "Department date; central international deadline is earlier, October1, so international applicants should confirm and use the earlier date."
+    },
+    {
+      "label": "Central spring international",
+      "dateText": "Oct. 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "New international applicants $75; domestic $60. Current central waiver categories: full-time Fayetteville campus employees, U of A summer REU participants, Arkansas residents age60+. Confirm international eligibility for an applicable category; not a general hardship waiver. Return after less than12months enrollment also exempts processing fee."
+    },
+    "english": {
+      "toefl": "4.0",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "IELTS Academic; PTE58, iTEP3.9 or CambridgeC1 Advanced176 also listed. US bachelor’s/graduate degree or approved Graduate Council Academic Appeals Committee waiver can exempt testing. Teaching roles require separate spoken/written proficiency even when admission testing exempt; IELTS speaking7/writing6 is one route, with degree/course alternatives."
+    },
+    "documents": [
+      "Official college/university transcripts (central accepts unofficial bachelor’s record for initial review)",
+      "Three letters from academic references",
+      "Graduate School application"
+    ],
+    "note": "Sponsoring departmental major professor required for application consideration. At least18biological-science hours spanning cellular/molecular, organismal and ecology/evolution/population biology; conditional admission possible without18hours but no assistantship. Central degree/GPA rule: accredited bachelor’s and GPA3.0 cumulative or last60hours. Program-specific GRE policy not established; an older degree requirements page references GRE, while central says programs decide. Department degree guidelines say students bypassing a master’s must complete 24 post-baccalaureate graduate credit hours before consideration for doctoral status; confirm this progression requirement with the sponsor."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Most departmental graduate students supported by competitive teaching assistantships. Research assistantships may be available from faculty grants. No universal funding guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biology.uark.edu/academics/graduate/apply-for-graduate.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.uark.edu/academics/graduate/graduate-application.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://international-students.uark.edu/admissions/graduate-students.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.uark.edu/graduatecatalog/admissions/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.uark.edu/academics/graduate/research-and-career-support.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

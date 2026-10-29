@@ -1,0 +1,91 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Alaska Fairbanks",
+  "institutionShort": "UAF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.uaf.edu/academics/programs/doctorate/biological-sciences.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research doctorate at the University of Alaska Fairbanks; collaborative study with University of Alaska Anchorage faculty is available.",
+  "applyUrl": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php",
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central Graduate School advertises limited-time free PhD applications using code #UAFR1. Expiry and international eligibility are not stated; confirm the offer remains applicable before payment."
+    },
+    "english": {
+      "toefl": "4.5",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE55 also accepted. Central international admissions lists exempt countries; exception requests may be emailed to Admissions. No general English-medium degree exemption stated in this source."
+    },
+    "documents": [
+      "Resume/CV",
+      "Statement of academic and professional goals",
+      "Official transcripts from all postsecondary institutions",
+      "Three official recommendation letters",
+      "International course-by-course evaluation from TEC or WES (Canadian institutions outside Quebec exempt)"
+    ],
+    "note": "Central minimum bachelor’s degree with cumulative and major GPA3.0. In-progress unofficial records may be used for review, final official records required after admission. Department requires strong relevant preparation, an agreed Biology and Wildlife major advisor, and a funding plan before admission. No specific course prerequisites. UAA co-advisor collaboration possible; at least one advisor must be UAF Biology and Wildlife."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.uaf.edu/academics/programs/doctorate/biological-sciences.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaf.edu/bw/graduate/index.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaf.edu/admissions/apply/international.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/departments/biological-sciences/graduate/phd-biolsci.cshtml",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "admissionModel": "lab",
+  "publishedDeadlines": [
+    {
+      "label": "Fall complete application",
+      "dateText": "January 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring complete application",
+      "dateText": "September 5",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department identifies a funding plan for the student and research before admission. Central page describes departmental assistantships with tuition waivers, but no universal stipend/benefits package established."
+  },
+  "timeline": {
+    "decisions": "Approximately six weeks after application deadlines."
+  }
+}

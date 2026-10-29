@@ -1,0 +1,78 @@
+{
+  "name": "Integrative Biosciences PhD",
+  "institution": "University of Massachusetts Boston",
+  "institutionShort": "UMass Boston",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/",
+  "tracks": [
+    "Biochemistry",
+    "Biophysics",
+    "Bioinformatics"
+  ],
+  "detailsNote": "Official dates undated; Fall2027 not confirmed. Admission model not established on reviewed pages.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall",
+      "dateText": "February 15",
+      "note": "Undated program schedule; confirm cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Three recommendation letters",
+      "Statement of interests and intent"
+    ],
+    "note": "Relevant science/computing bachelor or related master, suitable coursework and research. Statement explains graduate-study reasons, research, interdisciplinary approach and track; faculty identification helpful. GRE concerns may be discussed with program director.",
+    "english": {
+      "ielts": 6,
+      "duolingo": 105,
+      "toefl": "79 on/prior to January21,2026;4 after",
+      "note": "Central Most Other Programs row; PTE53; confirm IB minima. Exemption: two full-time academic years excluding ESL/test prep at English-language institution in US/listed countries; overseas English instruction alone insufficient."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "UMass Boston alumni/current students completing degree before graduate enrollment exempt; no citizenship restriction stated, international applicability confirm. Codes before payment; no refunds."
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department-assigned assistantships not guaranteed. AY2026–27 full TA/RA/AA appointment:18hours/week,40weeks,25865USD,100%tuition waiver, partial health subsidy. Appointment rate, not program-wide/Fall2027 offer."
+  },
+  "sources": [
+    {
+      "url": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/international-graduate-applicants/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umb.edu/admissions/graduate-students/graduate-students-assistantships/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

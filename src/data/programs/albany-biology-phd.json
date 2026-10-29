@@ -1,0 +1,76 @@
+{
+  "name": "Biology PhD",
+  "institution": "University at Albany",
+  "institutionShort": "UAlbany",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.albany.edu/biology/programs/phd-biology",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "tracks": [
+    "Molecular, Cellular, Developmental and Neural Biology"
+  ],
+  "applyUrl": "https://www.albany.edu/biology/programs/phd-biology",
+  "publishedDeadlines": [
+    {
+      "label": "Fall departmental assistantship consideration",
+      "dateText": "December 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall without departmental assistantship consideration",
+      "dateText": "June 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "Program page:100 iBT/600 paper for teaching assistantship; department FAQ:79 iBT/550 paper for admission",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Program lists IELTS7/PTE70/DET120 as alternative C1 tests. Older department FAQ has additional GRE-verbal/TOEFL combinations for TA eligibility and a speaking assessment; confirm current assistantship conditions. FAQ exempts students with two semesters of coursework in English, but confirm present university/program approval."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central participating-program waivers require verification; policy explicitly excludes international and SOPHAS applicants. Veterans/spouses may also request waiver."
+    },
+    "documents": [
+      "Transcripts from all schools attended",
+      "Statement of goals, generally1–2 pages, naming potential mentors"
+    ],
+    "note": "Bachelor’s degree and GPA3.0 expected. Three letters from biological-science professors, at least one discussing research aptitude/experience. No single selection model is assigned because opened admissions text does not establish rotations versus direct lab admission."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Department offers assistantship consideration, with international TA eligibility subject to additional English requirements. FAQ publishes historical2017–18 first-year support of $23,750 and tuition scholarships for supported students; no current amount or universal guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.albany.edu/biology/programs/phd-biology",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.albany.edu/biology/student-info-and-faqs",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.albany.edu/graduate/funding-graduate-studies",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

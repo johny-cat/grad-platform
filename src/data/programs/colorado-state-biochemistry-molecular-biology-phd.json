@@ -1,0 +1,79 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Colorado State University",
+  "institutionShort": "Colorado State",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "name": "Biochemistry and Molecular Biology PhD",
+  "admissionModel": "program",
+  "officialUrl": "https://www.bmb.colostate.edu/graduate-students/ph-d-biochemistry/",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration and support",
+      "dateText": "December 1st",
+      "note": "Annual date; late applications space available."
+    }
+  ],
+  "requirements": {
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International degree applicants: $70. Qualifying degrees/affiliations only; confirm eligibility. See central policy. International applicants should confirm the applicable category and documentation before payment."
+    },
+    "english": {
+      "toefl": "80 before January 2026; 4.5 after January 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE 58. Official scores within two years; qualifying country/recent-degree exemptions. Department may require more."
+    },
+    "gre": "not-required",
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Official transcripts/credentials and certified foreign translations",
+      "CV/resume",
+      "Structured statement of purpose template"
+    ],
+    "note": "Accredited bachelor degree with B average; semesters of organic chemistry, physics, calculus and biochemistry (B or better), plus two upper-level BMB courses. Program requirements describe two single-spaced pages on goals/program choice and one on a research project; applying page requires its template."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Published 2025–2026 stipend $34,500/year; current offer level individualized. University-funded support may be limited to six years. Tuition paid for PhD students in most instances; domestic nonresidents must establish residency by third semester. Outside jobs discouraged."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.bmb.colostate.edu/graduate-students/ph-d-biochemistry/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.bmb.colostate.edu/graduate-students/join-us-applying/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/apply/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/skip-the-application-fee/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/admissions-resources/english-proficiency/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

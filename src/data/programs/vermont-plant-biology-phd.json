@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "University of Vermont",
+  "institutionShort": "Vermont",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "name": "Plant Biology PhD",
+  "officialUrl": "https://www.uvm.edu/cals/plantbiology/program/phd-plant-biology",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 1",
+      "note": "Annual date; if space remains, applications before December 31 considered."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "90 legacy / 4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Two-year scores; no TOEFL superscoring. US or qualifying English-official-country degree can exempt; foreign institution must confirm English instruction. Other waiver requests reviewed, not automatic. GTA funding requires TOEFL 100/5, IELTS 7 or DET 120."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Case-by-case hardship/qualifying-affiliation requests in application; no guarantee. Certain outside-fellowship international applicants explicitly mentioned; confirm eligibility. Allow 48 business hours."
+    },
+    "documents": [
+      "Transcripts",
+      "CV/resume",
+      "Statement of purpose",
+      "Three recommendations",
+      "English evidence if required"
+    ],
+    "note": "Natural/physical-science major equivalent and prior research required. Faculty contact strongly recommended. First-year at least two lab rotations before committing; two supervised-teaching courses required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Program PhD students supported via research/teaching assistantships and tuition waiver up to nine graduate credits per semester. Central appointments open to international students. Central 2026–27 minima: $25,781/9 months or $34,375/12 months; confirm offer duration/rate."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.uvm.edu/cals/plantbiology/program/phd-plant-biology",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/how-apply",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/how-apply-international-students",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/funding-your-graduate-degree",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

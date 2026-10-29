@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Integrative Biology PhD",
+  "institution": "Florida Atlantic University",
+  "institutionShort": "FAU",
+  "officialUrl": "https://biology.fau.edu/academics/graduate/phd-biology-degree-programs.php",
+  "tracks": [
+    "Integrative Biology",
+    "Environmental Science",
+    "Neuroscience",
+    "Biomedical Science",
+    "Marine Science & Oceanography"
+  ],
+  "detailsNote": "Official annual information is available; Fall 2027 dates are not confirmed. Admission route and requirements vary by concentration; department GRE and English information differs in age/detail from the central Biomedical Science listing. Confirm concentration policy.",
+  "publishedDeadlines": [
+    {
+      "label": "Annual fall application",
+      "dateText": "December 11",
+      "note": "Published department date; verify concentration-specific dates."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "80 iBT on department page; Biomedical Science listing gives 4.5",
+      "ielts": 6,
+      "duolingo": 110,
+      "note": "IELTS/DET stated on current Biomedical Science listing and central policy. Department lists TOEFL 80 and spoken-English competency. Central exemptions include 60 postsecondary credits or degree from recognized English-instruction institution; department lists narrower exemptions, so obtain concentration confirmation."
+    },
+    "documents": [
+      "Official transcripts from each institution",
+      "Foreign course-by-course credential evaluation with GPA",
+      "Personal objectives statement",
+      "Recommendations; Biomedical Science listing specifies three"
+    ],
+    "note": "BS biology/related field; GPA 3.0. Department requires GRE verbal and quantitative 151 each; Biomedical Science central checklist omits GRE without explicitly waiving it. Core/Neuroscience/Biomedical Science permit entry before supervisor selection with rotations. Environmental Science/Marine Science and Oceanography require an FAU supervisor before applying. Indicate potential faculty and contact sponsors. Application fee amount and applicable waiver not established on opened pages."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Competitive assistantships provide stipend and tuition waiver; no universal guarantee. International teaching assistants need English proficiency and panel review. Failed panel review prevents teaching but preserves assistance for original offer period."
+  },
+  "sources": [
+    {
+      "url": "https://biology.fau.edu/academics/graduate/phd-biology-degree-programs.php",
+      "label": "Integrative Biology doctoral umbrella",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.fau.edu/academics/graduate/phd-biology-admission-requirements-graduate-ibmo.php",
+      "label": "Department admission and supervisor requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-integrative-biology-biomedical-science/",
+      "label": "Biomedical Science current checklist",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.fau.edu/graduate/apply/",
+      "label": "Central international application policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.fau.edu/academics/graduate/support_scholarships_finaid.php",
+      "label": "Competitive support and international teaching eligibility",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.fau.edu/academics/graduate/integrative_biology_landing_page.php",
+      "label": "Concentration structure",
+      "checked": "2026-10-28"
+    }
+  ]
+}

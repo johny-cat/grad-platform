@@ -1,0 +1,87 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Quantitative Biology PhD",
+  "institution": "University of Texas at Arlington",
+  "institutionShort": "UT Arlington",
+  "officialUrl": "https://www.uta.edu/academics/schools-colleges/science/departments/biology/graduate-programs/phd-program",
+  "detailsNote": "Official annual deadlines; Fall 2027 recruiting faculty confirmed, but deadline year not explicitly attached. Direct-admit and rotation routes coexist; no single admission model assigned.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration, both routes",
+      "dateText": "December 1",
+      "note": "Annual date; late consideration possible."
+    },
+    {
+      "label": "Spring full consideration, direct only",
+      "dateText": "September 1",
+      "note": "Annual date; no spring rotations."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International or domestic foreign-coursework applicants $90; domestic all-US coursework $75. Ask department for waiver code before applying; confirm eligibility. Additional FCSA foreign-transcript review fee $90 is separate."
+    },
+    "english": {
+      "toefl": "4 new / 79 legacy overall; department legacy Speaking23",
+      "ielts": 6.5,
+      "duolingo": 100,
+      "note": "Biology additionally lists IELTS Speaking 7 or legacy TOEFL Speaking 23/TSE 45. Admission exemption: qualifying-country schooling or US-accredited degree; other waivers need adviser/dean approval. GTA testing has separate alternatives/exemptions; DET cannot substitute for GTA oral proof."
+    },
+    "documents": [
+      "Transcripts",
+      "CV/resume",
+      "Statement of purpose",
+      "Three recommendations",
+      "Department supplemental questionnaire",
+      "Foreign transcripts for FCSA review when applicable"
+    ],
+    "note": "Bachelor in biology or 12 advanced biology credits; master-route biology master/30 graduate biology credits. GPA 3 expected. Direct route requires faculty backing; rotation applicants should contact at least 2 potential hosts and identify up to 3 labs. Three rotations, fall only."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Five years support via GTA/GRA. Full-time assistantship students receive in-state tuition regardless of residence, with most tuition paid; not a full tuition waiver. No current stipend amount stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.uta.edu/academics/schools-colleges/science/departments/biology/graduate-programs/phd-program",
+      "label": "Official PhD or admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uta.edu/admissions/apply/international-graduate",
+      "label": "Official PhD or admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.uta.edu/academicregulations/admissions/graduate/",
+      "label": "Official PhD or admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uta.edu/admissions/apply/fee-waivers",
+      "label": "Official PhD or admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://common.forms.uta.edu/view.php?id=2034157",
+      "label": "Official PhD or admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

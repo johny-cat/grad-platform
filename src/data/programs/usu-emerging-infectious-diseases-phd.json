@@ -1,0 +1,71 @@
+{
+  "name": "Emerging Infectious Diseases PhD",
+  "institution": "Uniformed Services University",
+  "institutionShort": "USU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://medschool.usuhs.edu/academics/geo/phd-in-EID",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "US citizenship is required by central graduate admissions. Research PhD at the Uniformed Services University.",
+  "applyUrl": "https://medschool.usuhs.edu/geo/admissions",
+  "publishedDeadlines": [
+    {
+      "label": "Application and supporting documents",
+      "dateText": "December 1",
+      "note": "Central page gives recurring date without entry year; optional GRE policy is explicitly for2026–27 admissions."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "No application fee and no tuition; no waiver required."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Complete CV/resume (remove street address)",
+      "Official transcripts",
+      "Three recommendation letters sent directly by recommenders",
+      "Three-part online application"
+    ],
+    "note": "Central admissions requires US citizenship and a completed accredited bachelor’s degree before matriculation. GRE optional for2026–27 admissions outside Medical/Clinical Psychology; optional scores within three years. No single admission model established unless expressly stated in program training description."
+  },
+  "funding": {
+    "coversInternational": "no",
+    "note": "Central admissions states no tuition. A universal stipend/health-benefits package was not established from opened sources."
+  },
+  "international": {
+    "accepted": "no",
+    "note": "Central graduate admissions: Applicants must be US citizens."
+  },
+  "sources": [
+    {
+      "url": "https://medschool.usuhs.edu/academics/geo/phd-in-EID",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medschool.usuhs.edu/geo/admissions",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medschool.usuhs.edu/geo/admissions/apply-for-graduate-admission",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "tracks": [
+    "Microbiology & Immunology",
+    "Preventive Medicine & Biostatistics"
+  ]
+}

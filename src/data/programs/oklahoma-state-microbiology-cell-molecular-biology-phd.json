@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Microbiology, Cell and Molecular Biology PhD",
+  "institution": "Oklahoma State University",
+  "institutionShort": "Oklahoma State",
+  "officialUrl": "https://go.okstate.edu/graduate-academics/programs/doctoral/microbiology-cell-molecular-biology-phd",
+  "admissionModel": "program",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed. GRE policy is not explicit on opened program pages.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "January 15",
+      "note": "Annual program date."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; waiver only for current OSU students or alumni (one application). General domestic categories include military/veterans and selected federal programs. No general international hardship waiver."
+    },
+    "english": {
+      "toefl": "79 old scale; 4.0 on new scale beginning January 21,2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "PTE 53 also accepted centrally; program may require higher scores or restrict tests. Scores valid two years; official final reports needed. Documented English-degree waiver may be requested under country/instruction criteria, subject to approval. Teaching assignments have separate speaking/ITA requirements."
+    },
+    "documents": [
+      "Uploaded transcripts; unofficial copies for review, official final records",
+      "Three recommendations",
+      "Personal statement",
+      "Information on authored/coauthored publications"
+    ],
+    "note": "No mentor required at application or entry; select adviser during first year. Department evaluates GPA and recommendations; offers in April for August entry."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Research PhD admits supported by RA or TA, retained with adequate progress. Department states tuition-waiver eligibility; amount/duration not specified."
+  },
+  "sources": [
+    {
+      "url": "https://go.okstate.edu/graduate-academics/programs/doctoral/microbiology-cell-molecular-biology-phd",
+      "label": "Doctoral program admission and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradcollege.okstate.edu/admissions/application-process",
+      "label": "Central application and fee waivers",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradcollege.okstate.edu/admissions/international-students",
+      "label": "International fee restrictions and English",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cas.okstate.edu/microbiology_and_molecular_genetics/graduate_studies/phd_microbiology_cell_molecular_biology",
+      "label": "Mentor selection and program schedule",
+      "checked": "2026-10-28"
+    }
+  ]
+}

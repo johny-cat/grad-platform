@@ -1,0 +1,80 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Johns Hopkins University",
+  "institutionShort": "Johns Hopkins",
+  "name": "Immunology PhD",
+  "officialUrl": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2026/immunology-september-2026.pdf",
+  "deadlines": [
+    {
+      "label": "Fall 2027 completed application",
+      "date": "2026-12-01",
+      "note": "All components received by closing date; no time published."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "note": "TOEFL/IELTS for nonnative international applicants, received by deadline. U.S. degree completed or due before matriculation waives TOEFL; no numeric minimum in program PDF. English application materials; WES approved for international transcripts."
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "2026–2027 application fee covers up to four listed SOM PhD applications. Income waiver US citizens/PR only; military and qualifying alumni categories. Non-US applicants meeting alumni category may request with supporting evidence; no general international hardship waiver."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from all institutions",
+      "Prior research history",
+      "CV",
+      "One-page personal statement: science motivation, meaningful research experience and program fit",
+      "Three recommendations",
+      "English evidence when required"
+    ],
+    "note": "Research-area interests requested in application. Accepted students undergo background check and provide official transcripts."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "SOM PhD support guaranteed subject to collective bargaining agreement; tuition and eligible student health benefits. Minimum $52,000 for 2026–2027, not a Fall 2027 rate.",
+    "stipend": {
+      "amount": 52000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2026/immunology-september-2026.pdf",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/on-campus-programs/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/2025/application-fees-and-fee-waiver-request-instructions-2025.pdf",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/financial",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "detailsNote": "Fall 2027 closing date confirmed; admission model not confirmed on opened sources."
+}

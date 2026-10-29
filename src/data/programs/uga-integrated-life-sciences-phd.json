@@ -1,0 +1,115 @@
+{
+  "name": "Integrated Life Sciences PhD entry program",
+  "institution": "University of Georgia",
+  "institutionShort": "UGA",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "admissionModel": "program",
+  "officialUrl": "https://ils.uga.edu/admissions/how-to-apply/",
+  "cycle": "fall-2027",
+  "tracks": [
+    "Biochemistry & Molecular Biology",
+    "Bioinformatics",
+    "Cellular Biology",
+    "Chemistry",
+    "Entomology",
+    "Environmental Health Sciences",
+    "Genetics",
+    "Infectious Diseases",
+    "Marine Sciences",
+    "Microbiology",
+    "Neuroscience",
+    "Nutritional Sciences",
+    "Pharmaceutical & Biomedical Sciences",
+    "Physiology & Pharmacology",
+    "Plant Biology",
+    "Toxicology"
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 completed application",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "All components, including verified English scores/waiver and ILS supplemental application, due by the deadline. Allow 2–4 weeks for English verification."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "80 overall with Speaking/Writing 20 (before Jan 21, 2026); 4.5 overall with Speaking/Writing 4 (on/after Jan 22, 2026)",
+      "ielts": 6.5,
+      "note": "IELTS no band below 6.0. DET not accepted. UGA Intensive English Level 6 can satisfy proficiency. Qualifying U.S./English-primary-country degrees or current enrollment with at least one year at a regionally accredited U.S. institution and strong performance may permit exemption; departments can still require scores. ILS recommends TOEFL Speaking 22 or IELTS Speaking 6.5; admitted applicants with lower speaking scores must take first-year English proficiency courses. Official scores or exemption must be verified before the deadline."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "ILS offers no departmental waivers. Graduate School offers limited documented qualifying-program waivers; ILS FAQ explicitly mentions certain international exchange programs. Confirm the current qualifying category before selecting a waiver. Additional applications cost $25; incorrect waiver selection can cancel the application."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Three recommendation letters",
+      "Current CV/resume",
+      "Statement of purpose (10,000-character limit)",
+      "Verified English proficiency scores or exemption if required",
+      "ILS supplemental application: three interdisciplinary groups, three departments and three faculty of interest"
+    ],
+    "note": "Select Athens / Doctoral / PHD, Integrated Life Sciences [PHD_ILSC]. No mentor agreement needed before applying; first-semester three lab rotations precede adviser and degree-program selection. No writing sample or publication copies required. Statement should cover reasons, research interests, scholarly experience and special circumstances or perceived deficiencies. Evaluation is holistic; published admitted-student GPA averages are not minima. Letters may arrive after initial submission but all materials must meet the final deadline."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "First-semester full funding with no teaching; FAQ guarantees stipend years 2–5 at the chosen program's standard. Published $34,738 stipend is for Fall 2025, not 2027; units reset rates in year 2. Tuition page says remitted in year 1 and thereafter with RA/TA; FAQ says reduced, so confirm exact tuition/remaining charges. Health insurance is subsidized. Subsequent support can be RA/TA or fellowships; teaching depends on department/adviser."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Accredited undergraduate degree and Graduate School country-specific credentials required."
+  },
+  "timeline": {
+    "interviews": "Screening December/early January; international interviews by video in January/February; domestic recruitment late January/February. Offers follow interviews."
+  },
+  "sources": [
+    {
+      "url": "https://ils.uga.edu/admissions/how-to-apply/",
+      "label": "Fall 2027 application instructions and deadline",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://ils.uga.edu/admissions/faq/",
+      "label": "Application, international eligibility, fee-waiver and funding qualifications",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://ils.uga.edu/program-overview/department-and-institute-based-graduate-programs/",
+      "label": "Sixteen participating degree programs",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://ils.uga.edu/",
+      "label": "Current entry portal and laboratory rotations",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://ils.uga.edu/admissions/stipends/",
+      "label": "Older stipend and support conditions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/application-fee/",
+      "label": "Graduate fees and documented waiver categories",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/",
+      "label": "Current central English policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "lastChecked": "2026-10-28"
+}

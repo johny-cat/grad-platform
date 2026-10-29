@@ -1,0 +1,63 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biological and Agricultural Engineering PhD",
+  "institution": "Kansas State University",
+  "institutionShort": "K-State",
+  "officialUrl": "https://bae.k-state.edu/academics/graduate/phd/",
+  "detailsNote": "Official annual information is available; Fall 2027 general admission dates not confirmed. Admission model and program-specific documents/GRE policy not established.",
+  "publishedDeadlines": [
+    {
+      "label": "International fall application",
+      "dateText": "Feb. 1",
+      "note": "Annual international deadline; earlier program dates may apply."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International75USD; domestic65. Central McNair waiver and limited competitive departmental codes; no program-specific code offer confirmed. International applicants must confirm category eligibility before payment."
+    },
+    "english": {
+      "toefl": "79 before January 21,2026; 4.5 on/after that date",
+      "ielts": 6.5,
+      "note": "PTE 58 accepted; Duolingo not accepted. Listed exempt countries or accredited US degree may waive testing. TA speaking requirements are separate."
+    },
+    "documents": [
+      "Online graduate application",
+      "Uploaded transcripts and degree certificates; certified English translations for international records"
+    ],
+    "note": "Engineering BS equivalent normally required; non-engineers may enter provisionally with undergraduate engineering coursework. Additional application checklist must be confirmed with department."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "2023 linked handbook: research assistantships appointed for nine months; summer not automatic, renewal depends on review. Beyond 36 months for doctoral students only special circumstances; no universal funding guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://bae.k-state.edu/academics/graduate/phd/",
+      "label": "Program doctoral requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "label": "Current central fees, international and GRE policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bae.k-state.edu/docs/grad/bae-graduate-handbook.pdf",
+      "label": "Linked 2023 BAE handbook",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Chemical and Biomolecular Engineering PhD",
+  "institution": "University of Nebraska–Lincoln",
+  "institutionShort": "Nebraska–Lincoln",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://graduate.unl.edu/academics/programs/CHBE-PHD/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research PhD at the University of Nebraska–Lincoln.",
+  "applyUrl": "https://graduate.unl.edu/academics/programs/CHBE-PHD/",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full financial consideration",
+      "dateText": "January 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Not currently enrolled: $50; currently enrolled UNL students: $25. Central office does not issue waivers, but departments may cover fees; contact program before payment. No citizenship restriction stated on this route; international applicants should confirm eligibility. No departmental waiver guarantee established."
+    },
+    "english": {
+      "toefl": "80 (published departmental iBT scale)",
+      "ielts": 6.5,
+      "note": "Central current TOEFL minimum 4 after January 21, 2026; no department-specific new-scale equivalent verified. English-medium accredited bachelor’s or advanced degree exempts testing. Scores valid two years; central ESL 887 placement may still apply based on scores."
+    },
+    "documents": [
+      "Unofficial transcripts/mark sheets from all institutions, plus international degree certificates/diplomas and certified English translations",
+      "CV/resume",
+      "One-page personal statement on teaching/research/volunteer experience",
+      "Indicate faculty/research interests",
+      "Three recommendation letters"
+    ],
+    "note": "Official records required after admission. F/J visa applicants must provide financial information. Students encouraged to contact faculty regarding research/funding; admission model not directly established."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Engineering assistantships competitively awarded through departments with admission review; funding limited. Published undated minimum monthly stipend $2, 600 (some existing grant-supported appointments may vary), up to 12 credits tuition remission/semester and reduced-cost health insurance. No all-admitted guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://graduate.unl.edu/academics/programs/CHBE-PHD/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://engineering.unl.edu/chme/graduate-programs/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.unl.edu/application-requirements-additional-details/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.unl.edu/english-proficiency/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://engineering.unl.edu/graduate-programs/assistantships/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

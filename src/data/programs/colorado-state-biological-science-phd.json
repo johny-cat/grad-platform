@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Colorado State University",
+  "institutionShort": "Colorado State",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "name": "Biological Science PhD",
+  "admissionModel": "lab",
+  "officialUrl": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "January 1",
+      "note": "Annual date; year unstated."
+    },
+    {
+      "label": "Spring full consideration",
+      "dateText": "October 1",
+      "note": "Annual date; year unstated."
+    }
+  ],
+  "requirements": {
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International degree applicants: $70. Qualifying degrees/affiliations only; confirm eligibility. See central policy. International applicants should confirm the applicable category and documentation before payment."
+    },
+    "english": {
+      "toefl": "80 before January 2026; 4.5 after January 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE 58. Official scores within two years; qualifying country/recent-degree exemptions. Department may require more."
+    },
+    "gre": "not-required",
+    "documents": [
+      "Transcripts",
+      "CV/resume",
+      "Statement of purpose",
+      "Recommendations (confirm departmental count)"
+    ],
+    "note": "Faculty sponsor required; contact potential advisers before applying. Regular undergraduate GPA 3.0; provisional routes exist for lower GPAs. Unofficial transcripts accepted for application; final official records by end of first semester."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "GTA/GRA opportunities; no universal funding guarantee. Undated GTA rate $2,262/month for 4.5-month fall/spring appointments, with tuition and health plan. Out-of-state tuition first year only; later in-state tuition. GRAs depend on adviser grants and typically cover tuition; student fees may remain."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.biology.colostate.edu/financial-support/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/apply/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/skip-the-application-fee/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/admissions-resources/english-proficiency/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

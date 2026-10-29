@@ -1,0 +1,67 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Computational and Integrative Biology PhD",
+  "institution": "Rutgers University-Camden",
+  "institutionShort": "Rutgers–Camden",
+  "officialUrl": "https://camden.rutgers.edu/academics/graduate/programs/computational-integrative-biology-phd",
+  "detailsNote": "Fall 2027 application date is confirmed. Program-specific GRE, English details, funding guarantee and admission model were not established because linked CCIB/Graduate School pages returned 403. Camden program is distinct from New Brunswick.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 US and non-US application",
+      "date": "2027-02-15"
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Central nonrefundable fee. No applicable Camden waiver verified."
+    },
+    "documents": [
+      "Online application",
+      "Official transcript from each postsecondary institution attended",
+      "At least three recommendations",
+      "Personal statement"
+    ],
+    "note": "Current program directory confirms US/non-US Fall2027 deadline. Documents are Rutgers central baseline; additional Camden checklist must be confirmed. No university-wide GRE rule; Camden English page blocked, so no other-campus thresholds borrowed."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Rutgers centrally automatically considers applicants for university merit fellowships, assistantships and scholarships. Availability varies by field; no Camden CIB-specific guarantee or amount established."
+  },
+  "sources": [
+    {
+      "url": "https://camden.rutgers.edu/academics/graduate/programs/computational-integrative-biology-phd",
+      "label": "Camden degree identity",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gMxQAI",
+      "label": "Current program requirements and Fall 2027 date",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/apply/before-you-apply",
+      "label": "Central fee, records and test policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/financial/financial-information",
+      "label": "Central merit support",
+      "checked": "2026-10-28"
+    }
+  ]
+}

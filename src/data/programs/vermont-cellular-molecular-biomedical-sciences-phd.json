@@ -1,0 +1,95 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "University of Vermont",
+  "institutionShort": "Vermont",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "name": "Cellular, Molecular and Biomedical Sciences PhD",
+  "officialUrl": "https://www.uvm.edu/graduate/cmb/admissions",
+  "publishedDeadlines": [
+    {
+      "label": "Completed application",
+      "dateText": "11:59pm, December 1",
+      "note": "All materials and fee-waiver approval required. Year and timezone not stated; no countdown."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "CMB funding: 100 legacy; central GTA: 5 new scale",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Two-year scores; no TOEFL superscoring. US or qualifying English-official-country degree can exempt; foreign institution must confirm English instruction. Other waiver requests reviewed, not automatic. CMB lists these higher thresholds for funding; central general admission is lower."
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Case-by-case hardship/qualifying-affiliation requests in application; no guarantee. Certain outside-fellowship international applicants explicitly mentioned; confirm eligibility. Allow 48 business hours."
+    },
+    "documents": [
+      "Official or unofficial transcripts from all colleges",
+      "Statement of purpose describing research and program fit",
+      "CV/resume",
+      "Three recommendations",
+      "English evidence when applicable"
+    ],
+    "note": "US bachelor equivalent expected (16 years education; HND not equivalent). No CMB minimum GPA. Prior faculty contact not expected; three first-year research rotations identify adviser. Strong references describe research contributions, skills and potential. Official records required before matriculation."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "CMB offers depend on faculty capacity and research/stipend funds; no unconditional package or program-specific amount stated. Central assistantships are open to international full-time students and generally include tuition support. Central 2026–27 minimum $25,781/9 months or $34,375/12 months; confirm actual offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Online interviews usually late January; admitted visit March.",
+    "decisions": "Initial status early February; waitlist offers may continue mid-to-late April."
+  },
+  "sources": [
+    {
+      "url": "https://www.uvm.edu/graduate/cmb/admissions",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/cmb/admissions-faq",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/cmb/program-overview",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/how-apply",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/how-apply-international-students",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uvm.edu/graduate/funding-your-graduate-degree",
+      "label": "Official degree or Graduate College policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

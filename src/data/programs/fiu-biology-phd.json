@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Florida International University",
+  "institutionShort": "FIU",
+  "officialUrl": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application and assistantship",
+      "dateText": "December 1",
+      "note": "Annual date for the following fall."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "University application fee; no applicable graduate waiver verified."
+    },
+    "english": {
+      "toefl": "4.5 on/after January 21, 2026; 80 before that date",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Official scores; central PTE 53 also accepted. Listed degree-country exemptions apply. No general overseas English-medium exemption verified."
+    },
+    "documents": [
+      "Online application",
+      "Statement of purpose/intent",
+      "CV or resume",
+      "Three recommendations",
+      "Official transcripts from all institutions; NACES course-by-course evaluation with GPA for foreign coursework",
+      "Faculty sponsor letter"
+    ],
+    "note": "Relevant bachelor; GPA 3.0 over final two undergraduate years or relevant master. Graduate Committee approval and faculty sponsorship required."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "2026 funding guide: faculty-grant RA/GA awards are discretionary, teaching allocations annual. Renewal each term needs satisfactory progress and GPA 3.0; TA duration normally capped at five years. No universal award stated in current guide."
+  },
+  "sources": [
+    {
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/",
+      "label": "Program admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/admission-requirements/",
+      "label": "Central degree-specific requirements and dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/steps-to-apply/index.html",
+      "label": "University fee and records",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/international/graduate-school/english-language-proficiency/index.html",
+      "label": "Current English policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/_assets/biogradfundingguide-phd-2026.pdf",
+      "label": "2026 Biology funding guide",
+      "checked": "2026-10-28"
+    }
+  ]
+}

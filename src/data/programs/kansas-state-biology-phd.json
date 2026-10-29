@@ -1,0 +1,80 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Kansas State University",
+  "institutionShort": "K-State",
+  "officialUrl": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html",
+  "admissionModel": "program",
+  "detailsNote": "Official annual information is available; Fall 2027 general admission dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "December 15",
+      "note": "Annual date for following August; funded-faculty requests can allow other reviews."
+    },
+    {
+      "label": "Spring full consideration",
+      "dateText": "August 1",
+      "note": "Annual following-January date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; central domestic $65 (Biology page still lists $50). McNair waiver; departments may offer limited competitive codes. Biology also lists prior K-State undergraduate research participation. Confirm international eligibility before payment."
+    },
+    "english": {
+      "toefl": "100 iBT; FAQ speaking 22; current-scale equivalent not supplied",
+      "ielts": 7,
+      "note": "Biology thresholds exceed central minimum; official scores within two years. Listed English-country or US-degree exemptions; confirm current TOEFL scale with Biology."
+    },
+    "documents": [
+      "Online graduate application",
+      "Uploaded transcripts and degree certificates; certified English translations for international records",
+      "Statement of objectives/research goals",
+      "Three recommendations"
+    ],
+    "note": "Four-year bachelor equivalent; research experience expected and matching faculty named. Direct lab entry or first-semester 2–3 rotations according to area. Admission committee makes final decision. Department says no fixed GPA, whereas FAQ cites 3.0 for regular admission; confirm exceptions."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Full support for degree duration conditional on satisfactory progress; tuition and living stipend. Approximately $27,300 undated stipend stated equally for domestic/international students."
+  },
+  "sources": [
+    {
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html",
+      "label": "Program doctoral requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "label": "Current central fees, international and GRE policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/",
+      "label": "Biology degree identity and support",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/faq.html",
+      "label": "Biology FAQ conditions",
+      "checked": "2026-10-28"
+    }
+  ]
+}

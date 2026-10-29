@@ -1,0 +1,55 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Health Outcomes and Policy Research PhD",
+  "institution": "University of Tennessee Health Science Center",
+  "institutionShort": "UTHSC",
+  "officialUrl": "https://www.uthsc.edu/graduate-health-sciences/programs/ihop.php",
+  "detailsNote": "Official information available; dates are annual unless explicitly dated. Admission route not assigned where unconfirmed.",
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "College states no application fee; foreign evaluation agencies charge separately."
+    },
+    "english": {
+      "toefl": "79 internet-based, as published",
+      "ielts": 6.5,
+      "note": "College non-native-English policy also allows evidence of English proficiency; exemption terms and new TOEFL scale not specified. Confirm program-specific rules."
+    },
+    "documents": [
+      "Official transcripts",
+      "Three recommendations",
+      "Foreign credential evaluation when applicable"
+    ],
+    "note": "College baseline: bachelor degree and GPA 3.0; GRE verbal plus quantitative 300 required. Program page places its detailed requirements after a certificate heading, so PhD-specific additions and GRE exceptions require confirmation."
+  },
+  "sources": [
+    {
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/index.php",
+      "label": "Official degree and admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/ihop.php",
+      "label": "Official degree and admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "March 15",
+      "note": "Annual date; Fall 2027 year not attached."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Biomedical Materials Sciences PhD",
+  "institution": "University of Mississippi Medical Center",
+  "institutionShort": "UMMC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://www.umc.edu/sod/Departments/Biomedical-Materials-Science/Graduate-Program/Overview.html",
+  "detailsNote": "Official dates undated or AY2026–27 catalog; Fall2027 not confirmed. Admission model not conclusively established. Central admissions policy inaccessible; unverified English thresholds/checklist items omitted.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "June 1",
+      "note": "All-PhD undated schedule; documents and fee due."
+    },
+    {
+      "label": "Spring recruitment event consideration",
+      "dateText": "January 15th",
+      "note": "Undated central schedule, not final admission deadline."
+    },
+    {
+      "label": "Fall stipend/Dean scholarship consideration",
+      "dateText": "April 1",
+      "note": "Apply before this undated funding consideration date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "note": "BS/MS engineering,science or healthcare; strong materials interest. OptionalGRE300benchmark. Program calls itself Biomedical Sciences PhD in Biomedical Materials Sciences, but SGSHS application lists separate materials choice; not merged with residency-only imaging route.",
+    "applicationFee": {
+      "amount": 25,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Central SGSHS nonrefundable fee for all applications; no applicable waiver found."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "All previous college/university transcripts",
+      "Three recommendation letters"
+    ],
+    "english": {
+      "toefl": "79 or higher iBT; new-scale threshold not published",
+      "note": "Program requires international written/oral English; other tests/exemptions not established."
+    }
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Official international-program list includes this PhD."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Materials-specific page advertises undated32500USD/year and full tuition, different from general28000. Central awards competitive, so confirm individual offer; no fixed multi-year guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://www.umc.edu/sod/Departments/Biomedical-Materials-Science/Graduate-Program/Overview.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application-Deadlines-and-Procedures.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Paying%20for%20School1/Awards-and-Funding-Opportunities.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Degree-Programs/PhD/PhD_Program_Highlights.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/Office%20of%20Academic%20Affairs/prospective-students/find-program/international-students.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

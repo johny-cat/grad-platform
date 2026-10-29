@@ -1,0 +1,97 @@
+{
+  "name": "Cancer Biology and Therapeutics PhD",
+  "institution": "University of Mississippi Medical Center",
+  "institutionShort": "UMMC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Cell-Molecular-Biology/Education/CBT-PHD/Overview.html",
+  "detailsNote": "Official dates from AY2026–27 catalog/undated schedule; Fall2027 not confirmed. Program rotation model established; English thresholds/exemptions unverified.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "June 1",
+      "note": "All-PhD undated schedule; documents and fee due."
+    },
+    {
+      "label": "Spring recruitment event consideration",
+      "dateText": "January 15th",
+      "note": "Undated central schedule, not final admission deadline."
+    },
+    {
+      "label": "Fall stipend/Dean scholarship consideration",
+      "dateText": "April 1",
+      "note": "Apply before this undated funding consideration date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "note": "Relevant scientific bachelor; GPA3.0/science preparation; optional GRE300recommended. Statement research curiosity/fit; technical skills,research experience and interview may be required. Three6week laboratory rotations choose thesis lab.",
+    "applicationFee": {
+      "amount": 25,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Central SGSHS nonrefundable fee for all applications; no applicable waiver found."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "All previous college/university transcripts",
+      "Three recommendation letters",
+      "Personal statement"
+    ],
+    "english": {
+      "note": "TOEFL or equivalent required for international applicants; numeric thresholds/exemptions not established."
+    }
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Official international-program list includes this PhD."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "SGSHS Highlights advertises undated28000USD/year,full tuition and healthcare; Awards page instead says stipends/scholarships competitive and only some programs. Confirm individual offer; no universal guarantee or fixed duration asserted."
+  },
+  "sources": [
+    {
+      "url": "https://umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Cell-Molecular-Biology/Education/CBT-PHD/Overview.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://2026-2027-fall-umc.catalog.prod.coursedog.com/programs/Wq7lOF8vHEqBMsyJlcqd",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application-Deadlines-and-Procedures.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Paying%20for%20School1/Awards-and-Funding-Opportunities.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Degree-Programs/PhD/PhD_Program_Highlights.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/Office%20of%20Academic%20Affairs/prospective-students/find-program/international-students.html",
+      "label": "Official program or SGSHS policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "admissionModel": "program"
+}

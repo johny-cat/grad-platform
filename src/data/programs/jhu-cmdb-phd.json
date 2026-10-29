@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Johns Hopkins University",
+  "institutionShort": "Johns Hopkins",
+  "name": "Cell, Molecular, Developmental Biology, and Biophysics PhD",
+  "officialUrl": "https://cmdb.jhu.edu/admissions/",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "2027–2028 admission",
+      "date": "2026-12-01",
+      "note": "Program explicitly names academic year 2027–2028 and Fall 2026 applications."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Documented qualifying affiliation, department request or hardship evidence in application. No nationality restriction stated; international applicants should confirm eligibility."
+    },
+    "english": {
+      "note": "KSAS prefers TOEFL100 or IELTS7, not universal hard minima; scores under two years. Degree exemption requires two full-time years in US/listed country, requested in application; English instruction elsewhere alone insufficient."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "Statement of purpose",
+      "Three recommendations",
+      "English evidence when required"
+    ],
+    "note": "Non-US citizens/PR currently studying or working in the US need at least one US-source recommendation. All documents English or translated. At least four first-year laboratory rotations."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program funding includes stipend, tuition and health care through training grant, teaching budget and mentor research grants; no amount or explicit international coverage statement."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://cmdb.jhu.edu/admissions/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cmdb.jhu.edu/admissions/financial-aid/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cmdb.jhu.edu/courses/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/how-to-apply/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/exams/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Oklahoma",
+  "institutionShort": "Oklahoma Norman",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://ou-public.courseleaf.com/dodge-arts-sciences/biological-sciences/biology-doctor-philosophy/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research doctorate in the School of Biological Sciences at the University of Oklahoma Norman campus.",
+  "applyUrl": "https://www.ou.edu/cas/biological-sciences/academics/graduate",
+  "publishedDeadlines": [
+    {
+      "label": "Fall program application",
+      "dateText": "December 1",
+      "note": "Applications a few weeks late may be considered; no stated entry year."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "International fee $100; US citizen/permanent resident $50. Graduate College offers no general waivers; academic units may offer fee coverage, but no SBS-specific offer verified. Current OU graduate/accelerated students use a separate fee-free add/change program process; confirm category and international eligibility. International page still says waivers currently unavailable, so do not assume a general international waiver."
+    },
+    "english": {
+      "toefl": "79 legacy with each subscore 20; 4.5 new scale with each subscore 4.0",
+      "ielts": 6.5,
+      "duolingo": 130,
+      "note": "IELTS Academic every band 6.0; DET each reading/listening/speaking/writing 115. PTE 60/each 55 also listed. No MyBest or IELTS One Skill Retake; single sitting. Degree from US/listed country or 24 US credits are alternative routes. Country exemption requires citizenship and education in listed country. No generic foreign MOI exemption. Scores must remain under two years at term start; teaching certification separate."
+    },
+    "documents": [
+      "Personal statement",
+      "CV/resume",
+      "Official copies of transcripts (unofficial upload for review, official after admission)",
+      "Three recommendation letters",
+      "English test evidence for international applicants unless exempt"
+    ],
+    "note": "Department strongly encourages prospective faculty consultation. No single admission model directly established. 2023–24 Biology handbook makes GRE General and Biology subject tests optional; confirm current applicability."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "SBS offers assistantships and additional incoming fellowships. Central international admissions explicitly says graduate-program assistantships may be available; confirm availability with academic unit. No guaranteed support, current stipend or duration verified."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://ou-public.courseleaf.com/dodge-arts-sciences/biological-sciences/biology-doctor-philosophy/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ou.edu/cas/biological-sciences/academics/graduate",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ou.edu/gradcollege/apply",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ou.edu/gradcollege/apply/international-applicants",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.ou.edu/content/dam/cas/biological-sciences/documents/resources/Grad-Handbook-2023-2024.pdf",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

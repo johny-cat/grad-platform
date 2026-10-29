@@ -1,0 +1,83 @@
+{
+  "name": "Fish and Wildlife Biology PhD",
+  "institution": "University of Montana",
+  "institutionShort": "Montana",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.umt.edu/wildlife-biology/graduate/phd-wbio/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research doctorate in fish and wildlife ecology requiring agreement from a faculty major professor.",
+  "admissionModel": "lab",
+  "applyUrl": "https://www.umt.edu/grad/apply/default.php",
+  "publishedDeadlines": [
+    {
+      "label": "Application materials",
+      "dateText": "JANUARY 15",
+      "note": "A faculty member recruiting for a research-assistantship-funded position may communicate a different date. No entry year stated."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "First application $70; further applications within 12 months $25. No need-based waivers. Documented McNair Scholars and UM undergraduate TRIO students have category waivers; advertised program waivers must be requested from program. Confirm applicable international category eligibility."
+    },
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 125,
+      "note": "TOEFL Essentials 9 or MET 58 also listed. A degree taught primarily in English can exempt testing with language-of-instruction verification; listed-country exemptions also apply. Provisional options exist but must be determined by department/Graduate School."
+    },
+    "documents": [
+      "CV/resume",
+      "Transcripts showing all college-level work",
+      "Three responses, each capped at 300 words: degree motivations/goals; proud accomplishment; capacity to learn/adapt/challenge oneself/complete a project",
+      "Three reference email addresses",
+      "English proficiency evidence unless exempt"
+    ],
+    "note": "GPA minimum 3.0 undergraduate and 3.5 graduate. Most entrants have a master’s, but strong bachelor’s applicants considered. Usually wildlife biology or related preparation; alternative backgrounds depend on ecological expertise and advisor. No admission without major-professor agreement."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Program usually admits only when funding is available, with rare exceptions; aid review separate, no special form. TA/RA opportunities depend on funding. Central international guidance warns many programs do not offer first-year teaching appointments to students from non-English-speaking countries; some offer international research appointments. Confirm individual offer; no universal guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.umt.edu/wildlife-biology/graduate/phd-wbio/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umt.edu/grad/apply/default.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umt.edu/grad/faq/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umt.edu/grad/apply/international.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.umt.edu/graduate/college-forestry-conservation/phd-programs/fish-wildlife-biology-phd/fish-wildlife-biology-phd.pdf",
+      "label": "Official catalog degree identity",
+      "checked": "2026-10-28"
+    }
+  ]
+}

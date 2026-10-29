@@ -1,0 +1,73 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biological Science PhD",
+  "institution": "University of Tulsa",
+  "institutionShort": "Tulsa",
+  "detailsNote": "Official information available; Fall 2027 dates and admission model not confirmed. Biology catalog and central detailed requirements pages blocked; recommendation count remains unconfirmed.",
+  "officialUrl": "https://utulsa.edu/academics/health-natural-sciences/academics/departments/biological-science/bio-grad/",
+  "publishedDeadlines": [
+    {
+      "label": "Biology application",
+      "dateText": "Feb. 1",
+      "note": "Department annual date; year unstated."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Graduate School event participation: register if required, arrive within first 10 minutes and stay most of event. Verified waiver automatically posts in 2–3 business days; one future-term application. Current students/alumni automatic; external CAS excluded. Confirm international eligibility; no nationality restriction stated."
+    },
+    "english": {
+      "toefl": "80 (scale as published)",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Pearson 56; official agency scores valid 2 years. US high-school/college/university graduates or listed-country citizens exempt. English-instruction degree may receive discretionary Dean waiver by petition; not automatic."
+    },
+    "documents": [
+      "Transcripts",
+      "Statement of purpose",
+      "Recommendation letters (confirm count)",
+      "International passport personal-data page",
+      "International financial-support letter/form",
+      "Required test scores"
+    ],
+    "note": "Accredited bachelor; international comparable degree/B average and GPA 3.0 in major. Submit application before supplemental upload prompts. Program currently lists General GRE required; confirm any discretionary central exception directly."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Full-time teaching assistantships available with full tuition/monthly stipend; qualified students may receive external-grant research assistantships covering tuition. No all-admitted or explicit international guarantee/amount established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://utulsa.edu/academics/health-natural-sciences/academics/departments/biological-science/bio-grad/",
+      "label": "Official degree or central admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://utulsa.edu/admissions/graduate-admission/graduate-international-admission/",
+      "label": "Official degree or central admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://utulsa.edu/admissions/graduate-admission/graduate-application-fee-waiver/",
+      "label": "Official degree or central admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://utulsa.edu/admissions/graduate-admission/",
+      "label": "Official degree or central admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}
