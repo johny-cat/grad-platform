@@ -1,0 +1,24 @@
+{
+  "name": "Physiology and Biophysics PhD",
+  "institution": "University of Mississippi Medical Center",
+  "institutionShort": "UMMC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "officialUrl": "https://www.umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Physiology/Education/Graduate-Program/Overview.html",
+  "lastChecked": "2026-10-28",
+  "sources": [
+    {
+      "url": "https://www.umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Physiology/Education/Graduate-Program/Overview.html",
+      "label": "Official identity",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Degree-Programs/Degree-Programs-Overview.html",
+      "label": "Named PhD list",
+      "checked": "2026-10-28"
+    }
+  ]
+}

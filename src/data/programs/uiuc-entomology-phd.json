@@ -1,0 +1,71 @@
+{
+  "name": "Entomology PhD",
+  "institution": "University of Illinois Urbana-Champaign",
+  "institutionShort": "UIUC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://sib.illinois.edu/departments/entomology/graduate-admissions-entomology",
+  "applyUrl": "https://choose.illinois.edu/apply/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "December 1",
+      "note": "No entry year stated; confirm intended cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 legacy / 4 new for limited status; 103 legacy / 5 new for full status",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Limited-status minima; full status IELTS 7.5 or DET 135. Below full status requires English placement and possible ESL/reduced load. Tests valid two years before entry. No Essentials, MyBest or IELTS One Skill Retake. Exemptions require a US/approved-country degree or at least two years of study/work there, each within five years of entry; foreign English medium alone does not qualify. TA speaking rules separate; DET cannot establish TA proficiency. Department regards IELTS 7.5 / legacy TOEFL 103 as better preparation, occasionally accepts lower published minimum."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Current central fee $90 for all applications, overriding older department domestic $70. Waivers limited to eligible domestic categories; international exception only valid exchange agreement with approved fee waiver."
+    },
+    "documents": [
+      "Personal statement on interests, experience and goals; average 1–2 pages, no enforced word limit",
+      "Scanned transcripts and degree certificates where needed, with English translations",
+      "Three recommendation letters"
+    ],
+    "note": "Admission both to program and faculty labs; interested advisor essential. Preparation: biology, analytic geometry/calculus, three semesters chemistry with lab including organic, two physics semesters; deficiencies remediable. Research experience not required. Sponsored-foreign-applicant instructions additionally require agency support statement and modified admissions criteria; not a universal sponsorship requirement. International section says fee cannot be waived."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All accepted students expected to receive RA/TA/fellowship support for graduate career, conditional on standing, progress, requirements and satisfactory appointment duties. No current stipend stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://sib.illinois.edu/departments/entomology/graduate-admissions-entomology",
+      "label": "Program identity, application and support",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/international-applicants",
+      "label": "Central English and international policies",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+      "label": "Current central fee and application instructions",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "lab"
+}

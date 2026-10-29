@@ -69,7 +69,23 @@
       "url": "https://med.virginia.edu/education/biomedical-sciences/prospective-students/funding/",
       "label": "UVA BIMS: Funding",
       "checked": "2026-10-24"
+    },
+    {
+      "url": "https://med.virginia.edu/education/biomedical-sciences/programs/ph-d-degree-options",
+      "label": "Named BIMS doctoral degree options",
+      "checked": "2026-10-29"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-29",
+  "tracks": [
+    "Biochemistry & Molecular Genetics",
+    "Biophysics",
+    "Cell Biology",
+    "Computational Biology",
+    "Experimental Pathology",
+    "Microbiology",
+    "Neuroscience",
+    "Pharmacology",
+    "Physiology"
+  ]
 }

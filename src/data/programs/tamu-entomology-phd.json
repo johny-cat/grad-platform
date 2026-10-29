@@ -1,0 +1,19 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-29",
+  "name": "Entomology PhD",
+  "institution": "Texas A&M University",
+  "institutionShort": "Texas A&M",
+  "officialUrl": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/agriculture-life-sciences/entomology/phd/",
+  "sources": [
+    {
+      "url": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/agriculture-life-sciences/entomology/phd/",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

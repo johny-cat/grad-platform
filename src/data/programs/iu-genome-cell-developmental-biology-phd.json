@@ -1,0 +1,84 @@
+{
+  "name": "Genome, Cell, and Developmental Biology PhD",
+  "institution": "Indiana University Bloomington",
+  "institutionShort": "IU Bloomington",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://bio.indiana.edu/graduate/genome-cell-development/index.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://bio.indiana.edu/graduate/genome-cell-development/index.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bio.indiana.edu/graduate/genome-cell-development/steps.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bio.indiana.edu/graduate/how-to-apply/phd-apply.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bio.indiana.edu/graduate/how-to-apply/index.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bloomington.iu.edu/admissions/apply/graduate/application-fees.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program",
+  "applyUrl": "https://admissions.graduate.iu.edu/",
+  "detailsNote": "Official information available. The calendar announces Fall 2027 applications but does not attach a year to the December 1 deadline; it is retained as a published date.",
+  "publishedDeadlines": [
+    {
+      "label": "Domestic and international PhD application deadline",
+      "dateText": "December 1",
+      "note": "Published without an explicit deadline year; confirm the intended entry cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 (recommended; legacy scale)",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Minimum recommended scores; tests within two years of application. Unofficial scores for initial review, official scores required to complete the application. Exemptions: citizenship where English is official and/or degree from the US, UK or Canada; other waiver requests go to the program."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Biology offers no departmental waivers or reimbursements; central Graduate School categories may apply. Conditional Graduate School waivers cover specified IU recruitment participation, qualifying service, distinguished multiyear fellowships (annual stipend at least $20,000), and some application-status cases. Separate membership/recruitment waivers are US-citizen/permanent-resident only. International applicants should confirm eligibility before applying."
+    },
+    "documents": [
+      "Personal statement, approximately 500 words, on academic/career goals, program fit and qualifications",
+      "CV or resume including research, teaching, industry, publications and awards",
+      "Transcripts from all undergraduate and graduate programs; international applicants upload unofficial records and provide official documents on admission",
+      "Recommender contact information in the application; number of letters not established",
+      "Official English test scores unless exempt"
+    ],
+    "note": "Biological-science or related major and laboratory background; exceptions may be considered. GCDB emphasizes faculty fit, research experience, sufficient preparation and communication. Nearly all students rotate through three labs, five weeks each, in the first semester; direct admission is reserved for strong relevant prior research with select faculty. Faculty contact is recommended, not required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students are promised five full years through fellowships, teaching and research assistantships, with health insurance and free tuition."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Overseas applicants interview by video. Invited US-based applicants attend recruitment weekend with travel and lodging paid.",
+    "decisions": "Offers usually begin in March; the general calendar lists February–March decisions and April 15 offer acceptance."
+  }
+}

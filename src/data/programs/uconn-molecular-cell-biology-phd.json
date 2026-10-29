@@ -1,0 +1,78 @@
+{
+  "name": "Molecular and Cell Biology PhD",
+  "institution": "University of Connecticut",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://mcb.uconn.edu/mcb-phd-program/",
+  "lastChecked": "2026-10-29",
+  "institutionShort": "UConn",
+  "location": "Storrs, Connecticut",
+  "admissionModel": "program",
+  "applyUrl": "https://mcb.uconn.edu/apply/",
+  "summary": "Interdisciplinary molecular and cell biology PhD with first-semester research rotations before choosing a thesis laboratory.",
+  "publishedDeadlines": [
+    {
+      "label": "Doctoral application",
+      "dateText": "December 1st",
+      "note": "Department lists an annual date without a year; no confirmed Fall2027 countdown."
+    }
+  ],
+  "detailsNote": "Official doctoral deadline is undated. Admissions are fall-only; the later year-round and GPA text under PSM is not used as doctoral policy.",
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The department offers no waivers. Central waivers cover named affiliations, qualifying UConn enrollment or immediate progression, and US military service. These are conditional, not a general hardship offer; international applicants must confirm an eligible category before relying on a waiver."
+    },
+    "english": {
+      "toefl": "79 old scale or 4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Central minimums; PTE60. Agency delivery,two-year validity. TOEFL Essentials/MyBest/ITP (except UConn ITP), IELTS General/Indicator/One Skill Retake excluded. US citizens/permanent residents, primary-English applicants, an entire English-medium non-US degree documented by the Registrar/Controller, or qualifying US graded coursework can be exempt. US coursework requires30 undergraduate/combined or18 graduate credits and GPA3; non-graded courses excluded. TA oral-English rules are separate."
+    },
+    "documents": [
+      "University transcript copies,including originals and English translations where applicable",
+      "Three references",
+      "CV",
+      "Personal statement (less than 1000 words) describing goals,research experiences and interests,2–3 faculty,and relevant context"
+    ],
+    "note": "Central bachelor-equivalent/GPA policies apply:3.0 prior degree,3.0 last two undergraduate years,3.5 last undergraduate year,or3.0 qualifying post-degree semester. MCB explicitly opts out of third-party credential evaluation for Summer/Fall2026 onward, so central requirement is not imposed. International applicants encouraged by department to send official transcripts at application to prevent later delays; central says officials required after offer."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Programme describes PhD stipends,full tuition waiver,affordable health/dental coverage and TA availability for every accepted PhD student. No numeric stipend or explicit international guarantee established; separate TA English proof applies."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://mcb.uconn.edu/mcb-phd-program/",
+      "label": "Degree,Storrs,rotations and funding",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://mcb.uconn.edu/apply/",
+      "label": "Doctoral checklist,annual deadline,evaluation optout",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uconn.edu/admissions/requirements/",
+      "label": "Central fee,GPA and English rules",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uconn.edu/admissions/application-fee-waivers/",
+      "label": "Conditional central waivers",
+      "checked": "2026-10-29"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Ohio State Biochemistry Program (OSBP) PhD",
+  "institution": "The Ohio State University",
+  "institutionShort": "Ohio State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://osbp.osu.edu/future-students",
+  "applyUrl": "https://gpadmissions.osu.edu/grad/apply-online.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; 2027 entry dates not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Domestic and international application",
+      "dateText": "December 1",
+      "note": "Recurring date without stated entry year."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "105 legacy, speaking 26–30; departmental new-scale value not stated",
+      "note": "Program explicitly requires IELTS greater than 8.0 or DET higher than 135 (strict inequalities; no rounded numeric minimum inferred). Official scores within two years sent by application deadline; if received valid, expiry before entry does not invalidate admission proof. No MyBest or IELTS One Skill Retake. Citizenship/degree from listed countries or US permanent-resident/asylee/refugee status over one year may exempt; overseas English-medium instruction alone does not. Higher program minima control; TA and writing assessments separate."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International 70 USD; US 60 USD. Conditional recruitment-code or preapproved departmental payment routes; international eligibility should be confirmed. Economic-disadvantage, FreeApp and SROP categories exclude international applicants. Waiver approved or fee paid before admission; one per year and no refund after payment."
+    },
+    "documents": [
+      "Statement of intent: biochemistry motivation, research impact/interests, faculty fit, goals, activities and any academic anomalies",
+      "CV/resume",
+      "Three recommendation letters",
+      "Upload official transcripts from all institutions"
+    ],
+    "note": "Minimum three different 7-week rotations; join lab in mid-spring. Letters may arrive after deadline but no review until complete. International applicants abroad interview remotely; visitations February, most decisions mid-March, acceptance dueApril 15.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted OSBP students guaranteed support with satisfactory standing/progress: full tuition, academic fees, health insurance and stipend; first year GRA/fellowship then advisor. Funding page lists historical 2023–24 stipend 32,352 USD/year, not current rate."
+  },
+  "sources": [
+    {
+      "url": "https://osbp.osu.edu/future-students",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://osbp.osu.edu/future-students/financial-support",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program"
+}

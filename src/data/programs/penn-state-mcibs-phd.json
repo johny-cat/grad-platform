@@ -1,0 +1,61 @@
+{
+  "name": "Molecular, Cellular and Integrative Biosciences PhD",
+  "institution": "The Pennsylvania State University",
+  "institutionShort": "Penn State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://bulletins.psu.edu/graduate/programs/majors/molecular-cellular-integrative-biosciences/",
+  "applyUrl": "https://bulletins.psu.edu/graduate/programs/majors/molecular-cellular-integrative-biosciences/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Central policy pages blocked; omitted fields remain unverified.",
+  "requirements": {
+    "gre": "not-required",
+    "note": "Application review begins December 1, not a stated final deadline. Only PhD applicants accepted; no terminal master’s entry. Successful applicants generally have junior/senior GPA 3.5 and biochemistry, molecular/cell biology, physics, organic/inorganic chemistry and calculus. Required research-rotation course supports program route.",
+    "documents": [
+      "Official transcripts all postsecondary institutions",
+      "Three references with business emails",
+      "Goals statement: doctorate motivation, research experience/interests, biological problems, preparation and professional goals",
+      "US visa application for international applicants, as catalog lists"
+    ],
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "90 iBT with speaking 21 (legacy scale);575 paper",
+      "note": "Successful applicants generally 100iBT/speaking 23. TOEFL/IELTS may be required; no new-scale departmental equivalence or IELTS threshold established. Central exemption page blocked."
+    }
+  },
+  "sources": [
+    {
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/molecular-cellular-integrative-biosciences/",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Application review begins",
+      "dateText": "December 1",
+      "note": "Undated recurring publication; no year assigned."
+    }
+  ],
+  "tracks": [
+    "Cell and Developmental Biology",
+    "Immunology and Infectious Disease",
+    "Molecular and Evolutionary Genetics",
+    "Molecular Medicine",
+    "Molecular Toxicology",
+    "Neurobiology"
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Catalog states graduate assistantships available; no all-admitted guarantee, stipend or duration established."
+  },
+  "international": {
+    "accepted": "yes"
+  }
+}

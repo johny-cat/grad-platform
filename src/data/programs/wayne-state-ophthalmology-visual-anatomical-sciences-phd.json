@@ -1,0 +1,69 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Ophthalmology, Visual and Anatomical Sciences PhD",
+  "institution": "Wayne State University",
+  "institutionShort": "Wayne State",
+  "officialUrl": "https://anatomy.med.wayne.edu/phd-program/admission",
+  "detailsNote": "Official available requirements; Fall 2027 dates not confirmed. Fee/waiver and current central numerical English policy could not be opened. Admission model omitted where unconfirmed.",
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts",
+      "Personal/research statement",
+      "CV/resume",
+      "Three faculty recommendations"
+    ],
+    "note": "Bachelor 4-year equivalent; GPA 3 overall/life sciences; research strongly valued. Three faculty letters, prefer 1–2 research supervisors; statement less than 2 pages, faculty interests and goals; CV. TOEFL 100 within 2 years if undergraduate education in non-native-English country. Three laboratory rotations before permanent adviser.",
+    "english": {
+      "note": "Central catalog accepts qualifying US/native-English-country bachelor or English testing; program may set stricter threshold. Current central score page inaccessible. Department publishes TOEFL 100; no new-scale equivalent or IELTS threshold inferred."
+    }
+  },
+  "sources": [
+    {
+      "url": "https://anatomy.med.wayne.edu/phd-program/admission",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletins.wayne.edu/graduate/general-information/admission/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletins.wayne.edu/graduate/school-medicine/programs/ophthalmology-visual-anatomical-sciences/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://anatomy.med.wayne.edu/phd-program/support",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://anatomy.med.wayne.edu/laboratory-rotations",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Published application date",
+      "dateText": "December15",
+      "note": "Annual fall priority; rolling reviewDecember–April. Central medicine page separately saysFebruary 1; confirm final department deadline."
+    }
+  ],
+  "admissionModel": "program",
+  "funding": {
+    "allFunded": true,
+    "note": "Admitted PhD students appointedGRA: current annual$30,000, subsidized health, up to 22 tuition credits per year; no future-year amount promised.",
+    "coversInternational": "unknown"
+  }
+}

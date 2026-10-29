@@ -1,0 +1,19 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Washington State University",
+  "institutionShort": "WSU",
+  "officialUrl": "https://sbs.wsu.edu/graduate-studies/",
+  "sources": [
+    {
+      "url": "https://s3.wp.wsu.edu/uploads/sites/1176/2021/01/2021-2022-Graduate-Student-Handbook-1.pdf",
+      "label": "Official SBS 2021–22 handbook, section 5.4.3, identity only",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Toxicology and Cancer Biology PhD",
+  "institution": "University of Kentucky",
+  "institutionShort": "Kentucky",
+  "officialUrl": "https://medicine.uky.edu/departments/toxicology/phd-program",
+  "detailsNote": "Available official requirements; older handbook conditions and undated dates qualified. Admission model omitted if not established.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 before January 21,2026; 4.0 after that date",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central minimum. US accredited degree or official transcript/direct registrar attestation confirming sole English instruction can satisfy proficiency. DET may be evaluated by ESL professional. Program may set higher standard."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Domestic fee 65. Conditional waiver for US military veterans or spouses/dependents with qualifying benefits documentation. No explicit citizenship rule stated; international applicants must confirm qualification. No general hardship waiver established."
+    },
+    "documents": [
+      "Academic transcripts",
+      "English evidence if required",
+      "Personal statement",
+      "CV/resume",
+      "Recommendation letters"
+    ],
+    "note": "Appropriate accredited science degree and GPA at least 3.0. Direct PhD application independent from IBS. Personal research/goals statement, CV; optional research paper. Three two-month first-year rotations before mentor selection.",
+    "letters": {
+      "min": 2,
+      "max": 3
+    }
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "First-year department rotation support, then PI support. Undated current minimum$30,000/year plus required/recommended-course tuition and health insurance; confirm future offer.",
+    "allFunded": true
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://medicine.uky.edu/departments/toxicology/phd-program",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.uky.edu/admissions/application-process",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://academics.uky.edu/programs/doctoral/toxicology-and-cancer-biology",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Fall, domestic/international",
+      "date": "2027-03-06",
+      "note": "Current official doctoral profile."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Cancer Biology PhD",
+  "institution": "Wayne State University",
+  "institutionShort": "Wayne State",
+  "officialUrl": "https://cancerbiologyprogram.med.wayne.edu/application",
+  "detailsNote": "Official available requirements; Fall 2027 dates not confirmed. Fee/waiver and current central numerical English policy could not be opened. Admission model omitted where unconfirmed.",
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts",
+      "Statement of purpose",
+      "CV/resume",
+      "Three signed recommendations"
+    ],
+    "note": "Science background, GPA 3; statement up to 2 pages, research experience, all postsecondary official records with English translations, three signed letterhead recommendations. Do not contact individual faculty for admission. TOEFL 100 unless qualifying English-official-country degree; FAQ lists countries. Three first-year rotations before mentor choice.",
+    "english": {
+      "note": "Central catalog accepts qualifying US/native-English-country bachelor or English testing; program may set stricter threshold. Current central score page inaccessible. Department publishes TOEFL 100; no new-scale equivalent or IELTS threshold inferred."
+    }
+  },
+  "sources": [
+    {
+      "url": "https://cancerbiologyprogram.med.wayne.edu/application",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletins.wayne.edu/graduate/general-information/admission/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bulletins.wayne.edu/graduate/school-medicine/programs/oncology/cancer-biology-phd/",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cancerbiologyprogram.med.wayne.edu/faq",
+      "label": "Official degree/admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Published application date",
+      "dateText": "December1",
+      "note": "Preferred consideration; annual fall-only rolling admissions. Application pageAugust–January, FAQAugust–December 1; confirm final availability."
+    }
+  ],
+  "admissionModel": "program",
+  "funding": {
+    "allFunded": true,
+    "note": "Catalog provides financial assistance to all accepted students without separate application. Amount and components not stated; program sources include fellowships, faculty/training grants.",
+    "coversInternational": "unknown"
+  }
+}

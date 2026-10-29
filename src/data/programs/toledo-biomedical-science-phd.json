@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biomedical Science PhD",
+  "institution": "University of Toledo",
+  "institutionShort": "UToledo",
+  "officialUrl": "https://www.utoledo.edu/med/grad/biomedical/requirements.html",
+  "admissionModel": "program",
+  "detailsNote": "Official annual dates available; Fall 2027 year not confirmed.",
+  "tracks": [
+    "Bioinformatics & Biomarkers",
+    "Cancer Biology",
+    "Molecular Medicine",
+    "Medical Microbiology & Immunology",
+    "Neurosciences and Neurological Disorders"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "December15",
+      "note": "Annual priority; international applicants should complete current degree byMay 1."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "International$75; US citizens/permanent residents$45. Program cannot offer application fee waivers."
+    },
+    "english": {
+      "toefl": "80 legacy;4.0 new overall and every subscore",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Also PTE 58/Cambridge 176. Official agency reports, valid at program start. Educational exemption needs qualifying accredited English-medium degree, GPA 2.7, or qualifying US coursework; documentation reviewed. Research-only graduate degrees without coursework do not qualify."
+    },
+    "documents": [
+      "Official transcripts",
+      "Foreign credential evaluation when applicable",
+      "Statement of purpose",
+      "CV/resume",
+      "Three recommendations"
+    ],
+    "note": "Four-year bachelor equivalent, GPA 3; life-science coursework and research recommended. Select Biomedical Science Program then research track. No prior mentor needed; first-year rotations before mutual mentor choice. Foreign evaluation from ECE, IEE, SpanTran orWES required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Program states all PhDs receive current$28,000 annual stipend, tuition waiver, health insurance; domestic/international eligibility in good standing. No required TA duties. Future stipend amount unconfirmed."
+  },
+  "sources": [
+    {
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/international/english-language-proficiency.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/admission/how-to-apply/",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}

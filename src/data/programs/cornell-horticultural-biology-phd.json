@@ -1,0 +1,79 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Horticultural Biology PhD",
+  "institution": "Cornell University",
+  "institutionShort": "Cornell",
+  "officialUrl": "https://cals.cornell.edu/school-integrative-plant-science/degrees-programs/msphd-graduate-fields/msphd-field-of-horticulture/application-field-of-horticulture",
+  "detailsNote": "Official current structure and available requirements. English numerical table explicitly 2026–27; confirm future-cycle thresholds. Admission model omitted because route not conclusively singular.",
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "2026–27 TierB: legacy speaking 22 reading 20 listening 15 writing 20; new speaking 4 reading 4 listening 3.5 writing 4",
+      "ielts": 7,
+      "note": "Published minimum table expressly applies 2026–27 only, future changes possible. Higher TA TierA: IELTS 7 overall/speaking 8; TOEFLspeaking 27 old/5.5 new with other minimums; otherwise language assessment/support. No DET/PTE/Essentials. Scores valid 2 years at deadline; field may restrict MyBest. Exemption: English first language plus qualifying citizenship/residency, qualifying US bachelor, qualifying bachelor from an English-official country with English instruction or 2 consecutive years of full-time work/study within the last 10 years in an eligible English-language country; physical presence and documentation conditions apply. Special exemption by approval."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Exceptional financial hardship considered for fully funded research degrees; international costs page explicitly offers route. Explain hardship in payment-page form after completing application, at least 3 business days before deadline. If denied pay fee; not guaranteed."
+    },
+    "documents": [
+      "Academic/research statement",
+      "Transcripts",
+      "Recommendation letters (count unconfirmed)",
+      "English evidence if applicable",
+      "Personal statement"
+    ],
+    "note": "Strong life-science background essential; horticulture undergraduate major not required. Academic purpose, personal statement, transcripts, research/work experience and reference letters. Prior faculty discussion encouraged. Holistic committee review; assigned advisor named in offer."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Every admitted PhD fully funded; assistantships/fellowships. No current amount or duration stated. Rolling admission offers mid-February–April 1 as packages developed."
+  },
+  "sources": [
+    {
+      "url": "https://cals.cornell.edu/school-integrative-plant-science/degrees-programs/msphd-graduate-fields/msphd-field-of-horticulture/application-field-of-horticulture",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/international/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/academic-progress/degrees-fields/cugradfos/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://cals.cornell.edu/school-integrative-plant-science/sips-msphd-financial-support",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Fall application",
+      "date": "2026-12-01",
+      "note": "Current GraduateSchool deadline correction supersedes older catalog date."
+    }
+  ]
+}

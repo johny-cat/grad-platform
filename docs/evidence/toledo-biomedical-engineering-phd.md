@@ -1,0 +1,5 @@
+# University of Toledo — Biomedical Engineering PhD
+
+Checked 2026-10-28.
+
+[JointPhD page](https://www.utoledo.edu/engineering/bioengineering/graduate/programs/phd_bme.html),openingentrancerequirements:engineering/relevantscienceBS;nonengineerprerequisites1yeareachphysics/biology/chemistry,2yearscalculusthroughdifferentialequations,12additionalappropriatecredits. [Department degrees](https://www.utoledo.edu/engineering/bioengineering/graduate/) distinguishesjointBiomedicalEngineeringPhDfromEngineeringPhDspecializationBioengineering. [Centralprocess](https://www.utoledo.edu/graduate/admission/how-to-apply/) officialallinstitutionrecordsandforeignevaluation; [English](https://www.utoledo.edu/graduate/international/english-language-proficiency.html) currenttest/exemptionrules. CatalogchallengepreventedverificationofGRE/lettercount/deadlines/fee;notinferred.

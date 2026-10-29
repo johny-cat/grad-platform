@@ -1,0 +1,88 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Biophysics PhD",
+  "institution": "University of California, Davis",
+  "institutionShort": "UC Davis",
+  "officialUrl": "https://grad.ucdavis.edu/programs/gbph",
+  "detailsNote": "Official available requirements and 2027–28 deadlines. Funding amounts are qualified by the period explicitly published; confirm offer-specific terms.",
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement/history",
+      "Academic transcripts from every college-level institution",
+      "Three electronic recommendations",
+      "English evidence if applicable"
+    ],
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 for tests on/after that date",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Two-year scores; no MyBest or IELTS One Skill Retake. DET only when other exams unavailable; DET-only admits take TOEP. English-only US degree or foreign degree with sole English instruction recorded in WHED may exempt; other documentation not accepted. Programs/TA employment may set higher standards."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "US applicants$135. Central waiver limited to listed graduate-preparation programs, not general financial need. Identify program/coordinator in application; participation verified. International applicants should confirm category eligibility."
+    },
+    "note": "PhD-only admission. General application materials; recommended interdisciplinary science preparation, deficiencies reviewed individually. Mentor chosen after rotations; prior faculty contact not required. Supporting-material grace ends December 3, 2026 at 23:59 Pacific. Application, fee and undergraduate/master degree-institution transcripts remain due December 1; only non-degree-institution transcripts may arrive late."
+  },
+  "deadlines": [
+    {
+      "label": "General and fellowship",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Current 2027–28 central table; follow earlier department closing rules."
+    }
+  ],
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Group supports rotations; PI responsible after lab placement, normally via GSR/TA/fellowship. Historical fall 2026/winter 2027 rotation offer: $11,000 per quarter plus tuition, fees and health insurance if needed; not a fall 2027 stipend promise. International recruitment harder because rotation and thesis funding constraints; confirm availability."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://grad.ucdavis.edu/programs/gbph",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bph.ucdavis.edu/applicant-FAQ",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradstudies.ucdavis.edu/program-application-deadlines",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/application-components",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program"
+}

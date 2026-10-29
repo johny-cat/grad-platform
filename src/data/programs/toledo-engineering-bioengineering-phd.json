@@ -1,0 +1,19 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-28",
+  "name": "Engineering PhD — Bioengineering",
+  "institution": "University of Toledo",
+  "institutionShort": "UToledo",
+  "officialUrl": "https://www.utoledo.edu/engineering/bioengineering/graduate/",
+  "sources": [
+    {
+      "url": "https://www.utoledo.edu/engineering/bioengineering/graduate/",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Animal and Food Sciences PhD",
+  "institution": "University of Kentucky",
+  "institutionShort": "Kentucky",
+  "officialUrl": "https://academics.uky.edu/programs/doctoral/animal-and-food-sciences",
+  "detailsNote": "Available official requirements; older handbook conditions and undated dates qualified. Admission model omitted if not established.",
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "79 before January 21,2026; 4.0 after that date",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Central minimum. US accredited degree or official transcript/direct registrar attestation confirming sole English instruction can satisfy proficiency. DET may be evaluated by ESL professional. Program may set higher standard."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Domestic fee 65. Conditional waiver for US military veterans or spouses/dependents with qualifying benefits documentation. No explicit citizenship rule stated; international applicants must confirm qualification. No general hardship waiver established."
+    },
+    "documents": [
+      "Academic transcripts",
+      "English evidence if required",
+      "Reference letters (count unconfirmed)"
+    ],
+    "note": "July 2023 handbook: MS-equivalent required for PhD, GPA 3 undergraduate/graduate. Faculty must select applicant. Preparation: calculus/physics one semester, biology/physiology three, chemistry three including organic/biochemistry. GRE general no minimum; letter count unconfirmed."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "July 2023 handbook: may admit with or without support. RAs receive stipend/tuition; funded international assistants/fellows health insurance. Funding depends on project, progress and offer; no universal guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://academics.uky.edu/programs/doctoral/animal-and-food-sciences",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.uky.edu/admissions/application-process",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://afs.mgcafe.uky.edu/sites/afs.ca.uky.edu/files/ASC-Grad-Handbook-7-19-2023.pdf",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "lab",
+  "deadlines": [
+    {
+      "label": "Fall international",
+      "date": "2027-04-15"
+    },
+    {
+      "label": "Fall domestic",
+      "date": "2027-07-23"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Historical funding consideration",
+      "dateText": "January 15",
+      "note": "July 2023 handbook earlier funding target; confirm current funding deadline."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "institution": "University of Cincinnati",
+  "institutionShort": "UC Cincinnati",
+  "name": "Biological Sciences PhD",
+  "officialUrl": "https://www.artsci.uc.edu/natural-sciences/biological-sciences/academic-programs/graduate/application-info.html",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual dates and current available requirements; Fall 2027 deadline not explicitly dated. Department legacy TOEFL 100 is stricter than central 80; no higher new-scale equivalent invented.",
+  "publishedDeadlines": [
+    {
+      "label": "Full consideration",
+      "dateText": "January 1",
+      "note": "Annual deadline for entry the following fall; degree page also specifies full financial consideration."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International $70; domestic $65. Automatic waiver only for current or former US armed-forces service; overseas applicants must confirm qualification."
+    },
+    "english": {
+      "toefl": "100 legacy department; 4.5 central new-scale baseline only",
+      "ielts": 7.5,
+      "duolingo": 110,
+      "note": "Department describes IELTS 7.5 as approximate. Central DET 110/PTE 54 listed; confirm departmental acceptance. Central entire-university English-medium waiver requests require documentation."
+    },
+    "documents": [
+      "Transcripts",
+      "Previous Research Experience statement, if applicable",
+      "Personal Goals statement",
+      "Potential Faculty Mentors names",
+      "Two online recommendations",
+      "English evidence when required",
+      "After accepting enrollment: foreign bachelor’s degree requires a general/document-by-document NACES evaluation sent directly by the evaluator before the first term; US bachelor’s degrees exempt"
+    ],
+    "note": "Normally four-year biology bachelor or another science degree with substantial biology. Chemistry through organic/biochemistry, one year physics, mathematics through calculus; some prerequisite waivers possible. Faculty mentor must agree to accept applicant into the laboratory. Department asks official transcripts, but current doctoral degree page permits unofficial records for review and official at enrollment."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Most department graduate students receive tuition-and-fee scholarships; additional graduate-assistant support possible. Published PhD base GA stipend $30,368/year, updated July 16, 2026. No guarantee for every entrant or explicit international funding statement."
+  },
+  "sources": [
+    {
+      "url": "https://www.artsci.uc.edu/natural-sciences/biological-sciences/academic-programs/graduate/application-info.html",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.artsci.uc.edu/programs-degrees/phd/biological-sciences.html",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

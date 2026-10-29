@@ -1,0 +1,80 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "summer-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "institution": "University of Cincinnati",
+  "institutionShort": "UC Cincinnati",
+  "name": "Pharmacology and Physiology PhD",
+  "officialUrl": "https://www.med.uc.edu/education/graduate-education/pharm-phd/how-to-apply",
+  "detailsNote": "Summer 2027 application term explicitly confirmed. Admission model not established by the opened sources.",
+  "deadlines": [
+    {
+      "label": "Early consideration",
+      "date": "2026-11-01",
+      "note": "Early interviews and decisions in the explicitly Summer 2027 application cycle."
+    },
+    {
+      "label": "Final deadline",
+      "date": "2027-02-01",
+      "note": "Summer 2027 application; program starts July 1."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 1
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International $70; domestic $65. Automatic waiver only for current or former US armed-forces service; overseas applicants must confirm qualification."
+    },
+    "english": {
+      "toefl": "80 legacy / 4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "PTE 54 also accepted. Central exemption requests can require proof the entire university teaches exclusively in English; see source policy."
+    },
+    "documents": [
+      "Unofficial undergraduate and graduate transcripts",
+      "CV or resume",
+      "Personal statement",
+      "One recommendation required; three preferred",
+      "Optional research-experience document",
+      "English evidence when required",
+      "After accepting enrollment: foreign bachelor’s degree requires a general/document-by-document NACES evaluation sent directly by the evaluator before the first term; US bachelor’s degrees exempt"
+    ],
+    "note": "Merged former Molecular, Cellular and Biochemical Pharmacology and Systems Biology and Physiology programs. Accredited bachelor, strong sciences and GPA at least 3.0, emphasizing advanced science work; deficiencies may need remediation. Select Summer 2027 only. Statement covers preparation, research, motivation and goals. Interviews when possible; rolling offers."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 38250,
+      "currency": "USD",
+      "period": "year",
+      "year": "effective July 1, 2027"
+    },
+    "note": "Domestic and international students receive instructional, general and campus-life fee remission. Good-standing students receive tuition, health and stipend up to five full-time years or the minimum 90-credit threshold; afterward advisor/committee discretion. Current annual stipend $37,132, rising to $38,250 on July 1, 2027."
+  },
+  "sources": [
+    {
+      "url": "https://www.med.uc.edu/education/graduate-education/pharm-phd/how-to-apply",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.med.uc.edu/education/graduate-education/pharm-phd/financial-support",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html",
+      "label": "Official program or admission policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

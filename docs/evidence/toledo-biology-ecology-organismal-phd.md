@@ -1,0 +1,5 @@
+# University of Toledo — Biology PhD — Ecology and Organismal Biology
+
+Checked 2026-10-28.
+
+[Graduate home](https://www.utoledo.edu/nsm/envsciences/grad/),ApplicationNOTE:preadmissionfacultyrequired. [Entrance](https://www.utoledo.edu/nsm/envsciences/grad/entrance.html),DoctorofPhilosophyBiology:MSoroutstandingbachelor/researchpotential,objectives,research/teaching,GPA,3letters;annualFebruary15. Englishsection assistantALI screening andremediation; obsoleteTOEFLpaper/computerscoresnotconverted. [Financial](https://www.utoledo.edu/nsm/envsciences/grad/financial.html),2024:RA/TA tuitionwaiver,19,000nine-month+4,100summer;studentgeneralfees/healthunlessgrant;normally5yearsprogress/grantdependent;annualFebruary1fundingdiffersapplicationFebruary15. [Central English](https://www.utoledo.edu/graduate/international/english-language-proficiency.html) currenttest/exemptionrules. Exact anchor: “Acceptance by a faculty research advisor is required”.

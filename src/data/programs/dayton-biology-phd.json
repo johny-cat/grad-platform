@@ -1,0 +1,13 @@
+{
+  "name":"Biology PhD",
+  "institution":"University of Dayton",
+  "institutionShort":"Dayton",
+  "country":"US",
+  "degree":"phd",
+  "field":"biology",
+  "cycle":"fall-2027",
+  "details":"pending",
+  "officialUrl":"https://catalog.udayton.edu/graduate/collegeofartsandsciences/programsofstudy/biology/",
+  "lastChecked":"2026-10-28",
+  "sources":[{"url":"https://catalog.udayton.edu/graduate/collegeofartsandsciences/programsofstudy/biology/","label":"Official Biology PhD identity","checked":"2026-10-28"}]
+}

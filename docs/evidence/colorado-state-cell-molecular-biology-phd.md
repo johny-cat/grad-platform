@@ -13,3 +13,7 @@ Checked 2026-10-24 (page fetcher; quotes as returned, some shortened).
 - Fee: https://graduateschool.colostate.edu/apply — "Degree program: $60 (U.S. citizen/permanent resident)." ; "Degree programs, international applicants: $70."
 - English: same page — "International students must meet English proficiency requirements." ; "Note: Your department may have higher score requirements than those required by the Graduate School." (no scores)
 - Apply link: same page, "Apply" https://graduateschool.colostate.edu/apply
+
+## Archive specialization mapping — 2026-10-28
+
+https://catalog.colostate.edu/general-catalog/university-wide-programs/interdisciplinary-studies/cell-molecular-biology/phd-cell-molecular-cancer-biology-specialization/ — exact title “Ph.D. in Cell and Molecular Biology, Cancer Biology Specialization”. This is a specialization of the existing CMB degree, not a new independent application. The current CMB admissions navigation links its curriculum. Added Cancer Biology track only; existing admissions facts retain their actual prior checked dates.

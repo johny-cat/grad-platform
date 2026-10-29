@@ -1,0 +1,61 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Neuroscience PhD (TAMIN)",
+  "institution": "Texas A&M University",
+  "institutionShort": "Texas A&M TAMIN",
+  "officialUrl": "https://tamin.tamu.edu/graduate/prospective-students/",
+  "detailsNote": "Official annual deadline; Fall 2027 year not explicitly attached. Admission model and general funding not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Submit application",
+      "dateText": "December 1",
+      "note": "Annual; no applications created after deadline; incomplete document uploads remain possible."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "TAMIN waivers only for US citizens/permanent residents meeting first-generation, disability, veteran or disadvantage criteria; email statement for review. International $90 not waived."
+    },
+    "english": {
+      "toefl": "80 legacy;4.5 new overall/4.0 each skill",
+      "ielts": 6,
+      "note": "Within 2 years; Home Edition/Essentials 8.5 accepted, MyBest/IELTS One Skill Retake not accepted. GRE Verbal 146/GMAT alternatives subject to department approval. Exemption: listed English-country citizenship or US accredited bachelor/master; department may be stricter."
+    },
+    "documents": [
+      "All institution transcripts(unofficial review; official before class registration)",
+      "CV",
+      "Statement of purpose",
+      "Three electronically submitted recommendations",
+      "English scores when applicable"
+    ],
+    "note": "Select Interdisciplinary Degree Program/Neuroscience PhD in GraduateCAS. Statement explains neuroscience preparation, goals, motivation and relevant faculty. Central bachelor equivalent required. GRE policy not stated."
+  },
+  "funding": {
+    "note": "Page lists Fall 2026 IDP Merit Fellowship limited to US citizens/permanent residents, first-time IDP applicants; not general PhD funding or an international guarantee. Main program funding page timed out.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://tamin.tamu.edu/graduate/prospective-students/",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://admissions.tamu.edu/apply/international/international-graduate.html",
+      "label": "Official admission and degree policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

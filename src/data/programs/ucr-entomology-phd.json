@@ -1,0 +1,85 @@
+{
+  "name": "Entomology PhD",
+  "institution": "University of California, Riverside",
+  "institutionShort": "UC Riverside",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://entomology.ucr.edu/graduate-studies-program",
+  "applyUrl": "https://grad.ucr.edu/apply/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Program explicitly confirms Fall 2027 deadline. Current no-GRE and recommended courses supersede old 2019FAQ; advisor selection wording differs, so model omitted.",
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "80 before January 21,2026 / 4 effective January 21,2026",
+      "ielts": 7,
+      "note": "IELTS Academic no component below 6. Tests within two years before enrollment; unofficial for review, official after admission. Home Edition/IELTS Online accepted; no ITP+, MyBest or IELTS One Skill Retake. Degree where English is exclusive instruction can exempt; foreign institution checked in WHED and extra proof may be required. TA requirements separate."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central table explicitly covers Summer 2024–Spring 2027: international 155 USD/domestic 135; Fall 2027 fee not yet confirmed. Financial-hardship/preparation waivers limited to eligible US citizens/permanent residents/undocumented applicants, approved before payment, request at least 5 businessdays early."
+    },
+    "documents": [
+      "Unofficial transcripts from all colleges/universities for review; official records after acceptance",
+      "Graduate statement of purpose, maximum 2000 words: preparation, interests, UCR fit, motivation, goals/impact and community contribution",
+      "Three recommendation letters in English (two academic)",
+      "Foreign degrees: WES course-by-course ICAP evaluation after accepting offer; degree proof and certified English translations"
+    ],
+    "note": "Bachelor’s in entomology, biological science, chemistry, biochemistry or suitable equivalent; strength in life sciences. Master’s typical but direct bachelor-to-PhD possible. Science/math/data courses recommended, not required in current page, superseding older FAQ hard prerequisites. Identify faculty and research/teaching/outreach experience. Old FAQ requires potential-advisor commitment for admission; current page permits major-professor selection by first-quarter end; confirm route, model omitted."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Competitive fellowships/traineeships can waive nonresident tuition, explicitly valuable to internationals. All applicants automatically considered, support offers with admission; no guarantee. Late/non-fall support only if available. GAANN restricted to US citizens/permanent residents and financial need."
+  },
+  "sources": [
+    {
+      "url": "https://entomology.ucr.edu/graduate-studies-program",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://entomology.ucr.edu/faq-entomology-graduate-program",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduate.ucr.edu/admission-requirements",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduate.ucr.edu/fee-waivers",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduate.ucr.edu/international-academic-records",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 final application",
+      "date": "2026-12-01"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Recommended materials / funding priority",
+      "dateText": "November 20th",
+      "note": "Annual early-completion recommendation; earlier than current final deadline."
+    }
+  ]
+}

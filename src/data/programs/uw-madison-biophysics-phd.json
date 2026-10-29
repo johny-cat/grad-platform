@@ -1,0 +1,84 @@
+{
+  "name": "Biophysics PhD",
+  "institution": "University of Wisconsin–Madison",
+  "institutionShort": "UW–Madison",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://guide.wisc.edu/graduate/graduate-school-wide/biophysics-phd/",
+  "applyUrl": "https://grad.wisc.edu/apply/",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "The official 2026–2027 Guide gives recurring month/day deadlines, not a confirmed Fall2027 entry date. Admission model not established from opened sources.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1",
+      "note": "Official recurring date; no unstated year or current-cycle countdown assigned."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "92 before January21,2026;5.0 on/after January21,2026",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "With programme approval, in-person applicants may be admitted with TOEFL80–91(old)/4.5(new),IELTS 6.5,orDET115–124, requiring arrival ESLAT and successful first-semester completion of any recommended ESL courses. IELTS Indicator7 accepted; no combined scores or IELTS One Skill Retake. Scores valid two years to enrollment. Exemption:US bachelor;US graduate/professional degree within five years;foreign bachelor exclusively English;or two graded full-time exclusively English-taught semesters within five years,excluding English-learning courses,with verified language of instruction."
+    },
+    "applicationFee": {
+      "amount": 81,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International total75base+6processing. Graduate School grants require US citizenship/permanent residence. Programme grants may use other criteria, but no specific international-eligible offer for this programme was confirmed. Up to three programmes in one term share one paid application fee. Eligible Graduate School requests are due at least five business days before the earliest deadline. The fee-grant page says new program grant purchases are suspended until further notice; confirm any departmental grant availability."
+    },
+    "note": "Central bachelor-equivalent degree before enrollment; GPA3.0 last60 undergraduate credits or master cumulative3.0. Programme-specific conditions below also apply. Substantial prior research experience expected. Guide lists last60 undergraduate GPA3.0. GRE optional; absence does not affect consideration.",
+    "documents": [
+      "Statement of purpose:preparation,motivation,research interests and career goals",
+      "CV:degrees/GPA,research/professional experience,publications/presentations and skills",
+      "Transcripts from every listed institution,original language and official English translation"
+    ]
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://guide.wisc.edu/graduate/graduate-school-wide/biophysics-phd/",
+      "label": "Degree admissions and funding",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.wisc.edu/apply/",
+      "label": "Central fee,grants and application",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://policy.wisc.edu/library/UW-1241",
+      "label": "Degree,GPA and English policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://biophysics.wisc.edu/prospective-students/admissions/",
+      "label": "Programme admissions,international funding and interviews",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.wisc.edu/apply/fee-grant/",
+      "label": "Central fee-grant eligibility and current purchase suspension",
+      "checked": "2026-10-29"
+    }
+  ],
+  "summary": "Interdisciplinary biophysics PhD with research at the intersection of quantitative and biological sciences.",
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Every domestic/international admission offer includes full stipend and tuition waiver as RA,fellow or trainee. Single/family health plans subsidized. No numerical Fall2027 stipend stated."
+  },
+  "timeline": {
+    "interviews": "Programme plans invitations December2026 and2027 interview weeks:online faculty interviews plus in-person weekend visits for invited students residing in North America. Programme covers those visits; no general international airfare guarantee."
+  }
+}

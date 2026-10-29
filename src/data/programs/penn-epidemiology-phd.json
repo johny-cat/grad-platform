@@ -1,0 +1,75 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Epidemiology PhD",
+  "institution": "University of Pennsylvania",
+  "institutionShort": "Penn",
+  "officialUrl": "https://www.med.upenn.edu/ggeb/epiadmissions.html",
+  "detailsNote": "Fall 2027 application confirmed. BGS common policies supplemented with degree-specific requirements; admission model omitted where not established.",
+  "deadlines": [
+    {
+      "label": "Application and official test scores",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No fee to apply to BGS; no waiver needed."
+    },
+    "english": {
+      "note": "BGS accepts TOEFL/IELTS/DET without numerical minimum. US or approved English-instructed degree exempts after review; no separate waiver request needed. Official reports by deadline; expired TOEFL requires retake. International intake highly competitive and limited."
+    },
+    "documents": [
+      "Personal statement (~500 words)",
+      "Research statement (~1000 words)",
+      "Community statement",
+      "CV/resume (omit GPA/GRE information)",
+      "Unofficial transcripts from all institutions plus translations",
+      "Three recommendations",
+      "Official English reports if required"
+    ],
+    "note": "Accredited undergraduate or first graduate degree. Master/equivalent graduate coursework suggested, not required. Prior coursework should include calculus; statistics encouraged. Bachelor-only applicants advised relevant work/research, typically 2–3 years among successful candidates, explicitly not a formal requirement. Current admissions supersedes older handbook master/two-year requirement."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Current Epidemiology admissions: fellowship for first 16 months covers tuition, fees, health insurance and stipend for full-time students in good standing; Fall 2026 stipend$49,000. Before 16 months student must identify dissertation project with confirmed subsequent funding; otherwise may be removed. Prior professional-degree applicants must secure entire funding per BGS. Older handbook 21-month statement superseded."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.med.upenn.edu/ggeb/epiadmissions.html",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.med.upenn.edu/bgs/admissions-faqs.html",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.med.upenn.edu/bgs/graduate-group-list.html",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.cceb.upenn.edu/ggeb/epid-academics.html",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

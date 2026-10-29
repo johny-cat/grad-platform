@@ -1,0 +1,83 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Neurobiology and Behavior PhD",
+  "institution": "Cornell University",
+  "institutionShort": "Cornell",
+  "officialUrl": "https://nbb.cornell.edu/graduate-nbb",
+  "detailsNote": "Official current structure and available requirements. English numerical table explicitly 2026–27; confirm future-cycle thresholds. Admission model omitted because route not conclusively singular.",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "2026–27 TierB: legacy speaking 22 reading 20 listening 15 writing 20; new speaking 4 reading 4 listening 3.5 writing 4",
+      "ielts": 7,
+      "note": "Published minimum table expressly applies 2026–27 only, future changes possible. Higher TA TierA: IELTS 7 overall/speaking 8; TOEFLspeaking 27 old/5.5 new with other minimums; otherwise language assessment/support. No DET/PTE/Essentials. Scores valid 2 years at deadline; field may restrict MyBest. Exemption: English first language plus qualifying citizenship/residency, qualifying US bachelor, qualifying bachelor from an English-official country with English instruction or 2 consecutive years of full-time work/study within the last 10 years in an eligible English-language country; physical presence and documentation conditions apply. Special exemption by approval."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Exceptional financial hardship considered for fully funded research degrees; international costs page explicitly offers route. Explain hardship in payment-page form after completing application, at least 3 business days before deadline. If denied pay fee; not guaranteed."
+    },
+    "documents": [
+      "Academic/research statement",
+      "Transcripts",
+      "Recommendation letters (count unconfirmed)",
+      "English evidence if applicable",
+      "CV"
+    ],
+    "note": "Strong neurobiology/animal-behavior interest. Research/career statement, CV and recommendations; contact potential advisors, research experience valuable. Faculty select admissions after recruitment; current model not assigned."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Programme homepage guarantees 6 years via fellowships/GRA/TA. Applying guide separately says at least 7 years; retain conservative 6 and confirm individual offer. Tuition/health/stipend discussed, no current amount."
+  },
+  "sources": [
+    {
+      "url": "https://nbb.cornell.edu/graduate-nbb",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/international/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/academic-progress/degrees-fields/cugradfos/",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://nbb.cornell.edu/applying-neurobiology-behavior-phd-program",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1",
+      "note": "Annual department date; no explicit 2027 entry year."
+    }
+  ],
+  "tracks": [
+    "Behavioral Biology",
+    "Neurobiology"
+  ]
+}

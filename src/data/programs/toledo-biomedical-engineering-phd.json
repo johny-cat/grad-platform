@@ -1,0 +1,49 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biomedical Engineering PhD",
+  "institution": "University of Toledo",
+  "institutionShort": "UToledo",
+  "officialUrl": "https://www.utoledo.edu/engineering/bioengineering/graduate/programs/phd_bme.html",
+  "detailsNote": "Available official entrance requirements; Fall 2027 deadlines, complete program document list and admission model unconfirmed because catalog blocked.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80 legacy;4.0 new overall and every subscore",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Also PTE 58/Cambridge 176. Official agency reports, valid at program start. Educational exemption needs qualifying accredited English-medium degree, GPA 2.7, or qualifying US coursework; documentation reviewed. Research-only graduate degrees without coursework do not qualify."
+    },
+    "documents": [
+      "Official transcripts",
+      "Foreign credential evaluation when applicable"
+    ],
+    "note": "Joint Engineering/Medicine PhD. Engineering or relevant science bachelor. Non-engineers need 1 year each engineering physics, biology, general chemistry;2 years calculus through differential equations;12 appropriate engineering/science credits. Fee, waiver, fullsupportingdocuments unconfirmed."
+  },
+  "sources": [
+    {
+      "url": "https://www.utoledo.edu/engineering/bioengineering/graduate/",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/engineering/bioengineering/graduate/programs/phd_bme.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/admission/how-to-apply/",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/international/english-language-proficiency.html",
+      "label": "Official degree and admissions requirements",
+      "checked": "2026-10-28"
+    }
+  ]
+}

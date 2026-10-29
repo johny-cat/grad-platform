@@ -12,3 +12,8 @@
 - Documents. "Applicants must upload unofficial transcripts of their entire post-secondary academic record" / "Applicants to the BIMS program will be asked to provide four short personal statements" / "Applicants are expected to have achieved a minimum GPA of 3.0 in their undergraduate programs."
 - Interviews. "Competitive applicants will be invited to a virtual interview session by one of our admission committee chairs."
 - Funding. https://med.virginia.edu/education/biomedical-sciences/prospective-students/funding/ : "All students will receive tuition, health/dental insurance, and a competitive stipend." / "Implementation and continuation of financial support and/or merit supplements is contingent upon full time enrollment." No amount; international students not mentioned.
+
+## Archive identity/track check — 2026-10-29
+
+https://med.virginia.edu/education/biomedical-sciences/programs/ph-d-degree-options
+PhD Degree Options lists the nine degree-granting entities retained as BIMS areas. https://med.virginia.edu/bims/prospective-students/what-is-bims/ opened and redirected to current official education path; programme structure describes rotations before choosing a mentor. Exact anchor from options page: “participate in the BIMS program”. No separate duplicate Biophysics/Biochemistry application inferred.

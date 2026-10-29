@@ -12,3 +12,24 @@ Checked 2026-10-24 (page text read through a page fetcher; quotes as returned, s
 - Documents: "You must submit transcripts for every college or university you have attended." ; "At the point of application, please only submit unofficial transcripts." ; "If admitted, official transcripts will be required in order to matriculate." ; Resume/CV and personal statement sections (500, 500, 750 words).
 - Funding: "All accepted students receive a full-tuition scholarship and stipend." ; "A $35,000 stipend." ; "Medical/dental insurance." (no year or duration stated)
 - Interviews: "Strong applicants will be invited to interview."
+
+
+## Missing archive tracks resolved2026-10-28
+https://medicine.buffalo.edu/phdprogram
+
+"This fully-funded program provides an entry portal and a common first-year curriculum, equipping you with core knowledge and concepts to support your pursuit of a doctoral degree in one of our several participating disciplines."
+
+Official list "Program options":
+- "Biochemistry"
+- "Biomedical Engineering"
+- "Biomedical Informatics"
+- "Genetics, Genomics and Bioinformatics"
+- "Microbiology and Immunology"
+- "Neuroscience"
+- "Oral Biology"
+- "Pathology and Anatomical Sciences"
+- "Pharmacology and Toxicology"
+- "Physiology and Biophysics"
+- "Structural Biology"
+
+These archive names are included in the existing entry portal and made searchable as tracks, rather than creating duplicate application listings. Other original fields and earlier source dates are unchanged.

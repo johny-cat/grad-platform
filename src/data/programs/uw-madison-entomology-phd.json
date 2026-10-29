@@ -1,0 +1,87 @@
+{
+  "name": "Entomology PhD",
+  "institution": "University of Wisconsin–Madison",
+  "institutionShort": "UW–Madison",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://guide.wisc.edu/graduate/entomology/entomology-phd/",
+  "applyUrl": "https://grad.wisc.edu/apply/",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "The official 2026–2027 Guide gives recurring month/day deadlines, not a confirmed Fall2027 entry date.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1",
+      "note": "Official recurring date; no unstated year or current-cycle countdown assigned."
+    },
+    {
+      "label": "Spring application",
+      "dateText": "October 1",
+      "note": "Official recurring date; no unstated year or current-cycle countdown assigned."
+    },
+    {
+      "label": "Summer application",
+      "dateText": "December 1",
+      "note": "Official recurring date; no unstated year or current-cycle countdown assigned."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "92 before January21,2026;5.0 on/after January21,2026",
+      "ielts": 7,
+      "duolingo": 125,
+      "note": "With programme approval, in-person applicants may be admitted with TOEFL80–91(old)/4.5(new),IELTS 6.5,orDET115–124, requiring arrival ESLAT and successful first-semester completion of any recommended ESL courses. IELTS Indicator7 accepted; no combined scores or IELTS One Skill Retake. Scores valid two years to enrollment. Exemption:US bachelor;US graduate/professional degree within five years;foreign bachelor exclusively English;or two graded full-time exclusively English-taught semesters within five years,excluding English-learning courses,with verified language of instruction."
+    },
+    "applicationFee": {
+      "amount": 81,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International total75base+6processing. Department explicitly offers limited fee grants:contact Graduate Program Manager. International eligibility is not explicitly stated,so confirm. Central Graduate School grants remain restricted to US citizens/permanent residents. Up to three programmes share one fee. Eligible Graduate School requests are due at least five business days before the earliest deadline. The fee-grant page says new program grant purchases are suspended until further notice; confirm any departmental grant availability."
+    },
+    "note": "Central bachelor-equivalent degree before enrollment; GPA3.0 last60 undergraduate credits or master cumulative3.0. Programme-specific conditions below also apply. Programme committee minimum GPA3.0/4.0. Biological science background preferred; other physical/natural sciences considered. Faculty contact strongly encouraged; admission depends on lab fit and faculty ability to fund the degree.",
+    "documents": [
+      "Unofficial undergraduate and any graduate transcripts",
+      "Statement of purpose explaining UW–Madison Entomology goals",
+      "Resume",
+      "English proof when applicable"
+    ]
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://guide.wisc.edu/graduate/entomology/entomology-phd/",
+      "label": "Degree admissions and funding",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.wisc.edu/apply/",
+      "label": "Central fee,grants and application",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://policy.wisc.edu/library/UW-1241",
+      "label": "Degree,GPA and English policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.wisc.edu/apply/fee-grant/",
+      "label": "Central fee-grant eligibility and current purchase suspension",
+      "checked": "2026-10-29"
+    }
+  ],
+  "summary": "Entomology PhD spanning molecular insect biology,ecology and applied research,with admission tied to laboratory fit and faculty funding.",
+  "admissionModel": "lab",
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admission depends on appropriate lab fit and faculty ability to fund a student throughout the degree. No universal stipend amount or explicit international funding guarantee established."
+  }
+}

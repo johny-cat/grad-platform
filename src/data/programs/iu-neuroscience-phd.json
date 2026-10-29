@@ -1,0 +1,78 @@
+{
+  "name": "Neuroscience PhD",
+  "institution": "Indiana University Bloomington",
+  "institutionShort": "IU Bloomington",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://neuroscience.indiana.edu/academics/how-to-apply/index.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://neuroscience.indiana.edu/academics/how-to-apply/index.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://neuroscience.indiana.edu/academics/how-to-apply/faq.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://neuroscience.indiana.edu/academics/eligibility/index.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://neuroscience.indiana.edu/academics/funding/index.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bloomington.iu.edu/admissions/apply/graduate/application-fees.html",
+      "label": "Official program or application policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "applyUrl": "https://neuroscience.indiana.edu/academics/how-to-apply/index.html",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Admission model and GRE policy are not stated on the accessible application pages.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application deadline",
+      "dateText": "December 1",
+      "note": "Published without an explicit deadline year; confirm the intended entry cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 (legacy scale)",
+      "ielts": 6.5,
+      "duolingo": 100,
+      "note": "Program-specific minima. A US undergraduate degree automatically exempts TOEFL/IELTS. Duolingo does not verify teaching ability; an additional internal TEPAIC may be required."
+    },
+    "documents": [
+      "Statement of purpose",
+      "CV or resume",
+      "Three recommendation letters",
+      "Undergraduate transcript; official domestic records directly to the program and official international records directly to IU international admissions",
+      "English test results unless exempt"
+    ],
+    "note": "Bachelor’s degree eligible; strong natural-science background and research experience valued. Faculty contact encouraged. Double-major applicants submit separate applications and earn one doctorate. Psychology/Cognitive Science/Neuroscience applicants pay only one application fee and share materials, according to the program FAQ. Fee amount not established. Conditional Graduate School waivers cover specified IU recruitment participation, qualifying service, distinguished multiyear fellowships (annual stipend at least $20,000), and some application-status cases. Separate membership/recruitment waivers are US-citizen/permanent-resident only. International applicants should confirm eligibility before applying."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Full-time graduate students typically receive a fellowship or assistantship with 100% tuition remission. Assistantships require 20 hours of work weekly; a universal guarantee or current stipend amount is not stated."
+  },
+  "timeline": {
+    "decisions": "Typically mid-February through March."
+  }
+}

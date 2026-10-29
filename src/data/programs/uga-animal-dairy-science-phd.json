@@ -1,0 +1,63 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Animal and Dairy Science PhD",
+  "institution": "University of Georgia",
+  "institutionShort": "UGA",
+  "officialUrl": "https://animaldairy.uga.edu/graduate/admissions.html",
+  "admissionModel": "lab",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Current central fee $75 first / $25 additional; department pages still show old $100 international. Limited waivers only qualifying-program participants with uploaded evidence; overseas eligibility must be confirmed."
+    },
+    "english": {
+      "toefl": "80 legacy(Speaking/Writing20);4.5 new(Speaking/Writing4)",
+      "ielts": 6.5,
+      "note": "IELTS every band at least 6. TOEFL new-scale policy applies on/after January 22, 2026; no January 21 rule inferred. Agency reports, MyBest/Home Edition and IELTS Online/One Skill Retake accepted. UGA English Level 6 alternative; DET not accepted. Usually exempt after a degree from an accredited US institution or institution in a primary-English country. At least one current year of US accredited study with strong performance (for example GPA 3.0) may also support waiver. Departments may still require testing; TA English rules are separate."
+    },
+    "documents": [
+      "Official transcripts from all undergraduate/graduate institutions",
+      "Statement of purpose,1–2 pages",
+      "Three professional recommendations"
+    ],
+    "note": "GPA 3. Faculty must agree to mentor before final acceptance; contact advisers 9–12 months ahead. Statement names adviser contacted and research/career goals. Recommenders usually doctoral-level academics; private-practice veterinarians/employers may be unsuitable. GRE policy not stated."
+  },
+  "funding": {
+    "note": "Competitive mentor-awarded RA/TA. Published 2024 PhD 35% appointment: $1,804.85 monthly, tuition waiver for residents/nonresidents; approximately $1,150 semester fees paid by student. Most students assistantships, not a universal guarantee; current rates unconfirmed.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://animaldairy.uga.edu/graduate/admissions.html",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://animaldairy.uga.edu/graduate/assistantships.html",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/application-fee/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/",
+      "label": "Official admissions and program policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Biology PhD (Evolution, Ecology, and Behavior)",
+  "institution": "University of Illinois Urbana-Champaign",
+  "institutionShort": "UIUC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://sib.illinois.edu/departments/evolution-ecology-and-behavior/graduate_admissions",
+  "applyUrl": "https://choose.illinois.edu/apply/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Admission model not explicitly established.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall complete application / fellowship consideration",
+      "dateText": "December 15",
+      "note": "No entry year stated; confirm intended cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "103–104 legacy departmental minimum; central full-status new scale 5",
+      "ielts": 7.5,
+      "note": "Limited-status minima; full status IELTS 7.5 or DET 135. Below full status requires English placement and possible ESL/reduced load. Tests valid two years before entry. No Essentials, MyBest or IELTS One Skill Retake. Exemptions require a US/approved-country degree or at least two years of study/work there, each within five years of entry; foreign English medium alone does not qualify. TA speaking rules separate; DET cannot establish TA proficiency. Department requires IELTS 7.5 or legacy TOEFL 103–104; no departmental DET acceptance established. Confirm current test choice."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Current central fee $90 for all applications, overriding older department domestic $70. Waivers limited to eligible domestic categories; international exception only valid exchange agreement with approved fee waiver."
+    },
+    "documents": [
+      "Transcripts showing coursework and awarded degrees",
+      "Statement, 500–750 words: interests, career goals, teaching/research experience, achievements and program motivation",
+      "At least three references from instructors/research supervisors"
+    ],
+    "note": "Bachelor’s or foreign equivalent; GPA 3.0 last two bachelor years, prior graduate work, biology and science/math graduate coursework. Fall only. Proposed application program Biology: Ecology, Ethology and Evolution (10KS 0315PHD). Faculty contact encouraged. GRE encouraged, not required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Candidates offered admission also receive assistantship/fellowship and tuition-waiver support; financial need not a factor. No current stipend/duration stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://sib.illinois.edu/departments/evolution-ecology-and-behavior/graduate_admissions",
+      "label": "Program identity, application and support",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/international-applicants",
+      "label": "Central English and international policies",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+      "label": "Current central fee and application instructions",
+      "checked": "2026-10-29"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Biomedical Sciences Graduate Program (PhD)",
+  "institution": "The Ohio State University",
+  "institutionShort": "Ohio State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions",
+  "applyUrl": "https://gpadmissions.osu.edu/grad/apply-online.html",
+  "cycle": "summer-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; 2027 entry dates not explicitly confirmed. Summer entry only; international sponsor requirement differs from rotation-based cohort route, so a single admission model is omitted.",
+  "publishedDeadlines": [
+    {
+      "label": "Recommended summer application",
+      "dateText": "December 1",
+      "note": "Recurring date without stated entry year."
+    },
+    {
+      "label": "Final summer application",
+      "dateText": "February 1",
+      "note": "Recurring date without stated entry year."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "5 current / 100 legacy departmental",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "Official scores within two years sent by application deadline; if received valid, expiry before entry does not invalidate admission proof. No MyBest or IELTS One Skill Retake. Citizenship/degree from listed countries or US permanent-resident/asylee/refugee status over one year may exempt; overseas English-medium instruction alone does not. Higher program minima control; TA and writing assessments separate."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International 70 USD; US 60 USD. Conditional recruitment-code or preapproved departmental payment routes; international eligibility should be confirmed. Economic-disadvantage, FreeApp and SROP categories exclude international applicants. Waiver approved or fee paid before admission; one per year and no refund after payment."
+    },
+    "documents": [
+      "Personal statement (generally one page) on background, research and career goals",
+      "CV/resume",
+      "Reference letters submitted through system; count not established on opened pages",
+      "Scans of official transcripts for review; official complete records and degrees after offer"
+    ],
+    "note": "Summer entry only: select Summer in application. Natural-science undergraduate preparation preferred, including biology, chemistry/biochemistry, physiology, genetics, physics and calculus; research experience required, one hypothesis-driven year preferred. GPA 3.0 minimum. International applicants must secure faculty commitment to stipend, tuition and fees for 5+years before applying; FAQ also describes rare admission without this, so confirm. International route differs from first-year domestic cohort support."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "All incoming students first-year stipend/tuition/fees commitment on admissions overview; FAQ excludes internationals from program first-year funds and requires their own faculty sponsor for 5+years. International coverage depends on secured sponsor. No unconditional program funding promise to internationals."
+  },
+  "sources": [
+    {
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/before-you-apply",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/how-to-apply",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/faqs",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "label": "Official program or central policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "tracks": [
+    "Anatomy",
+    "Biomedical Informatics",
+    "Cancer Biology",
+    "Cellular & Molecular Physiology",
+    "Experimental Therapeutics",
+    "Genetics & Genomics",
+    "Immunology",
+    "Microbial Pathogenesis",
+    "Molecular Basis of Disease",
+    "Neurological & Neuromuscular Disorders",
+    "Translational Research"
+  ]
+}

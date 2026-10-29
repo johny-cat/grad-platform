@@ -1,0 +1,19 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-29",
+  "name": "Animal Molecular and Cellular Biology PhD",
+  "institution": "University of Florida",
+  "institutionShort": "UF",
+  "officialUrl": "https://gradcatalog.ufl.edu/graduate/colleges-departments/liberal-arts-sciences/animal-molecular-cellular-biology/animal-molecular-cellular-biology/animal-molecular-cellular-biology.pdf",
+  "sources": [
+    {
+      "url": "https://gradcatalog.ufl.edu/graduate/colleges-departments/liberal-arts-sciences/animal-molecular-cellular-biology/animal-molecular-cellular-biology/animal-molecular-cellular-biology.pdf",
+      "label": "Official identity and application route",
+      "checked": "2026-10-29"
+    }
+  ]
+}

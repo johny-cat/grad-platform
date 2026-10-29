@@ -1,0 +1,84 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Biosystems and Agricultural Engineering PhD",
+  "institution": "University of Kentucky",
+  "institutionShort": "Kentucky",
+  "officialUrl": "https://bae.mgcafe.uky.edu/academics/graduate/requirements-admission",
+  "detailsNote": "Available official requirements; older handbook conditions and undated dates qualified. Admission model omitted if not established.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "94 legacy iBT; new-scale programme threshold unconfirmed",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Central minimum. US accredited degree or official transcript/direct registrar attestation confirming sole English instruction can satisfy proficiency. DET may be evaluated by ESL professional. Program may set higher standard. BAE requires 94/IELTS 7/DET 115,≤2 years."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Domestic fee 65. Conditional waiver for US military veterans or spouses/dependents with qualifying benefits documentation. No explicit citizenship rule stated; international applicants must confirm qualification. No general hardship waiver established."
+    },
+    "documents": [
+      "Academic transcripts",
+      "English evidence if required",
+      "Personal statement",
+      "CV/resume",
+      "Recommendation letters"
+    ],
+    "note": "Undergraduate GPA 2.8/graduate 3.0. Prior faculty adviser agreement required. CV, personal statement, all transcripts. GRE/GMAT may be required, no minimum set; confirm requirement, no waiver inferred.",
+    "letters": {
+      "min": 3
+    }
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Assistantships depend on funding/course of study. RA stipend, tuition and health insurance possible; no universal guarantee or current amount retained."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://bae.mgcafe.uky.edu/academics/graduate/requirements-admission",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradschool.uky.edu/admissions/application-process",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://academics.uky.edu/programs/doctoral/biosystems-and-agricultural-engineering",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bae.mgcafe.uky.edu/academics/graduate/graduate-scholarships",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bae.mgcafe.uky.edu/sites/bae.ca.uky.edu/files/Biosystems%20and%20Agricultural%20Engineering%20Graduate%20Student%20Handbook%20v%204.4.3.pdf",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "lab",
+  "deadlines": [
+    {
+      "label": "Fall international",
+      "date": "2027-04-15"
+    },
+    {
+      "label": "Fall domestic",
+      "date": "2027-07-23"
+    }
+  ]
+}

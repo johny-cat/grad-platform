@@ -38,9 +38,14 @@
       "url": "https://biomed.med.ufl.edu/financial-information/",
       "label": "BMS funding",
       "checked": "2026-10-23"
+    },
+    {
+      "url": "https://biomed.med.ufl.edu/about/",
+      "label": "Official identity and application route",
+      "checked": "2026-10-29"
     }
   ],
-  "lastChecked": "2026-10-23",
+  "lastChecked": "2026-10-29",
   "applyUrl": "https://admissions.ufl.edu/apply/graduate/",
   "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
   "publishedDeadlines": [
@@ -59,7 +64,7 @@
   "requirements": {
     "gre": "not-required",
     "english": {
-      "toefl": "80 internet/HomeEdition program legacy minimum; central4.5overall/4.0sections current scale",
+      "toefl": "80 internet/Home Edition program legacy minimum; central4.5overall/4.0sections current scale",
       "ielts": 6.5,
       "note": "TOEFL/IELTS only. Program contradicts itself on unofficial scores; safer official test scores by application deadline. Exemptions possible."
     },
@@ -71,7 +76,7 @@
     },
     "documents": [
       "Unofficial transcripts for initial review",
-      "Personal statement (one page,single spaced,0.5inchmargins)",
+      "Personal statement (one page, single spaced,0.5inchmargins)",
       "Certified literal English translations and degree certificates if international"
     ],
     "note": "Gainesville instructions: three letters on official letterhead with signature, ideally faculty; research supervisor letter expected. Choose concentration, up to3 interests in statement. Deadline conflict: overview permitsNov15late, detailed instructions reject beyondNov1; saferNov1.",
@@ -86,8 +91,16 @@
       "amount": 37000,
       "currency": "USD",
       "period": "year",
-      "year": "as of Fall2026"
+      "year": "as of Fall 2026"
     },
-    "note": "Both domestic/international GRA support, tuition and fees covered. First2semesters college-funded then mentor/training grants, satisfactory progress required. Insurance employee premium$12monthly. No required teaching; outside employment prohibited except Reserve/National Guard."
-  }
+    "note": "Both domestic/international GRA support, tuition and fees covered. First2 semesters college-funded then mentor/training grants, satisfactory progress required. Insurance employee premium $12monthly. No required teaching; outside employment prohibited except Reserve/National Guard."
+  },
+  "tracks": [
+    "Biochemistry and Molecular Biology",
+    "Cancer Biology",
+    "Molecular Genetics and Genomics",
+    "Immunology and Microbiology",
+    "Pharmacology and Therapeutics",
+    "Physiology and Cell Biology"
+  ]
 }

@@ -1,0 +1,95 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Ecology and Evolutionary Biology PhD",
+  "institution": "Columbia University",
+  "institutionShort": "Columbia",
+  "officialUrl": "https://www.gsas.columbia.edu/content/ecology-and-evolutionary-biology-phd",
+  "admissionModel": "lab",
+  "deadlines": [
+    {
+      "label": "Fall application",
+      "date": "2026-12-03"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "applicationFee": {
+      "amount": 125,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "GSAS hardship/personal-circumstances requests after application submission with documentation; no citizenship limit stated, confirm eligibility. Wait 5–7 business days before fee payment, no refund. Research-pathways/recruitment/external-fellowship routes also possible; each applicant maximum two approved waivers."
+    },
+    "english": {
+      "toefl": "100 before January 21, 2026; 5.5 after that date",
+      "ielts": 7.5,
+      "duolingo": 135,
+      "note": "Scores≤2 years. Undergraduate country determines need. Graduate-degree waiver for English-sole-official-country MA/PhD; undergraduate English-instruction waiver case-by-case. Submit waiver form/documentation≥2 weeks before programme deadline. These are GSAS policies, distinct from VIBRE."
+    },
+    "documents": [
+      "CV/resume",
+      "Academic transcripts from each university-level institution",
+      "Three recommendations (at least two academic)",
+      "English evidence if required"
+    ],
+    "note": "Undergraduate natural-science major and relevant coursework desirable. Admission requires adviser commitment; contact faculty before applying. No writing sample required. Affiliated AMNH/NYBG mentorship requires coordinated faculty fit and separate partner funding application. Programme-specific statement instructions not established on opened page."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Arts/Sciences doctoral offer guarantees multiyear support subject to progress and duties; fellowship/teaching/research mix with tuition, health/basic insurance and listed university fees. Historical 2025–26 E 3 B stipend$35,353 academic+$6,365 summer; officer salary differs. Some student fees/expenses remain; confirm current offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.gsas.columbia.edu/content/ecology-and-evolutionary-biology-phd",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://e3b.columbia.edu/content/prospective-phd-students",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/information-international-applicants",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/application-fee-waivers",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/admissions",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/admissions-supporting-materials",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/fellowship-information-doctoral-students",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.gsas.columbia.edu/content/fellowship-support-doctoral-students-e3b-mathematics-and-statistics",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

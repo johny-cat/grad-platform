@@ -1,0 +1,36 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Plant Pathology PhD",
+  "institution": "Washington State University",
+  "institutionShort": "WSU",
+  "officialUrl": "https://plantpath.wsu.edu/graduate/phd/",
+  "detailsNote": "Available requirements are from official 2022–23 handbook; current admissions and Fall 2027 dates could not be confirmed because live pages returned 403.",
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "note": "Historical handbook requires non-native speakers to submit TOEFL or IELTS; current thresholds and exemptions unconfirmed."
+    },
+    "documents": [
+      "Research-experience description for direct bachelor-to-PhD applicants",
+      "Statement of purpose for direct bachelor-to-PhD applicants",
+      "English scores when applicable"
+    ],
+    "note": "2022–23 policy: bachelor holders usually enter MS; exceptional direct PhD candidates need substantial research, GPA at least 3.25, project description and rationale for bypassing MS. Current general application fee, document list and deadlines unavailable."
+  },
+  "funding": {
+    "note": "Historical handbook: limited 12-month research assistantships,20 hours/week, medical/dental benefits; semester renewal discretionary. Tuition coverage depends on funding source; may instead receive higher salary to pay tuition. Not guaranteed.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://wpcdn.web.wsu.edu/wp-cw/uploads/sites/3062/2022/10/GRADUATE-STUDENT-HANDBOOK-2022-23-Final.pdf",
+      "label": "Official 2022–23 handbook, Degree Sought p 30 and Assistantships p 47",
+      "checked": "2026-10-28"
+    }
+  ]
+}

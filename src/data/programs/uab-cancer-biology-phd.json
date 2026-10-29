@@ -1,19 +1,39 @@
 {
-  "name": "Cancer Biology PhD (Graduate Biomedical Sciences)",
-  "institution": "University of Alabama at Birmingham",
-  "institutionShort": "UAB",
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://www.uab.edu/gbs/home/themes/cancer",
   "cycle": "fall-2027",
+  "details": "pending",
+  "lastChecked": "2026-10-29",
+  "name": "Graduate Biomedical Sciences PhD entry program",
+  "institution": "University of Alabama at Birmingham",
+  "institutionShort": "UAB",
+  "officialUrl": "https://www.uab.edu/gbs/home/",
+  "tracks": [
+    "Biochemistry and Structural Biology",
+    "Cancer Biology",
+    "Cell, Molecular, and Developmental Biology",
+    "Genetics, Genomics, and Bioinformatics",
+    "Immunology",
+    "Microbiology",
+    "Neuroscience",
+    "Pathobiology, Pharmacology, and Physiology"
+  ],
   "sources": [
     {
+      "url": "https://www.uab.edu/gbs/home/",
+      "label": "Official admissions or program source",
+      "checked": "2026-10-29"
+    },
+    {
       "url": "https://www.uab.edu/gbs/home/themes/cancer",
-      "label": "UAB Graduate Biomedical Sciences: Cancer Biology",
-      "checked": "2026-10-24"
+      "label": "Official admissions or program source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.uab.edu/gbs/home/images/Handbooks/2024-2025.pdf",
+      "label": "Official admissions or program source",
+      "checked": "2026-10-29"
     }
-  ],
-  "lastChecked": "2026-10-24"
+  ]
 }

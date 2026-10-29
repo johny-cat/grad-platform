@@ -1,0 +1,19 @@
+{
+  "name": "Plant Biology PhD",
+  "institution": "The Pennsylvania State University",
+  "institutionShort": "Penn State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://bulletins.psu.edu/graduate/programs/majors/plant-biology/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/plant-biology/",
+      "label": "Official program requirements",
+      "checked": "2026-10-29"
+    }
+  ]
+}

@@ -12,3 +12,20 @@
 - Fee. https://healthprofessions.uthscsa.edu/biomedical-sciences/what-know-you-apply : "Starting 9/01/24 a $50 nonrefundable administrative processing fee will be assessed in the GSBS application" / "for applicants that require Visa Sponsorship." Waivers not mentioned.
 - Funding. program page: "Students receive an annual stipend of $35,000" (no year); "Tuition/Fees and Student Health Insurance are covered by the program".
 - International. apply page: "UT San Antonio values our international applicants." / "However, some of the timelines are shortened to allow for time to process student visas."
+
+
+## Missing archive tracks resolved2026-10-28
+https://healthprofessions.uthscsa.edu/biomedical-sciences/programs/integrated
+
+"Students admitted into the IBMS identify a “primary discipline of interest” during their first year."
+
+Official list "Seven Disciplines":
+- "Biochemical Mechanisms in Medicine"
+- "Biology of Aging"
+- "Cancer Biology"
+- "Cell Biology, Genetics, and Molecular Medicine"
+- "Molecular Immunology & Microbiology"
+- "Neuroscience"
+- "Physiology and Pharmacology"
+
+These archive names are included in the existing entry portal and made searchable as tracks, rather than creating duplicate application listings. Other original fields and earlier source dates are unchanged.

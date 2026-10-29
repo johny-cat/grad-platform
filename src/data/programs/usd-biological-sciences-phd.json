@@ -1,0 +1,24 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of South Dakota",
+  "institutionShort": "South Dakota",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "pending",
+  "officialUrl": "https://usd.edu/Academics/Graduate-Programs/Biological-Sciences",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "tracks": [
+    "Conservation Biology",
+    "Integrative Biology",
+    "Neuroscience"
+  ],
+  "sources": [
+    {
+      "url": "https://usd.edu/Academics/Graduate-Programs/Biological-Sciences",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

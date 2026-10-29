@@ -1,0 +1,106 @@
+{
+  "name": "Biomedical Sciences PhD Programs",
+  "institution": "West Virginia University",
+  "institutionShort": "WVU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/",
+  "applyUrl": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/admissions/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "admissionModel": "program",
+  "detailsNote": "Admissions page confirms 2027–28 dates; overview still displays December 1,2025. Current admissions page controls.",
+  "summary": "Common Biomedical Sciences admission followed by three first-semester rotations and selection of a dissertation program.",
+  "tracks": [
+    "Biochemistry and Molecular Medicine",
+    "Cancer Cell Biology",
+    "Cellular and Integrative Physiology",
+    "Clinical and Translational Science",
+    "Immunology and Microbial Pathogenesis",
+    "Neuroscience",
+    "Pathophysiology, Rehabilitation and Performance",
+    "Pharmaceutical and Pharmacological Sciences"
+  ],
+  "deadlines": [
+    {
+      "label": "Priority application",
+      "date": "2026-11-01"
+    },
+    {
+      "label": "Complete Fall application",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 legacy iBT; new-scale requirement not established",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Program also lists TOEFL Essentials 9 and PTE Academic 53. Official scores for review. Citizenship or bachelor’s from listed countries exempts (including India, Nepal, Pakistan); no general MOI-letter exemption inferred."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Fee 75 USD and category waivers reused from official text checked 2026-10-24; live central page 403 on Oct 29. Categories: current WVU/WVU Medicine employees, US military/veterans, AmeriCorps/Peace Corps; no general hardship offer. International applicants must confirm applicable category."
+    },
+    "documents": [
+      "Personal statement: scientific interests, research question/role/results/duration, program motivation, career goals, achievements/service and resume gaps",
+      "CV/resume",
+      "Three signed letters on university/company letterhead from professors/supervisors",
+      "Unofficial transcripts all institutions; official records/degree proof and English translations upon admission"
+    ],
+    "note": "Upper-level science/math/engineering recommended; competitive STEM GPA 3.5 and strong research record. Master’s unnecessary. Three first-semester lab rotations then dissertation mentor/program. WES evaluation optional; university evaluates records. Current admissions says virtual interviews December–March, overriding older phone/in-person FAQ."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Full support with good standing, research excellence/progress: undated minimum stipend 30,000 USD, tuition and health insurance. Student fees approximately 650 USD fall/spring and 250 summer not covered. International students supported unless home-country scholarship; additional financial proof may be needed for visa shortfall."
+  },
+  "sources": [
+    {
+      "url": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/",
+      "label": "Official program or policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/admissions/",
+      "label": "Official program or policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/international-admission-information/",
+      "label": "Official program or policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/financial-aid-information/",
+      "label": "Official program or policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://hsc.wvu.edu/research-and-graduate-education/graduate-education/phd-programs/biomedical-sciences/faq/",
+      "label": "Official program or policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://catalog.wvu.edu/graduate/graduateeducationatwestvirginiauniversity/",
+      "label": "Official program or policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant",
+      "label": "Official program or policy",
+      "checked": "2026-10-24"
+    }
+  ]
+}

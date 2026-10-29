@@ -1,0 +1,62 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Anthropology PhD",
+  "institution": "University of Pennsylvania",
+  "institutionShort": "Penn",
+  "officialUrl": "https://anthropology.sas.upenn.edu/graduate/apply",
+  "tracks": [
+    "Biological Anthropology"
+  ],
+  "detailsNote": "Current 2027–28 application date confirmed. Biological Anthropology is a subdiscipline of the Anthropology PhD; no separate application or admission model inferred.",
+  "deadlines": [
+    {
+      "label": "Application",
+      "date": "2026-12-08",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Current 2027–28 heading; supersedes older dates elsewhere on department pages."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Limited compelling-hardship requests through SAS application at least two weeks before deadline; departments cannot grant waivers. No nationality restriction stated; confirm international eligibility. No email requests or guaranteed waiver."
+    },
+    "english": {
+      "note": "TOEFL/IELTS required for non-native international applicants unless current/prior school instruction in English or citizen of English-official country, per department. No TOEFL minimum. Central SAS page blocked; confirm current waiver approval and test details."
+    },
+    "documents": [
+      "Personal statement (maximum 1000 words)",
+      "All undergraduate/graduate transcripts (unofficial upload)",
+      "Three recommendations",
+      "English evidence if applicable"
+    ],
+    "note": "Writing sample highly recommended, maximum 25 pages excluding bibliography. Prior anthropology coursework not required. Research preparation and fit reviewed holistically. Biological Anthropology is an internal subdiscipline."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Department admits PhDs only with full Graduate Division funding or documented equivalent external funding; external source must be shown during admissions review. No offer amount/duration established on page."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://anthropology.sas.upenn.edu/graduate/apply",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ]
+}

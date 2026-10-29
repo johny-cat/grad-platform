@@ -1,0 +1,76 @@
+{
+  "name": "Plant Biology PhD",
+  "institution": "University of Illinois Urbana-Champaign",
+  "institutionShort": "UIUC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://sib.illinois.edu/departments/plant-biology/graduate-admissions-plant-biology",
+  "applyUrl": "https://choose.illinois.edu/apply/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Admission model not explicitly established.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall complete application / aid priority",
+      "dateText": "December 1",
+      "note": "No entry year stated; confirm intended cycle."
+    },
+    {
+      "label": "Spring nominal application",
+      "dateText": "September 1",
+      "note": "No entry year stated; confirm intended cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 legacy / 4 new for limited status; 103 legacy / 5 new for full status",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Limited-status minima; full status IELTS 7.5 or DET 135. Below full status requires English placement and possible ESL/reduced load. Tests valid two years before entry. No Essentials, MyBest or IELTS One Skill Retake. Exemptions require a US/approved-country degree or at least two years of study/work there, each within five years of entry; foreign English medium alone does not qualify. TA speaking rules separate; DET cannot establish TA proficiency. Department regards IELTS 7.5 / legacy TOEFL 103 as better preparation, occasionally accepts lower published minimum."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Current central fee $90 for all applications, overriding older department domestic $70. Waivers limited to eligible domestic categories; international exception only valid exchange agreement with approved fee waiver."
+    },
+    "documents": [
+      "CV",
+      "Personal statement: preparation, faculty fit and career plans",
+      "Unofficial transcripts from all postsecondary schools; official after acceptance",
+      "Three recommendation letters"
+    ],
+    "note": "GPA 3.0; lower requires departmental petition. Broad biology, physics, chemistry, mathematics and statistics preparation; deficiencies may be remedied. Contact faculty strongly encouraged; interest important to committee decision. At least one reference familiar with US university system and one active scientist with recent close work. Spring resources/admission limited."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All offers carry support; PhD stipend, full tuition and partial fee waiver guaranteed five years with documented annual progress. Offer specifies TA/RA/fellowship terms. International offers discussed explicitly."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://sib.illinois.edu/departments/plant-biology/graduate-admissions-plant-biology",
+      "label": "Program identity, application and support",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/international-applicants",
+      "label": "Central English and international policies",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+      "label": "Current central fee and application instructions",
+      "checked": "2026-10-29"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Biology PhD",
+  "institution": "West Virginia University",
+  "institutionShort": "WVU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.wvu.edu/graduate/eberlycollegeofartsandsciences/biology/",
+  "applyUrl": "https://catalog.wvu.edu/graduate/eberlycollegeofartsandsciences/biology/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "admissionModel": "lab",
+  "detailsNote": "Official available requirements; catalog section names 2027–28 but month/day dates do not assign calendar years, so dates remain qualified.",
+  "publishedDeadlines": [
+    {
+      "label": "Summer/Fall priority",
+      "dateText": "January 1st",
+      "note": "Catalog 2027–28 section gives annual month/day without calendar year; confirm cycle."
+    },
+    {
+      "label": "Spring priority",
+      "dateText": "August 15th",
+      "note": "Catalog 2027–28 section gives annual month/day without calendar year; confirm cycle."
+    },
+    {
+      "label": "University fellowship consideration",
+      "dateText": "December 1st",
+      "note": "Catalog 2027–28 section gives annual month/day without calendar year; confirm cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Fee 75 USD and category waivers reused from official text checked 2026-10-24; live central page 403 on Oct 29. Categories: current WVU/WVU Medicine employees, US military/veterans, AmeriCorps/Peace Corps; no general hardship offer. International applicants must confirm applicable category."
+    },
+    "documents": [
+      "Transcripts all institutions",
+      "Three academic-strength recommendation letters",
+      "CV/resume, maximum 2 pages",
+      "Statement of purpose, maximum 2 pages: research, goals, WVU fit and prospective mentors"
+    ],
+    "note": "Bachelor’s in biology/related field and adequate science/mathematics. No admission without willing faculty advisor. All applicants considered for TA/RA; late applications space/funding dependent. Two PhD teaching semesters require language proficiency. Central English page blocked; Biomedical Sciences minima/exemptions not borrowed for Biology."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "TA/RA consideration for all applicants; no universal guarantee/current stipend. Competitive university fellowships require earlier submission."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.wvu.edu/graduate/eberlycollegeofartsandsciences/biology/",
+      "label": "Official policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://catalog.wvu.edu/graduate/graduateeducationatwestvirginiauniversity/",
+      "label": "Official policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateadmissions.wvu.edu/how-to-apply/first-time-graduate-applicant",
+      "label": "Official policy",
+      "checked": "2026-10-24"
+    }
+  ]
+}

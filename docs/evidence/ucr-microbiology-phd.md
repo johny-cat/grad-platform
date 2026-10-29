@@ -17,3 +17,7 @@
 - English: <https://graduate.ucr.edu/admission-requirements> "The minimum acceptable scores are: 4.0 for the TOEFL iBT (effective January 21, 2026) / 80 for the TOEFL iBT (prior to January 21, 2026)"
 - IELTS: <https://graduate.ucr.edu/admission-requirements> "7, with no score less than 6 on any individual component"
 - Letters: <https://graduate.ucr.edu/admission-requirements> "Three (3) letters of recommendation are required by all academic graduate programs"
+
+## Fee correction2026-10-29
+
+https://graduate.ucr.edu/admission-requirements — Application Fees forSummer2024–Spring2027 distinguishes international155USD/domestic135; Fall2027notconfirmed. Corrected amount and retainedqualification. See _ucr-c4-central.md.

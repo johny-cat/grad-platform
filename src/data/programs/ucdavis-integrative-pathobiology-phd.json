@@ -1,0 +1,106 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-29",
+  "name": "Integrative Pathobiology PhD",
+  "institution": "University of California, Davis",
+  "institutionShort": "UC Davis",
+  "officialUrl": "https://grad.ucdavis.edu/programs/gipb",
+  "detailsNote": "Central 2027–28 December 1 deadline confirmed. Earlier department March 1 space cutoff is undated and is qualified separately. Funding conditions depend on offer.",
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Personal statement/history",
+      "Academic transcripts from every college-level institution",
+      "Three electronic recommendations",
+      "English evidence if applicable",
+      "CV"
+    ],
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.5 for tests on/after that date",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Two-year scores; no MyBest or IELTS One Skill Retake. DET only when other exams unavailable; DET-only admits take TOEP. English-only US degree or foreign degree with sole English instruction recorded in WHED may exempt; other documentation not accepted. Programs/TA employment may set higher standards."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "US applicants$135. Central waiver limited to listed graduate-preparation programs, not general financial need. Identify program/coordinator in application; participation verified. International applicants should confirm category eligibility. Historical GGIP Equity fee fellowship is domestic-only and not confirmed for current cycle."
+    },
+    "note": "Cell biology background and equivalents of STA 100 Applied Statistics and BIS 104 Regulation of Cell Function. CV required. Two five-week rotations during funded first quarter; expected lab placement by winter."
+  },
+  "deadlines": [
+    {
+      "label": "General and fellowship",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Current 2027–28 central table; follow earlier department closing rules."
+    }
+  ],
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Entering PhDs receive first-quarter rotation funding, living allowance, full tuition/fees and nonresident supplement when applicable. International applicants should seek home-country fellowship support; only exceptional unsupported international students accepted. Contact coordinator before applying."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://grad.ucdavis.edu/programs/gipb",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://integrativepath.vetmed.ucdavis.edu/prospective-students/application-materials",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gradstudies.ucdavis.edu/program-application-deadlines",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/application-components",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://integrativepath.vetmed.ucdavis.edu/prospective-students/financial-support",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://integrativepath.vetmed.ucdavis.edu/sites/g/files/dgvnsk5356/files/inline-files/GGIP%20Admissions%20FAQ_2.pdf",
+      "label": "Official program or admissions policy",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program",
+  "publishedDeadlines": [
+    {
+      "label": "Department space-available cutoff",
+      "dateText": "March 1",
+      "note": "Undated department review window ends March 1, earlier than central June 1 space date; confirm intended cycle."
+    }
+  ]
+}
