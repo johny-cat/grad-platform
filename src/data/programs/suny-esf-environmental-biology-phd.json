@@ -1,0 +1,91 @@
+{
+  "name": "Environmental Biology PhD",
+  "institution": "SUNY College of Environmental Science and Forestry",
+  "institutionShort": "SUNY ESF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.esf.edu/biology/graduate/index.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "tracks": [
+    "Aquatic & Fisheries Science",
+    "Chemical Ecology",
+    "Conservation Biology",
+    "Ecology & Evolution",
+    "Entomology",
+    "Environmental Biotechnology",
+    "Indigenous Peoples & the Environment",
+    "Microbiology",
+    "Molecular Biology & Ecology",
+    "Mycology and Forest Pathology",
+    "Plant Science",
+    "Wildlife Ecology & Management"
+  ],
+  "applyUrl": "https://www.esf.edu/graduate/prospective/admission.php",
+  "publishedDeadlines": [
+    {
+      "label": "Fall funding consideration",
+      "dateText": "January 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall application",
+      "dateText": "April 30",
+      "note": "Applications beyond stated deadlines may still receive consideration; confirm availability."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Graduate admission fee. No applicable graduate waiver verified; SUNY free-application/transfer banners on undergraduate pages are not used as graduate policy."
+    },
+    "english": {
+      "toefl": "80 with no component below17; current scale4, as published",
+      "ielts": 6,
+      "duolingo": 105,
+      "note": "IELTS Writing at least5. Published graduate exemption: at least two years of academic college study taught in English or one semester at SUNY ESF. MyBest TOEFL accepted."
+    },
+    "documents": [
+      "Transcripts",
+      "Statement of educational and professional goals",
+      "English translations of international academic documents",
+      "Passport copy for international applicants",
+      "Resume/CV"
+    ],
+    "note": "Contact faculty before applying to discuss fit and research opportunities. GRE optional for Environmental Biology MS/PhD and may be used for funding/graduate-assistantship consideration. No single admission model assigned from opened sources. Recommendations must address academic/professional skills; friends and family excluded."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Graduate assistantships and committee-selected departmental awards are available. No universal funding guarantee, current stipend or explicit international package established."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "After admission, financial evidence covering one year is required for I-20 issuance."
+  },
+  "sources": [
+    {
+      "url": "https://www.esf.edu/biology/graduate/index.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.esf.edu/graduate/prospective/admission.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.esf.edu/admissions/apply/international-students/index.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

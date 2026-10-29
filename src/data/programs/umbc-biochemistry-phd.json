@@ -1,0 +1,90 @@
+{
+  "name": "Biochemistry PhD",
+  "institution": "University of Maryland, Baltimore County",
+  "institutionShort": "UMBC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://umbc.edu/academics/programs/graduate/chemistry-biochemistry/biochemistry-phd/",
+  "detailsNote": "Archive Biochemistry and Molecular Biology label resolves to current Biochemistry PhD. Published dates undated; Fall2027 and a uniform admission model not established. Confirm full program document checklist.",
+  "publishedDeadlines": [
+    {
+      "note": "Undated department schedule and central program listing.",
+      "dateText": "December 15",
+      "label": "Fall review begins"
+    },
+    {
+      "note": "Department fee-free documentation deadline; normal fee applies afterward. Central program lists this fall date without distinguishing purpose.",
+      "dateText": "March 1",
+      "label": "Fall fee-free complete application"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "ielts": 6.5,
+      "toefl": "80 before January21,2026;4 on/after; Essentials8.5. Department also lists old paper TOEFL550.",
+      "note": "Current central minima; DET program acceptance must be confirmed, PTE53 and TOEFLMyBest accepted. English education exemptions may apply under linked guidelines, but document did not render; no automatic English-medium overseas exemption inferred.",
+      "duolingo": 115
+    },
+    "applicationFee": {
+      "note": "Department fee-free route limited to US/Canadian citizens or permanent residents, or graduates of US/Canadian institutions. Other applicants normally pay; no universal international waiver. Central affiliation/continuing-student categories may also apply; no hardship waivers. Confirm process specifically for Biochemistry because automatic online instructions mention Chemistry.",
+      "waiver": "available",
+      "amount": 75,
+      "currency": "USD"
+    },
+    "documents": [
+      "Academic transcripts and educational history",
+      "International original-language and English official records, or optional directly sent WES ICAP course-by-course evaluation"
+    ],
+    "note": "Preparation usually chemistry/physics/biochemistry/biological sciences, including organic/physical chemistry, physics, calculus and biology; other majors considered on demonstrated ability. GRE not required on department admissions page. Central GPA3.0 benchmark; confirm program-specific statement, recommendation and CV checklist in application."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "note": "Chemistry/Biochemistry department says all full-time graduate students receive12-month RA/TA support, competitive PhD stipends, health insurance and tuition remission. No numeric stipend or guaranteed multi-year duration stated.",
+    "coversInternational": "yes",
+    "allFunded": true
+  },
+  "sources": [
+    {
+      "url": "https://umbc.edu/academics/programs/graduate/chemistry-biochemistry/biochemistry-phd/",
+      "label": "Official Biochemistry or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://chemistry.umbc.edu/graduate/admissions/",
+      "label": "Official Biochemistry or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://chemistry.umbc.edu/graduate/apply-free/",
+      "label": "Official Biochemistry or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://chemistry.umbc.edu/graduate/financial-support/",
+      "label": "Official Biochemistry or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umbc.edu/admissions/graduate/admissions-requirements/",
+      "label": "Official Biochemistry or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umbc.edu/admissions/graduate/international-applicants/",
+      "label": "Official Biochemistry or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umbc.edu/admissions/graduate/admissions-requirements/required-documents/",
+      "label": "Official Biochemistry or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biological and Biomedical Sciences PhD",
+  "institution": "Oakland University",
+  "institutionShort": "Oakland",
+  "officialUrl": "https://graduatecatalog.oakland.edu/programs/SbhtVwVwb0ko7dGSGMBH/requirements-QhMWt",
+  "detailsNote": "Official annual information is available; Fall 2027 dates and admission model were not explicitly confirmed. GRE policy was not stated on the opened program pages.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application review begins",
+      "dateText": "January 15",
+      "note": "Domestic and international program date; later applications before university deadlines may be reviewed if space remains."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 45,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "One-time codes for current Oakland undergraduates, military/veterans, McNair and institutional agreements. Special recruitment events may offer codes. Obtain before submission; international applicants must verify a qualifying affiliation."
+    },
+    "english": {
+      "toefl": "79 iBT; MyBest accepted",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "PTE Academic 53 also accepted; tests at most two years old at enrollment. US degree or overseas bachelor/graduate degree taught in English is an alternative; listed citizenship exemptions also exist. Program may require higher proficiency."
+    },
+    "documents": [
+      "Three recommendations evaluating scientific research potential",
+      "Essay on program interests, graduate-study expectations and career goals",
+      "Transcripts from all institutions",
+      "NACES course-by-course evaluation for last degree earned abroad",
+      "International supplemental application and financial certification for F/J visa"
+    ],
+    "note": "Bachelor equivalent; department GPA 3.0 with possible exceptions. Background: biology 20 credits, mathematics 8, physics 8, chemistry 15; deficiencies may permit conditional admission. Catalog additionally emphasizes physics, calculus and statistics."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Limited teaching/research assistantships provide stipend and tuition/fee awards; faculty-grant research assistantships also available. No universal guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://graduatecatalog.oakland.edu/programs/SbhtVwVwb0ko7dGSGMBH/requirements-QhMWt",
+      "label": "Doctoral catalog admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.oakland.edu/biology/graduate-programs/",
+      "label": "Department prerequisites and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.oakland.edu/grad/how-to-apply/application-charge/index",
+      "label": "Application fee and waiver restrictions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduatecatalog.oakland.edu/policies/gradmissionreqs/internationaladminreqs",
+      "label": "International English and records policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.oakland.edu/grad/how-to-apply/international-students/",
+      "label": "International deadlines and evaluations",
+      "checked": "2026-10-28"
+    }
+  ]
+}

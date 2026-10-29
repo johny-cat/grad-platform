@@ -1,0 +1,94 @@
+{
+  "name": "Environmental Sciences PhD",
+  "institution": "Tennessee Technological University",
+  "institutionShort": "Tennessee Tech",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.tntech.edu/ceis/ses/evsphd/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "admissionModel": "lab",
+  "tracks": [
+    "Agriculture",
+    "Biology",
+    "Chemistry",
+    "Geosciences",
+    "Integrated Research"
+  ],
+  "applyUrl": "https://www.tntech.edu/graduatestudies/admissions/apply.php",
+  "publishedDeadlines": [
+    {
+      "label": "Central fall international application",
+      "dateText": "May 1",
+      "note": "Central recurring date; programme may require earlier mentor/funding arrangements."
+    },
+    {
+      "label": "Central fall international supporting documents",
+      "dateText": "June 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Central fall domestic application",
+      "dateText": "August 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 40,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "International fee $40; domestic $35. Current application page advertises domestic-only May1–31 waiver without a year, while general text says fees are not waived; confirm current domestic promotion. No international waiver established."
+    },
+    "english": {
+      "toefl": "Biology concentration:71 iBT or3.5 effectiveJanuary21,2026; Chemistry:79 or4.0",
+      "ielts": 6,
+      "duolingo": 100,
+      "note": "PTE48 for Environmental Sciences Biology and53 for Chemistry. Country exemptions listed; medium-of-instruction letters explicitly not recognized."
+    },
+    "documents": [
+      "Official transcripts from every institution after high school",
+      "Graduate Advisor Acceptance Form for applicable concentrations",
+      "Chemistry concentration only: CV and cover letter"
+    ],
+    "note": "Biology concentration: biological-science bachelor’s/master’s and GPA3.5 in highest degree; advisor must agree to direct doctoral work and stipend/research support must be identified. Requirements vary for other concentrations. Recommendation letters considered, but exact number not established on opened pages; confirm other application materials."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Biology admission requires identified stipend and research support with a graduate faculty advisor. No specific stipend amount, tuition/insurance terms or universal international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.tntech.edu/ceis/ses/evsphd/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.tntech.edu/ceis/ses/evsphd/evs_admissions.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.tntech.edu/graduatestudies/admissions/apply.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.tntech.edu/graduatestudies/admissions/international-documentation.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.tntech.edu/graduatestudies/admissions/requirements.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

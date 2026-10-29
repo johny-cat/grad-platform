@@ -1,0 +1,89 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of North Texas",
+  "institutionShort": "UNT Denton",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.unt.edu/academics/programs/biology-phd.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Biology research doctorate at UNT Denton, requiring a faculty major professor’s agreement before applying.",
+  "admissionModel": "lab",
+  "applyUrl": "https://cos.unt.edu/biology/graduate-programs/graduate-admissions-departmental-acceptance-criteria.html",
+  "publishedDeadlines": [
+    {
+      "label": "Fall complete application",
+      "dateText": "December 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring complete application",
+      "dateText": "August 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Biological Sciences department explicitly does not offer fee waivers. Central graduate application fee $75."
+    },
+    "english": {
+      "toefl": "79 before January 21, 2026; 4 on/after January 21, 2026",
+      "ielts": 6,
+      "duolingo": 100,
+      "note": "IELTS Academic; no IELTS One Skill Retake or TOEFL MyBest/superscores. PTE 53 also listed. Scores valid two years, with continuously-enrolled US-study exception. MOI letters not accepted. Exemptions include approved-country citizenship or qualifying education in an approved country; UNT IELI Level 6 also accepted."
+    },
+    "documents": [
+      "Transcripts for all undergraduate and graduate study",
+      "CV/resume",
+      "Statement of purpose, maximum 2 pages, covering goals, motivation, preparation, research and faculty fit",
+      "Three signed recommendation letters on university/company letterhead",
+      "Major Professor Form uploaded by agreeing advisor; entered as fourth recommender slot",
+      "TA application form if seeking teaching assistantship"
+    ],
+    "note": "Bachelor’s with 24 life-science/related hours including 12 advanced. Undergraduate GPA 3.0 overall and 3.2 last 60 hours; prior graduate GPA 3.4. Research-based master’s desirable, not required. Faculty-major-professor agreement required for Biology; BMB rotations are a separate degree route. Late/incomplete applications denied."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admission does not guarantee support. Students may self-fund or hold competitive TA/RA appointments. TA consideration requires its separate application form; discuss support with major professor. No current stipend or universal guarantee verified."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.unt.edu/academics/programs/biology-phd.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cos.unt.edu/biology/graduate-programs/graduate-admissions-departmental-acceptance-criteria.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cos.unt.edu/biology/graduate-programs/graduate-admissions-faq.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.unt.edu/admissions/graduate/deadlines-fees.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.unt.edu/admissions/international/english-language-requirements",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

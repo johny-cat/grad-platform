@@ -1,0 +1,33 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of New Mexico",
+  "institutionShort": "UNM",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "admissionModel": "lab",
+  "detailsNote": "December 1 is an annual priority deadline; no explicit Fall 2027 date was established. Funding pages conflict between an all-new-doctoral-students statement and competitive/limited availability; confirm the individual offer.",
+  "officialUrl": "https://biology.unm.edu/graduate/application-process.html",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [{"label": "Published priority deadline", "dateText": "December 1st of each year", "note": "For the following Fall. Late applications may be reviewed if space remains; references are due by December 1."}],
+  "requirements": {
+    "gre": "optional",
+    "english": {"toefl": "79 (4.5 on the new scale); Essentials C1", "ielts": 6.5, "duolingo": 105, "note": "Current central graduate minima also list PTE 53, Cambridge C2, LanguageCert 74 with no skill below 60, Oxford 140 and PTE Express 85. The department's older TOEFL 79–80 wording differs; central current minimum retained. Exemptions include qualifying bachelor's degrees in the U.S., English-speaking Canada, UK, South Africa, Australia or New Zealand, qualifying U.S. English-composition coursework, CELAC Academic Bridge and listed English-speaking countries; no general overseas English-medium-degree exemption inferred."},
+    "applicationFee": {"amount": 70, "currency": "USD", "waiver": "domestic-only", "note": "International application $70; domestic $60. Central Graduate Studies waivers exclude international applicants. Any separate Biology departmental sponsorship was not established."},
+    "letters": {"min": 3},
+    "documents": ["Letter of intent describing goals, UNM study plans and research interests (typically two to three pages)", "CV/resume", "Transcripts from all higher education institutions; unofficial uploads and official copies required before acceptance", "Three professional recommendation letters", "At least one prospective faculty adviser listed in the application", "Departmental Application Information Form", "English proficiency evidence and additional GEO documents for international applicants"],
+    "note": "Bachelor's degree before entry (not necessarily biology); GPA at least 3.2 in biology and other sciences; two introductory biology semesters, one genetics semester and at least 12 upper-level biology credits. Exception petitions possible for exceptionally qualified applicants. Admission requires faculty agreement to advise; contact prospective faculty before applying. GRE is described as optional and excluded from admission decisions, but submitted scores remain available to faculty. Writing sample not required; other publications/materials optional. Indicate assistantship interest and email biograd@unm.edu after completing the application."
+  },
+  "funding": {"coversInternational": "yes", "note": "Financial Support page says five-year support for new doctoral students in good standing, then calls assistantships competitive; application page says limited support may be offered. No universal guarantee asserted. Listed academic-year assistantships require 20 hours/week and provide stipend, basic health insurance and up to 12 Biology-related tuition credits per semester. International students without an assistantship may be nominated for Amigo support; nomination and terms must be confirmed."},
+  "international": {"accepted": "yes"},
+  "sources": [
+    {"url": "https://biology.unm.edu/graduate/application-process.html", "label": "Department application process and annual dates", "checked": "2026-10-28"},
+    {"url": "https://biology.unm.edu/graduate/admissions-requirements.html", "label": "Academic eligibility, adviser and GRE", "checked": "2026-10-28"},
+    {"url": "https://grad.unm.edu/graduate-programs/application-instructions/biology.html", "label": "Official PhD identity and application checklist", "checked": "2026-10-28"},
+    {"url": "https://biology.unm.edu/graduate/financial-aid.html", "label": "Funding and competitive assistantship qualification", "checked": "2026-10-28"},
+    {"url": "https://grad.unm.edu/prospective-students/apply-now.html", "label": "Central fee and waiver limits", "checked": "2026-10-28"},
+    {"url": "https://international.unm.edu/english-proficiency.html", "label": "Current graduate English scores and exemptions", "checked": "2026-10-28"}
+  ],
+  "lastChecked": "2026-10-28"
+}

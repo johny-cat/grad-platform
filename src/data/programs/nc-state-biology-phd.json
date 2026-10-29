@@ -1,0 +1,87 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "North Carolina State University",
+  "institutionShort": "NC State",
+  "officialUrl": "https://catalog.ncsu.edu/graduate/agriculture-life-sciences/biology/",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed. Department and catalog spring dates conflict; confirm before applying.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "January 15",
+      "note": "Annual catalog and department date."
+    },
+    {
+      "label": "Spring application — catalog",
+      "dateText": "October 15",
+      "note": "Annual catalog date; department instead lists Nov 25. Confirm; earlier international university deadline may apply."
+    },
+    {
+      "label": "Spring application — department conflict",
+      "dateText": "Nov 25",
+      "note": "Undated department wording; catalog says October15. Conservative earlier catalog date applies unless program confirms otherwise."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "International fee; domestic $85. Official waiver FAQ rendered no policy text."
+    },
+    "english": {
+      "toefl": "80 with each section 18 before January 21,2026; 4 with each section 4 after that date",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "IELTS each section 6.5; DET literacy/comprehension/conversation/production 110. TA speaking requirements are higher. Scores within 24 months of entry. Exemptions: listed English-language citizenship or one year full-time US degree study with GPA 3.0; overseas English-medium degree alone is not listed."
+    },
+    "documents": [
+      "Unofficial transcript from each institution",
+      "Three online recommendations",
+      "Personal statement",
+      "Resume or CV",
+      "Applicable official English scores"
+    ],
+    "note": "Bachelor in biology/related field usually expected; PhD GPA 3.2 and research experience highly recommended. Typical supporting courses: biology 6, chemistry 4, physics 2, mathematics 2. Faculty adviser must be identified and request application review."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Catalog says Biology does not accept MS/PhD students without support. Teaching/research assistantships available; amount, covered costs and duration not specified."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.ncsu.edu/graduate/agriculture-life-sciences/biology/",
+      "label": "Current degree catalog admission requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.ncsu.edu/programs/where-do-i-start/",
+      "label": "Central fee and application documents",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.ncsu.edu/graduate/graduate-handbook/international-student-admissions/",
+      "label": "International English policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bio.sciences.ncsu.edu/graduate/graduate-programs/Biology/",
+      "label": "Department dates",
+      "checked": "2026-10-28"
+    }
+  ]
+}

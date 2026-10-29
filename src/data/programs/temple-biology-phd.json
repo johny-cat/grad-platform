@@ -1,0 +1,69 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Temple University",
+  "institutionShort": "Temple",
+  "officialUrl": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/",
+  "detailsNote": "Official annual information is available; Fall 2027 dates and admission model were not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall and fellowship consideration",
+      "dateText": "December 1",
+      "note": "Annual date; late admission applications may be considered."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Online application fee. No applicable waiver policy verified."
+    },
+    "english": {
+      "toefl": "90 iBT",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Biology bulletin requires testing when bachelor instruction was not English, except a subsequent US master’s degree; PTE Academic 61 also accepted. Program TOEFL threshold exceeds college-wide 79; confirm current test-scale requirements."
+    },
+    "documents": [
+      "Three faculty recommendations, preferably laboratory sciences",
+      "Statement of goals, approximately 500–1,000 words",
+      "Current resume",
+      "Transcripts from all postsecondary institutions; unofficial for application, official on accepting offer"
+    ],
+    "note": "Bachelor in biology or another science; no master required. Eight undergraduate biology courses and one year each calculus, chemistry and physics expected, with possible exceptions. GRE recommended, particularly for fellowship consideration. College recommends GPA 3.0 but considers lower GPAs holistically."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "All full-time applicants considered for competitive assistantships: stipend, tuition remission and health insurance. Limited fellowships typically support two years. Awards are not guaranteed."
+  },
+  "sources": [
+    {
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/",
+      "label": "Biology PhD requirements and annual dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://cst.temple.edu/admissions/graduate-admissions/graduate-requirements",
+      "label": "College transcript and funding policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.temple.edu/admissions/costs-financial-aid-more",
+      "label": "Central application fee",
+      "checked": "2026-10-28"
+    }
+  ]
+}

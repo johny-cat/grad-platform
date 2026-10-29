@@ -1,0 +1,92 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Psychology PhD",
+  "institution": "Colorado State University",
+  "institutionShort": "Colorado State",
+  "officialUrl": "https://psychology.colostate.edu/apply-to-become-a-psychology-student/",
+  "tracks": [
+    "Clinical Psychology",
+    "Health Psychology",
+    "Cognitive Psychology",
+    "Cognitive Neuroscience",
+    "Industrial/Organizational Psychology"
+  ],
+  "detailsNote": "Official annual dates; Fall 2027 not confirmed. Detailed requirements below concern Cognitive Neuroscience unless otherwise labeled. One Psychology PhD application permits multiple training selections.",
+  "admissionModel": "lab",
+  "publishedDeadlines": [
+    {
+      "label": "Cognitive Neuroscience / Cognitive / Health",
+      "dateText": "January 15th",
+      "note": "Fall only; annual year unstated."
+    },
+    {
+      "label": "Clinical / Industrial Organizational",
+      "dateText": "December 1st",
+      "note": "Fall only; annual year unstated."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International degree fee $70. Only qualifying degrees/affiliations waive fees; confirm category. International applicants should confirm the applicable category and documentation before payment."
+    },
+    "english": {
+      "toefl": "80 before January 2026; 4.5 after January 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Central PTE58; two-year validity; qualifying country/recent-degree exemptions. Higher program requirements possible."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts",
+      "CV/resume",
+      "Cognitive Neuroscience statement of interest and faculty fit",
+      "Optional scientific writing sample for Cognitive Neuroscience"
+    ],
+    "note": "Select Psychology PhD and training area(s) in supplement. Cognitive Neuroscience suspends GRE use; I/O requires GRE, so no single umbrella GRE rule. Three references required, but instructions allow initial review with two received. Faculty mentorship model; specify potential advisers. Other tracks have distinct writing/supplement requirements."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Support intended throughout training but contingent on funds and progress; no guarantee beyond first year. Assistantships generally include monthly stipend and tuition waiver."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://psychology.colostate.edu/apply-to-become-a-psychology-student/",
+      "label": "Official admissions or central policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://psychology.colostate.edu/cogneuro/",
+      "label": "Official admissions or central policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/apply/",
+      "label": "Official admissions or central policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/skip-the-application-fee/",
+      "label": "Official admissions or central policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/admissions-resources/english-proficiency/",
+      "label": "Official admissions or central policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

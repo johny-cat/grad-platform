@@ -1,0 +1,61 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biology PhD",
+  "institution": "Syracuse University",
+  "institutionShort": "Syracuse",
+  "officialUrl": "https://artsandsciences.syracuse.edu/biology/graduate-overview/how-apply-ms-or-phd-biology/",
+  "detailsNote": "Official annual information is available; Fall 2027 dates and a uniform admission model were not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "First priority",
+      "dateText": "January 4th",
+      "note": "Annual date; later applications considered if space remains."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Automatic waivers: McNair, Fulbright, US veterans/active-duty military, Syracuse students/alumni. Eligibility depends on membership; international applicants should confirm their category."
+    },
+    "english": {
+      "note": "Official TOEFL or IELTS for international applicants using English as a second language. Department states no minimum TOEFL/IELTS score."
+    },
+    "documents": [
+      "Online application",
+      "Three recommendations",
+      "Transcripts; unofficial copies accepted for review",
+      "Single personal-statement document: research interests (300–400 words), preparation (300–400), overcoming failure (200–250)"
+    ],
+    "note": "BS/BA required. Expected background: two years biology; one year each introductory chemistry, organic chemistry with laboratory, physics and calculus. List up to three potential faculty advisers. No minimum GPA. Optional GRE."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "PhD support for up to five years, typically academic-year teaching assistantship and tuition scholarship; research grants or fellowships are alternatives. No international-specific guarantee or summer stipend stated."
+  },
+  "sources": [
+    {
+      "url": "https://artsandsciences.syracuse.edu/biology/graduate-overview/how-apply-ms-or-phd-biology/",
+      "label": "Biology doctoral admissions and support",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.syracuse.edu/admissions-aid/application-process/graduate/supplemental-application-materials/",
+      "label": "Central application fee",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Integrative Biology PhD",
+  "institution": "University of New Orleans",
+  "institutionShort": "New Orleans",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.lsuneworleans.edu/academics/cos/biology/graduate/application-process",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Integrative Biology research doctorate at the institution whose current official pages use LSU New Orleans branding.",
+  "applyUrl": "https://www.lsuneworleans.edu/academics/cos/biology/graduate/application-process",
+  "publishedDeadlines": [
+    {
+      "label": "Fall review begins",
+      "dateText": "February 1",
+      "note": "Review continues until positions filled; no stated year."
+    },
+    {
+      "label": "Spring application",
+      "dateText": "October 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International processing $30; domestic $20. Central page offers possible waiver/discount and directs applicants to Graduate School; no citizenship limitation stated. Confirm international eligibility and approval before paying."
+    },
+    "english": {
+      "toefl": "79 before January 21, 2026; 4.0 current scale",
+      "ielts": 6.5,
+      "note": "PTE 58 also accepted. Department accepts successful completion of campus IELP. Central waiver examples: accredited US bachelor’s/master’s or origin in listed countries. No general foreign English-medium exemption verified."
+    },
+    "documents": [
+      "Transcripts; foreign records require NACES member evaluation including GPA and US degree equivalency",
+      "Three recommendation letters",
+      "Statement of purpose describing research interests, experience and goals"
+    ],
+    "note": "Accredited bachelor’s, GPA 3.0 and satisfactory standing at previous institution. Prior research desired. GRE program-specific requirement not established; central says most programs no longer require it, which does not alone prove a Biology policy. Late applications depend on positions/funding."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Department endeavors to support accepted students through teaching/research assistantships, scholarships or fellowships; no guarantee or current stipend verified. Board of Regents doctoral fellowship described separately is US-citizen-only and requires GPA 3.5 and GRE verbal/quantitative above 70 thpercentile."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.lsuneworleans.edu/academics/cos/biology/graduate/application-process",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements/international",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.lsuneworleans.edu/academics/cos/biology/graduate/financial-support",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

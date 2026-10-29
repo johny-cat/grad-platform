@@ -1,0 +1,80 @@
+{
+  "name": "Integrative Biology PhD",
+  "institution": "University of New Hampshire",
+  "institutionShort": "UNH",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.unh.edu/program/doctor-philosophy/integrative-biology",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Mentor contact is required, but admission model is not explicitly established.",
+  "summary": "Research doctorate in the UNH Department of Biological Sciences, requiring contact with prospective thesis mentors before application.",
+  "applyUrl": "https://www.unh.edu/program/doctor-philosophy/integrative-biology",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "December 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall final",
+      "dateText": "February 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Department says a fee waiver may be possible after identifying an advisor willing to support the application; no citizenship restriction on this route is stated, so confirm international eligibility. Central page says waivers unavailable in most circumstances. Integrative/Marine pages separately name underrepresented US minority waiver category."
+    },
+    "english": {
+      "toefl": "80 legacy; 4.5 new scale",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE 59 or TOEFL Essentials 8.5 also listed. Tests valid two years. US bachelor’s-or-higher or documented English-medium foreign bachelor’s-or-higher may support a waiver request through the portal; approval required by department/Graduate School, not automatic."
+    },
+    "documents": [
+      "Transcripts from all postsecondary institutions, translated into English where necessary (PDF copies for application; official after admission)",
+      "Personal statement on reasons, immediate/long-range objectives, research/professional interests and experience",
+      "Three recommendation letters; not relatives/friends and not older than one year"
+    ],
+    "note": "Department explicitly distinguishes Integrative Biology, Marine Biology and Neuroscience & Behavior as separate graduate programs. Contact potential faculty mentors before applying; a required admission-stage advisor agreement is not established."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Department generally admits when funding can support degree, typically including tuition/health insurance waivers through mixed assistantships; no unconditional guarantee. Central international rules explicitly discuss assistantships and tuition waiver subject to eligible visa status."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.unh.edu/program/doctor-philosophy/integrative-biology",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://colsa.unh.edu/biological-sciences/key-documents",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.unh.edu/admissions/test-scores",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.unh.edu/admissions/international-students",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

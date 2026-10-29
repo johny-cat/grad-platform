@@ -1,0 +1,69 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Pathobiology PhD",
+  "institution": "Kansas State University",
+  "institutionShort": "K-State",
+  "officialUrl": "https://www.vet.k-state.edu/academics/dmp/graduate/programs/pathobiology.html",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual information is available; Fall 2027 general admission dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "International fall/summer recommended submission",
+      "dateText": "Before January 1",
+      "note": "Undated department advice, earlier than central deadline."
+    },
+    {
+      "label": "International spring recommended submission",
+      "dateText": "Before August 1",
+      "note": "Undated department advice."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International75USD; domestic65. Central McNair waiver and limited competitive departmental codes; no program-specific code offer confirmed. International applicants must confirm category eligibility before payment."
+    },
+    "english": {
+      "toefl": "79 before January 21,2026; 4.5 on/after that date",
+      "ielts": 6.5,
+      "note": "Department additionally requires IELTS reading/listening/writing 6.5 or old TOEFL reading/listening/writing 20. PTE 58 central; Duolingo not accepted. US-degree exemption central; department describes degree within two years plus arrival testing."
+    },
+    "documents": [
+      "Online graduate application",
+      "Uploaded transcripts and degree certificates; certified English translations for international records",
+      "Statement of objectives/research goals",
+      "Three recommendations"
+    ],
+    "note": "GPA 3.0 in bachelor/MS/DVM;2.8–2.9 probation considered. DVM not required. Biology/molecular biology/biochemistry preparation. Faculty acceptance needed before approval; GRE required without minimum."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Faculty-grant research assistantships in most cases; alternate scholarship/fellowship/personal funding permits admission. No universal guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://www.vet.k-state.edu/academics/dmp/graduate/programs/pathobiology.html",
+      "label": "Program doctoral requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "label": "Current central fees, international and GRE policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of South Carolina",
+  "institutionShort": "South Carolina",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://academicbulletins.sc.edu/graduate/arts-sciences/biological-sciences/biological-sciences-phd/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Biological Sciences research doctorate, admitting students with a funding plan and either a faculty match or first-year rotations.",
+  "applyUrl": "https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/apply/index.php",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1",
+      "note": "Department states recurring date without entry year. Special spring/summer admission requires individual faculty request."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Central fee reinstated effective August 1, 2026, $50 per primary application. Graduate School does not grant individual applicant requests for waiver; no Biology-specific offer established."
+    },
+    "english": {
+      "toefl": "600 paper /250 computer-based, as biology bulletin publishes; no department iBT equivalent established",
+      "ielts": 7,
+      "note": "Biology bulletin requires IELTS 7 for non-native English speakers, higher than general minima used elsewhere. International central requirements/exemptions page could not be opened; no exemption inferred. Central application page says language scores valid two years."
+    },
+    "documents": [
+      "Transcripts (unofficial upload); international credentials require course-by-course NACES evaluation, with evaluation, transcripts and degree proof sent by the evaluator",
+      "Statement of purpose",
+      "At least two recommendation letters",
+      "Supplemental information sheet in application portal"
+    ],
+    "note": "Accredited bachelor’s or equivalent with adequate biological-sciences preparation; normally science GPA 3.0, with flexible review of slight deficiencies. Contact prospective faculty or indicate first-year rotation interest. Major professor/advisory committee chosen first year. GRE status not established from opened department/bulletin pages; program-requirements profile inaccessible."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admission only with financial support. Most students have departmental TA or faculty RA support; independent NSF/Fulbright or other external support also accepted. This establishes required support, not guaranteed university funding for every admitted applicant."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://academicbulletins.sc.edu/graduate/arts-sciences/biological-sciences/biological-sciences-phd/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/apply/index.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://sc.edu/study/colleges_schools/graduate_school/apply/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

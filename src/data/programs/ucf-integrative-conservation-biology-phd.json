@@ -1,0 +1,33 @@
+{
+  "name": "Integrative and Conservation Biology PhD",
+  "institution": "University of Central Florida",
+  "institutionShort": "UCF",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://www.ucf.edu/degree/integrative-and-conservation-biology-ph-d/",
+  "applyUrl": "https://applynow.graduate.ucf.edu/",
+  "admissionModel": "lab",
+  "detailsNote": "The 2027 application table publishes December 1 for fall admission without an explicit calendar year. Former Conservation Biology and Integrative Biology track admissions are suspended; apply to the no-track PhD.",
+  "publishedDeadlines": [{"label":"Fall application, domestic and international","dateText":"December 1","note":"From the official 2027 doctoral table; confirm the calendar year in the application portal."}],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {"min":3},
+    "english": {"toefl":"91 (published iBT scale); confirm new-scale program equivalent","ielts":7,"duolingo":125,"note":"Program minima exceed central minima. A degree from a US or English-instruction institution may exempt testing; central policy specifies English as the only instructional language. Other central exemptions include countries where English is the only official language, qualifying degrees from those countries, UCF English Language Institute Level8 with B or better, or UCF Global Pearson Benchmark68 in every subscore. Official scores valid two years and due by deadline; exemption assessed after fee/application processing."},
+    "applicationFee": {"amount":30,"currency":"USD","waiver":"available","note":"Conditional categories include UCF employees/postdoctoral scholars, FAMU Feeder, International Fulbright, McNair, GEM, NPSC, UCF RAMP and specified UCF NSF REU participants. Ask central admissions about applicable category; no general hardship waivers. International eligibility depends on category."},
+    "documents": ["CV or resume","Three recommendations, including two from people who can assess academic skills","Personal statement covering preparation, experience, career goals, research question/approach and prospective adviser","Scanned official transcripts and degree certificates, front/back with grading scale; certified literal English translations where needed"],
+    "note": "Bachelor-equivalent and biology preparation expected. Department advises GPA at least3.0 overall and last60 credits; core biology coursework expected for other majors. Obtain a consenting departmental dissertation adviser before admission. External course-by-course evaluation is required for requested international transfer credit; central admissions may request evaluation in other circumstances. Official institutional records required before enrollment."
+  },
+  "international":{"accepted":"yes"},
+  "funding":{"coversInternational":"unknown","note":"Department describes PhD support through assistantships, tuition waivers and health insurance; no stipend amount, duration or unconditional all-admitted/international funding guarantee established."},
+  "sources":[
+    {"url":"https://www.ucf.edu/degree/integrative-and-conservation-biology-ph-d/","label":"Degree identity","checked":"2026-10-28"},
+    {"url":"https://graduate.ucf.edu/2027-application-deadlines-and-requirements-doctoral/","label":"2027 program requirements and track suspension","checked":"2026-10-28"},
+    {"url":"https://sciences.ucf.edu/biology/graduate/applying/","label":"Adviser, preparation and departmental support","checked":"2026-10-28"},
+    {"url":"https://graduate.ucf.edu/applying-to-ucf/","label":"Fee, conditional waivers and official records","checked":"2026-10-28"},
+    {"url":"https://graduate.ucf.edu/international-applicants/","label":"International credentials and English policy","checked":"2026-10-28"}
+  ]
+}

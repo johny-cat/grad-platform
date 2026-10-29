@@ -1,0 +1,69 @@
+{
+  "name": "Oral Biology PhD with Orthodontics and Dentofacial Orthopedics Certificate",
+  "institution": "University of Nevada, Las Vegas",
+  "institutionShort": "UNLV",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.unlv.edu/dental/academic-programs/phd-oral-biology",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Combined research doctorate and orthodontic residency for qualified dental graduates; the PhD cannot be entered independently.",
+  "applyUrl": "https://www.unlv.edu/dental/academic-programs/phd-oral-biology",
+  "publishedDeadlines": [
+    {
+      "label": "Combined residency application",
+      "dateText": "August 15",
+      "note": "Program-specific date has no stated entry year; do not substitute general graduate-directory dates."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Central international Graduate College application $95 (domestic $60). Separate ADEA PASS application is required; PASS and combined-residency fees not established. Do not apply to Graduate College until selected by the program."
+    },
+    "english": {
+      "toefl": "80 legacy; 4.0 current scale, no band below 3.5",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "Central Graduate College minimum; program also requires proficiency in English. IELTS no band below 6, DET no band below 100. English-medium postsecondary degree may exempt with proof of instruction language. Confirm dental-program requirements. Scores under two years at application."
+    },
+    "documents": [
+      "ADEA PASS application with specified recommendation letters (number not stated)",
+      "Dental degree and board-examination evidence",
+      "Bachelor’s degree or foreign equivalent evidence"
+    ],
+    "note": "Requires CODA-accredited US/Canadian DMD/DDS, passed National Dental Board PartsI/II or INBDE, bachelor’s or equivalent and eligibility for Nevada dental licensure before clinical activity.60 month combined program begins July; not an independently accessible bioscience PhD. Dissertation defense and major research project required."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Official page explicitly instructs domestic and international applicants; US/Canadian accredited dental degree and licensure restrictions still apply."
+  },
+  "sources": [
+    {
+      "url": "https://www.unlv.edu/dental/academic-programs/phd-oral-biology",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.unlv.edu/degree/phd-oral-biology",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.unlv.edu/admissions/graduate/apply",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.unlv.edu/admissions/international/graduate/english-proficiency",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Colorado State University",
+  "institutionShort": "Colorado State",
+  "detailsNote": "Official Fall 2027 teaching-assistantship date confirmed. GRE and departmental recommendation count not stated on the opened current pages.",
+  "name": "Bioagricultural Sciences PhD",
+  "admissionModel": "lab",
+  "officialUrl": "https://graduateschool.colostate.edu/programs/bioagricultural-sciences-phd/",
+  "tracks": [
+    "Entomology",
+    "Plant Pathology",
+    "Weed Science"
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 teaching-assistantship consideration",
+      "date": "2026-12-01",
+      "note": "Official page states Dec 1 for Fall 2027; identify adviser and confirm funding before application. Not a general admission cutoff."
+    }
+  ],
+  "requirements": {
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International degree applicants: $70. Qualifying degrees/affiliations only; confirm eligibility. See central policy. International applicants should confirm the applicable category and documentation before payment."
+    },
+    "english": {
+      "toefl": "80 before January 2026; 4.5 after January 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE 58. Official scores within two years; qualifying country/recent-degree exemptions. Department may require more."
+    },
+    "gre": "unknown",
+    "documents": [
+      "Transcripts",
+      "CV/resume",
+      "Statement of purpose",
+      "Recommendations (confirm departmental count)"
+    ],
+    "note": "Identify an Agricultural Biology adviser and confirm funding before applying."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Funding must be arranged with adviser before applying. Fall teaching assistantships available for consideration; spring TA positions unavailable for prospective students. No amount or universal guarantee stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://graduateschool.colostate.edu/programs/bioagricultural-sciences-phd/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://agsci.colostate.edu/agbio/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/apply/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/skip-the-application-fee/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/admissions-resources/english-proficiency/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

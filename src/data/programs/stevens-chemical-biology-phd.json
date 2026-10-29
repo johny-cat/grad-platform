@@ -1,0 +1,85 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Chemical Biology PhD",
+  "institution": "Stevens Institute of Technology",
+  "institutionShort": "Stevens",
+  "officialUrl": "https://www.stevens.edu/program/chemical-biology-phd",
+  "detailsNote": "Official information is available; Fall 2027 dates and an admission model were not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall preferred PhD application",
+      "dateText": "January 15",
+      "note": "Central annual date. PhD process page separately labels January 15,2026 for Fall 2026; not a confirmed Fall 2027 date. Rolling review after preferred deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Nonrefundable graduate application fee; no applicable waiver verified."
+    },
+    "english": {
+      "toefl": "4 minimum; 4.5 avoids ELC coursework",
+      "ielts": 6,
+      "duolingo": 110,
+      "note": "IELTS 7 or DET 120 avoids ELC coursework. IELTS 6.5/DET 115 may require language course or arrival exam; IELTS speaking/writing 6.5 needed for that exam option. Minimum-score applicants require ELC coursework. Tests valid two years at application review. Documented overseas English-medium bachelor/master or two graduate years can support waiver request but require arrival ECPE. US-degree and listed-country bachelor exemptions differ."
+    },
+    "documents": [
+      "Transcripts from all postsecondary institutions",
+      "Two academic or professional recommendations",
+      "Statement of purpose, 500–1,000 words in 12 pt Times New Roman",
+      "Resume or CV",
+      "Professional writing sample: thesis, research paper or publication"
+    ],
+    "note": "Program requirements list accredited bachelor degree with GPA 3.0, but introductory eligibility wording emphasizes master degrees and contains inconsistent provisional-entry text; confirm bachelor-only eligibility. Unofficial transcripts acceptable for initial review, official copies after admission; non-English records need certified literal translations. GRE optional for Chemical Biology."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Limited competitive assistantships/fellowships; no universal award. Tuition/fee coverage varies. Published 2026–2027 TA/RA academic-year stipends: bachelor-entry $28,762; master-entry $30,453; doctoral candidate $32,115, with separate summer eligibility. Good standing and satisfactory progress required; recipients must be in US during funded period."
+  },
+  "sources": [
+    {
+      "url": "https://www.stevens.edu/program/chemical-biology-phd",
+      "label": "Program identity and requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stevens.edu/page-basic/ph-d-application-process",
+      "label": "Doctoral application process",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "label": "Annual deadlines",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stevens.edu/graduate-education/english-language-proficiency-policy",
+      "label": "English score levels",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stevens.edu/admissions-aid/graduate-admissions/test-score-exemptions-and-waivers",
+      "label": "English exemptions and waiver requests",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.stevens.edu/graduate-funding-and-aid/phd-assistantships-and-fellowships",
+      "label": "Competitive doctoral funding",
+      "checked": "2026-10-28"
+    }
+  ]
+}

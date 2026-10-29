@@ -1,0 +1,76 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Integrative Biology PhD",
+  "institution": "Oklahoma State University",
+  "institutionShort": "Oklahoma State",
+  "officialUrl": "https://go.okstate.edu/graduate-academics/programs/doctoral/integrative-biology-phd",
+  "admissionModel": "lab",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "January 15",
+      "note": "Annual program date."
+    },
+    {
+      "label": "Spring application",
+      "dateText": "September 1",
+      "note": "Annual program date."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee; waiver only for current OSU students or alumni (one application). General domestic categories include military/veterans and selected federal programs. No general international hardship waiver."
+    },
+    "english": {
+      "toefl": "79 old scale; 4.0 on new scale beginning January 21,2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "PTE 53 also accepted centrally; program may require higher scores or restrict tests. Scores valid two years; official final reports needed. Documented English-degree waiver may be requested under country/instruction criteria, subject to approval. Teaching assignments have separate speaking/ITA requirements."
+    },
+    "documents": [
+      "Uploaded transcripts; unofficial copies for review, official final records",
+      "Three recommendations",
+      "Personal statement",
+      "CV or resume",
+      "Supplement identifying faculty advisers and teaching preparation"
+    ],
+    "note": "GPA 3.0 undergraduate. Faculty member must accept applicant into laboratory; contact potential mentors directly."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students supported by TA/RA/fellowships. Published PhD GTA stipend $23,870 for nine months, undated; no duration or tuition guarantee on degree page."
+  },
+  "sources": [
+    {
+      "url": "https://go.okstate.edu/graduate-academics/programs/doctoral/integrative-biology-phd",
+      "label": "Doctoral program admission and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradcollege.okstate.edu/admissions/application-process",
+      "label": "Central application and fee waivers",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradcollege.okstate.edu/admissions/international-students",
+      "label": "International fee restrictions and English",
+      "checked": "2026-10-28"
+    }
+  ]
+}

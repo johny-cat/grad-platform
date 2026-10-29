@@ -1,0 +1,89 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "public-health",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Public Health PhD",
+  "institution": "Florida International University",
+  "institutionShort": "FIU",
+  "officialUrl": "https://stempel.fiu.edu/academics/public-health/phd-in-public-health/",
+  "tracks": [
+    "Environmental Toxicology",
+    "Brain, Behavior, and the Environment"
+  ],
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed. Details below cover Environmental Health Sciences concentrations; other Public Health concentrations have different GRE/admission requirements.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "February 15",
+      "note": "Annual Public Health date."
+    },
+    {
+      "label": "Spring application",
+      "dateText": "July 1",
+      "note": "Annual date; not every concentration admits in spring."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "4.5 on/after January 21, 2026; 80 before that date",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Official scores; central PTE 53 also accepted. Listed degree-country exemptions apply. Public Health page also lists accredited English-instruction bachelor/graduate degree as an alternative; confirm documentation. TOEFL/IELTS less than two years old."
+    },
+    "documents": [
+      "SOPHAS application and FIU supplemental application",
+      "Statement addressing concentration, research, goals and faculty alignment",
+      "Three recommendations",
+      "CV or resume",
+      "Writing sample (thesis/manuscript or approved alternative)",
+      "WES course-by-course evaluation for foreign education"
+    ],
+    "note": "Bachelor equivalent; GPA 3.0 in last 60 upper-division credits. EHS admissions require identifying faculty mentor; contact encouraged. GRE not required for EHS tracks, but other Public Health concentrations differ. SOPHAS plus university supplemental route; combined application fee and waiver not verified."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Assistantships and fellowships available; prospective applicants discuss options with mentor/program director and submit separate funding application. No universal support guarantee."
+  },
+  "sources": [
+    {
+      "url": "https://stempel.fiu.edu/academics/public-health/phd-in-public-health/",
+      "label": "Program admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/admission-requirements/",
+      "label": "Central degree-specific requirements and dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/steps-to-apply/index.html",
+      "label": "University fee and records",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/international/graduate-school/english-language-proficiency/index.html",
+      "label": "Current English policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://stempel.fiu.edu/academics/public-health/disciplines/environmental-health-sciences/phd-in-public-health-with-a-concentration-in-brain-behavior-and-the-environment/",
+      "label": "Environmental Health Sciences structure",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://stempel.fiu.edu/students/funding-your-education/",
+      "label": "Stempel funding options",
+      "checked": "2026-10-28"
+    }
+  ]
+}

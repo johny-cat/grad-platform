@@ -1,0 +1,87 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biomedical Sciences - Human Evolutionary Biology PhD",
+  "institution": "Kent State University",
+  "institutionShort": "Kent State",
+  "officialUrl": "https://www.kent.edu/biomedical/human-evolutionary-biology-phd",
+  "admissionModel": "program",
+  "detailsNote": "Official annual information is available; Fall 2027 program dates were not explicitly confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "November 15",
+      "note": "Annual date; late materials considered if space remains."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "International fee; domestic $50. Central policy denies ordinary waivers. Domestic-only October 19–26,2026 promotion has ended; no international promotion."
+    },
+    "english": {
+      "toefl": "94 iBT as published; confirm current test scale",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "PTE 65 also accepted. Exemptions depend on listed education countries or specified US/accredited study and other documented routes; written request to International Admissions required. Overseas English-medium study alone is not a general exemption."
+    },
+    "documents": [
+      "Copies of official transcripts; originals after admission",
+      "Resume or CV",
+      "Goal statement describing research experience and goals",
+      "Three recommendations",
+      "International original-language academic records and certified English translation"
+    ],
+    "note": "Normally master in anthropology/biological sciences and GPA 3.0; outstanding records may permit master requirement waiver after 20 graduate credits. GRE required."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 28200,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–27"
+    },
+    "note": "Competitive 12-month assistantships, full tuition waiver and subsidized health insurance. Annual renewal up to five years depends on standing/progress. All PhD applicants without external fellowship considered automatically; no universal award."
+  },
+  "sources": [
+    {
+      "url": "https://www.kent.edu/biomedical/human-evolutionary-biology-phd",
+      "label": "Program-specific doctoral requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.kent.edu/admissions/graduate-degree-student-requirements",
+      "label": "Central fees and transcript policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.kent.edu/admissions/waive-english-language-requirement",
+      "label": "English exemption conditions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.kent.edu/biomedical/admission-information",
+      "label": "Biomedical program choice and rotations",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.kent.edu/biomedical/financial-assistance",
+      "label": "Biomedical funding",
+      "checked": "2026-10-28"
+    }
+  ]
+}

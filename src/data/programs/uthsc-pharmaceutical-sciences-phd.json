@@ -1,0 +1,59 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Pharmaceutical Sciences PhD",
+  "institution": "University of Tennessee Health Science Center",
+  "institutionShort": "UTHSC",
+  "officialUrl": "https://www.uthsc.edu/graduate-health-sciences/programs/pharmaceutical-sciences.php",
+  "detailsNote": "Official information available; dates are annual unless explicitly dated. Admission route not assigned where unconfirmed.",
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "College states no application fee; foreign evaluation agencies charge separately."
+    },
+    "english": {
+      "toefl": "79 internet-based, as published",
+      "ielts": 6.5,
+      "note": "College non-native-English policy also allows evidence of English proficiency; exemption terms and new TOEFL scale not specified. Confirm program-specific rules."
+    },
+    "documents": [
+      "Transcripts",
+      "Three recommendations",
+      "Official English scores when applicable"
+    ],
+    "note": "Appropriate BS/MS, GPA 3. Page lists GRE 300 but explicitly makes GRE optional, strongly recommended without peer-reviewed publications. Direct lab placement or rotations available. Foreign records need GPA certification, not document-by-document evaluation."
+  },
+  "sources": [
+    {
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/index.php",
+      "label": "Official degree and admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/pharmaceutical-sciences.php",
+      "label": "Official degree and admissions policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Published application deadline",
+      "dateText": "March 15",
+      "note": "Annual date; Fall 2027 year not attached."
+    }
+  ],
+  "funding": {
+    "note": "Program offers tuition waiver, stipend and health insurance; amount and future-year guarantee not stated.",
+    "coversInternational": "unknown"
+  }
+}

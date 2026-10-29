@@ -1,0 +1,72 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Johns Hopkins University",
+  "institutionShort": "Johns Hopkins",
+  "name": "Molecular Biophysics PhD",
+  "officialUrl": "https://pmb.jhu.edu/admissions/",
+  "detailsNote": "Annual deadline; Fall 2027 date and admission model not confirmed on opened pages. Jenkins Biophysics merged into this program.",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 1st",
+      "note": "Year not stated."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Documented qualifying affiliation, department request or hardship evidence in application. No nationality restriction stated; international applicants should confirm eligibility."
+    },
+    "english": {
+      "note": "KSAS prefers TOEFL100 or IELTS7, not universal hard minima; scores under two years. Degree exemption requires two full-time years in US/listed country, requested in application; English instruction elsewhere alone insufficient."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Transcripts",
+      "Three recommendations"
+    ],
+    "note": "Select Biophysics under Arts and Sciences. Biological/physical science, engineering and mathematics backgrounds encouraged."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 52000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027"
+    },
+    "note": "Five years guaranteed tuition, stipend/salary and medical/dental/vision premium coverage under collective agreement. 2026–2027 pay not Fall 2027 promise. Two semesters teaching required."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://pmb.jhu.edu/admissions/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/how-to-apply/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/exams/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

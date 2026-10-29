@@ -1,0 +1,81 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biochemistry PhD",
+  "institution": "Florida International University",
+  "institutionShort": "FIU",
+  "officialUrl": "https://case.fiu.edu/academics/biochemistry-phd-program/admissions/",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed. Admission model was not confirmed.",
+  "publishedDeadlines": [
+    {
+      "label": "Funding consideration",
+      "dateText": "December 1",
+      "note": "Annual central listing."
+    },
+    {
+      "label": "Fall application",
+      "dateText": "February 15",
+      "note": "Annual central listing."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "University application fee; no applicable graduate waiver verified."
+    },
+    "english": {
+      "toefl": "4.5 on/after January 21, 2026; 80 before that date",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Official scores; central PTE 53 also accepted. Listed degree-country exemptions apply. No general overseas English-medium exemption verified."
+    },
+    "documents": [
+      "Online application",
+      "Statement of purpose/intent",
+      "CV or resume",
+      "Three recommendations",
+      "Official transcripts from all institutions; NACES course-by-course evaluation with GPA for foreign coursework"
+    ],
+    "note": "Bachelor equivalent; undergraduate and combined graduate GPA 3.0. General GRE required without minimum; average percentile 62 receives preference."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Program states all full-time graduate students receive stipend and health insurance; tuition coverage, amount and duration not specified on admissions page."
+  },
+  "sources": [
+    {
+      "url": "https://case.fiu.edu/academics/biochemistry-phd-program/admissions/",
+      "label": "Program admissions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/admission-requirements/",
+      "label": "Central degree-specific requirements and dates",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/steps-to-apply/index.html",
+      "label": "University fee and records",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://admissions.fiu.edu/international/graduate-school/english-language-proficiency/index.html",
+      "label": "Current English policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

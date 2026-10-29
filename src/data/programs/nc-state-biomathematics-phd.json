@@ -1,0 +1,75 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biomathematics PhD",
+  "institution": "North Carolina State University",
+  "institutionShort": "NC State",
+  "officialUrl": "https://catalog.ncsu.edu/graduate/sciences/biomathematics/",
+  "detailsNote": "Official annual information is available; Fall 2027 dates not confirmed. Admission model not explicit; department pages inaccessible, current catalog used.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall financial-aid consideration",
+      "dateText": "January 15",
+      "note": "Annual catalog date; separate later admission-only dates may be limited by international deadlines."
+    },
+    {
+      "label": "Spring financial-aid consideration",
+      "dateText": "September 15",
+      "note": "Annual catalog date."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "International fee; domestic $85. Official waiver FAQ rendered no policy text."
+    },
+    "english": {
+      "toefl": "80 with each section 18 before January 21,2026; 4 with each section 4 after that date",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "IELTS each section 6.5; DET literacy/comprehension/conversation/production 110. TA speaking requirements are higher. Scores within 24 months of entry. Exemptions: listed English-language citizenship or one year full-time US degree study with GPA 3.0; overseas English-medium degree alone is not listed."
+    },
+    "documents": [
+      "Unofficial transcript from each institution",
+      "Three online recommendations",
+      "Personal statement (1–2 pages: goals, program reasons, potential advisers/research interests)",
+      "Resume or CV",
+      "Applicable official English scores"
+    ],
+    "note": "Bachelor in biology with mathematics aptitude or mathematics with biology aptitude. Multivariate calculus, linear algebra and general biology required; deficiencies remedied first year. Catalog entrance-exam field says none, while funding paragraph still mentions GRE scores; confirm award-specific expectations."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Teaching/research assistantships and internships available; research awards usually for continuing students. Awards depend on application evaluation; no universal guarantee stated."
+  },
+  "sources": [
+    {
+      "url": "https://catalog.ncsu.edu/graduate/sciences/biomathematics/",
+      "label": "Current degree catalog admission requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://grad.ncsu.edu/programs/where-do-i-start/",
+      "label": "Central fee and application documents",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://catalog.ncsu.edu/graduate/graduate-handbook/international-student-admissions/",
+      "label": "International English policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

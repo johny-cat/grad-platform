@@ -1,0 +1,88 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Southern Mississippi",
+  "institutionShort": "Southern Miss",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.usm.edu/graduate-programs/biological-sciences.php",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Faculty-directed biological sciences research doctorate covering molecular/microbial, coastal/marine and ecology/evolution research.",
+  "admissionModel": "lab",
+  "applyUrl": "https://www.usm.edu/graduate-programs/biological-sciences.php",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "February 15",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring department application",
+      "dateText": "October 15",
+      "note": "International central deadline is earlier, October 1; use earlier date and confirm."
+    },
+    {
+      "label": "Spring international application",
+      "dateText": "October 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Central FAQ explicitly limits waivers to domestic military/veteran, McNair, Fulbright Student Scholar and current full-time USM employee categories. No general international waiver."
+    },
+    "english": {
+      "toefl": "71 legacy /4 new scale",
+      "ielts": 6,
+      "duolingo": 110,
+      "note": "IELTS Academic; PTE 54 or iTEP Academic 4 also accepted. Citizens or degree holders from listed countries exempt; foreign MOI letters not accepted. Graduate program may require higher scores; none established on opened Biology landing page."
+    },
+    "documents": [
+      "Official transcripts and degree certificates/diplomas from prior institutions",
+      "Statement of research interests",
+      "Three reference letters",
+      "Letter of interest and resume recommended if seeking assistantship",
+      "Three-year non-EU degree: extra year coursework or NACES full bachelor’s equivalency evaluation"
+    ],
+    "note": "Undergraduate biological-sciences major or equivalent. Direct bachelor’s-to-PhD possible with advisor/committee/chair approval. Central minimum last 60 undergraduate GPA 2.75 without master’s; with master’s, graduate GPA 3.5. Faculty selects students for own research group; without willing advisor admission/funding unlikely. GRE not established for new PhD applications; handbook requests it specifically for internal MS-to-PhD change, which is not treated as a universal new-applicant rule."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Competitive TA/RA positions include tuition waiver/health insurance. Program publishes undated PhD academic-year TA stipend $12, 000 and expected summer support bringing annual total to$16, 000; confirm current rates. Central international page says assistantships cover tuition/nonresident fees, but stipend often insufficient for living/I-20 expenses; external funds may be necessary. No guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.usm.edu/graduate-programs/biological-sciences.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.usm.edu/graduate-school/admission-guide-faq.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.usm.edu/biological-environmental-earth-sciences/graduate-student-handbook.php",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

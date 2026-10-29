@@ -1,0 +1,75 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Biological Sciences - Integrative Physiology and Neurobiology PhD",
+  "institution": "Kent State University",
+  "institutionShort": "Kent State",
+  "officialUrl": "https://www.kent.edu/biology/biological-sciences-integrative-physiology-and-neurobiology-phd",
+  "detailsNote": "Official annual information is available; Fall 2027 program dates were not explicitly confirmed. Admission model is not explicit.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "November 15",
+      "note": "Annual date for strongest consideration."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "International fee; domestic $50. Central policy denies ordinary waivers. Domestic-only October 19–26,2026 promotion has ended; no international promotion."
+    },
+    "english": {
+      "toefl": "94 iBT as published; confirm current test scale",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "PTE 65 also accepted. Exemptions depend on listed education countries or specified US/accredited study and other documented routes; written request to International Admissions required. Overseas English-medium study alone is not a general exemption."
+    },
+    "documents": [
+      "Copies of official transcripts; originals after admission",
+      "Resume or CV",
+      "Personal statement with research experience/interests and potential faculty mentors",
+      "Three recommendations; at least one addresses research aptitude",
+      "International original-language academic records and certified English translation"
+    ],
+    "note": "Bachelor or higher in natural sciences, GPA 2.75 and strong biology/chemistry/mathematics; deficiencies addressed first year. Prior faculty contact not required. Program checklist requires faculty names."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Unconditional admission includes assistantship, stipend, tuition coverage and some health insurance benefits without separate application; amount/duration not stated."
+  },
+  "sources": [
+    {
+      "url": "https://www.kent.edu/biology/biological-sciences-integrative-physiology-and-neurobiology-phd",
+      "label": "Program-specific doctoral requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.kent.edu/admissions/graduate-degree-student-requirements",
+      "label": "Central fees and transcript policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.kent.edu/admissions/waive-english-language-requirement",
+      "label": "English exemption conditions",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.kent.edu/biology/ms-and-phd-biological-sciences-frequently-asked-questions",
+      "label": "Biological Sciences admissions FAQ",
+      "checked": "2026-10-28"
+    }
+  ]
+}

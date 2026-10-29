@@ -1,0 +1,80 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Alabama",
+  "institutionShort": "Alabama",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://catalog.ua.edu/graduate/arts-sciences/biological-sciences/phd/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Biology research doctorate requiring an identified faculty advisor before admission.",
+  "admissionModel": "lab",
+  "applyUrl": "https://bsc.ua.edu/graduate/admissions/",
+  "publishedDeadlines": [
+    {
+      "label": "Fall TA funding consideration",
+      "dateText": "December 1",
+      "note": "Department FAQ gives December1, earlier than catalog recommended December10; use earlier date and confirm."
+    },
+    {
+      "label": "Spring TA funding consideration",
+      "dateText": "June 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International fee $80; US citizens/permanent residents $65. Central exemptions: US military/veterans with documentation, previous UA graduate enrollees, qualifying UA undergraduates applying to same program next term with GPA3.0, UAH/UAB exchange students. Confirm international eligibility for an applicable category. Biology department itself cannot waive fees."
+    },
+    "english": {
+      "toefl": "Central4.5 with no subscore below4; older department iBT80 minimum vs central79 before January2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS no band below6; DET no subscore below110. Test age under two years. Central exemptions require degree, at least two years coursework, or citizenship/legal residence in a recognized English-speaking country. Department FAQ implies English undergraduate study alone suffices; central eligibility is more specific, so confirm any exemption. International TAs undergo ITAP placement; department publishes older TOEFL speaking21 requirement."
+    },
+    "documents": [
+      "Transcripts (unofficial for application; official after admission)",
+      "Statement of purpose (main instructions1–2pages; FAQ1–3pages) describing background, goals, faculty fit and contributions"
+    ],
+    "note": "GPA3.0 required; biology or related discipline preparation assessed by advisor. Three letters from faculty familiar with academic/research potential. International records evaluated internally; WES not required. Funding decisions considered with admission, most fall decisions by March1. Generally no international admissions beyond March1 for fall/July1 spring due to visa lead time. Catalog also requires an interview with the prospective advisor before an application is complete."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Funding depends on faculty advisor and TA/RA availability. Applicants automatically considered; department generally does not accept unfunded research-degree students, but this is not an unconditional all-admitted guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://catalog.ua.edu/graduate/arts-sciences/biological-sciences/phd/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://bsc.ua.edu/graduate/admissions/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.ua.edu/applicants/requirements/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.ua.edu/applicants/international-students/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

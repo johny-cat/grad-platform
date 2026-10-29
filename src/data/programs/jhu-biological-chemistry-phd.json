@@ -1,0 +1,67 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Johns Hopkins University",
+  "institutionShort": "Johns Hopkins",
+  "name": "Biological Chemistry PhD",
+  "officialUrl": "https://biolchem.bs.jhmi.edu/graduate-program/",
+  "admissionModel": "program",
+  "detailsNote": "Official PhD identity and historical requirements verified. Program missing from current SOM application table; application link shows Account Suspended. Fall 2027 recruitment availability unconfirmed; contact program before preparing an application.",
+  "publishedDeadlines": [
+    {
+      "label": "Historical application close",
+      "dateText": "12/06/2023",
+      "note": "Historical 2023–2024 application cycle only."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "One-page personal statement",
+      "CV",
+      "Transcripts from all institutions",
+      "Three recommendations"
+    ],
+    "english": {
+      "note": "Historical 2023 instructions require TOEFL/IELTS for nonnative internationals; US or English-instruction degree exemption. Current acceptance of this policy unconfirmed."
+    },
+    "note": "Historical statement covers graduate interest, career objectives and research. Historical $115 application fee is not a current fee quote; current program fee/app availability unconfirmed."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Historical 2023–2024 instructions say program students receive stipend, SOM tuition and standard medical coverage; $37,500 applied that year. Current package and recruitment unconfirmed."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Program overview says national and international slots equally open; current application availability unconfirmed."
+  },
+  "sources": [
+    {
+      "url": "https://biolchem.bs.jhmi.edu/graduate-program/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/-/media/som/documents/_documents-grad-program/fall-2023-admissions/bc-program-admission-reqs.pdf",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biolchem.bs.jhmi.edu/curriculum/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.hopkinsmedicine.org/som/education-programs/graduate-programs/admissions/on-campus-programs/",
+      "label": "Official program or school policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

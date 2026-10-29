@@ -1,0 +1,85 @@
+{
+  "name": "Molecular and Cell Biology PhD",
+  "institution": "University of Maryland, Baltimore County",
+  "institutionShort": "UMBC",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://biology.umbc.edu/graduate-programs/mocb/",
+  "admissionModel": "program",
+  "detailsNote": "Department publishes undated January1 fall-only admission. Fall2027 calendar date not explicitly confirmed; department instructions take precedence over conflicting central spring listings.",
+  "publishedDeadlines": [
+    {
+      "note": "Department states fall-only admission; no explicit year.",
+      "dateText": "January 1st",
+      "label": "Fall departmental application"
+    }
+  ],
+  "requirements": {
+    "documents": [
+      "Statement of academic goals and research interests naming relevant faculty/areas",
+      "Three recommendations",
+      "Resume",
+      "Official transcripts from all college-level institutions; foreign records in original language and English"
+    ],
+    "applicationFee": {
+      "note": "Conditional central categories: current Peace Corps volunteers, Horizons, McNair, Project1000 and UMBC employees; certain continuing/change-of-program applicants also exempt. No central financial-hardship waivers. Confirm international eligibility for an applicable category or ask department about sponsorship.",
+      "waiver": "available",
+      "amount": 75,
+      "currency": "USD"
+    },
+    "note": "Four-year accredited bachelor-equivalent required. Recommended biology-related preparation: calculus one semester, organic chemistry two semesters with lab, physics two semesters, genetics and cell biology one semester each. Computational entrants may qualify using their degree programming/biology background; CBS biology/chemistry entrants need basic programming. Research experience preferred, not required. GRE scores may be submitted voluntarily but are waived. Prior research-mentor arrangement not required at application. Three research rotations precede dissertation research. WES ICAP course-by-course report sent directly can replace official transcripts; evaluation optional.",
+    "gre": "optional",
+    "english": {
+      "ielts": 6.5,
+      "toefl": "80 before January21,2026;4 on/after that date; Essentials8.5",
+      "note": "Central minima; DET accepted by most programs, confirm program acceptance. PTE Academic53, TOEFL MyBest accepted. English-country/institution exemptions may apply under linked guidelines; detailed exemption document did not render, so no automatic overseas English-medium exemption established.",
+      "duolingo": 115
+    },
+    "letters": {
+      "min": 3
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "note": "Department describes accepted PhD students in good standing as supported by RA, TA or external fellowship. Program-specific amount, tuition/insurance terms and international guarantee not established for this affiliated program.",
+    "coversInternational": "unknown"
+  },
+  "sources": [
+    {
+      "url": "https://biology.umbc.edu/graduate-programs/mocb/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.umbc.edu/requirements/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biology.umbc.edu/support/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umbc.edu/admissions/graduate/admissions-requirements/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umbc.edu/admissions/graduate/international-applicants/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://umbc.edu/admissions/graduate/admissions-requirements/required-documents/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Vector Biology and Parasitology PhD",
+  "institution": "Uniformed Services University",
+  "institutionShort": "USU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://medschool.usuhs.edu/pmb/phd-in-vector-biology-parasitology",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Vector Biology and Parasitology research PhD; central US-citizenship rule conflicts with department US-degree international exception.",
+  "applyUrl": "https://medschool.usuhs.edu/geo/admissions",
+  "publishedDeadlines": [
+    {
+      "label": "Application and supporting documents",
+      "dateText": "December 1",
+      "note": "Central page gives recurring date without entry year; optional GRE policy is explicitly for2026–27 admissions."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "No application fee and no tuition; no waiver required."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Complete CV/resume (remove street address)",
+      "Official transcripts",
+      "Three recommendation letters sent directly by recommenders",
+      "Three-part online application",
+      "Complete employment history",
+      "Personal statement on public-health interest and use of training in future career",
+      "Parent-organization sponsorship status for active-duty applicants"
+    ],
+    "note": "Master’s in an appropriate biological field normally required; bachelor’s-only entry exceptional. Central admissions requires US citizenship and makes GRE optional for2026–27, but department admissions mentions GRE and international applicants with a US bachelor’s degree. Confirm program-specific citizenship and GRE eligibility before applying. Active-duty relevant officers receive preference; civilians reviewed as space permits, with preference for health professionals sponsored by other US agencies."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Tuition and fees waived for all students. Limited civilian predoctoral teaching/research assistantship stipends are available; no universal stipend guarantee stated. The same department Financial Support–Civilian section also describes salary/benefits as government employees for Civilian Track students during the first three years and grant/fellowship support thereafter, while its Admissions section calls civilian stipends limited; confirm the applicable track/package. Military support remains through sponsoring service, with service obligations determined by that service."
+  },
+  "international": {
+    "accepted": "unknown",
+    "note": "Conflict: central graduate admissions requires US citizenship, while program page considers international students with a US college/university bachelor’s. Confirm applicable policy directly; no general overseas eligibility inferred."
+  },
+  "sources": [
+    {
+      "url": "https://medschool.usuhs.edu/pmb/phd-in-vector-biology-parasitology",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medschool.usuhs.edu/geo/admissions",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medschool.usuhs.edu/geo/admissions/apply-for-graduate-admission",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Wildlife Biology PhD",
+  "institution": "Utah State University",
+  "institutionShort": "Utah State",
+  "admissionModel": "lab",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. GRE policy not established on opened pages.",
+  "officialUrl": "https://catalog.usu.edu/programs/WIBI-WIBI_PHD-MAJOR",
+  "publishedDeadlines": [
+    {
+      "label": "Application review",
+      "dateText": "ongoing basis",
+      "note": "Apply after obtaining faculty adviser agreement; no cycle-specific cutoff stated."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 55,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central McNair Scholars/active USU Honors waivers. Some departments offer hardship waivers; Wildland Resources offer unconfirmed. Confirm international category eligibility."
+    },
+    "english": {
+      "toefl": "79 legacy; 4.0 for tests on/after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "IELTS each subscale 5; MET 55/Cambridge 176 alternatives. Two-year official scores. Two years of English-instruction college in listed countries exempts. Else official registrar letter/transcript confirming English instruction can satisfy requirement. Program may add conditions."
+    },
+    "documents": [
+      "Statement of purpose",
+      "Official transcripts from prior colleges except USU",
+      "Three recommendations",
+      "Certified translations for non-English records",
+      "English proficiency evidence when required"
+    ],
+    "note": "Accredited bachelor and GPA 3.0; PhD post-bachelor/master routes. Faculty adviser must agree before application. Recent students: at least two references must authoritatively assess recent academic performance. Recommendations submitted directly. Confirm permission before using unofficial records."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Wildland Resources provides no departmental funding. Adviser or third-party support may be available, or students may self-fund. No stipend/tuition guarantee stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://catalog.usu.edu/programs/WIBI-WIBI_PHD-MAJOR",
+      "label": "Official degree or central admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.usu.edu/admissions/policies",
+      "label": "Official degree or central admissions policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.usu.edu/admissions/application-steps-international",
+      "label": "Official degree or central admissions policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

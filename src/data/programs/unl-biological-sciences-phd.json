@@ -1,0 +1,92 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "University of Nebraska–Lincoln",
+  "institutionShort": "Nebraska–Lincoln",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://graduate.unl.edu/academics/programs/BIOS-PHD/",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research PhD at the University of Nebraska–Lincoln.",
+  "applyUrl": "https://graduate.unl.edu/academics/programs/BIOS-PHD/",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Not currently enrolled: $50; currently enrolled UNL students: $25. Central office does not issue waivers, but departments may cover fees; contact program before payment. No citizenship restriction stated on this route; international applicants should confirm eligibility. Biology asks other applicants to request consideration by November 15; BTAA FreeApp has separate US-citizen/permanent-resident criteria."
+    },
+    "english": {
+      "toefl": "85 (published departmental iBT scale)",
+      "ielts": 6.5,
+      "note": "Central current TOEFL minimum 4 after January 21, 2026; no department-specific new-scale equivalent verified. English-medium accredited bachelor’s or advanced degree exempts testing. Scores valid two years; central ESL 887 placement may still apply based on scores."
+    },
+    "documents": [
+      "Unofficial transcripts/mark sheets from all institutions, plus international degree certificates/diplomas and certified English translations",
+      "CV/resume",
+      "Statement of purpose (at most 2 pages)",
+      "Identify up to 4 faculty sharing research interests",
+      "Three recommendation letters"
+    ],
+    "note": "Official records required after admission. F/J visa applicants must provide financial information. Central profile says new entry once yearly in August. Bachelor’s or equivalent and GPA 3.0 in department guidelines."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "First-year TA/RA appointments generally available, competitive; published undated academic-year stipend $23, 040 with tuition remission and health benefits. Up to 12 credits tuition waiver/semester. International teaching assistants must attend International Teaching Assistant Institute. No all-admitted guarantee."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://graduate.unl.edu/academics/programs/BIOS-PHD/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biosci.unl.edu/academics/graduate/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.unl.edu/application-requirements-additional-details/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduate.unl.edu/english-proficiency/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biosci.unl.edu/financial-aid-incoming-graduate-students/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://biosci.unl.edu/graduate-program-guidelines/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ],
+  "tracks": [
+    "Bioinformatics",
+    "Ecology, Evolution and Behavior",
+    "Genetics, Cell and Molecular Biology",
+    "Plant Pathology"
+  ]
+}

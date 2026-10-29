@@ -1,0 +1,97 @@
+{
+  "name": "Integrative and Applied Biology PhD",
+  "institution": "Texas State University",
+  "institutionShort": "Texas State",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-28",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "summary": "Research doctorate in integrative and applied biology, with bachelor’s and master’s entry routes.",
+  "admissionModel": "lab",
+  "applyUrl": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority",
+      "dateText": "February 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall standard — international",
+      "dateText": "June 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Fall standard — US citizen",
+      "dateText": "August 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring priority",
+      "dateText": "September 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring standard — international",
+      "dateText": "October 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    },
+    {
+      "label": "Spring standard — US citizen",
+      "dateText": "November 1",
+      "note": "No year stated; confirm the intended admission cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Applications with international credentials $90; otherwise $55. Graduate Admissions offers waivers based on documented financial need. No citizenship limitation is stated on this graduate policy; confirm international eligibility and approval before payment."
+    },
+    "english": {
+      "toefl": "78 if taken on/before January21,2026; 4 if taken after that date",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "IELTS Academic, every module at least6.0. PTE52 or TOEFL Essentials8.5 also accepted. Bachelor’s or higher from an accredited US institution or equivalent from a listed exempt country exempts testing. Program does not admit applicants below its scores."
+    },
+    "documents": [
+      "Transcripts from each institution where credit granted",
+      "Resume/CV",
+      "Statement of purpose describing professional aspirations and doctoral goals",
+      "Intent-to-mentor letter emailed directly by current doctoral faculty member"
+    ],
+    "note": "Master’s route: related natural-science master’s and graduate GPA3.25. Bachelor’s-only route: related degree, GPA3.5 overall or in the last 60 undergraduate hours, including any completed graduate courses in the GPA assessment; other disciplines case by case. Secure faculty agreement before applying; mentor letter must arrive by deadline. The wording does not require bachelor’s-only applicants to have taken graduate courses."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Instructional/teaching assistantships are competitive for qualified full-time doctoral students. Scholarships also available. No universal funding or current stipend established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://mycatalog.txstate.edu/graduate/science-engineering/biology/aquatic-resources-phd/",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.gradcollege.txst.edu/admissions/policy.html",
+      "label": "Official program or university policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

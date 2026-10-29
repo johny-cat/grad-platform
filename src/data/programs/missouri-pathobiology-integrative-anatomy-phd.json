@@ -1,0 +1,85 @@
+{
+  "name": "Pathobiology (Integrative Anatomy) PhD",
+  "institution": "University of Missouri",
+  "institutionShort": "Mizzou",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "officialUrl": "https://gradschool.missouri.edu/degreecategory/pathobiology-area-program/",
+  "detailsNote": "Official annual deadline undated; Fall2027 not confirmed. Admission model not conclusively specified.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "January 15",
+      "note": "Undated annual schedule; fall-only review."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Undergraduate/postgraduate transcripts",
+      "Three recommendation letters",
+      "Statement of purpose",
+      "CV/resume",
+      "At least one writing sample"
+    ],
+    "note": "Choose Pathobiology Area Program/Integrative Anatomy Focus (PhD), not Veterinary Pathobiology route. PAS requires contacting prospective advisors before applying. GRE rule not stated. Central qualifying bachelor/equivalent; GPA3.0 last60 bachelor hours for applicants without higher credential. Unofficial transcripts review, official if admitted.",
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Nonresident international100USD; US citizens/permanent residents75. Central waivers: Missouri-resident Pell recipients within5years or named service participants, and US military/veterans. Some programs may pay fees case by case; no overseas hardship route promised. International eligibility depends qualifying category and program confirmation."
+    },
+    "english": {
+      "ielts": 6.5,
+      "duolingo": 115,
+      "toefl": "80 old iBT or4.5 new; each17old/4new",
+      "note": "Central minima: IELTS each6,PTE59,Cambridge180. Scores valid2years through entry; noMyBest. Exemption recognized-English-country citizenship/residency,degree or2years coursework, subject to program override; case waivers requested by program, not automatic. TA separate language evaluation."
+    }
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "PAS warns aid is not automatic; some programs require extra funding forms. Confirm advisor/program offer; no guarantee or amount established."
+  },
+  "sources": [
+    {
+      "url": "https://gradschool.missouri.edu/degreecategory/pathobiology-area-program/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medicine.missouri.edu/departments/pathology-and-anatomical-sciences/education/graduate",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://medicine.missouri.edu/departments/pathology-and-anatomical-sciences/education/graduate/pathology-anatomical-sciences",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.missouri.edu/admissions/apply/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.missouri.edu/admissions/apply/application-fees/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://gradschool.missouri.edu/admissions/apply/international-applicants/",
+      "label": "Official program or graduate policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

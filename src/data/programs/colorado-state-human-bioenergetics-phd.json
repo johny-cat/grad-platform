@@ -1,0 +1,81 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "institution": "Colorado State University",
+  "institutionShort": "Colorado State",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "name": "Human Bioenergetics PhD",
+  "admissionModel": "lab",
+  "officialUrl": "https://www.chhs.colostate.edu/hes/programs-and-degrees/ph-d-in-human-bioenergetics/",
+  "publishedDeadlines": [
+    {
+      "label": "Flexible admission",
+      "dateText": "no hard deadlines",
+      "note": "Plan mid-spring application for fall or mid-fall for spring; no year stated."
+    }
+  ],
+  "requirements": {
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International degree applicants: $70. Qualifying degrees/affiliations only; confirm eligibility. See central policy. International applicants should confirm the applicable category and documentation before payment."
+    },
+    "english": {
+      "toefl": "80 before January 2026; 4.5 after January 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "PTE 58. Official scores within two years; qualifying country/recent-degree exemptions. Department may require more."
+    },
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts for all degrees",
+      "Letter of application: career/research goals and interviewed potential adviser",
+      "CV and supporting thesis/publications",
+      "Three professor recommendations",
+      "Faculty adviser support letter with financial support plan"
+    ],
+    "note": "Potential adviser interviews applicant and recommends admission with a resources/support plan; committee decides."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Doctoral students normally hold grant-funded GRAs; availability depends on faculty funds. Mixed GTA support possible. Some nine-month GTAs include tuition; nonresident tuition first year only. No universal guarantee or current stipend amount stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.chhs.colostate.edu/hes/programs-and-degrees/ph-d-in-human-bioenergetics/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.chhs.colostate.edu/hes/programs-and-degrees/advising-and-support/paying-for-graduate-school/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/apply/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/skip-the-application-fee/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://graduateschool.colostate.edu/admissions-resources/english-proficiency/",
+      "label": "Official program or Graduate School policy",
+      "checked": "2026-10-28"
+    }
+  ]
+}

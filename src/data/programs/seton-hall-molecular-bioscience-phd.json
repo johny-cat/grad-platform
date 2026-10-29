@@ -1,0 +1,65 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-28",
+  "name": "Molecular Bioscience PhD",
+  "institution": "Seton Hall University",
+  "institutionShort": "Seton Hall",
+  "officialUrl": "https://www.shu.edu/academics/phd-molecular-bioscience.html",
+  "detailsNote": "Official information is available; Fall 2027 dates and an admission model were not explicitly confirmed. The archive biology directory lead resolves to Molecular Bioscience.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall priority admission and funding",
+      "dateText": "March 15",
+      "note": "Annual priority date; rolling applications accepted."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Program explicitly says waivers available but does not publish criteria. International applicants should confirm eligibility and approval before paying."
+    },
+    "english": {
+      "note": "Official TOEFL or IELTS required for applicants whose first language is not English; numeric minima not established on opened pages. Written waiver requests may be considered for English primary/secondary education or a US degree. Do not assume overseas English-medium university education automatically qualifies. Duolingo acceptance must be confirmed with program."
+    },
+    "documents": [
+      "Online graduate application",
+      "Personal statement of 750–1,000 words",
+      "Resume",
+      "Official transcripts from all postsecondary institutions",
+      "Letters of recommendation",
+      "NACES-member course-by-course evaluation for education outside US/Canada"
+    ],
+    "note": "GRE required for all PhD applicants. Recommendation count not stated. Original records need certified English translation when applicable; official delivery required. International applicants enroll full time. Program describes foundation coursework followed by qualifying exam, dissertation-mentor selection and research."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Competitive teaching and research assistantships provide tuition benefits and stipend; no universal award or international guarantee stated."
+  },
+  "sources": [
+    {
+      "url": "https://www.shu.edu/academics/phd-molecular-bioscience.html",
+      "label": "PhD identity, documents, annual dates and funding",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.shu.edu/graduate-affairs/international-graduate-applicants.html",
+      "label": "International graduate requirements",
+      "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.shu.edu/graduate-affairs/faq.html",
+      "label": "Official records and recommendations",
+      "checked": "2026-10-28"
+    }
+  ]
+}

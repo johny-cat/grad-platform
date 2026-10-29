@@ -192,3 +192,8 @@ The branch publishes 100 previously pending programs, taking published details f
 
 Adds exactly 100 new checked programs at 58 institutions: 407 total catalog entries, 403 checked and 4 pending. Per-program official sources/evidence and a deadline/fee/GRE table plus inaccessible-page list are in docs/research/catalog-expansion-batch-1-100.md. The isolated publishing checkout passed npm run check and npm run build. The generated supabase/seed/catalog.sql must be synchronized after merge; live publication is verified only after the main deployment finishes. Remaining archive research is kept outside this 100-program batch.
 
+
+## Catalog expansion publication — 2026-10-29
+
+Batch 1: PR #19 merged, Supabase synchronized, public catalog verified at 407 entries with all 100 new IDs visible. Batch 2 adds exactly 100 new checked entries at 50 institutions, for 507 total (503 checked, four pending). Independent reviews compared populated facts with saved official evidence and reopened samples and doubts. The final complete batch is checked and built before PR creation; university changes are committed separately. Current-cycle dates are preferred; older or undated dates remain qualified. The table and inaccessible-page list are in docs/research/catalog-expansion-batch-2-100.md. Database sync and live verification follow merge.
+
