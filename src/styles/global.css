@@ -1387,6 +1387,19 @@ textarea::placeholder {
   font-weight: 800;
 }
 
+/* A date from an official page whose year isn't confirmed for this season. */
+.estimated-note {
+  display: block;
+  font-size: var(--text-s);
+  font-weight: 400;
+  color: var(--muted);
+}
+
+[data-estimated] .upcoming__date,
+[data-estimated] .program-row__date {
+  font-style: italic;
+}
+
 .mission {
   display: grid;
   gap: 8px;

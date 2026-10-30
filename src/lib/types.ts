@@ -36,7 +36,8 @@ export interface ProgramSummary {
   institution: string;
   short: string;
   country: string;
-  deadline?: { date: string; time?: string; timezone?: string };
+  /** `estimated`: from an official date whose year is not confirmed for this season. */
+  deadline?: { date: string; time?: string; timezone?: string; estimated?: boolean };
   /** Home areas or tracks inside an umbrella program, for search. */
   tracks?: string[];
 }

@@ -52,7 +52,16 @@ function updateDeadlines(today: string) {
       }
     }
     const countdown = el.querySelector<HTMLElement>('[data-countdown]');
-    if (countdown) countdown.textContent = label ?? countdownLabel(days, passed);
+    if (countdown) {
+      const text = label ?? countdownLabel(days, passed);
+      // An estimated date (year not confirmed) is hedged: "About 30 days left", "Likely closes tomorrow".
+      const estimated = el.hasAttribute('data-estimated') && !passed;
+      countdown.textContent = !estimated
+        ? text
+        : /days left$/.test(text)
+          ? `About ${text.toLowerCase()}`
+          : `Likely ${text.charAt(0).toLowerCase()}${text.slice(1)}`;
+    }
     el.classList.toggle('is-passed', passed);
     if (passed && el.hasAttribute('data-hide-when-passed')) el.hidden = true;
   }

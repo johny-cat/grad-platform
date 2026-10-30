@@ -225,6 +225,7 @@ export default function MyPage({ programs, cycleId, cycleLabel }: Props) {
                       {p?.deadline && days !== null && (
                         <li>
                           Deadline {formatShortDate(p.deadline.date)}: {countdownLabel(days, days < 0).toLowerCase()}
+                          {p.deadline.estimated ? ' (year not confirmed)' : ''}
                         </li>
                       )}
                     </ul>
