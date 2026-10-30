@@ -3,17 +3,72 @@
   "institution": "South Dakota State University",
   "institutionShort": "South Dakota State",
   "country": "US",
+  "location": "Brookings, South Dakota",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "summary": "Cooperative PhD in biological sciences run with eight departments, from animal science to natural resource management. The plan of study can be shaped to each student's interests. Fall, spring or summer start; 60 or 90 credit plan.",
+  "detailsNote": "Official information available. The December 15 (fall) and October 15 (spring) dates are the Graduate Admissions page's undated deadlines and are not confirmed for Fall 2027. The official pages do not say whether students are admitted to a program or to a lab, so the admission model is left out. GRE and recommendation letters depend on the program; the Biological Sciences catalog requirements page could not be opened.",
   "officialUrl": "https://www.sdstate.edu/programs/graduate/biological-sciences-phd",
+  "applyUrl": "https://www.sdstate.edu/admissions/graduate-admissions",
   "cycle": "fall-2027",
-  "lastChecked": "2026-10-28",
+  "publishedDeadlines": [
+    {
+      "label": "Fall semester application deadline (undated)",
+      "dateText": "December 15",
+      "note": "Graduate Admissions page gives no year; applications after it are 'not guaranteed formal review'. Confirm Fall 2027 with the university."
+    },
+    {
+      "label": "Spring semester application deadline (undated)",
+      "dateText": "October 15",
+      "note": "Graduate Admissions page gives no year. Confirm with the university."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "4.0 (as listed on the international applicants page)",
+      "ielts": 6.0,
+      "duolingo": 100,
+      "note": "Minimum scores as published for international graduate applicants. The page does not say which TOEFL scale the 4.0 uses."
+    },
+    "documents": [
+      "Completed admissions application",
+      "Official bachelor's degree transcript or evaluation (official or unofficial transcripts from all institutions for international applicants)",
+      "Resume, statement of purpose and letters of recommendation, if the program requires them",
+      "International applicants: passport photo page, proof of English proficiency, evidence of one year of financial support"
+    ],
+    "note": "Minimum GPA of 3.0 for unconditional acceptance. GRE scores are sent to SDSU only if submitting them. Application fee: the international page lists US$40; the fee for domestic applicants and any waiver were not stated on the pages opened."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Students who receive a graduate assistantship have all tuition and fees waived except the General Activity Fee. Students work with their department directly to obtain an assistantship; the pages do not say all admitted students receive one, give a stipend amount, or say whether international students are covered."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Dedicated international graduate applicant page; evidence of one year of financial support is required."
+  },
   "sources": [
     {
       "url": "https://www.sdstate.edu/programs/graduate/biological-sciences-phd",
-      "label": "Official program or university policy",
-      "checked": "2026-10-28"
+      "label": "Official program page",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions",
+      "label": "Graduate admissions: deadlines and GPA",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants",
+      "label": "International graduate applicants: English, fee, documents",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.sdstate.edu/graduate-school/graduate-assistantships",
+      "label": "Graduate assistantships",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }

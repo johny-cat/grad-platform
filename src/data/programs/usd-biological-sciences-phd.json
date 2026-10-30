@@ -3,22 +3,66 @@
   "institution": "University of South Dakota",
   "institutionShort": "South Dakota",
   "country": "US",
+  "location": "Vermillion, South Dakota",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://usd.edu/Academics/Graduate-Programs/Biological-Sciences",
-  "cycle": "fall-2027",
-  "lastChecked": "2026-10-28",
+  "details": "checked",
   "tracks": [
     "Conservation Biology",
     "Integrative Biology",
     "Neuroscience"
   ],
+  "summary": "Research doctorate with a general track and specializations in conservation biology, integrative biology and neuroscience, aimed at careers in research and academia.",
+  "detailsNote": "Official information available, but the program's catalog admissions requirements (deadline, GRE, letters) could not be opened, so no deadline, GRE policy or admission model is stated here. Fee and English minimums are the university's general graduate pages.",
+  "officialUrl": "https://usd.edu/Academics/Graduate-Programs/Biological-Sciences",
+  "applyUrl": "https://www.usd.edu/Admissions-and-Aid/Graduate-Admissions/How-to-Apply",
+  "cycle": "fall-2027",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 or higher (iBT); TOEFL Essentials 8.5 or higher (4 or higher on new scoring from January 2026)",
+      "ielts": 6.0,
+      "duolingo": 110,
+      "note": "University minimums for international graduate applicants; applicants with a conferred degree from a listed English-speaking country are exempt."
+    },
+    "documents": [
+      "Official transcripts sent directly from the issuing institution",
+      "Letters of recommendation, if the program requires them (submitted through the CAS Evaluator Portal)",
+      "Statement of purpose",
+      "Standardized test scores, if the program requires them",
+      "International applicants: passport copy, official English scores, financial documentation"
+    ],
+    "note": "Application is through GradCAS. Each academic program has its own requirements. The Graduate Admissions page says the application fee 'cannot be waived or deferred' and is non-refundable; the amount for this program was not stated on the pages opened."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The program page says USD offers graduate students a reduced tuition rate in exchange for teaching, research and service. Graduate assistantships: apply to the Graduate School once accepted; no deadline. Amounts and whether all admitted PhD students are funded are not stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Separate international graduate admissions page; financial documentation is required before an I-20."
+  },
   "sources": [
     {
       "url": "https://usd.edu/Academics/Graduate-Programs/Biological-Sciences",
-      "label": "Official program or university policy",
-      "checked": "2026-10-28"
+      "label": "Official program page",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.usd.edu/Admissions-and-Aid/Graduate-Admissions/How-to-Apply",
+      "label": "Graduate admissions: how to apply, fee",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission",
+      "label": "International graduate admission: English and documents",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.usd.edu/Admissions-and-Aid/Financial-Aid/Types-of-Aid/Graduate-Assistantships",
+      "label": "Graduate assistantships",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }
