@@ -21,3 +21,7 @@ Reopened official 2026–2027 bulletin and checked saved access limits. The bull
 
 ## Review: 2026-10-31
 Reopened bulletin ("GRE scores are not required for admission.", 3.00 GPA, "are generally admitted directly into the Ph.D. program", limited deficiencies made up concurrently, assistantships), Huck deadlines ("Plant Biology | Early August | December 1", columns Application Opens / Deadline to Apply, no year), Huck table ("Transcript CV Statement of Purpose GRE General Test scores Three Letters of Recommendation") and Graduate School page ($85 / $65; "To request an application fee waiver, contact your intended graduate program directly."; TOEFL/IELTS as in JSON). Confirmed; no changes.
+
+## Browser check: 2026-10-31
+
+Opened by hand: https://www.huck.psu.edu/lifescigrad now shows "Page Not Found" ("The page you were looking for doesn't exist."). That table was the only source for three letters, the CV and statement of purpose, and the conflicting GRE line, so those were removed. GRE now follows the official bulletin: "GRE scores are not required for admission."
