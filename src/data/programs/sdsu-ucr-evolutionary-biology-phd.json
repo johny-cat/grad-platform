@@ -1,0 +1,24 @@
+{
+  "name": "Joint Doctoral Program in Evolutionary Biology",
+  "institution": "San Diego State University / University of California, Riverside",
+  "institutionShort": "SDSU / UC Riverside",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "pending",
+  "officialUrl": "https://biology.sdsu.edu/doctoral/evolutionary/application-procedures/",
+  "sources": [
+    {
+      "url": "https://biology.sdsu.edu/doctoral-programs/",
+      "label": "SDSU Biology: Doctoral programs",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/evolutionary/application-procedures/",
+      "label": "SDSU Evolutionary Biology Joint Doctoral Program: Application procedure",
+      "checked": "2026-10-31"
+    }
+  ],
+  "lastChecked": "2026-10-31"
+}

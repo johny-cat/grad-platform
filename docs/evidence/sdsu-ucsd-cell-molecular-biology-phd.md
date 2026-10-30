@@ -17,3 +17,7 @@ English Proficiency / exemptions: qualifying English-principal-instruction forei
 Demonstrating Proficiency / individual test sections: UCSD degree exemption requires B/3.0 or better and English-only instruction. Foreign institutions must meet WHED sole-English listing; no substitute letters. TOEFL 85 previous / 4.5 new scale, IELTS Academic 7, DET 120; two-year validity. Higher UCSD TOEFL minima are retained alongside lower SDSU program minima. Anchor: “No other documentation”.
 
 Independent review 2026-10-30: corrected requirement exemption versus fee waiver terminology to match the UCSD joint-program page.
+
+## Check: 2026-10-31 (archive lead reconciliation)
+- https://biology.sdsu.edu/doctoral-programs/ lists three separate joint doctoral programs: "SDSU | UC San Diego Cell & Molecular Biology Joint Doctoral Program", "SDSU | UC Davis Ecology Joint Doctoral Program", "SDSU | UC Riverside Evolutionary Biology Joint Doctoral Program". The last two are separate files (pending).
+- https://biology.ucsd.edu/education/grad/joint-sdsu.html: "Students interested in this program should apply directly to SDSU."
