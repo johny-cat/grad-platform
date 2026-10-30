@@ -5,3 +5,6 @@ Check: 2026-10-31. Status: checked. Central deadline, fee, GRE, English, funding
 - Official program website (linked from that page, not opened because the fetch tool blocked it): https://evbio.uchicago.edu/
 - Admission model: No rotation sentence on the page.
 - The program page gives no requirements or deadlines of its own; only the contact bsdadmissions@uchicago.edu.
+
+## Review: 2026-10-31
+Reopened the program's Biosciences page: the "Program Website" link matches officialUrl; page has no rotation sentence (except Human Genetics, via hgen page); https://biosciences.uchicago.edu/programs lists the program by the name used. FAQ reopened: "December 1, 2026 for all programs", $90, GRE optional, IELTS 7, "International applicants are welcome", "Our financial package is available to all students". Financial Support reopened: "full and equitable support", guaranteed five years. Fee waiver stays "available" (categories not limited to US applicants, consistent with the reviewed Cancer Biology file).

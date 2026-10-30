@@ -38,7 +38,13 @@
       "Resume, statement of purpose and letters of recommendation, if the program requires them",
       "International applicants: passport photo page, proof of English proficiency, evidence of one year of financial support"
     ],
-    "note": "Minimum GPA of 3.0 for unconditional acceptance. GRE scores are sent to SDSU only if submitting them. Application fee: the international page lists US$40; the fee for domestic applicants and any waiver were not stated on the pages opened."
+    "note": "Minimum GPA of 3.0 for unconditional acceptance. GRE scores are sent to SDSU only if submitting them (the international page says GRE only 'if applicable and required by the program').",
+    "applicationFee": {
+      "amount": 40,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Both the Graduate Admissions page ('$40 application fee') and the international applicants page ('Application fee of U.S. $40') state $40. No opened page mentions a fee waiver."
+    }
   },
   "funding": {
     "coversInternational": "unknown",

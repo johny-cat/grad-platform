@@ -32,7 +32,13 @@
       "Standardized test scores, if the program requires them",
       "International applicants: passport copy, official English scores, financial documentation"
     ],
-    "note": "Application is through GradCAS. Each academic program has its own requirements. The Graduate Admissions page says the application fee 'cannot be waived or deferred' and is non-refundable; the amount for this program was not stated on the pages opened."
+    "note": "Application is through GradCAS. Each academic program has its own requirements and deadlines, which are listed in the Graduate Catalog (not opened).",
+    "applicationFee": {
+      "amount": 38,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The International Admissions page states a '$38 USD application fee' (non-refundable). The Graduate Admissions page says 'The application fee cannot be waived or deferred and is non-refundable.' The fee for domestic applicants is not stated on the pages opened."
+    }
   },
   "funding": {
     "coversInternational": "unknown",

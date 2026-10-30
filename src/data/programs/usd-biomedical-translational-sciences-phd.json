@@ -8,17 +8,11 @@
   "field": "biology",
   "details": "checked",
   "summary": "Interdisciplinary biomedical research PhD in the Sanford School of Medicine, with specializations in cancer biology, cardiovascular biology, infectious diseases, molecular biology and genetics, neuroscience, or physiology and pharmacology.",
-  "detailsNote": "Official information available. The April 1 cutoff comes from an older Graduate Biomedical Sciences page that gives no year, so it is not confirmed for Fall 2027. The catalog admissions requirements (GRE, letters, GPA) could not be opened, so GRE is shown as unknown and the admission model is not stated.",
+  "detailsNote": "Official information available, but no application deadline is shown: the program page gives none, and an older Graduate Biomedical Sciences page that mentioned an April 1 cutoff no longer exists. The catalog admissions requirements (GRE, letters, GPA) could not be opened, so GRE is shown as unknown and the admission model is not stated.",
   "officialUrl": "https://usd.edu/Academics/Graduate-Programs/Biomedical-and-Translational-Sciences",
   "applyUrl": "https://www.usd.edu/Admissions-and-Aid/Graduate-Admissions/How-to-Apply",
   "cycle": "fall-2027",
-  "publishedDeadlines": [
-    {
-      "label": "Final application cutoff (undated)",
-      "dateText": "no applications are accepted after April 1",
-      "note": "Graduate Biomedical Sciences page: rolling admissions, offers finalized May 15, fall term starts in August. No year given; confirm Fall 2027 with the program."
-    }
-  ],
+  "publishedDeadlines": [],
   "requirements": {
     "gre": "unknown",
     "english": {
@@ -33,7 +27,13 @@
       "Statement of purpose",
       "International applicants: passport copy, official English scores, financial documentation"
     ],
-    "note": "Apply to the USD Graduate School through GradCAS. The Graduate Admissions page says the application fee 'cannot be waived or deferred'; the amount for this program was not stated on the pages opened."
+    "note": "Apply to the USD Graduate School through GradCAS (the Graduate Admissions page says 'all graduate applications are submitted through the GradCAS centralized application service'). Each program sets its own requirements and deadline in the Graduate Catalog (not opened).",
+    "applicationFee": {
+      "amount": 38,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The International Admissions page states a '$38 USD application fee' (non-refundable). The Graduate Admissions page says 'The application fee cannot be waived or deferred and is non-refundable.' The fee for domestic applicants is not stated on the pages opened."
+    }
   },
   "funding": {
     "coversInternational": "unknown",
@@ -47,11 +47,6 @@
     {
       "url": "https://usd.edu/Academics/Graduate-Programs/Biomedical-and-Translational-Sciences",
       "label": "Official program page",
-      "checked": "2026-10-31"
-    },
-    {
-      "url": "https://www.usd.edu/Academics/Graduate%20Programs/Biomedical%20Sciences",
-      "label": "Graduate Biomedical Sciences: rolling admissions and April 1 cutoff",
       "checked": "2026-10-31"
     },
     {

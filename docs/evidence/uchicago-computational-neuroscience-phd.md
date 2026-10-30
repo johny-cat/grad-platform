@@ -5,3 +5,6 @@ Check: 2026-10-31. Status: checked. Central deadline, fee, GRE, English, funding
 - Official program website (linked from that page, not opened because the fetch tool blocked it): https://biosciences.uchicago.edu/programs/computational-neuroscience
 - Admission model: No rotation sentence on the page. Program site http://cns.uchicago.edu/ is linked but could not be opened.
 - The program page gives no requirements or deadlines of its own; only the contact bsdadmissions@uchicago.edu.
+
+## Review: 2026-10-31
+Reopened https://biosciences.uchicago.edu/programs/computational-neuroscience: "Program Website: http://cns.uchicago.edu/" is linked (site itself not openable: not in provenance). officialUrl changed from the Biosciences page to that program site, as the page designates it. Programs page, FAQ and Financial Support reopened and match central evidence.
