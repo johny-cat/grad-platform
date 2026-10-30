@@ -1,0 +1,75 @@
+{
+  "name": "Ecology & Evolution (PhD)",
+  "institution": "University of Chicago",
+  "institutionShort": "UChicago",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "location": "Chicago, Illinois",
+  "summary": "PhD training in the ecological and evolutionary processes behind patterns of life on earth, from gene regulation to ecosystems, in the lab or the field, with emphasis on theory and quantitative methods.",
+  "officialUrl": "https://eegraduate.uchicago.edu/",
+  "applyUrl": "https://biosciences.uchicago.edu/admissions/how-to-apply",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application and all supporting materials",
+      "date": "2026-12-01",
+      "note": "The Biosciences FAQ gives December 1, 2026 for Autumn admission for all programs, including letters and supplementary materials."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "Tests on/after 21 January 2026: Reading and Writing at least 5, Listening at least 5.5, Speaking at least 4.5. Earlier tests: 100 overall; Reading, Writing and Listening at least 26; Speaking at least 22.",
+      "ielts": 7,
+      "note": "IELTS Academic: at least 7 overall with 7 in each section. Scores must be from December 1, 2024 or later. Applicants who meet the University's English-medium education criteria may be exempt."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The $90 fee is non-refundable. Biosciences lists specific fee-waiver categories, requested after you submit, and the page doesn't limit waivers by citizenship (some categories need a U.S. institution or U.S. service), so international applicants should confirm with the university that they qualify. Don't pay before the waiver decision."
+    },
+    "note": "One Biosciences application covers all its PhD programs: you may list up to four programs in no more than two clusters. GRE is optional for all PhD programs; most programs do not consider submitted scores.",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Candidate statement (maximum 2 pages)",
+      "Unofficial transcripts from each degree-granting postsecondary institution"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Biosciences support includes tuition and fees and a stipend, guaranteed for the first five years subject to satisfactory progress and extended to degree completion in all but unusual circumstances. International applicants are welcome and the financial package is available to all students. The published 2026-27 stipend is not a confirmed 2027-28 amount; PhD students generally must be legally authorized to work in the US."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "detailsNote": "The Biosciences deadline and requirements are confirmed for Autumn 2027. The program's own Biosciences page doesn't say whether students rotate or apply to a lab, so the admission model is left out.",
+  "sources": [
+    {
+      "url": "https://biosciences.uchicago.edu/programs/ecology-and-evolution",
+      "label": "UChicago Biosciences: Ecology & Evolution",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq",
+      "label": "UChicago Biosciences: Application FAQs",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/phd-admissions",
+      "label": "UChicago Biosciences: PhD Admissions",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/programs",
+      "label": "UChicago Biosciences: PhD Graduate Programs",
+      "checked": "2026-10-31"
+    }
+  ],
+  "lastChecked": "2026-10-31"
+}

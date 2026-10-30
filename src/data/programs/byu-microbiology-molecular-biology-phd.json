@@ -5,15 +5,74 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
+  "details": "checked",
   "cycle": "fall-2027",
-  "details": "pending",
+  "summary": "PhD in microbiology and molecular biology at BYU. Applicants submit a statement of intent, CV and related materials; the Graduate Studies page lists a January 15 fall deadline.",
   "officialUrl": "https://learningoutcomes.byu.edu/programs/unit-programs/1064",
+  "applyUrl": "https://gradstudies.byu.edu/admissions/applying",
+  "detailsNote": "The January 15 fall deadline comes from BYU's '2026-2027 Application Deadlines' table, which does not say which entry year it refers to, so it is not confirmed for Fall 2027. The admission model, letters of recommendation, funding and fee waivers are not stated on the official pages opened. The program page says some departments may require higher English scores than the university minimums.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application deadline (as published)",
+      "dateText": "January 15",
+      "note": "Listed under Fall in the Graduate Studies '2026-2027 Application Deadlines' table and on the program page ('Fall: Jan 15') with no year; not confirmed for Fall 2027. Confirm directly."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "85 overall (scores until 20 Jan 2026, old scale); 4.5 overall (from 21 Jan 2026, new scale)",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "University minimums: TOEFL iBT old scale subscores 22 Speaking and 21 each Listening, Reading, Writing; new scale at least 4.0 in each section. IELTS 7.0 overall with 6.0 per module. Duolingo at least 125 in each subscore and 130 overall. Scores must be under two years old at enrollment. Some departments may require higher scores. Citizens of listed English-speaking countries, or those with a residential bachelor's from them within 24 months of start, are exempt."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Graduate Studies says a $50 fee is required on applying; no fee waiver is mentioned on the pages opened."
+    },
+    "documents": [
+      "Statement of intent stating field of interest and career goals",
+      "Curriculum vitae (CV)",
+      "Cover letter",
+      "Employment history",
+      "Copies of publications",
+      "List of presentations",
+      "Foreign credential evaluation for international students (official, from a credential evaluator)"
+    ],
+    "note": "Admission requires a bachelor's degree or equivalent in microbiology or biological or biochemical sciences; classes in chemistry, physics, mathematics and statistics are recommended. The GRE and recommendation letters are not mentioned on the program page; the deadlines table lists no required tests."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "English proficiency is required for most foreign applicants, and foreign transcripts need an official credential evaluation."
+  },
   "sources": [
     {
       "url": "https://learningoutcomes.byu.edu/programs/unit-programs/1064",
       "label": "Official degree inventory",
-      "checked": "2026-10-28"
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradstudies.byu.edu/microbiology-and-molecular-biology-phd",
+      "label": "BYU Graduate Studies: Microbiology and Molecular Biology program page",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradstudies.byu.edu/2026-2027-Application-Deadlines",
+      "label": "BYU Graduate Studies: 2026-2027 Application Deadlines",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradstudies.byu.edu/admissions/applying",
+      "label": "BYU Graduate Studies: Applying (fee, foreign transcripts)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradstudies.byu.edu/admissions/english-proficiency",
+      "label": "BYU Graduate Studies: English proficiency",
+      "checked": "2026-10-31"
     }
   ],
-  "lastChecked": "2026-10-28"
+  "lastChecked": "2026-10-31"
 }

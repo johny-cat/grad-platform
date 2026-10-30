@@ -3,11 +3,58 @@
   "institution": "San Diego State University / University of California, Davis",
   "institutionShort": "SDSU / UC Davis",
   "country": "US",
+  "location": "San Diego, California",
   "degree": "phd",
   "field": "biology",
-  "cycle": "fall-2027",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "Joint PhD awarded by SDSU and UC Davis. You need an SDSU Ecology faculty member who agrees to take you into their lab. Apply to UC Davis first; selected applicants then complete a short second application through Cal State Apply.",
   "officialUrl": "https://biology.sdsu.edu/doctoral/ecology/application-procedure/",
+  "applyUrl": "https://grad.ucdavis.edu/apply",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "UC Davis application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "UC Davis Graduate Studies lists December 1 as the general deadline for this joint program under its 2027-28 application, and says applications close at 11:59 p.m. Pacific on the deadline day. The program page says 'on or before December 1' (no year) and moves it to the previous working day if the 1st falls on a weekend or holiday. The program's own UC Davis page still shows older dates (December 1, 2024)."
+    }
+  ],
+  "timeline": {
+    "decisions": "Review of applications for each fall semester starts in early January."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "80 (exams before 21 Jan 2026); 4.5 out of 6.0 (exams on or after 21 Jan 2026)",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "UC Davis minimums, and the program may require higher. IELTS needs 7.0 on a 9-point scale. Duolingo is for applicants who cannot take another test; UC Davis pages differ (115 on one earlier check, 130 on the latest), so the higher is shown. TOEFL and IELTS scores expire after two years. Waived with a degree from a qualifying institution where English is the only language of instruction."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "UC Davis charges $155 for international applicants and $135 for US applicants. UC Davis offers fee waivers only to applicants who took part in listed graduate preparation programs, not for financial need or other reasons; no citizenship limit is stated, so international applicants should confirm. The program page does not mention a fee for the second (Cal State Apply) application."
+    },
+    "documents": [
+      "UC Davis online application with transcripts (unofficial PDFs accepted; official ones only if admitted)",
+      "Personal statement and statement of purpose (UC Davis application)",
+      "Curriculum vitae and a statement of research interests, which most faculty ask to see before agreeing to sponsor you",
+      "Abbreviated second application through Cal State Apply, for selected applicants"
+    ],
+    "note": "GRE: UC Davis lists 'GRE not required or accepted' for this program. The number of recommendation letters is not stated on the program page; UC Davis says to check the program's requirements. You must meet eligibility requirements at both UC Davis and SDSU, and to be given full consideration should have a GPA above 3.2."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Admitted students are offered support from graduate research or teaching assistantships plus a benefits package, typically for 5 years with satisfactory progress. The page gives current stipends of $31,200 to $32,700 depending on progress, without naming a year. It does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "UC Davis says international applicants complete the same requirements as US applicants and must submit official TOEFL or IELTS unless exempt."
+  },
+  "detailsNote": "The December 1 deadline comes from UC Davis Graduate Studies' 2027-28 deadline table (confirmed in a browser on 31 Oct 2026). The SDSU program page gives December 1 with no year. Fee and English scores are UC Davis's central rules; the program page itself does not state them. Check them on the official pages.",
   "sources": [
     {
       "url": "https://biology.sdsu.edu/doctoral-programs/",
@@ -17,6 +64,51 @@
     {
       "url": "https://biology.sdsu.edu/doctoral/ecology/application-procedure/",
       "label": "SDSU Ecology Joint Doctoral Program: Application procedure",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/ecology/admission-eligibility/",
+      "label": "SDSU Ecology Joint Doctoral Program: Admission eligibility (faculty sponsor)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/ecology/support-and-financial-aid/",
+      "label": "SDSU Ecology Joint Doctoral Program: Support and funding",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/ecology/program-overview/",
+      "label": "SDSU Ecology Joint Doctoral Program: Program overview",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/program-application-deadlines",
+      "label": "UC Davis Graduate Studies: Application deadlines (2027-28)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/programs/gesd",
+      "label": "UC Davis Graduate Studies: Ecology (joint program with SDSU)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/application-components",
+      "label": "UC Davis Graduate Studies: Application components and fee",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "label": "UC Davis Graduate Studies: English language examinations",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers",
+      "label": "UC Davis Graduate Studies: Fee waivers",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.ucdavis.edu/international-applicants",
+      "label": "UC Davis Graduate Studies: International applicants",
       "checked": "2026-10-31"
     }
   ],

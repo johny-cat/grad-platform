@@ -3,11 +3,70 @@
   "institution": "San Diego State University / University of California, Riverside",
   "institutionShort": "SDSU / UC Riverside",
   "country": "US",
+  "location": "San Diego, California",
   "degree": "phd",
   "field": "biology",
-  "cycle": "fall-2027",
-  "details": "pending",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "Joint PhD with research under an SDSU faculty member and a year of residence at UC Riverside. Apply to SDSU through Cal State Apply, then complete the program application; selected applicants submit an extra application to UC Riverside.",
   "officialUrl": "https://biology.sdsu.edu/doctoral/evolutionary/application-procedures/",
+  "applyUrl": "https://admissions.sdsu.edu/grad-programs/doctorates",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Cal State Apply application",
+      "date": "2026-12-01",
+      "note": "SDSU lists 'Submit Cal State Apply Application: December 1' under Fall 2027 deadlines (no year or time given; December 2026 is the only date that fits Fall 2027 entry)."
+    },
+    {
+      "label": "Documents to SDSU Graduate Admissions",
+      "date": "2026-12-15",
+      "note": "Listed by SDSU under Fall 2027 deadlines as December 15."
+    },
+    {
+      "label": "Program application",
+      "date": "2026-12-15",
+      "note": "Listed by SDSU under Fall 2027 deadlines as December 15. The program page says applicants must submit this program application by December 15, in addition to the CSU application."
+    }
+  ],
+  "timeline": {
+    "decisions": "Review of applications for each fall semester starts in early January. Those selected are asked to submit an additional application to UC Riverside."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 (tests before 21 Jan 2026); 4 (tests on or after 21 Jan 2026)",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "SDSU Graduate Admissions minimums (PTE 58 also accepted); scores must be dated within two years of the start of the filing period, and the program may require higher. The program page asks for a copy of your ETS scorecard with SDSU-accepted scores, if applicable. SDSU waives the test for some applicants, for example with a qualifying degree or from listed countries. UC Riverside, which receives selected applicants, lists TOEFL 80 (4 on the new scale) and IELTS 7 with no part below 6."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "SDSU's fee is non-refundable. SDSU says it has only a very limited number of waivers, for California residents who show financial need, so international applicants should not expect one. The program page does not state a fee; UC Riverside's separate application fee is not covered here."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Resume or curriculum vitae",
+      "Statement of research goals, linking your interests to those of SDSU and UC Riverside faculty",
+      "Personal history statement",
+      "Unofficial transcripts from each institution attended",
+      "Copy of ETS scorecard with SDSU-accepted English scores, if applicable"
+    ],
+    "note": "You must give the names and email addresses of three recommenders, who are asked to submit online. You are encouraged to contact potential faculty advisors before applying and must name one SDSU Evolutionary Biology faculty member as your program advisor. You must meet eligibility requirements at both SDSU and UC Riverside."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The program pages we found describe only university scholarship portals and do not say whether students are funded, for how long, or whether funding covers international students."
+  },
+  "international": {
+    "accepted": "unknown",
+    "note": "The program page only mentions English proficiency scores; it does not say whether international applicants are accepted. SDSU Graduate Admissions has an international graduate application page."
+  },
+  "detailsNote": "Dates are the Fall 2027 dates listed by SDSU Admissions; the program page gives December 1 and 15 without a year. The fee and English minimums are SDSU Graduate Admissions' general rules, not stated on the program page. Funding is not described on the program's pages.",
   "sources": [
     {
       "url": "https://biology.sdsu.edu/doctoral-programs/",
@@ -17,6 +76,41 @@
     {
       "url": "https://biology.sdsu.edu/doctoral/evolutionary/application-procedures/",
       "label": "SDSU Evolutionary Biology Joint Doctoral Program: Application procedure",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/evolutionary/admissions-information/",
+      "label": "SDSU Evolutionary Biology Joint Doctoral Program: Admission information and eligibility",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/evolutionary/program-overview/",
+      "label": "SDSU Evolutionary Biology Joint Doctoral Program: Program overview",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/evolutionary/financial-aid-scholarships/",
+      "label": "SDSU Evolutionary Biology Joint Doctoral Program: Financial aid and scholarships",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://admissions.sdsu.edu/grad-programs/doctorates",
+      "label": "SDSU Admissions: Doctoral degrees (Fall 2027 deadlines)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://admissions.sdsu.edu/graduate/steps-apply",
+      "label": "SDSU Admissions: Graduate fall steps to apply",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://admissions.sdsu.edu/international/graduate/steps-apply",
+      "label": "SDSU Admissions: International graduate fall steps to apply",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://graduate.ucr.edu/admission-requirements",
+      "label": "UC Riverside Graduate Division: Admission requirements",
       "checked": "2026-10-31"
     }
   ],

@@ -3,8 +3,8 @@
   "degree": "phd",
   "field": "biology",
   "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-29",
+  "details": "checked",
+  "lastChecked": "2026-10-31",
   "name": "Comparative Biomedical Sciences PhD",
   "institution": "University of Georgia",
   "institutionShort": "UGA",
@@ -12,13 +12,81 @@
   "sources": [
     {
       "url": "https://grad.uga.edu/degree/phd-comparative-biomedical-sciences/",
-      "label": "Official admissions and program policy",
-      "checked": "2026-10-29"
+      "label": "Graduate School: program listing",
+      "checked": "2026-10-31"
     },
     {
-      "url": "https://vet.uga.edu/wp-content/uploads/2024/08/PhD-Student-Handbook-2024.pdf",
-      "label": "Official admissions and program policy",
-      "checked": "2026-10-29"
+      "url": "https://vet.uga.edu/education/phd-and-masters-degree-programs/comparative-biomedical-sciences-graduate-program/applying/",
+      "label": "CBS program: Applying",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://vet.uga.edu/wp-content/uploads/2025/08/PhD-Student-Handbook-2025.pdf",
+      "label": "PhD student handbook (August 2025)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.uga.edu/admissions/application-deadlines/",
+      "label": "Graduate School: application deadlines",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.uga.edu/index.php/prospective-students/international-application-information/international-supplement/english-language-proficiency-requirement/",
+      "label": "Graduate School: English language proficiency",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.uga.edu/policy-update-application-requirements/",
+      "label": "Graduate School: revised English proficiency policy",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "admissionModel": "lab",
+  "summary": "UGA's Comparative Biomedical Sciences PhD in the College of Veterinary Medicine. Direct admission with rolling review: you need a faculty major professor willing to mentor you before you can be accepted.",
+  "applyUrl": "https://grad.uga.edu/degree/phd-comparative-biomedical-sciences/",
+  "detailsNote": "The program page points to the Graduate School for deadlines. The Graduate School's fall deadlines page gives month and day only, with no year (page last modified May 19, 2025), so they are shown as published and not used for countdowns. Departmental deadlines may be earlier. The program page states no stipend; the handbook says assistantship funding is limited.",
+  "publishedDeadlines": [
+    {
+      "label": "Graduate School fall deadline, domestic applicants",
+      "dateText": "Fall Semester – July 1",
+      "note": "No year stated on the page. Program says it has rolling admissions; departmental deadlines may be earlier."
+    },
+    {
+      "label": "Graduate School fall deadline, international applicants",
+      "dateText": "Fall Semester – April 15",
+      "note": "No year stated on the page. Not confirmed for Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 with at least 20 on speaking and writing",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "IELTS needs no single band below 6.0. Applies to applicants with degrees from institutions where English is not the primary or official language; some exemptions apply. Scores no more than two years old. Alternative: Level 6 of the UGA Intensive English Program."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The program page says it is unable to waive this fee."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Resume/CV",
+      "Academic transcripts (unofficial accepted at application; official if admitted)"
+    ],
+    "note": "Needs a B.S. (or foreign equivalent) and/or professional degree (DVM, MD, DDS, etc.) with a minimum GPA of 3.00 out of 4.00. A writing sample is not required. Applicants are not accepted until they have identified a major professor in the College of Veterinary Medicine."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The 2025 student handbook says assistantships include a stipend and a tuition waiver, and that funding for assistantships is limited. No stipend amount is stated."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The program page describes English proficiency rules for international applicants."
+  }
 }

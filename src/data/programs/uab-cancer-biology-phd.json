@@ -3,8 +3,8 @@
   "degree": "phd",
   "field": "biology",
   "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-29",
+  "details": "checked",
+  "lastChecked": "2026-10-31",
   "name": "Graduate Biomedical Sciences PhD entry program",
   "institution": "University of Alabama at Birmingham",
   "institutionShort": "UAB",
@@ -22,18 +22,92 @@
   "sources": [
     {
       "url": "https://www.uab.edu/gbs/home/",
-      "label": "Official admissions or program source",
-      "checked": "2026-10-29"
+      "label": "GBS home",
+      "checked": "2026-10-31"
     },
     {
       "url": "https://www.uab.edu/gbs/home/themes/cancer",
-      "label": "Official admissions or program source",
-      "checked": "2026-10-29"
+      "label": "Cancer Biology theme",
+      "checked": "2026-10-31"
     },
     {
       "url": "https://www.uab.edu/gbs/home/images/Handbooks/2024-2025.pdf",
-      "label": "Official admissions or program source",
-      "checked": "2026-10-29"
+      "label": "GBS 2024-25 handbook (themes)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.uab.edu/gbs/home/admissions",
+      "label": "GBS admissions: deadlines, fee, GRE, English tests",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.uab.edu/gbs/home/admissions/faq",
+      "label": "GBS admissions FAQ",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.uab.edu/gbs/home/admissions/application-checklist",
+      "label": "GBS application checklist",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://bb.uab.edu/gbs/home/admissions",
+      "label": "GBS admissions (alternate address)",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "admissionModel": "program",
+  "summary": "One application to UAB's Graduate Biomedical Sciences PhD entry program. You pick one of eight themes (Cancer Biology is one), do three lab rotations in year one, then join a lab. Fall entry only.",
+  "applyUrl": "https://www.uab.edu/gbs/home/admissions/application-checklist",
+  "detailsNote": "The official admissions pages we could open show the Fall 2026 cycle (applications opened August 1, 2025; deadlines in 2025). No Fall 2027 dates were published on them, so the dates below are shown as published for the earlier cycle and are not used for countdowns. Stipend amount and whether funding covers international students are not stated on the pages we could open.",
+  "publishedDeadlines": [
+    {
+      "label": "Priority application deadline (Fall 2026 cycle)",
+      "dateText": "November 30, 2025",
+      "note": "Published for Fall 2026 entry, not Fall 2027. Confirm the Fall 2027 date with the program."
+    },
+    {
+      "label": "Final application deadline (Fall 2026 cycle)",
+      "dateText": "December 31, 2025",
+      "note": "Published for Fall 2026 entry, not Fall 2027. Applications opened August 1, 2025 for that cycle."
+    }
+  ],
+  "timeline": {
+    "interviews": "Competitive applicants are invited to interview in early spring.",
+    "decisions": "Offers of admission are generally made from January through April; April 15 is the final day to accept or decline an offer."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "For international applicants. Other accepted tests: PTEA 53, IELA 176. Scores must be no more than two years old at the time of application."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$60 for international applicants; the domestic fee is $50 and is covered by the Graduate School for applications by the priority deadline. Waivers are offered to participants in certain listed programs: enter 'Fee Waiver' as the coupon code and upload proof of participation. The pages do not say whether international applicants qualify, so confirm with the program."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement (PDF)",
+      "Resume or CV (PDF)",
+      "Transcripts from all post-secondary institutions (unofficial accepted for review; official only if admitted)",
+      "Minimum 6 months of research experience",
+      "Foreign transcripts evaluated by WES or another NACES service"
+    ],
+    "note": "Admission is only for fall semester."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The FAQ says 'All students traditionally admitted into the program receive financial support.' No stipend amount or year is stated on the pages we could open."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants submit English proficiency scores and pay a $60 fee. Those living in the continental U.S. may be invited to on-campus interviews; others may interview by video."
+  }
 }

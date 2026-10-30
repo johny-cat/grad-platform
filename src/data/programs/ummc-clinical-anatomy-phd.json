@@ -6,19 +6,97 @@
   "degree": "phd",
   "field": "biology",
   "cycle": "fall-2027",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.umc.edu/graduateschool/Degree-Programs/PhD/Clinical-Anatomy.html",
-  "lastChecked": "2026-10-28",
+  "lastChecked": "2026-10-31",
   "sources": [
     {
       "url": "https://www.umc.edu/graduateschool/Degree-Programs/PhD/Clinical-Anatomy.html",
-      "label": "Official identity",
-      "checked": "2026-10-28"
+      "label": "Official program page",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Advanced-Biomedical-Education/Education/Clinical-Anatomy/Graduate-Program-in-Clinical-Anatomy/Prospective%20Students.html",
+      "label": "Clinical Anatomy: Prospective students",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Advanced-Biomedical-Education/Education/Clinical-Anatomy/Graduate-Program-in-Clinical-Anatomy/Graduate-Program-in-Clinical-Anatomy.html",
+      "label": "Graduate Program in Clinical Anatomy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application-Deadlines-and-Procedures.html",
+      "label": "Graduate school: deadlines, fee, transcripts",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+      "label": "Graduate school: application for admission",
+      "checked": "2026-10-31"
     },
     {
       "url": "https://www.umc.edu/graduateschool/Degree-Programs/Degree-Programs-Overview.html",
-      "label": "Named PhD list",
+      "label": "Graduate school: degree programs",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/Office%20of%20Academic%20Affairs/prospective-students/find-program/international-students.html",
+      "label": "UMMC: programs for international students",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Paying%20for%20School1/Awards-and-Funding-Opportunities.html",
+      "label": "Graduate school: awards and funding",
       "checked": "2026-10-28"
     }
-  ]
+  ],
+  "summary": "Doctoral program at UMMC that trains graduates to teach anatomy in college and graduate settings and to do research in clinical anatomy or anatomy education.",
+  "applyUrl": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+  "detailsNote": "Dates on official pages carry no year, so Fall 2027 is not confirmed. The program page says PhD applicants wanting Spring Recruitment Day must apply by December 15, while the graduate school page says January 15th; the earlier one is safer. Admission model, GRE, English minimums and funding are not stated on the pages reached.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application (all PhD programs)",
+      "dateText": "June 1 of the same year",
+      "note": "Graduate school page for all PhD programs; no year is given, so not confirmed for Fall 2027."
+    },
+    {
+      "label": "Spring Recruitment Event consideration",
+      "dateText": "January 15th",
+      "note": "Graduate school page, undated; not a final admission deadline."
+    },
+    {
+      "label": "Spring Recruitment Day consideration (program page)",
+      "dateText": "December 15",
+      "note": "Program page, undated. Review of completed applications begins in January, decisions finalized in April."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "applicationFee": {
+      "amount": 25,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The graduate school says a nonrefundable $25 fee must be submitted. The page does not mention fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Copies of predoctoral transcripts",
+      "Personal statement (online 'Research Interest and Experience Essay')"
+    ],
+    "english": {
+      "note": "International applicants submit TOEFL, IELTS or PTE-A scores; minimum scores not stated on the pages reached."
+    },
+    "note": "Baccalaureate degree in a relevant scientific discipline and GPA of 3.0 or better. The essay covers your motivation for a PhD, prior teaching or research experience, UMMC faculty or research areas of interest, and your career vision five years after the PhD."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The graduate school's international-students list names this PhD (rechecked 2026-10-31)."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "No funding information on the program pages. The graduate school says stipends and scholarships are assigned competitively (checked 2026-10-28)."
+  }
 }

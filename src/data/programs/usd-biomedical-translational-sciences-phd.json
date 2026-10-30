@@ -3,17 +3,62 @@
   "institution": "University of South Dakota",
   "institutionShort": "South Dakota",
   "country": "US",
+  "location": "Vermillion, South Dakota",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
+  "summary": "Interdisciplinary biomedical research PhD in the Sanford School of Medicine, with specializations in cancer biology, cardiovascular biology, infectious diseases, molecular biology and genetics, neuroscience, or physiology and pharmacology.",
+  "detailsNote": "Official information available, but no application deadline is shown: the program page gives none, and an older Graduate Biomedical Sciences page that mentioned an April 1 cutoff no longer exists. The catalog admissions requirements (GRE, letters, GPA) could not be opened, so GRE is shown as unknown and the admission model is not stated.",
   "officialUrl": "https://usd.edu/Academics/Graduate-Programs/Biomedical-and-Translational-Sciences",
+  "applyUrl": "https://www.usd.edu/Admissions-and-Aid/Graduate-Admissions/How-to-Apply",
   "cycle": "fall-2027",
-  "lastChecked": "2026-10-27",
+  "publishedDeadlines": [],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "79 or higher (iBT); TOEFL Essentials 8.5 or higher (4 or higher on new scoring from January 2026)",
+      "ielts": 6.0,
+      "duolingo": 110,
+      "note": "University minimums for international graduate applicants; applicants with a conferred degree from a listed English-speaking country are exempt. The program may set its own requirements."
+    },
+    "documents": [
+      "Official transcripts sent directly from the issuing institution",
+      "Letters of recommendation, if the program requires them",
+      "Statement of purpose",
+      "International applicants: passport copy, official English scores, financial documentation"
+    ],
+    "note": "Apply to the USD Graduate School through GradCAS (the Graduate Admissions page says 'all graduate applications are submitted through the GradCAS centralized application service'). Each program sets its own requirements and deadline in the Graduate Catalog (not opened).",
+    "applicationFee": {
+      "amount": 38,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The International Admissions page states a '$38 USD application fee' (non-refundable). The Graduate Admissions page says 'The application fee cannot be waived or deferred and is non-refundable.' The fee for domestic applicants is not stated on the pages opened."
+    }
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The program page gives a Ph.D. Research Graduate Assistantship stipend of $31,500 for the first full year ($2,625 a month); no year is given for the figure. It is for admitted students in research track programs and requires full-time work towards the degree and a background check. Fellows with non-resident status receive a 62% reduction in tuition and fees. The pages do not say all admitted students are funded or that international students are covered."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Separate international graduate admissions page; financial documentation is required before an I-20."
+  },
   "sources": [
     {
       "url": "https://usd.edu/Academics/Graduate-Programs/Biomedical-and-Translational-Sciences",
-      "label": "Official program or university policy",
-      "checked": "2026-10-27"
+      "label": "Official program page",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.usd.edu/Admissions-and-Aid/Graduate-Admissions/How-to-Apply",
+      "label": "Graduate admissions: how to apply, fee",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission",
+      "label": "International graduate admission: English and documents",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }

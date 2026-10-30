@@ -3,17 +3,104 @@
   "institution": "The Ohio State University",
   "institutionShort": "Ohio State",
   "country": "US",
+  "location": "Columbus, Ohio",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://dentistry.osu.edu/careers-start-here/phd-programs/phd-oral-biology",
+  "applyUrl": "https://gpadmissions.osu.edu/programs/program.aspx?prog=0155",
   "cycle": "fall-2027",
-  "lastChecked": "2026-10-29",
+  "summary": "Research PhD in oral biology at the Ohio State College of Dentistry. A dental degree is not needed. Funding mostly comes from research assistantships, so contacting a faculty member before you apply is advised.",
+  "detailsNote": "Which way students are admitted (program or lab) is not stated; contacting a faculty member before applying is strongly recommended. The fee is Ohio State's central graduate fee (checked 2026-10-29). The program page also shows a December 1 fellowship-consideration date without a year.",
+  "publishedDeadlines": [
+    {
+      "label": "Fellowship consideration",
+      "dateText": "Dec 1",
+      "note": "Shown on the program page without a year or an application deadline label. Confirm the Fall 2027 date with the program."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "79 (older scale) or 4.0 (updated scale) minimum",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Program-specific minimums on Ohio State's admissions page for Oral Biology. Ohio State does not accept MyBest TOEFL scores or IELTS One Skill Retake scores. Exemptions are listed on the proof of English proficiency page."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$70 for international students ($60 for US students). Some Ohio State waivers (such as the code from a recruitment event) do not limit nationality, but others exclude international students; confirm you qualify."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Official transcripts"
+    ],
+    "note": "The minimum is a bachelor's degree in a biological or physical science or engineering; a DDS is not required. Apply through the Ohio State graduate application and list Oral Biology under Graduate Study Plan; the PASS dental application is not used."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "The admissions FAQ says Graduate Research Associate positions often cover tuition and most fees and pay a monthly stipend, that funding is open to domestic and international students, and that the college has a limited number of positions. It advises contacting a faculty member before applying about funding. The separate T32 training grant is only for US citizens and permanent residents."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://dentistry.osu.edu/careers-start-here/phd-programs/phd-oral-biology",
-      "label": "Official independent PhD identity",
+      "label": "College of Dentistry: PhD in Oral Biology",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://dentistry.osu.edu/careers-start-here/advanced-education-graduate-programs/phd-oral-biology/admissions-faq",
+      "label": "College of Dentistry: PhD in Oral Biology admissions FAQ",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/programs/programs.aspx",
+      "label": "Graduate and Professional Admissions: degrees and programs",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/grad/prepare-required-materials.html",
+      "label": "Graduate and Professional Admissions: required materials",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html",
+      "label": "Graduate and Professional Admissions: application fee",
       "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "label": "Graduate and Professional Admissions: fee waivers",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "label": "Graduate and Professional Admissions: English proficiency",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://gpadmissions.osu.edu/programs/program.aspx?prog=0155",
+      "label": "Graduate and Professional Admissions: Oral Biology PhD (criteria and Autumn 2027 deadlines)",
+      "checked": "2026-10-31"
+    }
+  ],
+  "lastChecked": "2026-10-31",
+  "deadlines": [
+    {
+      "label": "Autumn 2027 deadline (US applicants)",
+      "date": "2026-12-01"
+    },
+    {
+      "label": "Autumn 2027 deadline (international applicants)",
+      "date": "2026-10-15",
+      "note": "International applicants have the earlier date."
     }
   ]
 }

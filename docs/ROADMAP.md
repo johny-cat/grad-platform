@@ -4,7 +4,7 @@ Built in layers. Each layer ships before the next starts.
 
 ## Layer 1: programs and results (target: live by 30 November 2026)
 
-- [x] Program catalog format with official sources (212 programs with published official details; 95 pending, with historical/undated dates qualified)
+- [x] Program catalog format with official sources (677 programs at 231 institutions, all with published official details as of 2026-10-31; older/undated dates qualified)
 - [x] List programs before their details are checked, so people can follow them and report results: every US biology PhD program in this season's sheet, 300 programs (2026-10-18 and 19; live on the site and in the database since 2026-10-19)
 - [x] Weekly check that every official program link still opens
 - [x] Program list with search and filters

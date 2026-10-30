@@ -6,19 +6,75 @@
   "degree": "phd",
   "field": "biology",
   "cycle": "fall-2027",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Physiology/Education/Graduate-Program/Overview.html",
-  "lastChecked": "2026-10-28",
+  "lastChecked": "2026-10-31",
   "sources": [
     {
       "url": "https://www.umc.edu/som/Departments%20and%20Offices/SOM%20Departments/Physiology/Education/Graduate-Program/Overview.html",
-      "label": "Official identity",
-      "checked": "2026-10-28"
+      "label": "Official program page",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application-Deadlines-and-Procedures.html",
+      "label": "Graduate school: deadlines, fee, transcripts",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+      "label": "Graduate school: application for admission",
+      "checked": "2026-10-31"
     },
     {
       "url": "https://www.umc.edu/graduateschool/Degree-Programs/Degree-Programs-Overview.html",
-      "label": "Named PhD list",
+      "label": "Graduate school: degree programs",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/Office%20of%20Academic%20Affairs/prospective-students/find-program/international-students.html",
+      "label": "UMMC: programs for international students",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Paying%20for%20School1/Awards-and-Funding-Opportunities.html",
+      "label": "Graduate school: awards and funding",
       "checked": "2026-10-28"
     }
-  ]
+  ],
+  "summary": "PhD in Physiology from the Department of Physiology and Biophysics at UMMC. Needs at least 60 credit hours, a dissertation and at least one first-author research publication.",
+  "applyUrl": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+  "detailsNote": "The department page links to prerequisites and an application, but that linked page was not reached; only the graduate school's general dates, fee and application page are used. Dates carry no year, so Fall 2027 is not confirmed. Admission model, GRE, letters and English minimums are not stated on the pages reached.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application (all PhD programs)",
+      "dateText": "June 1 of the same year",
+      "note": "Graduate school page for all PhD programs; no year is given, so not confirmed for Fall 2027."
+    },
+    {
+      "label": "Spring Recruitment Event consideration",
+      "dateText": "January 15th",
+      "note": "Graduate school page, undated; not a final admission deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "applicationFee": {
+      "amount": 25,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The graduate school says a nonrefundable $25 fee must be submitted. The page does not mention fee waivers."
+    },
+    "documents": [
+      "Official transcripts (sent to UMMC All Admissions or transcripts@umc.edu)"
+    ],
+    "note": "Department page gives no admission checklist. Degree needs at least 60 credit hours in physiology and biomedical science courses (at least 15 outside the major area), a dissertation and at least one first-author original research publication."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The graduate school's international-students list names this PhD (rechecked 2026-10-31)."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The department says PhD students are 'fully financially supported throughout their training' with a tuition scholarship, student healthcare and a living stipend of $28,000 per year. The graduate school's awards page says stipends and scholarships are competitive, so confirm in your offer."
+  }
 }

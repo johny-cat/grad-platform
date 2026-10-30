@@ -3,8 +3,8 @@
   "degree": "phd",
   "field": "biology",
   "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-29",
+  "details": "checked",
+  "lastChecked": "2026-10-31",
   "name": "Animal Molecular and Cellular Biology PhD",
   "institution": "University of Florida",
   "institutionShort": "UF",
@@ -12,8 +12,57 @@
   "sources": [
     {
       "url": "https://gradcatalog.ufl.edu/graduate/colleges-departments/liberal-arts-sciences/animal-molecular-cellular-biology/animal-molecular-cellular-biology/animal-molecular-cellular-biology.pdf",
-      "label": "Official identity and application route",
-      "checked": "2026-10-29"
+      "label": "Graduate catalog: AMCB (degrees)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradcatalog.ufl.edu/graduate/colleges-departments/agricultural-life-sciences/animal-molecular-cellular-biology/animal-molecular-cellular-biology/",
+      "label": "Graduate catalog: AMCB (optional rotations)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://programs.ifas.ufl.edu/animal-molecular-and-cellular-biology/",
+      "label": "AMCB program home",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://programs.ifas.ufl.edu/animal-molecular-and-cellular-biology/admissions-requirements/",
+      "label": "AMCB admissions requirements",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradcatalog.ufl.edu/graduate/admission/",
+      "label": "UF Graduate Catalog: admission",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://admissions.ufl.edu/apply/graduate/",
+      "label": "UF Admissions: graduate application",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "admissionModel": "lab",
+  "summary": "UF's Animal Molecular and Cellular Biology PhD. Applicants generally find a major professor before applying; the application goes through the UF Graduate School. Rotations in other labs are optional.",
+  "detailsNote": "No application deadline, GRE rule, letter requirement, stipend or funding statement is published on the AMCB pages or the UF graduate catalog (the catalog says deadlines and requirements are set by each academic unit). Those fields are left out rather than guessed. The Animal Sciences department admissions page lists its own deadlines but is a different program, so it was not used.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80 (iBT); from Spring 2027, minimum of 4.5 overall and 4.0 across all subsections",
+      "ielts": 6.5,
+      "note": "Minimums from the UF Graduate Catalog for international applicants."
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "Non-refundable. UF's Office of Admissions page says it does not provide an application fee waiver."
+    },
+    "documents": [
+      "Official transcripts from each institution attended (unofficial accepted for initial review)",
+      "Complete and up-to-date resume or CV",
+      "Proof of required immunizations",
+      "Satisfactory conduct record"
+    ],
+    "note": "Minimum grade point average of 3.0 on a 4.0 scale. The UF catalog says academic exams such as the GRE are required only when the academic unit specifies them; the AMCB pages do not mention the GRE. The catalog lists recommendation letters only for conditional admission; the AMCB pages do not state a letter requirement."
+  }
 }

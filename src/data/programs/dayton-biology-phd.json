@@ -1,13 +1,83 @@
 {
-  "name":"Biology PhD",
-  "institution":"University of Dayton",
-  "institutionShort":"Dayton",
-  "country":"US",
-  "degree":"phd",
-  "field":"biology",
-  "cycle":"fall-2027",
-  "details":"pending",
-  "officialUrl":"https://catalog.udayton.edu/graduate/collegeofartsandsciences/programsofstudy/biology/",
-  "lastChecked":"2026-10-28",
-  "sources":[{"url":"https://catalog.udayton.edu/graduate/collegeofartsandsciences/programsofstudy/biology/","label":"Official Biology PhD identity","checked":"2026-10-28"}]
+  "name": "Biology PhD",
+  "institution": "University of Dayton",
+  "institutionShort": "Dayton",
+  "country": "US",
+  "location": "Dayton, Ohio",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "Full-time biology PhD with research areas in environmental/ecological science and biomedical sciences. Applicants must identify a Biology graduate faculty mentor before applying; GRE is not required.",
+  "detailsNote": "Official information available. The April 30 (fall) and September 30 (spring) deadlines are undated on the program page, so they are not confirmed for Fall 2027. Lab model: the page requires a Biology faculty mentor before applying and one letter from a UD Biology faculty mentor. The international page lists default deadlines only for programs that state none, so they are not used here.",
+  "officialUrl": "https://udayton.edu/academics/programs/biology-phd/index.php",
+  "applyUrl": "https://udayton.edu/apply/graduate/index.php",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Admission and assistantship consideration, fall (undated)",
+      "dateText": "April 30 for admission to the subsequent fall semester",
+      "note": "Program page gives no year. Confirm Fall 2027 with the department."
+    },
+    {
+      "label": "Admission, spring (undated)",
+      "dateText": "Sept. 30 for admission to subsequent spring semester",
+      "note": "Program page gives no year."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "95 (Department of Biology minimum)",
+      "note": "Additional requirements apply for international students."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Graduate admissions FAQ: international applicants pay $50 from Spring 2027 and all applicants from Summer 2027. No waiver is mentioned."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from all colleges and universities attended (sent directly)",
+      "Resume or curriculum vitae",
+      "Personal statement (previous experience, areas of interest, professional goals)",
+      "Identify a Biology graduate faculty mentor before applying",
+      "International applicants: course-by-course credential evaluation, English proficiency proof"
+    ],
+    "note": "Minimum 3.0 cumulative GPA on a 4.0 scale. Bachelor's degree in biology or a substantially equivalent degree. Two letters from former or current professors or employers; one from a UD Biology faculty mentor. Preferred preparation (two years of chemistry, one year of math, one semester of physics and genetics) is not a fixed requirement. Students must be full-time."
+  },
+  "funding": {
+    "coversInternational": "limited",
+    "note": "Catalog: students admitted to the doctoral program are given priority for fellowships, traineeships and research or teaching assistantships; appointments carry tuition exemption. The international page says the university offers no financial aid or merit scholarships to international graduate students, though a few assistantships are available. No page says all admitted students are funded; no stipend amount found."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "A foreign credential evaluation and English proficiency proof are required."
+  },
+  "sources": [
+    {
+      "url": "https://udayton.edu/academics/programs/biology-phd/index.php",
+      "label": "Official program page: admission requirements and deadlines",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://catalog.udayton.edu/graduate/collegeofartsandsciences/programsofstudy/biology/",
+      "label": "Graduate catalog: degree requirements and assistantships",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://udayton.edu/apply/graduate/faqs.php",
+      "label": "Graduate admissions FAQ: application fee",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://udayton.edu/apply/international/graduate/index.php",
+      "label": "International graduate admission: fee, financial assistance, evaluation",
+      "checked": "2026-10-31"
+    }
+  ],
+  "lastChecked": "2026-10-31"
 }
