@@ -21,3 +21,7 @@ https://biophysics.ucsf.edu/degree-program/path-to-phd/rotations-research-adviso
 Interview text: “preliminary interviews over zoom in January 29 and February 5, 2027”, “in-person visit March 11-13, 2027”. Program says fall 2026 opens September 2026; explicit deadline years and central Fall 27 table resolve scope.
 
 Funding condition: “UCSF commits this support for the entire period of a graduate student’s PhD training, as long as they remain in good standing.”
+
+## Review: 2026-10-31
+
+- Reopened https://graduate.ucsf.edu/node/18626 (Graduate Division timelines): "Biophysics PhD | Fall ʼ27 | Tuesday, September 1, 2026 | Tuesday, December 1, 2026". Deadline confirmed. The program admissions page still carries fall 2026 wording.

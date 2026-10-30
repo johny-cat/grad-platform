@@ -13,3 +13,6 @@
 - International. same page: "No – all domestic and international students should complete the same online application."
 - Interviews. same page: "Most biomedical graduate programs invite selected applicants to interview with their program."
 - Separate applications elsewhere. https://school.wakehealth.edu/education-and-training/graduate-programs/how-to-apply : "Applicants may apply to multiple programs" with each application needing its own fee and materials; deadline table lists Neuroscience (PhD) 12/6, Biomedical Engineering (PhD) 12/15, Medical Physics (PhD) 12/15 as separate rows.
+
+## Review: 2026-10-31
+Independent second check. Reopened track page: six programs named exactly as in the JSON tracks. How-to-apply page: MCB row "12/6" (no year; stays in publishedDeadlines only), "2 Recommendation letters", "Standardized test scores" and CV/resume in Optional/Not Required, "$70 fee, or a waiver code", waivers by "financial need and program participation", international held to same criteria (waiver available), TOEFL 90 / IELTS 6.5 / Duolingo 120, 5 business days sentence, full tuition scholarship and stipend consideration. No changes.

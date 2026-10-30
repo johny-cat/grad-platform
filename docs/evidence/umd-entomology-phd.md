@@ -13,3 +13,6 @@ Not opened (no admissions content): https://academiccatalog.umd.edu/graduate/pro
 - Advisor. "Contact [potential faculty advisors] WELL BEFORE (at least 3 months)"; acceptance requires a faculty sponsor and financial support; interview event in early Spring.
 - Fee. Not on department page; Graduate School $90 per program (_umd-central.md).
 - Funding. https://entomology.umd.edu/academics/graduate/funding-opportunities : "The Department makes a commitment to support each full-time graduate student." Stipend "Step II (Pre-Candidacy Ph.D. Students): $36,118.00" (FY 2026), "Step III ... $36,810.00". Catalog: five years of doctoral support, to be used within six. International eligibility not stated.
+
+## Review: 2026-10-31
+Independent second check. Reopened catalog ("December 1, 2026", Fall only), department application page ("Applications for Fall 2026 admissions are closed."; GRE not required; TOEFL 96, IELTS 7; faculty sponsorship and financial support before acceptance; interview/recruitment event; 3 months) and funding page ("makes a commitment to support each full-time graduate student"; Step II $36,118 FY 2026, Step III $36,810). Because Fall 2026 is closed, Dec 1, 2026 can only be the upcoming (Fall 2027) cycle and shows its exact year; stays in deadlines. No changes.

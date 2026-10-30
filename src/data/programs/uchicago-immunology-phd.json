@@ -29,8 +29,8 @@
     "applicationFee": {
       "amount": 90,
       "currency": "USD",
-      "waiver": "unknown",
-      "note": "The $90 fee is non-refundable. UChicago Biosciences lists specific fee-waiver categories, requested after you submit; the pages opened don't say whether international applicants qualify. Don't pay before the waiver decision."
+      "waiver": "available",
+      "note": "The $90 fee is non-refundable. Biosciences lists specific fee-waiver categories, requested after you submit, and the page doesn't limit waivers by citizenship (some categories need a U.S. institution or U.S. service), so international applicants should confirm with the university that they qualify. Don't pay before the waiver decision."
     },
     "note": "One Biosciences application covers all its PhD programs: you may list up to four programs in no more than two clusters. GRE is optional for all PhD programs; most programs do not consider submitted scores.",
     "letters": {
@@ -44,7 +44,7 @@
   "funding": {
     "allFunded": true,
     "coversInternational": "yes",
-    "note": "The Biosciences package covers a stipend, full tuition and health insurance, committed for five years with continued support beyond that when possible. International applicants are welcome and the package is available to all students; PhD students generally must be legally authorized to work in the US."
+    "note": "Biosciences support includes tuition and fees and a stipend, guaranteed for the first five years subject to satisfactory progress and extended to degree completion in all but unusual circumstances. International applicants are welcome and the financial package is available to all students. The published 2026-27 stipend is not a confirmed 2027-28 amount; PhD students generally must be legally authorized to work in the US."
   },
   "international": {
     "accepted": "yes"
