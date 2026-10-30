@@ -1,0 +1,89 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "institution": "George Washington University",
+  "institutionShort": "GW",
+  "detailsNote": "Official annual deadline lacks an explicit calendar year; Fall 2027 deadline not confirmed. Admission model not established by opened sources.",
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Conditional affiliation/service and virtual Open House waivers; no general financial-need waiver. International eligibility must be confirmed. Ask before paying; no retroactive refunds."
+    },
+    "english": {
+      "toefl": "100 legacy / 5 new scale",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "IELTS each band at least 6; PTE 68. Official agency scores within two years of application; no MyBest/IELTS Indicator. Qualifying degree-country/institution or English-instruction plus official-country-language exemption reviewed centrally; English medium alone is not a blanket exemption."
+    },
+    "documents": [
+      "Resume",
+      "Statement of purpose",
+      "Three recommendations",
+      "Unofficial transcripts from every institution; official after offer",
+      "Original-language records and certified English translations when needed"
+    ],
+    "note": "Statement 250–500 words on objectives, research, goals, qualifications and teaching experience if seeking aid. Prior research correspondence with department faculty required; name contacted faculty and fit. No firm prior lab acceptance requirement established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "name": "Biological Sciences PhD",
+  "officialUrl": "https://biology.columbian.gwu.edu/phd-biological-sciences",
+  "tracks": [
+    "Cellular and Molecular Biology",
+    "Systematics, Evolution and Ecology"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1",
+      "note": "Annual CCAS program table; no calendar year attached."
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Generally five funding years; sixth considered individually. Funded students must select a department adviser/co-adviser. No stipend amount or universal international award established."
+  },
+  "sources": [
+    {
+      "url": "https://biology.columbian.gwu.edu/phd-biological-sciences",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://biology.columbian.gwu.edu/graduate",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://columbian.gwu.edu/doctoral-degrees",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://columbian.gwu.edu/application-requirements",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://columbian.gwu.edu/international-graduate-applicants",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://columbian.gwu.edu/graduate-admissions-faq",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    }
+  ]
+}

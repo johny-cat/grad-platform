@@ -1,0 +1,79 @@
+{
+  "name": "Biochemistry of Health and Disease PhD (College of Medicine)",
+  "institution": "Drexel University",
+  "institutionShort": "Drexel",
+  "country": "US",
+  "location": "Philadelphia, Pennsylvania",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://drexel.edu/medicine/academics/graduate-programs/biochemistry-of-health-and-disease/",
+  "applyUrl": "https://drexel.edu/medicine/academics/graduate-programs/biochemistry-of-health-and-disease/how-to-apply/",
+  "lastChecked": "2026-10-30",
+  "summary": "College of Medicine doctoral research program in biochemistry of health and disease.",
+  "detailsNote": "Official programme instructions give recurring deadlines without an entry year. No confirmed Fall 2027 deadline, programme admission model or guaranteed PhD funding package established from opened sources.",
+  "publishedDeadlines": [
+    {
+      "label": "Domestic and international fall application",
+      "dateText": "December 15",
+      "note": "Annual month/day only; no unstated year or countdown assigned."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "No waiver offer confirmed on opened programme and general admissions pages."
+    },
+    "english": {
+      "note": "Programme requires international applicants to submit TOEFL or IELTS. Numeric score minima, score validity and exemption rules were not established on the opened programme pages; confirm with admissions."
+    },
+    "documents": [
+      "Official transcripts from every attended college/university",
+      "Personal statement, approximately 500 words: motivation, experience and career goals",
+      "Resume/CV",
+      "Online math/science GPA calculation form"
+    ],
+    "note": "Only one programme application permitted. General regular admission normally expects four-year bachelor equivalent and cumulative undergraduate GPA 3.0; graduate work at least 3.0. Programme-specific standards may differ. Three recommendations due by application deadline. Programme requests official transcripts directly from institutions."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Programme financial-information section points to general loans, grants, scholarships or employment. It does not establish a guaranteed PhD stipend/tuition package or international coverage; no such guarantee inferred."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://drexel.edu/medicine/academics/graduate-programs/biochemistry-of-health-and-disease/",
+      "label": "Programme identity and degree",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://drexel.edu/medicine/academics/graduate-programs/biochemistry-of-health-and-disease/how-to-apply/",
+      "label": "Doctoral deadline and application checklist",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://drexel.edu/admissions/apply/grad-instructions",
+      "label": "One-application rule and supporting materials",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process",
+      "label": "General academic preparation",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://drexel.edu/medicine/academics/graduate-programs/phd-programs/",
+      "label": "Distinct College of Medicine PhD programmes",
+      "checked": "2026-10-30"
+    }
+  ]
+}

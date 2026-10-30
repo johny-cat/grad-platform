@@ -1,0 +1,70 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Biology: Quantitative Biology PhD",
+  "institution": "University of North Carolina at Chapel Hill",
+  "institutionShort": "UNC Chapel Hill",
+  "officialUrl": "https://bio.unc.edu/graduate/qbio/",
+  "applyUrl": "https://applynow.unc.edu/apply/",
+  "summary": "Direct-admission Quantitative Biology track in the Biology PhD; students may also join after BBSP rotations.",
+  "detailsNote": "Current Fall 2027 deadlines explicitly stated. Funding levels are undated and vary by adviser/source; confirm written offer. Detailed central fee-waiver and current English-policy pages were inaccessible; department-listed scores are retained with that limitation.",
+  "admissionModel": "lab",
+  "deadlines": [
+    {
+      "label": "Priority application",
+      "date": "2026-11-10"
+    },
+    {
+      "label": "Final application",
+      "date": "2026-11-17",
+      "note": "No applications accepted after this date."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Nonrefundable fee required before application is complete. Central waiver page inaccessible; no QBio-specific waiver established."
+    },
+    "english": {
+      "toefl": "90 as printed on QBio page; test-date-specific new-scale minimum not established",
+      "ielts": 7,
+      "note": "Department page: TOEFL/IELTS within two years for international applicants; exceptions for English-official countries or US-university degree. Central details were inaccessible; confirm exemptions and new TOEFL scale directly."
+    },
+    "documents": [
+      "Transcripts",
+      "Current recommendation letters",
+      "CV/resume",
+      "Statement of purpose (1â€“3 pages)",
+      "Supplemental prior-research essay (1â€“3 pages)",
+      "Prospective faculty list and research-area selection",
+      "English evidence if applicable"
+    ],
+    "note": "Central bachelor equivalent and GPA3/B. Direct QBio applicants must contact faculty before applying and have an adviser willing to mentor. BBSP entrants may join after first-year rotations. GRE optional, if supplied within five years and considered holistically. Recommendation count not established on opened sources."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Undated QBio minimum $23,000 for nine months, pending funding availability and good standing; varies with adviser/source. TA/RA/fellowship; university support limited ten semesters. Assistantship/fellowship includes full tuition, mandatory fees and health insurance; summer support must be discussed. No universal international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://bio.unc.edu/graduate/qbio/",
+      "checked": "2026-10-30",
+      "label": "Official source: bio.unc.edu — qbio"
+    },
+    {
+      "url": "https://catalog.unc.edu/admissions/graduate/",
+      "checked": "2026-10-30",
+      "label": "Official source: catalog.unc.edu — graduate"
+    }
+  ]
+}

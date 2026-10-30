@@ -1,0 +1,72 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Neuroscience PhD",
+  "institution": "University of Nevada, Reno",
+  "institutionShort": "Nevada, Reno",
+  "officialUrl": "https://www.unr.edu/neuroscience/graduate",
+  "applyUrl": "https://www.unr.edu/grad/admissions/how-to-apply",
+  "summary": "Research PhD in neuroscience, with either first-year lab rotations or an initial faculty adviser.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. December 15 is undated. Students may enter with an adviser or rotate before selecting one.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 15",
+      "note": "Annual undated deadline; confirm Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Undergraduate transcripts",
+      "Statement of purpose describing goals, research interests, faculty fit and preparation",
+      "CV",
+      "At least two recommendations (three preferred)",
+      "English evidence if applicable"
+    ],
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "International $95; domestic $60, nonrefundable and nontransferable. No neuroscience waiver route established."
+    },
+    "english": {
+      "toefl": "79 iBT/Home Edition or Essentials 8.5 before January 21, 2026; 4.5 iBT after",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "PTE 59 or Cambridge 176 also accepted. Central exemptions for US citizen or citizenship/earned degree in listed English-speaking countries; confirm country. Program may set additional standards. Central page uses before/after January 21, 2026 wording without resolving that exact boundary; confirm if tested that day."
+    },
+    "note": "GPA 3 minimum; MS not required, apply directly to PhD. GRE recent scores recommended, not required. First year may involve rotations or direct work with initial faculty adviser; contact prospective faculty with CV and short interests statement."
+  },
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Fall entrants guaranteed first-year funding through TA/RA, continued support subject to good standing and progress. Spring entrants require individual faculty-grant funding. Assistantship tuition waiver depends on appointment level; program/department/faculty cover significant additional costs such as health care. No stipend amount stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.unr.edu/neuroscience/graduate",
+      "checked": "2026-10-30",
+      "label": "Official source: www.unr.edu — graduate"
+    },
+    {
+      "url": "https://www.unr.edu/grad/admissions/requirements/international",
+      "checked": "2026-10-30",
+      "label": "University of Nevada, Reno Graduate School: International applicants"
+    },
+    {
+      "url": "https://www.unr.edu/grad/admissions/how-to-apply",
+      "checked": "2026-10-30",
+      "label": "University of Nevada, Reno Graduate School: How to apply"
+    }
+  ]
+}

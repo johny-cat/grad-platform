@@ -1,0 +1,8 @@
+# Arizona Ecology and Evolutionary Biology PhD
+Checked 2026-10-30. Opened text: work/public-b6-arizona-first.json and public-b6-arizona-more.json.
+
+[Apply](https://eeb.arizona.edu/graduate/prospective-students/apply-program), headings/requirements/checklist: “We are now accepting applications for Fall 2027!”; “Interview week for Fall 2027 is January 24-26, 2027.” December 1 for both international/domestic, fall only, opens September 2026. Recommended biology bachelor, MS welcome, research desirable not essential. SOP 1–3 pages covering goals, qualifications and career; CV; unofficial transcripts then sealed official if admitted; three recommenders; potential advisers/contact list.
+
+[FAQ](https://eeb.arizona.edu/graduate/prospective-students/faqs), letters, fee waiver and Funding sections: “Please do not submit more than four letters.”; “Selections for a waiver will be made based on financial need.” Annual November 15 at 5pm Tucson deadline: mostly completed GradApp and requested letters; SOP need not be uploaded. Provide name, labs and half-page financial-strain description; optional need examples and possible documentation. Notification November 29. Funding: first ten semesters, every effort, except arrangements at acceptance; beyond third year depends on progress; GTA primary. 2026–2027 assistant $12,827/semester, associate $13,937 after comprehensive exam; tuition in/out-of-state and year-round health. Mandatory/course/international/program fees excluded. International GTAs eligible with TOEFL speaking 24 or IELTS 7.5.
+
+Central tests/exemptions/fee/GRE trace: [_arizona-b6-central.md](_arizona-b6-central.md).

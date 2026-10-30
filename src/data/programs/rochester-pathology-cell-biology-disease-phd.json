@@ -1,0 +1,88 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Pathology: Cell Biology of Disease PhD",
+  "institution": "University of Rochester",
+  "institutionShort": "Rochester",
+  "officialUrl": "https://www.urmc.rochester.edu/education/graduate/phd/pathology",
+  "applyUrl": "https://www.urmc.rochester.edu/education/graduate/phd/admissions",
+  "summary": "Research PhD in pathology: cell biology of disease at the School of Medicine and Dentistry.",
+  "detailsNote": "Official 2027 application is open. Automatic fee waiver explicitly ends November 15, 2026. December 1 complete-application and January 1 discretionary late-review dates are printed without years and are retained as published.",
+  "deadlines": [
+    {
+      "label": "Automatic application-fee waiver",
+      "date": "2026-11-15",
+      "note": "Automatic waiver applied within24hours after submission; no request required."
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Complete application",
+      "dateText": "December 1st",
+      "note": "Published Fall timeline without year; $60 fee applies unless waived."
+    },
+    {
+      "label": "Discretionary late review",
+      "dateText": "January 1",
+      "note": "After December1, rolling review only at program discretion."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Uploaded transcripts from postsecondary institutions",
+      "Three recommendations",
+      "Official English results if applicable",
+      "CV/resume"
+    ],
+    "english": {
+      "note": "Non-native English applicants submit official TOEFL iBT, IELTS or DET. Results within two years. If agency cannot send a report older than one year, upload official copy under Other Documents. No minimum score or waiver policy established on these sources."
+    },
+    "applicationFee": {
+      "amount": 60,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Automatic waiver for PhD submissions by November 15, 2026, applied within 24 hours; no citizenship restriction stated. Afterward, financial-hardship request by email to SMD graduate admissions; international applicants should confirm hardship eligibility. Epidemiology/Health Services Research $100 SOPHAS exception does not apply to these programs."
+    },
+    "note": "Admission requirements list a biological/chemical/biomedical bachelor, laboratory research experience and minimum GPA 3.0. SOP describes pathology interest, research and goals; CV, transcripts and three references, preferably research supervisors. GRE optional; scores above60th percentile described as competitive. Three first-year labs precede mentor selection. Optional concentrations Cancer Biology or Bioinformatics within Pathology, not separate initial applications."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Program states full funding: tuition scholarship, health insurance and stipend. SMD fellowship package for 2027â€“2028: $35,800/year for 12-month programs or $29,833 for 10-month programs, full tuition including academic fees and single AETNA health insurance. Confirm program appointment length; dependent coverage paid by student."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/pathology",
+      "checked": "2026-10-30",
+      "label": "Official source: www.urmc.rochester.edu — pathology"
+    },
+    {
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/pathology/program-overview",
+      "checked": "2026-10-30",
+      "label": "Official source: www.urmc.rochester.edu — program overview"
+    },
+    {
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/admissions",
+      "checked": "2026-10-30",
+      "label": "Official source: www.urmc.rochester.edu — admissions"
+    },
+    {
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/financial-aid",
+      "checked": "2026-10-30",
+      "label": "Official source: www.urmc.rochester.edu — financial aid"
+    }
+  ],
+  "admissionModel": "program"
+}

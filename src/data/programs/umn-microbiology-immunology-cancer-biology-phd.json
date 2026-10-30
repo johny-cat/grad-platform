@@ -1,0 +1,88 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Microbiology, Immunology and Cancer Biology PhD",
+  "institution": "University of Minnesota",
+  "institutionShort": "Minnesota",
+  "officialUrl": "https://med.umn.edu/micab",
+  "applyUrl": "https://choose.umn.edu/apply/",
+  "summary": "Research PhD in microbiology, immunology and cancer biology.",
+  "detailsNote": "Official available requirements. Current Fall 2027 application deadline established. Funding amounts have no stated academic year unless noted; confirm offer. Admission model omitted unless directly established.",
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 with W21/R19 before January 21, 2026; 4.5 total/W/R on or after",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS reading/writing 6.5; Fall 2027 DET total/reading/writing 120. Scores within two years of start. Twin Cities does not accept TOEFL MyBest; IELTS One Skill Retake is not accepted. Education exemption: secondary school in US/listed country, or 16 semester/24 quarter non-ESL postsecondary credits completed within past two years while living in US/listed country. Program may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "US citizen/PR $75, international $95; nonrefundable. Central office does not waive fees. GSDO conditional route: US citizen/PR seeking first graduate degree with qualifying listed participation; request before submission/payment. Medical School may offer limited domestic waivers; confirm program procedure."
+    },
+    "documents": [
+      "Personal statement (one single-spaced page, 12 point)",
+      "Diversity of Views and Experiences statement (one page, 12 point)",
+      "Research description (two single-spaced pages, 12 point)",
+      "CV/resume",
+      "Unofficial transcripts, official after admission",
+      "Three electronic recommendations"
+    ],
+    "note": "Four-year BS/BA (BS preferred), general/organic chemistry and physics, plus at least two upper-level biology courses; deficiencies may require additional coursework. PhD-only, fall-only; significant hypothesis-driven research beyond routine course labs expected. Research statement explains project questions, role, methods, conclusions and presentations. Research supervisor letters encouraged. Three eight-week rotations precede mutual mentor choice. Limited Medical School waivers for US citizens/PR: November 20, 2026. International interviews virtual; domestic January 28â€“30, 2027 in person."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Current undated FAQ stipend $38,604 annually; tuition paid, health insurance covered first two years, then approximately $244 per semester. Support not dependent on winning training grant. Confirm current offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://med.umn.edu/micab",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — micab"
+    },
+    {
+      "url": "https://med.umn.edu/micab/prospective/how-to-apply",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — how to apply"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://med.umn.edu/micab/prospective/faq",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — faq"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-11-30"
+    }
+  ],
+  "admissionModel": "program"
+}

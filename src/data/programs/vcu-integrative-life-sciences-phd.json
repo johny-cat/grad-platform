@@ -1,0 +1,77 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Integrative Life Sciences PhD",
+  "institution": "Virginia Commonwealth University",
+  "institutionShort": "VCU",
+  "officialUrl": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/vcu-life-sciences/integrative-life-sciences-phd/",
+  "applyUrl": "https://admissions.vcu.edu/apply-to-vcu/graduate-professional/",
+  "summary": "Interdisciplinary research PhD in integrative life sciences, separate from the Biomedical Sciences Doctoral Portal.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Catalog gives January 10 annually. Catalog GRE statements conflict; confirm directly before applying. School page mixes MD/PhD and MS Biology instructions, which are not applied to this standalone PhD.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall competitive application",
+      "dateText": "Jan 10",
+      "note": "All components must arrive by this undated deadline to be competitive."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Written research/motivation/experience/education/goals statement with preferred advisers",
+      "Official transcripts from all postsecondary institutions",
+      "CV/resume",
+      "Three recommendations",
+      "External evaluation of non-US undergraduate transcripts",
+      "English evidence if applicable"
+    ],
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Nonrefundable per graduate application. No ILS waiver policy established; BSDP waiver restriction not borrowed."
+    },
+    "english": {
+      "toefl": "100 as stated by ILS; central new-scale minimum4.5, confirm ILS new-scale threshold",
+      "ielts": 7,
+      "note": "ILS specifies minimum IELTS band scores of 7.0; confirm each band. ILS higher than central80/IELTS6.5. Central tests valid two years; PTE65/DET110 accepted generally, confirm ILS acceptance of alternatives. Central exemption: bachelor/higher from listed English-speaking-country institutions, or completed VCU English Language Program. English-medium degree elsewhere not automatically covered."
+    },
+    "note": "Preparatory accredited degree/equivalent and GPA3. Advisers/mentors should assess life-sciences research ability. Strongly contact potential advisers; identified adviser gives admission/funding preference. Catalog explicitly says GRE not required but the same materials paragraph demands official GRE scores; conservative required flag pending clarification. No lab-admission model inferred from preference alone."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "School says it seeks to support qualified students subject to available funds; adviser identification gives funding preference. No universal package, amount or international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/vcu-life-sciences/integrative-life-sciences-phd/",
+      "checked": "2026-10-30",
+      "label": "Official source: bulletin.vcu.edu — integrative life sciences phd"
+    },
+    {
+      "url": "https://slss.vcu.edu/graduate/phd-in-integrative-life-sciences/",
+      "checked": "2026-10-30",
+      "label": "Official source: slss.vcu.edu — phd in integrative life sciences"
+    },
+    {
+      "url": "https://admissions.vcu.edu/apply-to-vcu/graduate-professional/",
+      "checked": "2026-10-30",
+      "label": "Official source: admissions.vcu.edu — graduate professional"
+    },
+    {
+      "url": "https://admissions.vcu.edu/apply-to-vcu/international/graduate/",
+      "checked": "2026-10-30",
+      "label": "Official source: admissions.vcu.edu — graduate"
+    }
+  ]
+}

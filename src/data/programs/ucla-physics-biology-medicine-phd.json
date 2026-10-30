@@ -1,0 +1,101 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Physics and Biology in Medicine PhD",
+  "institution": "University of California, Los Angeles",
+  "institutionShort": "UCLA",
+  "officialUrl": "https://grad.ucla.edu/programs/david-geffen-school-of-medicine/physics-and-biology-in-medicine/",
+  "applyUrl": "https://apply.grad.ucla.edu/apply/",
+  "summary": "Research PhD in physics and biology in medicine, with a separate UCLA graduate application selection.",
+  "detailsNote": "Current 2027–28 central program admission requirements. Older handbook and undated funding statements are identified; confirm the written funding offer.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-01",
+      "note": "Current 2027–28 central requirements; all materials by deadline. No closing time stated."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "87 before January 21, 2026; 4.5 on/after January 21, 2026",
+      "ielts": 7,
+      "note": "Central FAQ also specifies legacy sections W25/S24/R21/L17; confirm any program-specific thresholds. TOEFL iBT Home Edition and IELTS Online accepted; MyBest excluded; only most recent result considered. Scores within two years; previous Paper Edition or IELTS Indicator remain valid for two years. Exempt accredited US bachelor/higher or degree where English is sole instruction per WHED; satellite-campus non-English daily-life locations require scores. Citizenship/residence/work are not substitutes. Below TOEFL 100/5 or IELTS 7.5, admitted students take ESLPE and may need ESL courses. TA oral assessment has separate requirements."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "US citizens/permanent residents $135; all others $155, nonrefundable. Central conditional routes include listed preparation-program participation with verification, need-based documentation, qualifying recent public benefits, and designated in-person recruitment events (2026–2027 application-fee program subject to change). Non-US/PR enrolled applicants need California state financial aid; nonenrolled income route requires qualifying US tax return. These are restricted routes, not an unrestricted overseas hardship waiver. International applicants must confirm eligibility with the program; GPB application page separately says it cannot offer international waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Three recommendations",
+      "Official transcripts",
+      "English evidence if applicable",
+      "Fellowship application (optional)"
+    ],
+    "note": "Bachelor in science or engineering (including biology, chemistry, physics, mathematics, engineering or computer science). Program FAQ allows GRE submission; central 2027–28 says not required. For CAMPEP-accredited tracks, FAQ specifies physics BS/graduate degree or related BS/MS plus physics minor/equivalent three upper-division physics courses. Tracks: Medical Imaging, Molecular Imaging and Theranostics, Therapeutic Medical Physics (accredited), Molecular and Cellular Oncology (unaccredited). Confirm track preparation."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Program page says admitted students receive a first-year fellowship covering fees and tuition when necessary plus a stipend; later years pursue research assistantships in a chosen specialty lab. No amount or continuing universal guarantee stated; first-year statement covers admitted students. International eligibility is not explicitly distinguished on this page; confirm the offer. First-year support does not establish universal support through degree completion."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://grad.ucla.edu/programs/david-geffen-school-of-medicine/physics-and-biology-in-medicine/",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.ucla.edu — physics and biology in medicine"
+    },
+    {
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=009Y",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.ucla.edu — requirements"
+    },
+    {
+      "url": "https://pbm.ucla.edu/admission.jsp",
+      "checked": "2026-10-30",
+      "label": "Official source: pbm.ucla.edu — admission.jsp"
+    },
+    {
+      "url": "https://pbm.ucla.edu/faq.jsp",
+      "checked": "2026-10-30",
+      "label": "Official source: pbm.ucla.edu — faq.jsp"
+    },
+    {
+      "url": "https://pbm.ucla.edu/financialSupport.jsp",
+      "checked": "2026-10-30",
+      "label": "Official source: pbm.ucla.edu — financialSupport.jsp"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/english-requirements/",
+      "checked": "2026-10-30",
+      "label": "Central English requirements"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/research-requirements/",
+      "checked": "2026-10-30",
+      "label": "Central application, fee and waiver requirements"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/faqs/",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.ucla.edu — faqs"
+    },
+    {
+      "url": "https://apply.grad.ucla.edu/apply/",
+      "checked": "2026-10-30",
+      "label": "Official source: apply.grad.ucla.edu — apply"
+    }
+  ]
+}

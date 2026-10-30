@@ -1,0 +1,6 @@
+# Wyoming Plant Sciences PhD
+Checked2026-10-30; caches work/public-b7-identity3.json and public-b7-wyoming-*.json.
+
+[Program](https://www.uwyo.edu/plantsciences/graduate-studies.html), Admission/Funding: “Except in rare circumstances, we require an M.S. degree prior to acceptance into the Ph.D. program.” Facultymentorrequired;SOP,CV,transcripts,3recommendations,Englishproof. February15fallfulladmission/fundingconsideration,October15springrecommended;year-roundapplications. TA/RAfundsdependent,normallyPhDmax3years;furthergrant/externalfundingpossible,progressrequired.
+
+[Central English](https://www.uwyo.edu/admissions/international/english-alternatives.html), Graduate table: “Duolingo | 110”;TOEFL/MyBest/HomeEdition4,IELTS/Indicator6.5,PTE56,iTEP4.5,CambridgeB2First. Listed-countrynative-Englishcitizenoruniversitydegreemayexempt. [University fee statement](https://www.uwyo.edu/english/current-student-resources/graduate-student-resources/master-of-arts/apply.html): “The University of Wyoming requires a $50 application fee.” Onlythisinstitution-levelstatementborrowed,notEnglishMArequirements. Centralgraduatepagebachelorequivalent/GPA3;internationalpagecertifiedtranscripts/translations,English,financialproof,passport.

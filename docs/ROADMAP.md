@@ -47,3 +47,8 @@ Built in layers. Each layer ships before the next starts.
 - [ ] Experience sharing and support spaces
 - [ ] Mentors who made it
 - [ ] Live chat and video (needs funding and moderation first)
+
+## October 2026 catalog release
+
+- [x] Research and independently review the final 51 saved program drafts; 658 total after release.
+- [ ] Resolve the remaining 16 archive leads when the owner resumes that work; some may be existing aliases.

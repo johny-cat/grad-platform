@@ -1,0 +1,71 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Biology PhD (Boston)",
+  "institution": "Northeastern University",
+  "institutionShort": "Northeastern",
+  "officialUrl": "https://catalog.northeastern.edu/graduate/science/biology/biology-phd/",
+  "applyUrl": "https://enroll.northeastern.edu/portal/apply",
+  "summary": "College of Science research doctorate in Biology at Northeastern Boston.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Program annual December 1 deadline has no year; Biology explicitly excludes rolling admission despite general college rolling dates. Biology-specific English score minima and mentor-selection admission model not established; confirm with program.",
+  "publishedDeadlines": [
+    {
+      "label": "Biology application",
+      "dateText": "December 1",
+      "note": "Annual program deadline; all materials by this date, no Biology rolling admission. Not explicitly confirmed Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 100,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Current College of Science page requires $100 for PhDs. No current Biology-applicable waiver policy established; waivers from other colleges/programs are not generalized."
+    },
+    "english": {
+      "note": "College accepts TOEFL iBT, IELTS, PTE or DET, valid two years; Biology-specific thresholds not established. Degree earned or in progress at US institution or institution where English is sole medium can satisfy proof. Unofficial scores accepted for review; verified results due by first day of entry term if admitted."
+    },
+    "documents": [
+      "Online application",
+      "Personal statement",
+      "Resume or CV",
+      "Three online recommendations",
+      "Readable unofficial PDF transcripts from every institution; final official degree records and certified English translations when applicable",
+      "English proficiency evidence unless qualifying degree satisfies proof"
+    ],
+    "note": "College baseline: accredited bachelor or equivalent (also accepts qualifying master/first professional degree). Biology GRE General not required. No Biology-specific GPA or prerequisite threshold established in opened current instructions."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Connected Science Biology program states full tuition scholarship, stipend-bearing graduate assistant position and health insurance for program duration. No current amount or separately explicit international funding scope established; confirm written offer and remaining fees."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://catalog.northeastern.edu/graduate/science/biology/biology-phd/",
+      "checked": "2026-10-30",
+      "label": "Official source: catalog.northeastern.edu — biology phd"
+    },
+    {
+      "url": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/",
+      "checked": "2026-10-30",
+      "label": "Northeastern College of Science: How to apply (graduate)"
+    },
+    {
+      "url": "https://cos.northeastern.edu/connected-science-community-and-biology-phd-program/",
+      "checked": "2026-10-30",
+      "label": "Official source: cos.northeastern.edu — connected science community and biology phd program"
+    }
+  ]
+}

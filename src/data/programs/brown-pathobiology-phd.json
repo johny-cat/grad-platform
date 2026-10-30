@@ -1,0 +1,103 @@
+{
+  "name": "Pathobiology PhD",
+  "institution": "Brown University",
+  "institutionShort": "Brown",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://pathobiology.biomed.brown.edu/degree-programs/phd-program",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://pathobiology.biomed.brown.edu/degree-programs/phd-program",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://pathobiology.biomed.brown.edu/degree-programs/phd-program/apply",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateprograms.brown.edu/graduate-program/biomed-pathobiology-phd",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply-mfa-or-doctoral-study-brown",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/application-fee-waivers",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/financing-support/funding-guarantee",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://apply.graduateschool.brown.edu/portal/program_explorer",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program",
+  "applyUrl": "https://apply.graduateschool.brown.edu/portal/program_explorer",
+  "detailsNote": "Current December 1, 2026 deadline confirmed by official program directory and application explorer; departmental Apply page still describes the prior 2025 application cycle.",
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Needs-based request in Additional Information with hardship explanation and accepted financial-aid, FAFSA, CSS, recent unemployment or GRE/TOEFL reduction-voucher documentation. Recommended at least two weeks early; only listed documents accepted. International applicants must confirm documentation eligibility; no overseas eligibility guarantee."
+    },
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 on or after January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS 7 is recommended, not a hard university cutoff. Home Edition and IELTS Indicator accepted. Degree from US/listed countries or non-US institution where English is primary instruction can exempt; other-country degrees need Registrar/Dean letter confirming language for program/institution. US studies primarily in another language do not exempt. TA English certification separate."
+    },
+    "documents": [
+      "Personal statement",
+      "College transcripts; certified English translations when needed; unofficial review copies and final official record before matriculation",
+      "Three online recommendations; at least two from faculty at current/most recent institution; Interfolio not accepted",
+      "Official English results unless exempt"
+    ],
+    "note": "Strong undergraduate biology/biochemistry and prior research are typical preparation. Older program application checklist asks TOEFL for foreign students; current Graduate School IELTS/degree-exemption alternatives are separately documented. Department still shows a 2025 deadline; current central dated listing and explorer establish December 1, 2026."
+  },
+  "tracks": [
+    "Toxicology and Environmental Pathology",
+    "Infection and Immunity",
+    "Cancer Biology",
+    "Biology of Aging"
+  ],
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Current directory and application explorer; old department December 1, 2025 is superseded."
+    }
+  ],
+  "funding": {
+    "coversInternational": "yes",
+    "note": "Central doctoral financial support applies to domestic and foreign students, conditional on satisfactory academic progress; transfer funding may vary. The six-year central guarantee is expressly for Humanities/Social Sciences, so no Pathobiology-specific duration or stipend inferred."
+  },
+  "international": {
+    "accepted": "yes"
+  }
+}

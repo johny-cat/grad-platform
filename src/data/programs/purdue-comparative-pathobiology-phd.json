@@ -1,0 +1,78 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Comparative Pathobiology PhD",
+  "institution": "Purdue University",
+  "institutionShort": "Purdue",
+  "officialUrl": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/comparative-pathobiology/",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Central degree-specific annual deadlines retained. Department site inaccessible; mentor-selection model and programme-specific funding not established.",
+  "summary": "Research PhD in Comparative Pathobiology, distinct from the DVM and clinical residency non-thesis masters routes.",
+  "publishedDeadlines": [
+    {
+      "label": "International fall application",
+      "dateText": "April 15",
+      "note": "Annual undated date; not explicitly confirmed Fall 2027."
+    },
+    {
+      "label": "US citizen fall application",
+      "dateText": "August 1",
+      "note": "Annual undated date; confirm cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International $75, domestic $60. Current Purdue students and degree alumni of West Lafayette/Indianapolis, Fort Wayne and Northwest receive automatic waiver by listing institution (October 26, 2026 policy). Listed recruitment/affiliation routes require specific participation, sometimes visiting recruiter/contact card; one waiver per participation. Economic hardship email route requires US citizenship/PR. International applicants must confirm relevant affiliation eligibility."
+    },
+    "english": {
+      "toefl": "80 before January 21, 2026; 4.0 on/after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Legacy sections W18/S18/L14/R19; new W4/S3.5/L3.5/R4. IELTS sections R6.5/L6/S6/W5.5; One Skill Retake excluded. DET115 overall and each integrated subscore, not individual skill subscores. Official tests within two years at recommendation. Home/Paper Edition accepted, MyBest excluded; central Essentials8 each/overall subject to programme acceptance. Routine degree exemption requires English-primary institution in listed native-English country/location and degree within 36 months; programme may still require test. Current Purdue waiver also requires prior proficiency and admission recommendation within three registration sessions."
+    },
+    "documents": [
+      "Transcripts and English translations when applicable",
+      "Three recommendations",
+      "Academic statement of purpose",
+      "Letter of intent",
+      "Personal history statement",
+      "Resume",
+      "English proficiency evidence unless exempt"
+    ],
+    "note": "GPA at least 3.0 from most recently conferred undergraduate, graduate or professional degree. GRE optional, but specific faculty or clinical residencies may require it: confirm before submission. Spring admission exceptional; international October 1, US citizen December 1; summer international February 1/US citizen May 1. DVM is separate; clinical/anatomic/avian pathology residency applicants use appropriate non-thesis MS/residency."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Programme-specific support, amount and guarantee not established from accessible sources; confirm funding before accepting an offer."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/comparative-pathobiology/",
+      "checked": "2026-10-30",
+      "label": "Official source: www.purdue.edu — comparative pathobiology"
+    },
+    {
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/",
+      "checked": "2026-10-30",
+      "label": "Official source: www.purdue.edu — how to apply"
+    },
+    {
+      "url": "https://www.purdue.edu/newsroom/2026/Q4/purdue-waives-graduate-application-fees-for-current-students-alumni/",
+      "checked": "2026-10-30",
+      "label": "Official source: www.purdue.edu — purdue waives graduate application fees for current students alumni"
+    }
+  ]
+}

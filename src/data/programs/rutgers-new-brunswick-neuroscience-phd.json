@@ -1,0 +1,96 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Neuroscience PhD (New Brunswick)",
+  "institution": "Rutgers University–New Brunswick",
+  "institutionShort": "Rutgers–New Brunswick",
+  "officialUrl": "https://grad.rutgers.edu/academics/graduate-programs/neuroscience/abouttheneuroscienceprogram",
+  "summary": "Interdepartmental Neuroscience doctorate at Rutgers New Brunswick/Piscataway, distinct from Newark and Psychology programmes.",
+  "admissionModel": "program",
+  "detailsNote": "Central programme directory explicitly confirms Fall 2027 deadline. Programme pages have undated preparation/support statements, with no current stipend amount or universal funding guarantee.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application, US/non-US",
+      "date": "2026-12-01",
+      "note": "Current official New Brunswick Neuroscience programme directory; no closing time specified."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central automatic eligibility review for Rutgers alumni/employees, listed scholar programmes and active US military/veterans planning GI Bill benefits. Select applicable scholar affiliation in application. No general overseas hardship waiver established; international applicants must confirm eligible affiliation. Separate fee per programme, nonrefundable. FreeApp is a separate competitive route requiring US citizenship/PR, bachelor completion by August before enrollment, undergraduate GPA at least 3.0 and academic/research career intent. Rutgers FreeApp processing closes June 30, 2027 as the programme ends; requests must still permit meeting the relevant application deadline."
+    },
+    "english": {
+      "toefl": "Through January 21, 2026: W22/S23/R21/L17; January 22 onward: W4.5/S4.5/R4/L4",
+      "ielts": 7,
+      "note": "TOEFL iBT/Home Edition accepted. Official scores sent directly by agency, within two years of entry semester. Central DET admission range 120–130; programme may set higher. Entire degree at principal-English institution may qualify case-by-case with official transcript language or letter sent directly by institution/Registrar; not automatic approval."
+    },
+    "documents": [
+      "Transcripts from all previously attended institutions",
+      "At least three recommendations",
+      "Personal statement",
+      "Resume or CV",
+      "English evidence unless approved exemption"
+    ],
+    "note": "Undergraduate cumulative average at least B. Normal prerequisites biology, general and organic chemistry, calculus and physics. Selection considers academic record, references and research experience. Incoming students select three first-year laboratory rotations; provisional dissertation adviser by end of first year. A clear preferred area/adviser may permit immediate lab work, without eliminating published rotation structure."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Programme says financial aid provided to highly qualified students, typically living stipend and tuition-fee remission via fellowships, professor research grants, training grants or teaching assistantships. No universal commitment, duration, amount or explicit international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFhQAI",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.admissions.rutgers.edu — Detail.aspx"
+    },
+    {
+      "url": "https://grad.rutgers.edu/academics/graduate-programs/neuroscience/abouttheneuroscienceprogram",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.rutgers.edu — abouttheneuroscienceprogram"
+    },
+    {
+      "url": "https://grad.rutgers.edu/academics/graduate-programs/neuroscience/ProgramProgression",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.rutgers.edu — ProgramProgression"
+    },
+    {
+      "url": "https://newbrunswickgrad.rutgers.edu/",
+      "checked": "2026-10-30",
+      "label": "Official source: newbrunswickgrad.rutgers.edu — university website"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/apply/application-guidelines",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions information"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/information/international-students",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions information"
+    },
+    {
+      "url": "https://btaa.org/resources-for/students/freeapp/eligibility",
+      "checked": "2026-10-30",
+      "label": "Official source: btaa.org — eligibility"
+    },
+    {
+      "url": "https://btaa.org/resources-for/students/freeapp/introduction",
+      "checked": "2026-10-30",
+      "label": "Official source: btaa.org — introduction"
+    }
+  ]
+}

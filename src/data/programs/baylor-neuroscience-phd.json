@@ -1,0 +1,108 @@
+{
+  "name": "Neuroscience PhD",
+  "institution": "Baylor College of Medicine",
+  "institutionShort": "Baylor",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/neuroscience",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/neuroscience",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/frequently-asked-questions",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/standardized-test-scores",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/stipends-benefits",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/curriculum",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://education.bcm.edu/GSBS/Admissions/",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    }
+  ],
+  "admissionModel": "program",
+  "applyUrl": "https://education.bcm.edu/GSBS/Admissions/",
+  "detailsNote": "2027 entry and explicit deadline dates are confirmed. The application portal retains an inconsistent 2026–27 academic-year label; admissions page specifies orientation July 28–30, 2027 and classes August 2, 2027. Stipend is a prior 2026–27 rate.",
+  "deadlines": [
+    {
+      "label": "Early review",
+      "date": "2026-12-01"
+    },
+    {
+      "label": "Final application",
+      "date": "2027-01-01",
+      "note": "Late applications only if space remains. FAQ allows recommendation letters after application submission/deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90 before January 21, 2026; 5.0 on or after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "DET accepted beginning 2027 cycle. Scores no older than two years; highest single test date, no combined test scores. Unofficial review scores allowed, but testing policy requires official results before an offer letter (FAQ instead says before matriculation). US accredited degree or qualifying English-medium degree may satisfy proficiency; foreign English-medium institution needs registrar/administrative letter with seal/stamp confirming English instruction and examination. Programs may impose higher scores."
+    },
+    "applicationFee": {
+      "amount": 0,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "No PhD application fee; no waiver request needed."
+    },
+    "documents": [
+      "Personal statement",
+      "Research statement",
+      "Transcripts: unofficial review copies; official documents before matriculation",
+      "Recommendation letters; count not established on accessible public instructions",
+      "English proficiency evidence unless fulfilled by qualifying degree"
+    ],
+    "note": "Holistic review has no GPA cutoff. No supervisor needed before application; first-year lab rotations (minimum three, often four or five) precede mentor selection. International GPA converted to 4.0 by applicant. Transcript evaluation optional unless final records lack major, earned degree or conferral date."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 40000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–27"
+    },
+    "note": "PhD students receive stipend, full tuition remission and individual health insurance. Teaching is not required for stipend. Students pay matriculation, educational-resource, graduation and student-services fees; international students pay an additional fee. Family insurance is student-paid. No 2027–28 stipend or explicit universal international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Programs interview January–February.",
+    "decisions": "Offers February–April; response deadline in offer letter."
+  }
+}

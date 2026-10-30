@@ -1,0 +1,96 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Integrative Biology PhD",
+  "institution": "Oregon State University",
+  "institutionShort": "Oregon State",
+  "officialUrl": "https://ib.oregonstate.edu/graduate/applying-to-biology-graduate-program/graduate-school-application-info",
+  "summary": "Research doctorate in Integrative Biology, formerly Zoology.",
+  "detailsNote": "Current programme page explicitly confirms Fall 2027 deadline. Students enter a specific lab without rotations; prior mentor contact is strongly encouraged, not required. Central English page gives legacy TOEFL thresholds without new-scale conversion; confirm updated scores.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "note": "Programme explicitly states PST, December 1, 2026; opens September 1, 2026; fall entry only."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3,
+      "max": 4
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central says no international waivers, but IB explicitly may sponsor limited international applicants: contact potential major professor early; interested faculty requests funding/waiver from IB leadership. Confirm availability before applying. Central domestic need/scholar routes require listed proof and application fee-waiver request before submission; one application, recommended two weeks early. Domestic application fee is $75; international fee is $85."
+    },
+    "english": {
+      "toefl": "Published legacy iBT 80, each section 18; updated 1–6 thresholds not established",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "All scores from one exam, no MyBest, within two years of first registration. Academic IELTS; DET subscores required. GTA speaking legacy TOEFL 22 or IELTS 7; DET GTA funding assessed case by case. Citizenship or recognised degree from a listed English-speaking country may exempt; English-medium degree in any country is not blanket exemption. Programme may request exception based on GRE verbal above 153, faculty interview with language-support plan, or designated INTO training; discretionary Graduate Admissions approval."
+    },
+    "documents": [
+      "Unofficial transcript photocopies including key, not web-generated records; official all-postsecondary transcripts if accepted",
+      "Academic and Research Statement",
+      "Personal Statement",
+      "CV required",
+      "Three online recommendations, optional fourth",
+      "English results unless exempt; optional supporting publications/materials"
+    ],
+    "note": "Minimum GPA 3.0 for graduate admission; typical admitted GPA 3.5 is descriptive, not higher formal cutoff. Each statement recommended 500–1000 words, no strict limit. Academic statement covers objectives, preparation, research and mentor fit. Personal statement covers background/values, collaboration/problem-solving and engagement with varied communities. Contact research-active faculty strongly encouraged, not required. References from course/research faculty, or relevant supervisor. PhDs teach at least three terms. Students are accepted to work in a specific lab without rotations; co-major professors are possible. A bachelor degree is sufficient; no master degree required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "IB graduate students supported by GTA/GRA/fellowship combination subject to satisfactory progress; RA depends on mentor funding. During assistantship terms, stipend and full tuition, 90% of mandatory fees, matriculation fee and health insurance covered. Potential SEVIS/visa reimbursement up to $700 with application/receipts. Support applies to admitted students including international students; no current stipend amount established. Academic-year support is guaranteed for five years with satisfactory and timely progress; summer support is usually available but not guaranteed."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Invited recruitment typically mid-February.",
+    "decisions": "Faculty offers may arrive January–April; programme plans notification by April 15."
+  },
+  "sources": [
+    {
+      "url": "https://ib.oregonstate.edu/graduate/applying-to-biology-graduate-program/graduate-school-application-info",
+      "checked": "2026-10-30",
+      "label": "Official source: ib.oregonstate.edu — graduate school application info"
+    },
+    {
+      "url": "https://ib.oregonstate.edu/graduate/applying-to-biology-graduate-program/applying-in-detail",
+      "checked": "2026-10-30",
+      "label": "Official source: ib.oregonstate.edu — applying in detail"
+    },
+    {
+      "url": "https://ib.oregonstate.edu/graduate/funding-for-biology-graduate-students",
+      "checked": "2026-10-30",
+      "label": "Official source: ib.oregonstate.edu — funding for biology graduate students"
+    },
+    {
+      "url": "https://gradadmissions.oregonstate.edu/international-students",
+      "checked": "2026-10-30",
+      "label": "Official source: gradadmissions.oregonstate.edu — international students"
+    },
+    {
+      "url": "https://gradadmissions.oregonstate.edu/graduate-application-fee-waivers",
+      "checked": "2026-10-30",
+      "label": "Official source: gradadmissions.oregonstate.edu — graduate application fee waivers"
+    },
+    {
+      "url": "https://catalog.oregonstate.edu/tuition-fees-payment/",
+      "checked": "2026-10-30",
+      "label": "Official source: catalog.oregonstate.edu — tuition fees payment"
+    }
+  ],
+  "admissionModel": "lab"
+}
