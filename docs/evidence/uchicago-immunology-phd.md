@@ -1,0 +1,10 @@
+# Committee on Immunology (PhD in Immunology)
+Check: 2026-10-31. Status: checked. Central facts: see _uchicago-central.md (2026-10-31 section).
+- Degree: http://graduateannouncements.uchicago.edu/ via https://immunology.uchicago.edu/program "The Committee on Immunology offers a graduate program of study leading to a Ph.D. in Immunology." (page as returned by fetch)
+- Rotations (admissionModel=program): same page "all Immunology students will complete at least 2, and up to 4, quarterly rotations."
+- Summary: https://biosciences.uchicago.edu/programs/immunology "The program provides multidisciplinary training in all aspects of Immunology"
+- Admissions page https://immunology.uchicago.edu/page/admissions-committee-immunology gives only holistic review criteria and points to Biosciences admissions; no separate deadline.
+
+## Review: 2026-10-31
+Reopened live: Biosciences FAQ (deadline "Autumn 2027 (application deadline December 1, 2026)", "is December 1, 2026"; TOEFL "100 overall with subscores of no less than 26 in Reading, Writing, and Listening" before 21 Jan 2026 and "no less than 5 on Reading and Writing, no less than 5.5 on Listening, and no less than 4.5 Speaking" after; IELTS "7 overall with subscores of 7 each"; fee "$90"; GRE "optional for all PhD programs"; "An application is considered complete with 3 letters"; "International applicants are welcome."; "Our financial package is available to all students."; "select no more than four programs, in no more than two clusters"), Financial Support ("full and equitable support"; "guaranteed through the student's first five years of study"; fee-waiver categories, none limited by citizenship), PhD Admissions, program pages. All confirmed.
+Changed: fee waiver unknown -> available (rule: waivers offered, not limited to US applicants; note tells applicants to confirm), matching the GGSB record. Funding note: removed health insurance and "full tuition" wording (the program-specific insurance sentence names 2026-27 only; page says tuition and fees) and removed "continued support beyond when possible".

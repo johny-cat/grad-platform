@@ -11,11 +11,9 @@
   "cycle": "fall-2027",
   "deadlines": [
     {
-      "label": "Application deadline",
+      "label": "Fall 2027 application deadline",
       "date": "2026-11-16",
-      "time": "23:59",
-      "timezone": "America/Los_Angeles",
-      "note": "All materials, including transcripts and letters, must arrive by November 16 at 11:59 p.m. PST."
+      "note": "UCSF Graduate Division's Fall 2027 timeline gives Monday, November 16, 2026, without a time. The BMS program page still shows an older cycle (November 15, 11:59 p.m. PST, for Fall 2025)."
     }
   ],
   "timeline": {
@@ -27,7 +25,10 @@
     "english": {
       "note": "TOEFL or IELTS for international applicants. Minimum scores and waivers are listed by the UCSF Graduate Division (graduate.ucsf.edu)."
     },
-    "letters": { "min": 3, "max": 5 },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
     "note": "Letters ideally come from research supervisors."
   },
   "funding": {
@@ -35,12 +36,19 @@
     "coversInternational": "yes",
     "note": "All admitted students, including international students, receive a guaranteed stipend plus tuition, fees and health insurance."
   },
-  "international": { "accepted": "yes" },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://bms.ucsf.edu/node/91",
       "label": "UCSF BMS: Applying to BMS",
       "checked": "2026-10-17"
+    },
+    {
+      "url": "https://graduate.ucsf.edu/node/18626",
+      "label": "UCSF Graduate Division: Fall 2027 program application timelines",
+      "checked": "2026-10-31"
     }
   ],
   "lastChecked": "2026-10-17"

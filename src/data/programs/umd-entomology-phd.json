@@ -1,0 +1,73 @@
+{
+  "name": "Entomology PhD",
+  "institution": "University of Maryland, College Park",
+  "institutionShort": "UMD",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "location": "College Park, Maryland",
+  "details": "checked",
+  "detailsNote": "Official information available. The catalog lists a Fall deadline of December 1, 2026 without naming the entry year; the department's application page says Fall 2026 applications are closed and gives no new date, so confirm.",
+  "summary": "PhD in entomology at the University of Maryland, College Park, covering insect ecology, behavior, pollinators and pest management. Acceptance requires a faculty sponsor and financial support.",
+  "officialUrl": "https://academiccatalog.umd.edu/graduate/programs/entomology-entm/",
+  "applyUrl": "https://entomology.umd.edu/academics/graduate/application-process",
+  "cycle": "fall-2027",
+  "admissionModel": "lab",
+  "deadlines": [
+    {
+      "label": "Fall application deadline",
+      "date": "2026-12-01",
+      "note": "The catalog lists December 1, 2026 for both domestic and international applicants, Fall only; no time is given. It does not say \"Fall 2027\"; confirm with the department."
+    }
+  ],
+  "timeline": {
+    "interviews": "Selected candidates attend an interview/recruitment event in early Spring."
+  },
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "96 (taken on or before 20 January 2026) or 5 overall (taken on or after 21 January 2026)",
+      "ielts": 7,
+      "note": "Minimums for full enrollment per the Graduate School; the department page lists TOEFL total 96 and IELTS overall 7. PTE Academic 68 also accepted. Lower scores may lead to conditional admission."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The Graduate School charges $90 per program. Fee waivers are limited and considered individually; the FreeApp is for domestic students (ends April 15, 2027). Pages do not say whether international applicants qualify, so confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of Purpose",
+      "Transcripts",
+      "CV/Resume",
+      "TOEFL/IELTS scores (international applicants)"
+    ],
+    "note": "Optional: up to two writing samples and a description of research or work experience. The department asks you to contact potential faculty advisors at least 3 months before applying; acceptance by a faculty advisor is required."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 36118,
+      "currency": "USD",
+      "period": "year",
+      "year": "FY2026 (pre-candidacy PhD)"
+    },
+    "note": "The department says it \"makes a commitment to support each full-time graduate student\" and that acceptance requires financial support. The catalog says doctoral students get five years of support, to be used within six years. Stipend shown is the FY2026 12-month pre-candidacy rate ($36,810 post-candidacy). International eligibility is not stated."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    { "url": "https://academiccatalog.umd.edu/graduate/programs/entomology-entm/", "label": "UMD Graduate Catalog: Entomology (ENTM)", "checked": "2026-10-31" },
+    { "url": "https://entomology.umd.edu/academics/graduate/application-process", "label": "UMD Department of Entomology: Application process", "checked": "2026-10-31" },
+    { "url": "https://entomology.umd.edu/academics/graduate/funding-opportunities", "label": "UMD Department of Entomology: Funding opportunities", "checked": "2026-10-31" },
+    { "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements", "label": "UMD Graduate School: English language proficiency requirements", "checked": "2026-10-31" },
+    { "url": "https://gradschool.umd.edu/admissions/application-process/apply-now", "label": "UMD Graduate School: Apply now", "checked": "2026-10-31" },
+    { "url": "https://gradschool.umd.edu/feewaiverinformation", "label": "UMD Graduate School: Fee waiver information", "checked": "2026-10-31" }
+  ],
+  "lastChecked": "2026-10-31"
+}

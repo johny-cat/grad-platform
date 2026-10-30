@@ -81,3 +81,19 @@ BPHYS applies through Physical Sciences, and PME uses its own application. No Bi
 ## Independent second review — 2026-10-22
 
 Every populated fact in the four Chicago JSON files was compared with its exact evidence statement. Live checks included Biosciences How to Apply, FAQs, Financial Support and Timeline, both program rotation pages, PME program/requirements/FAQ/funding pages, BPHYS admissions and handbook, the PSD portal and university English requirements, Required Scores, Fee Waivers and Guidelines and Deadlines. Formal Biosciences GRE submission remains optional: neither the division pages nor the reviewed program-specific admissions/FAQ pages explicitly says that GGSB or Neurobiology rejects or ignores scores. Generic waiver categories were not treated as explicit international fee-waiver eligibility. The BPHYS handbook direct URL initially failed in the web tool, then opened successfully on one retry through its official program-page link; no URL remained failed. No search was used.
+
+## Check: 2026-10-31 (Biosciences programs added: Cancer Biology, Immunology, Microbiology, CMB, Integrative Biology)
+
+Source: https://biosciences.uchicago.edu/programs
+- 18 PhD programs listed under Biomedical Sciences (Cancer Biology, Immunology, Microbiology, Molecular Metabolism and Nutrition), Darwinian Sciences (Evolutionary Biology, Ecology & Evolution, Integrative Biology), Independent Programs (Biophysical Sciences, Interdisciplinary Scientist Training Program MD/PhD, Medical Physics, Public Health Sciences), Molecular Biosciences (Biochemistry and Molecular Biophysics, Cell and Molecular Biology, Development, Regeneration and Stem Cell Biology, Genetics, Genomics and Systems Biology, Human Genetics) and Neuroscience (Computational Neuroscience, Neurobiology).
+
+Source: https://biosciences.uchicago.edu/phd-admissions
+- "UChicago Biosciences offers 18 programs designed to lead to a PhD." "Take the first step and start your application."
+
+Source: https://biosciences.uchicago.edu/admissions/how-to-apply/faq
+- One application, up to four programs: "select no more than four programs, in no more than two clusters." "Only one application may be submitted to the Biological Sciences Division." Applications are "reviewed by the admissions committees of the program(s) to which you applied."
+- Deadline: all materials due "December 1, 2026 for all programs." Fee $90, non-refundable; waivers requested after submitting.
+- GRE: "the GRE is optional for all PHD programs"; Medical Physics and Biochemistry and Molecular Biophysics consider scores if available.
+- English: IELTS 7 overall with 7 each, Academic only; TOEFL/IELTS from December 1, 2024 or later. TOEFL thresholds reused from saved 2026-10-22 evidence above (not re-quoted today).
+- Funding: package covers stipend, full tuition and health insurance; five years with continued support beyond when possible. "International applicants are welcome." Package available to all students; PhD students generally must be legally authorized to work in the US.
+- Not re-opened today (blocked, provenance): https://biosciences.uchicago.edu/admissions/how-to-apply and /financial-support; their 2026-10-22 evidence above stands.

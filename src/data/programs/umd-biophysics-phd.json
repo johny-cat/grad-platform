@@ -1,0 +1,75 @@
+{
+  "name": "Biophysics PhD",
+  "institution": "University of Maryland, College Park",
+  "institutionShort": "UMD",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "location": "College Park, Maryland",
+  "details": "checked",
+  "detailsNote": "Official information available. The catalog lists a Fall deadline of January 5, 2027 without naming the entry year; the program's own admissions page still shows January 9, 2026 (Fall 2026), so confirm the current date. The catalog says GRE is optional; the program page says GRE scores are optional but strongly recommended for Fall 2026.",
+  "summary": "Interdisciplinary PhD in biophysics at the University of Maryland, College Park, run by the Institute for Physical Science and Technology. Students rotate through three labs in year one, then choose a thesis adviser.",
+  "officialUrl": "https://academiccatalog.umd.edu/graduate/programs/biophysics-biph/",
+  "applyUrl": "https://gradschool.umd.edu/admissions/application-process/apply-now",
+  "cycle": "fall-2027",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "Fall application deadline",
+      "date": "2027-01-05",
+      "note": "The catalog lists \"January 5, 2027\" for domestic and international applicants, Fall only; no time is given. It does not say \"Fall 2027\", but there is no Spring admission. The program's admissions page lists an older date (see published dates), so confirm with the program."
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Program admissions page deadline",
+      "dateText": "Friday, January 9, 2026",
+      "note": "Stated on the program's admissions page for Fall 2026 entry. Not the current cycle; not used for countdowns."
+    }
+  ],
+  "timeline": {
+    "interviews": "Not stated on official pages."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "96 (taken on or before 20 January 2026) or 5 overall (taken on or after 21 January 2026)",
+      "ielts": 7,
+      "note": "Graduate School minimums for full enrollment; PTE Academic 68 also accepted. Lower scores may lead to conditional admission, and programs may set stricter requirements. Applicants with a degree from a U.S. or listed English-speaking-country institution are exempt."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The Graduate School charges $90 per program; the Biophysics admissions page says $75. We show the higher figure. Fee waivers are limited and considered individually; the FreeApp is for domestic students (ends April 15, 2027). Pages do not say whether international applicants qualify, so confirm."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of Purpose (1000-2000 words)",
+      "Transcripts",
+      "CV/Resume",
+      "Description of research or work experience",
+      "TOEFL/IELTS/PTE scores (international applicants)"
+    ],
+    "note": "Optional per the catalog: GRE and GRE Subject scores and a writing sample."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The program says it offers \"Teaching Assistantship (TA) and Dean's Fellowships to all entering graduate students\", with a stipend, tuition remission and health insurance, and that \"all students will be RAs after they choose their advisors\". It does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    { "url": "https://academiccatalog.umd.edu/graduate/programs/biophysics-biph/", "label": "UMD Graduate Catalog: Biophysics (BIPH)", "checked": "2026-10-31" },
+    { "url": "https://ipst.umd.edu/graduate-programs/biophysics/prospective-students/admissions", "label": "UMD Biophysics Graduate Program: Admissions", "checked": "2026-10-31" },
+    { "url": "https://ipst.umd.edu/graduate-programs/biophysics/prospective-students/overview", "label": "UMD Biophysics Graduate Program: Overview", "checked": "2026-10-31" },
+    { "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements", "label": "UMD Graduate School: English language proficiency requirements", "checked": "2026-10-31" },
+    { "url": "https://gradschool.umd.edu/admissions/application-process/apply-now", "label": "UMD Graduate School: Apply now", "checked": "2026-10-31" },
+    { "url": "https://gradschool.umd.edu/feewaiverinformation", "label": "UMD Graduate School: Fee waiver information", "checked": "2026-10-31" }
+  ],
+  "lastChecked": "2026-10-31"
+}

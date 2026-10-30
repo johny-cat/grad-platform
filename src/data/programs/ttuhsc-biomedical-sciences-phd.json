@@ -3,17 +3,94 @@
   "institution": "Texas Tech University Health Sciences Center",
   "institutionShort": "TTUHSC",
   "country": "US",
+  "location": "Lubbock, Texas",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "tracks": [
+    "Biochemistry, Cellular & Molecular Biology (BCMB)",
+    "Immunology & Infectious Diseases (IID)",
+    "Molecular Biophysics (MB)",
+    "Translational Neuroscience & Pharmacology (TNP)"
+  ],
+  "details": "checked",
+  "detailsNote": "Official requirements are available, but the published deadlines carry no stated year and the how-to-apply page's deadline table is labelled Fall 2024. They are not confirmed for Fall 2027. The how-to-apply page says GRE is required while the academic catalog says GRE is optional; GRE is shown as required (the safer value), so confirm with the Graduate School.",
+  "admissionModel": "program",
+  "summary": "PhD from the Graduate School of Biomedical Sciences in Lubbock. Students start undeclared, do two lab rotations, then choose a mentor and one of four concentrations.",
   "officialUrl": "https://www.ttuhsc.edu/biomedical-sciences/program/",
+  "applyUrl": "https://www.ttuhsc.edu/biomedical-sciences/apply/default.aspx",
   "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "March 1",
+      "note": "Published without a year on the admissions page; the how-to-apply table is labelled Fall 2024. Not confirmed for Fall 2027."
+    },
+    {
+      "label": "Early decision deadline",
+      "dateText": "December 1",
+      "note": "Published without a year; applicants with complete applications by this date are also eligible for a fee waiver. Not confirmed for Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "550 (paper-based) or 79 (internet-based)",
+      "ielts": 6.5,
+      "duolingo": 100,
+      "note": "For international applicants who do not qualify for the exceptions listed on the page. IELTS is the overall band on the Academic version. The page gives only old-scale TOEFL numbers. Check the English proficiency page for exemptions."
+    },
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Non-refundable. Applicants to the Biomedical Sciences PhD with complete applications by December 1 are eligible for a fee waiver; email the Graduate School for instructions. The page does not say whether international applicants qualify, so confirm."
+    },
+    "letters": {
+      "min": 2,
+      "max": 4
+    },
+    "documents": [
+      "Statement of purpose (3,000 characters including spaces)",
+      "Resume or CV",
+      "Course-by-course transcript evaluation for institutions attended outside the USA"
+    ],
+    "note": "The how-to-apply page says the GRE general test is required (subject tests optional); the academic catalog says GRE is optional for the Biomedical Sciences PhD. Supplemental items are added after submitting the application and must all arrive before it is reviewed. No separate interview is stated for scholarships."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Most PhD students receive a research assistantship, and applicants are told of the award with the admission offer. No stipend amount is stated on the pages checked."
+  },
   "sources": [
     {
       "url": "https://www.ttuhsc.edu/biomedical-sciences/program/",
       "label": "TTUHSC Graduate School of Biomedical Sciences: Program",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.ttuhsc.edu/biomedical-sciences/admissions/",
+      "label": "TTUHSC GSBS: Admissions deadlines",
       "checked": "2026-10-24"
+    },
+    {
+      "url": "https://www.ttuhsc.edu/biomedical-sciences/apply/default.aspx",
+      "label": "TTUHSC GSBS: How to apply",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.ttuhsc.edu/biomedical-sciences/apply",
+      "label": "TTUHSC GSBS: Apply (application opens September 1; statement limit)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.ttuhsc.edu/biomedical-sciences/program/phd-concentrations/default.aspx",
+      "label": "TTUHSC GSBS: Biomedical Sciences PhD and rotations",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.ttuhsc.edu/biomedical-sciences/catalog",
+      "label": "TTUHSC GSBS: Academic catalog",
+      "checked": "2026-10-31"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-31"
 }
