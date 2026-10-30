@@ -3,9 +3,9 @@
   "institution": "SUNY Upstate Medical University",
   "institutionShort": "SUNY Upstate",
   "country": "US",
+  "location": "Syracuse, New York",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
   "tracks": [
     "Biochemistry & Molecular Biology",
     "Cell & Developmental Biology",
@@ -13,14 +13,72 @@
     "Neuroscience",
     "Pharmacology"
   ],
+  "details": "checked",
+  "admissionModel": "program",
+  "summary": "Students apply once to the general, undeclared Biomedical Science PhD, do three lab rotations in the first year, then join one of five degree-granting programs.",
   "officialUrl": "https://www.upstate.edu/grad/index.php",
+  "applyUrl": "https://www.upstate.edu/grad/admissions/how-to-apply-phd.php",
   "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-15",
+      "note": "Listed for Fall 2027 admissions: all application materials are due by this date. The application fee is waived automatically for those who submit before November 15."
+    }
+  ],
+  "timeline": {
+    "interviews": "Strong candidates are invited to interview; the interview period is November to January."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "note": "The how-to-apply page says English proficiency standardized test scores are not required. The FAQ page (which names the 2024 cycle) says the whole application file and the interview are used to assess English."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from all previous institutions attended",
+      "CV or resume",
+      "Personal statement on academic background, research interests and career goals"
+    ],
+    "note": "GRE depends on where you studied: scores are required if your bachelor's or master's degree was completed outside the US, and not required if you attended a US regionally accredited institution. International applicants submit unofficial GRE scores taken less than 3 years ago. The application fee amount is not stated on the pages checked; it is waived automatically for applications submitted before November 15 and for US veterans, active-duty or reserve military and their dependents. The three-letters rule comes from the FAQ page. International applicants who are admitted must provide official transcripts and a course-by-course GPA evaluation."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 32000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2023"
+    },
+    "note": "PhD students receive a 12-month stipend of $32,000 (effective January 5, 2023) and a full-tuition scholarship. Stipends are taxable."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International students must meet the same academic requirements and standards as domestic students."
+  },
   "sources": [
     {
       "url": "https://www.upstate.edu/grad/index.php",
       "label": "Official graduate program identity and common application",
       "checked": "2026-10-28"
+    },
+    {
+      "url": "https://www.upstate.edu/grad/admissions/how-to-apply-phd.php",
+      "label": "How to apply: PhD (Fall 2027 deadline, fee, GRE, documents)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.upstate.edu/grad/admissions/faqs.php",
+      "label": "Graduate admissions FAQ",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.upstate.edu/grad/admissions/stipend-tuition-fees.php",
+      "label": "Stipends, tuition and fees",
+      "checked": "2026-10-31"
     }
   ],
-  "lastChecked": "2026-10-28"
+  "lastChecked": "2026-10-31"
 }

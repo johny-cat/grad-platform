@@ -98,3 +98,7 @@ Independent review2026-10-28. Each of the six program evidence files now contain
 
 > #### Selection of Advisor/Lab
 > All IPIBS programs require a minimum of two lab rotations with selection of a Research Advisor for their dissertation research to be completed no later than the end of Year 1.
+
+## Check: 2026-10-31 (IPIBS reconciliation)
+
+- https://medicine.louisville.edu/academicsprograms/phd-program-academics (quoted above): applicants "indicate which degree program they are interested in by including the appropriate major codes" (ASNB, BIOC, MBIO, PHTX, PHZB); "Applications to departmental programs received before January 15th each year, will receive full consideration for an Integrated Programs in Biomedical Sciences Fellowship." So IPIBS is a fellowship and shared core curriculum across departmental applications, not a separate application. https://medicine.louisville.edu/academics-programs/doctoral-programs/phd-program-academics-programs/ipibs could not be opened (client error).

@@ -1,0 +1,88 @@
+{
+  "name": "Molecular and Cellular Biosciences (MCB) PhD Track",
+  "institution": "Wake Forest University",
+  "institutionShort": "Wake Forest",
+  "country": "US",
+  "location": "Winston-Salem, North Carolina",
+  "degree": "phd",
+  "field": "biology",
+  "tracks": [
+    "Biochemistry and Molecular Biology",
+    "Cancer Biology",
+    "Integrative Physiology & Pharmacology",
+    "Microbiology and Immunology",
+    "Molecular Genetics and Genomics",
+    "Molecular Medicine and Translational Science"
+  ],
+  "details": "checked",
+  "detailsNote": "Official information available; the December 6 deadline is published without a year and is not confirmed for Fall 2027. Stipend amounts and whether funding covers international students are not stated on the pages checked.",
+  "admissionModel": "program",
+  "summary": "A shared admissions track at Wake Forest School of Medicine for six molecular and cellular PhD programs, with a common first-year curriculum and three lab rotations before choosing a program.",
+  "officialUrl": "https://school.wakehealth.edu/education-and-training/graduate-programs/molecular-and-cellular-biosciences-track",
+  "applyUrl": "https://school.wakehealth.edu/education-and-training/graduate-programs/how-to-apply",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Published MCB PhD Track deadline (Fall)",
+      "dateText": "12/6",
+      "note": "Listed in the School of Medicine deadline table without a year or time, and the page says deadlines are subject to change. Not confirmed for Fall 2027; confirm with the program."
+    }
+  ],
+  "timeline": {
+    "interviews": "Most biomedical graduate programs invite selected applicants to interview; the pages do not give MCB-specific interview dates."
+  },
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "90 (iBT)",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "Minimum scores for non-U.S. applicants whose native language is not English."
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "The page says most programs have a $70 fee or a waiver code. Waivers are based on financial need and program participation, and international students are held to the same criteria as domestic students."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Personal information",
+      "Transcripts",
+      "Two recommendation letters",
+      "Written personal statement",
+      "Research statement",
+      "Attestation statement",
+      "Application fee"
+    ],
+    "note": "Standardized test scores and a CV or resume are listed as optional. Applications not complete 5 business days after the close date are not reviewed."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "PhD applicants are automatically considered for a full tuition scholarship and stipend for living expenses; no amount is stated. The page does not say whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "All domestic and international students complete the same online application."
+  },
+  "sources": [
+    {
+      "url": "https://school.wakehealth.edu/education-and-training/graduate-programs/molecular-and-cellular-biosciences-track",
+      "label": "Wake Forest School of Medicine: Molecular and Cellular Biosciences track",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://school.wakehealth.edu/education-and-training/graduate-programs/how-to-apply",
+      "label": "Wake Forest School of Medicine: How to apply",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://school.wakehealth.edu/education-and-training/graduate-programs/microbiology-and-immunology-phd",
+      "label": "Wake Forest School of Medicine: Microbiology and Immunology PhD",
+      "checked": "2026-10-31"
+    }
+  ],
+  "lastChecked": "2026-10-31"
+}
