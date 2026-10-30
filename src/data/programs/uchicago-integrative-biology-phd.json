@@ -1,0 +1,80 @@
+{
+  "name": "Integrative Biology PhD Program",
+  "institution": "University of Chicago",
+  "institutionShort": "UChicago",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "location": "Chicago, Illinois",
+  "summary": "PhD program in the Department of Organismal Biology and Anatomy for strongly interdisciplinary research questions across fields in biology.",
+  "officialUrl": "https://integbio.uchicago.edu/",
+  "applyUrl": "https://biosciences.uchicago.edu/admissions/how-to-apply",
+  "cycle": "fall-2027",
+  "deadlines": [
+    {
+      "label": "Application and all supporting materials",
+      "date": "2026-12-01",
+      "note": "The Biosciences FAQ gives December 1, 2026 for Autumn admission for all programs, including letters and supplementary materials."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "Tests on/after 21 January 2026: Reading and Writing at least 5, Listening at least 5.5, Speaking at least 4.5. Earlier tests: 100 overall; Reading, Writing and Listening at least 26; Speaking at least 22.",
+      "ielts": 7,
+      "note": "IELTS Academic: at least 7 overall with 7 in each section. Scores must be from December 1, 2024 or later. Applicants who meet the University's English-medium education criteria may be exempt."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The $90 fee is non-refundable. UChicago Biosciences lists specific fee-waiver categories, requested after you submit; the pages opened don't say whether international applicants qualify. Don't pay before the waiver decision."
+    },
+    "note": "One Biosciences application covers all its PhD programs: you may list up to four programs in no more than two clusters. GRE is optional for all PhD programs; most programs do not consider submitted scores.",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Candidate statement (maximum 2 pages)",
+      "Unofficial transcripts from each degree-granting postsecondary institution"
+    ]
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "The Biosciences package covers a stipend, full tuition and health insurance, committed for five years with continued support beyond that when possible. International applicants are welcome and the package is available to all students; PhD students generally must be legally authorized to work in the US."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "detailsNote": "The Biosciences deadline and requirements are confirmed for Autumn 2027. The program's own pages don't say whether students rotate or apply to a lab, so the admission model is left out.",
+  "sources": [
+    {
+      "url": "https://biosciences.uchicago.edu/programs/integrative-biology",
+      "label": "UChicago Biosciences: Integrative Biology",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://integbio.uchicago.edu/page/resources-applicants-prospective-students",
+      "label": "Integrative Biology: Resources for Applicants",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq",
+      "label": "UChicago Biosciences: Application FAQs",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/phd-admissions",
+      "label": "UChicago Biosciences: PhD Admissions",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://biosciences.uchicago.edu/programs",
+      "label": "UChicago Biosciences: PhD Graduate Programs",
+      "checked": "2026-10-31"
+    }
+  ],
+  "lastChecked": "2026-10-31"
+}
