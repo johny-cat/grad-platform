@@ -33,9 +33,14 @@
       "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions",
       "label": "Official program/admissions policy",
       "checked": "2026-10-23"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/programs/cell-developmental-biology",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
     }
   ],
-  "lastChecked": "2026-10-23",
+  "lastChecked": "2026-10-31",
   "applyUrl": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process",
   "admissionModel": "program",
   "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
@@ -78,5 +83,10 @@
       "year": "2026-2027"
     },
     "note": "Each accepted PhD student receives full tuition, fees and health insurance. Published New York stipend is for 2026–2027; Fall2027 amount unconfirmed."
-  }
+  },
+  "tracks": [
+    "Biochemistry & Structural Biology",
+    "Molecular Biology",
+    "Cell & Developmental Biology"
+  ]
 }

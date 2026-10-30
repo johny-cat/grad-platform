@@ -102,3 +102,15 @@ https://tpcbapply.triiprograms.org/
 “no later than June 20”; “strongly encouraged to solicit an additional external letter” (TPCB faculty recommender).
 https://compbio.triiprograms.org/about-cbm/faq-for-prospective-students/
 “Publications are not required.”; “CBM does not accept letters of recommendation from Interfolio.”; “CBM has no teaching requirements”.
+
+
+## Check: 2026-10-31 (archive leads)
+https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions
+> WCGS accepts applications to six programs of study leading to the Doctor of Philosophy (PhD) degree.
+Table lists: BCMB Allied Program; Immunology & Microbial Pathogenesis; Neuroscience; Pharmacology; Physiology, Biophysics & Systems Biology; Population Health Sciences (plus Houston Methodist Neuroscience and PBSB). Cell and Developmental Biology is not listed separately.
+https://gradschool.weill.cornell.edu/about-us/leadership-administration/phd-programs
+Lists same six programs; "Program Co-Chair, Cell and Developmental Biology" appears under the BCMB Allied Program.
+https://gradschool.weill.cornell.edu/programs/biochemistry-cell-biology-molecular-biology-bcmb
+> three separate doctoral programs—Biochemistry & Structural Biology, Molecular Biology, and Cell & Developmental Biology
+> students are admitted to and remain members of the BCMB Allied program throughout their doctoral training
+https://gradschool.weill.cornell.edu/admissions/phd-application-fee-waivers : could not be opened (fetch tool provenance block); waiver facts left as on application-process and financial-support pages.

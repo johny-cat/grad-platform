@@ -1,0 +1,88 @@
+{
+  "name": "Neuroscience PhD",
+  "institution": "Weill Cornell Medicine",
+  "institutionShort": "Weill Cornell",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://gradschool.weill.cornell.edu/programs/neuroscience",
+  "cycle": "fall-2027",
+  "sources": [
+    {
+      "url": "https://gradschool.weill.cornell.edu/programs/neuroscience",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/academics/neuroscience/program-requirements",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/financial-support",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/frequently-asked-questions",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    }
+  ],
+  "lastChecked": "2026-10-31",
+  "applyUrl": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process",
+  "admissionModel": "program",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Application deadline of December 1 comes from the graduate school's shared application page, which announces the Fall 2027 cycle but gives no year with the date.",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline",
+      "dateText": "December 1",
+      "note": "Timeline gives no year; landing page announces Fall 2027. Confirm cycle-specific deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "Application-process page restricts waivers to U.S. citizens, permanent residents or undocumented applicants; financial-support page is broader. Confirm eligibility. Supporting documents required; waiver form closes November 22, 2026. Allow seven business days."
+    },
+    "english": {
+      "note": "TOEFL, IELTS or Duolingo accepted, valid two years. Neuroscience page says applicants whose native language is not English must take the TOEFL; FAQ states no minimum test scores. Standing exemptions may apply; consult application-process page."
+    },
+    "documents": [
+      "Personal statement (maximum 1500 words)",
+      "Updated professional resume",
+      "Transcripts for all post-secondary degrees completed or in progress",
+      "Official NACES course-by-course evaluation for degrees outside the United States, including Canada"
+    ],
+    "note": "Accredited bachelor’s degree required; no minimum GPA. Unofficial U.S. transcripts accepted for review. Interviews January/February; decisions mid/late-February. No prior supervisor commitment required. Neuroscience requires at least three rotations of two to three months each."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 55620,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "Each accepted PhD student receives full tuition, fees and health insurance. Published New York stipend is for 2026–2027; Fall2027 amount unconfirmed."
+  },
+  "summary": "Weill Cornell's Neuroscience PhD covers brain function from molecular mechanisms upward, with over 65 faculty. Students do at least three lab rotations before choosing a thesis advisor."
+}
