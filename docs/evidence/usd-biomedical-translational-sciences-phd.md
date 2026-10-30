@@ -51,3 +51,8 @@ Checked from opened official pages. Saved exact opened text is reused where stat
 ## Requirements not published in this record
 
 Program identity confirmed on official pages, but linked catalog requirements returned403, catalog.usd.edu returned403, older BBS handbook returned404, and current official handbook links failed400. Central fee/English and some program funding/deadline information are saved in research, but they do not substitute for the inaccessible complete program requirements. Listed pending with basics only; no personal applicant facts included.
+
+## Check: 2026-10-31
+- Program: https://usd.edu/Academics/Graduate-Programs/Biomedical-and-Translational-Sciences — "The Ph.D. Research Graduate Assistantship stipend is currently $31,500 for the first full year ($2,625 per month)."; "Fellows with non-resident student status receive a 62% reduction in tuition and fees."; "Recipients must work full time towards degree completion."; eligibility limited to "admitted students in research track programs." No deadline on page. Catalog requirements (catalog.usd.edu ent_oid=2377) returned empty: BLOCKED.
+- Deadline: https://www.usd.edu/Academics/Graduate%20Programs/Biomedical%20Sciences — "While we have a rolling admissions process, no applications are accepted after April 1."; offers finalized May 15; applications through GradCAS to the USD Graduate School. No year.
+- Fee, documents, English: same USD central pages as in usd-biological-sciences-phd.md (How-to-Apply: fee "cannot be waived or deferred"; international page English minimums).
