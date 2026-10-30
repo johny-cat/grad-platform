@@ -22,7 +22,7 @@
     {
       "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process",
       "label": "Official program/admissions policy",
-      "checked": "2026-10-31"
+      "checked": "2026-10-23"
     },
     {
       "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/financial-support",
@@ -36,6 +36,16 @@
     },
     {
       "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/apply-online",
+      "label": "Official program/admissions policy",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.weill.cornell.edu/admissions/phd-application-fee-waivers",
       "label": "Official program/admissions policy",
       "checked": "2026-10-31"
     }
@@ -60,7 +70,7 @@
       "amount": 80,
       "currency": "USD",
       "waiver": "domestic-only",
-      "note": "Application-process page restricts waivers to U.S. citizens, permanent residents or undocumented applicants; financial-support page is broader. Confirm eligibility. Supporting documents required; waiver form closes November 22, 2026. Allow seven business days."
+      "note": "The graduate school's application-process page (saved 2026-10-23, could not be reopened on 2026-10-31) limits waivers to U.S. citizens, permanent residents or undocumented applicants; its dedicated fee-waiver page and financial-support page name financial hardship or pipeline programs without limiting by citizenship. Pages differ, so confirm eligibility before relying on a waiver. Supporting documents required; the waiver form closes November 22, 2026. Allow seven business days."
     },
     "english": {
       "note": "TOEFL, IELTS or Duolingo accepted, valid two years. Neuroscience page says applicants whose native language is not English must take the TOEFL; FAQ states no minimum test scores. Standing exemptions may apply; consult application-process page."
@@ -84,5 +94,5 @@
     },
     "note": "Each accepted PhD student receives full tuition, fees and health insurance. Published New York stipend is for 2026–2027; Fall2027 amount unconfirmed."
   },
-  "summary": "Weill Cornell's Neuroscience PhD covers brain function from molecular mechanisms upward, with over 65 faculty. Students do at least three lab rotations before choosing a thesis advisor."
+  "summary": "Weill Cornell's Neuroscience PhD covers biochemical and molecular mechanisms of brain function, with over 65 faculty. Students do at least three lab rotations before choosing a thesis advisor."
 }

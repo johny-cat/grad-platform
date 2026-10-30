@@ -13,9 +13,7 @@
     {
       "label": "Fall 2027 application deadline",
       "date": "2026-11-16",
-      "time": "23:59",
-      "timezone": "America/Los_Angeles",
-      "note": "UCSF Graduate Division's Fall 2027 timeline gives Monday, November 16, 2026. The BMS program page still shows an older cycle (November 15, Fall 2025)."
+      "note": "UCSF Graduate Division's Fall 2027 timeline gives Monday, November 16, 2026, without a time. The BMS program page still shows an older cycle (November 15, 11:59 p.m. PST, for Fall 2025)."
     }
   ],
   "timeline": {
