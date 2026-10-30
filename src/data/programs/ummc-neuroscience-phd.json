@@ -6,19 +6,75 @@
   "degree": "phd",
   "field": "biology",
   "cycle": "fall-2027",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.umc.edu/graduateschool/Degree-Programs/PhD/Neuroscience/Overview.html",
-  "lastChecked": "2026-10-28",
+  "lastChecked": "2026-10-31",
   "sources": [
     {
       "url": "https://www.umc.edu/graduateschool/Degree-Programs/PhD/Neuroscience/Overview.html",
-      "label": "Official identity",
-      "checked": "2026-10-28"
+      "label": "Official program page",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/neuroscience",
+      "label": "PhD in Neuroscience",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/graduateschool/Degree-Programs/PhD/Neuroscience/images/Image-Long-Descriptions/Course-of-Study-Timelime-Image-Long-Description.html",
+      "label": "Neuroscience: course of study timeline",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application-Deadlines-and-Procedures.html",
+      "label": "Graduate school: deadlines, fee, transcripts",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+      "label": "Graduate school: application for admission",
+      "checked": "2026-10-31"
     },
     {
       "url": "https://www.umc.edu/graduateschool/Degree-Programs/Degree-Programs-Overview.html",
-      "label": "Named PhD list",
-      "checked": "2026-10-28"
+      "label": "Graduate school: degree programs",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "summary": "UMMC doctoral program that trains independent researchers. Research exposure starts in the first semester, and students pick a dissertation lab after surveying several labs. Focus areas include brain trauma and spinal cord injury.",
+  "applyUrl": "https://www.umc.edu/graduateschool/Prospective-Students/Applying-for-School/Application%20for%20Admission.html",
+  "detailsNote": "The program pages reached give no admission requirements, so only the graduate school's general dates, fee and application page are used. Dates carry no year, so Fall 2027 is not confirmed. Admission model, GRE, letters, English minimums and funding are not stated on the pages reached.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application (all PhD programs)",
+      "dateText": "June 1 of the same year",
+      "note": "Graduate school page for all PhD programs; no year is given, so not confirmed for Fall 2027."
+    },
+    {
+      "label": "Spring Recruitment Event consideration",
+      "dateText": "January 15th",
+      "note": "Graduate school page, undated; not a final admission deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "applicationFee": {
+      "amount": 25,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The graduate school says a nonrefundable $25 fee must be submitted. The page does not mention fee waivers."
+    },
+    "documents": [
+      "Official transcripts (sent to UMMC All Admissions or transcripts@umc.edu)"
+    ],
+    "note": "The Neuroscience program pages list no requirements. Contact the Director of the Graduate Program in Neuroscience, Eric Vallender, PhD, for details."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "The graduate school's international-students list names this PhD (checked 2026-10-28)."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "No funding information on the program pages. The graduate school says stipends and scholarships are assigned competitively (checked 2026-10-28)."
+  }
 }

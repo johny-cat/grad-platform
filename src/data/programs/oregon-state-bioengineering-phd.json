@@ -5,15 +5,74 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
-  "officialUrl": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate/graduate-program-overview-bioengineering",
+  "details": "checked",
   "cycle": "fall-2027",
+  "summary": "Joint Oregon State and University of Oregon PhD in bioengineering. You do not need an advisor before applying; funded students are matched with one on admission. December 1 is the published deadline.",
+  "admissionModel": "program",
+  "officialUrl": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate/graduate-program-overview-bioengineering",
+  "applyUrl": "https://advanced.oregonstate.edu/portal/BioE",
+  "detailsNote": "The December 1 deadline is published without a year, so it is not confirmed for Fall 2027. The pages opened do not state a GRE policy for the PhD, and say the program does not guarantee funding for every admitted student.",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline (as published)",
+      "dateText": "December 1",
+      "note": "The application page says applications for the joint OSU-UO PhD and MS must be received by December 1 for matriculation the following fall; the program page calls it the final deadline. No year is given; confirm Fall 2027 directly."
+    }
+  ],
+  "timeline": {
+    "decisions": "Application decisions begin in February and continue through spring."
+  },
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "88 (iBT or Home Edition)",
+      "ielts": 7,
+      "note": "For applicants whose first language is not English or who are international: TOEFL iBT 88 or IELTS Academic 7.0 overall. Waived with a bachelor's degree or higher from a regionally accredited US institution or an English-speaking institution in Australia, Canada, Ireland, New Zealand or the UK (or Ghana or Nigeria for native English speakers). Certificates of English as the language of instruction are not accepted."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "The application page lists $75 for domestic and $85 for international students; non-refundable. The program page says it does not provide application fee waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from every institution attended (unofficial or official accepted at application)",
+      "Personal statement or essays",
+      "Resume or CV"
+    ],
+    "note": "Applicants enter the names and emails of three recommenders; they submit letters online. All applicants are reviewed by at least two faculty members, and meeting minimum requirements does not guarantee admission."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "There is no separate funding application. Funding is prioritized for PhD applicants, but applicants may be admitted without a funding offer. Assistantships are appointed term by term, and funding offers are accepted by April 15."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate/graduate-program-overview-bioengineering",
-      "label": "Oregon State University College of Engineering: Graduate Program Overview (Bioengineering)",
-      "checked": "2026-10-24"
+      "label": "OSU College of Engineering: Graduate Program Overview (Bioengineering)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate",
+      "label": "OSU Bioengineering Graduate Program",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://advanced.oregonstate.edu/portal/BioE",
+      "label": "OSU-UO Bioengineering application information",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://catalog.oregonstate.edu/college-departments/engineering/school-chemical-biological-environmental-engineering/bioengineering-meng-ms-phd/",
+      "label": "OSU catalog: Bioengineering (MEng, MS, PhD)",
+      "checked": "2026-10-31"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-31"
 }

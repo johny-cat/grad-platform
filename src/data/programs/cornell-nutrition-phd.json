@@ -1,19 +1,92 @@
 {
-  "country": "US",
-  "degree": "phd",
-  "field": "biology",
-  "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-29",
   "name": "Nutrition PhD",
   "institution": "Cornell University",
   "institutionShort": "Cornell",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "cycle": "fall-2027",
+  "summary": "Cornell's Graduate Field of Nutrition PhD, with four concentrations: community, human, international and molecular nutrition. Fall entry only; the published deadline is December 1.",
+  "tracks": [
+    "Community nutrition",
+    "Human nutrition",
+    "International nutrition",
+    "Molecular nutrition"
+  ],
   "officialUrl": "https://human.cornell.edu/degrees/grad/nutrition-phd",
+  "applyUrl": "https://gradschool.cornell.edu/admissions/",
+  "detailsNote": "The December 1 fall deadline is published without a year in the catalog and on the Graduate School field page, so it is not confirmed for Fall 2027. The admission model, GRE policy and funding for this field are not stated on the official pages opened. English scores below are the Graduate School's 2026-27 research-degree levels; the page says they apply to 2026-27 only.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application deadline (as published)",
+      "dateText": "Fall, December 1; no spring admission",
+      "note": "Stated without a year in the Cornell catalog and the Graduate School field page; not confirmed for Fall 2027. Confirm directly."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "Section minimums only. Old scale: Speaking 22 or 27, Reading 20, Listening 15, Writing 20. New scale (from Jan 2026): Speaking 4 or 5.5, Reading 4, Listening 3.5, Writing 4. The lower or higher Speaking score depends on the field's tier",
+      "ielts": 7,
+      "note": "Cornell Graduate School 2026-27 research-degree levels: IELTS Academic 7.0 overall (Tier A fields also need speaking 8.0). TOEFL iBT section minimums differ by tier, and the page does not say which tier Nutrition is in. Duolingo and other tests are not accepted. Exemptions exist, for example a US bachelor's degree or two years of full-time study or work in an English-speaking country. Scores are valid for two years."
+    },
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Financial-hardship waivers can be requested on the payment page of the application; requests are only approved for applicants to fully funded doctoral or research master's programs or those submitting a FAFSA. Submit at least three business days before the deadline. Another Cornell page says waivers are available for select programs, so confirm for Nutrition."
+    },
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Academic statement of purpose",
+      "Personal statement",
+      "Prior courses in general chemistry, organic chemistry and biochemistry"
+    ],
+    "note": "Additional training in nutrition, physiology and biology is recommended. The program page also describes a separate combined PhD/RD option for people with an ACEND-accredited dietetics program and a master's degree; its rules are not used here."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants must meet the English requirement and pay the same $105 fee as US applicants."
+  },
   "sources": [
     {
       "url": "https://human.cornell.edu/degrees/grad/nutrition-phd",
-      "label": "Official program or admissions policy",
-      "checked": "2026-10-29"
+      "label": "College of Human Ecology: Nutrition PhD",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/nutrition-phd/",
+      "label": "Cornell catalog: Nutrition (PhD)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/academics/fields-of-study/subject/nutrition/nutrition-phd-ithaca/",
+      "label": "Graduate School: Nutrition (Graduate Field)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/",
+      "label": "Graduate School: Required tests",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+      "label": "Graduate School: English language proficiency requirement",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/application-steps/pay-fees/",
+      "label": "Graduate School: Pay fees and fee waivers",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.cornell.edu/admissions/apply/international/",
+      "label": "Graduate School: Costs for international students",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }
