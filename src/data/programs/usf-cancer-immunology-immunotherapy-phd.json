@@ -5,15 +5,67 @@
   "country": "US",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/cancer-immunology-and-immunotherapy/about-the-program",
   "cycle": "fall-2027",
   "sources": [
     {
       "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/cancer-immunology-and-immunotherapy/about-the-program",
-      "label": "Moffitt Cancer Center Office of Graduate Affairs: Cancer Immunology and Immunotherapy, About the Program",
-      "checked": "2026-10-24"
+      "label": "Moffitt: Cancer Immunology and Immunotherapy, About the Program",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/cancer-immunology-and-immunotherapy/",
+      "label": "Moffitt: Cancer Immunology and Immunotherapy PhD Program",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/admissions/",
+      "label": "Moffitt PhD program admissions",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/about-the-phd-graduate-program/",
+      "label": "About the PhD Graduate Program (majors, USF degree)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/funding-support/",
+      "label": "Moffitt PhD funding support",
+      "checked": "2026-10-31"
     }
   ],
-  "lastChecked": "2026-10-24"
+  "lastChecked": "2026-10-31",
+  "summary": "A PhD in cancer immunology and immunotherapy held at Moffitt Cancer Center, one of four majors in the Moffitt and University of South Florida cancer PhD program; the degree is awarded through USF.",
+  "applyUrl": "https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/admissions/",
+  "detailsNote": "Admissions details come from Moffitt's Office of Graduate Affairs admissions page for the Moffitt PhD program; we could not confirm whether it names this major, and the major's own pages show no separate requirements. Its deadline says 'December 1' with no year, so it is shown as published and not used for countdowns. How students are admitted (rotations or specific lab), the application fee and whether funding covers international students are not stated on the pages we could open.",
+  "publishedDeadlines": [
+    {
+      "label": "Priority deadline (Moffitt PhD admissions page)",
+      "dateText": "December 1",
+      "note": "No year stated. The page says all materials, including letters of recommendation, must be received by Dec. 1. Not confirmed for Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "english": {
+      "toefl": "iBT 79 (PBT 550)",
+      "ielts": 6.5,
+      "note": "For applicants from countries where English is not the official language who have not earned at least a bachelor's degree where English is the language of instruction, as the page words it. Valid scores must be within two years of the admission start date. The page says admission is competitive and successful applicants are expected to exceed these minimal criteria."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "CV or resume",
+      "Transcripts (unofficial accepted for application; official if admitted)",
+      "Statement of purpose, no more than two pages"
+    ],
+    "note": "The page says the GRE is optional (a score report may be uploaded), and lists 'GRE Verbal – 153' among its criteria. Fall admission only. Transcripts must be in English."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Moffitt's funding page says: first-year students receive an annual stipend of $31,000 and a $4,000 enrollment bonus on arrival; second-year $35,000; third year and beyond $37,000 after passing qualifying exams. Full tuition, fees and student health insurance are provided to all students. The page gives no year for these amounts and does not mention international students."
+  }
 }

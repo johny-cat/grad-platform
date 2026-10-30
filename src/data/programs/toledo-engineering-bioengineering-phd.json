@@ -1,19 +1,73 @@
 {
-  "country": "US",
-  "degree": "phd",
-  "field": "biology",
-  "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-28",
   "name": "Engineering PhD — Bioengineering",
   "institution": "University of Toledo",
   "institutionShort": "UToledo",
+  "country": "US",
+  "location": "Toledo, Ohio",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "summary": "Engineering PhD with a Bioengineering specialization at Toledo, with flexible coursework and research that also covers non-biomedical areas such as environmental sensors and biofuels.",
   "officialUrl": "https://www.utoledo.edu/engineering/bioengineering/graduate/",
+  "applyUrl": "https://www.utoledo.edu/graduate/apply/",
+  "cycle": "fall-2027",
+  "detailsNote": "No application deadline, GRE rule or letter count for this specific PhD was readable on the official pages: the program's catalog page and its priority-deadline page were not available. The college says applications are reviewed with funding decisions made afterwards, and GRE is at each department's discretion, so GRE is shown as unknown. The admission model is not stated. The fee and English scores come from University of Toledo graduate-wide pages.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "iBT 80",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "University-wide graduate minimums for applicants from non-English-speaking countries; scores must be sent by the testing service. The College of Engineering FAQ lists Duolingo 105 and says minimum scores cannot be waived; the graduate catalog lists 110, so the higher is shown."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The graduate fee is $45 for domestic applicants and $75 for international applicants. The pages checked do not mention fee waivers."
+    },
+    "documents": [
+      "Transcripts from each prior institution",
+      "Online application with statement of purpose and paid fee",
+      "Request for financial aid (online)",
+      "English test scores sent by the testing organization, if required"
+    ],
+    "note": "The College of Engineering says the GRE is at each department's discretion. The number of recommendation letters for this PhD is not stated on the pages checked. Contact the graduate program director for details."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The College of Engineering says graduate assistantships (teaching or research) are awarded in exchange for work, and that funding decisions for admitted applicants depend on qualifications, available funding and open laboratory positions. It does not say all PhD students are funded or whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants are accepted. The College of Engineering says they pay the $75 fee and must provide English test scores if from non-English-speaking countries."
+  },
   "sources": [
     {
       "url": "https://www.utoledo.edu/engineering/bioengineering/graduate/",
-      "label": "Official degree and admissions requirements",
-      "checked": "2026-10-28"
+      "label": "Department: bioengineering graduate degrees",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html",
+      "label": "College of Engineering graduate FAQs",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://catalog.utoledo.edu/graduate/graduate-studies/college-policies/admission-requirements/admission-requirements.pdf",
+      "label": "Graduate catalog: admission requirements and English scores",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://catalog.utoledo.edu/graduate/engineering/college-policies/admission/admission.pdf",
+      "label": "Engineering catalog: admission",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/admission/how-to-apply/",
+      "label": "Graduate Studies: application process",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }

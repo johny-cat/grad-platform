@@ -3,16 +3,67 @@
   "degree": "phd",
   "field": "biology",
   "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-29",
+  "details": "checked",
+  "lastChecked": "2026-10-31",
   "name": "Entomology PhD",
   "institution": "Texas A&M University",
   "institutionShort": "Texas A&M",
+  "location": "College Station, Texas",
   "officialUrl": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/agriculture-life-sciences/entomology/phd/",
+  "applyUrl": "https://entomology.tamu.edu/ph-d-in-entomology/",
+  "admissionModel": "lab",
+  "summary": "Research PhD in the Department of Entomology. You apply through the university's graduate application, and a faculty member must formally agree to be your advisor before you can be admitted.",
+  "detailsNote": "No Fall 2027 application deadline is published on the pages we could open, so none is shown. The $90 fee and English scores are Texas A&M's international graduate rules (checked 2026-10-29); the domestic fee was not checked. The department page requires official TOEFL scores from international applicants; the central page lists IELTS Academic 6 as accepted.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "80 (older scale) or 4.5 (new scale) overall, with at least 4 on each skill, valid two years",
+      "ielts": 6,
+      "note": "Entomology says official TOEFL scores are required for international applicants (ETS school code 6003). Texas A&M's central international page lists the scores above and says exemptions exist for listed English-speaking countries or an accredited US degree."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "This is the international graduate fee, plus a separate CAS processing charge. The central page says the $90 international fee cannot be waived. Domestic fee and waiver were not checked."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Resume or curriculum vitae",
+      "Statement of purpose",
+      "Official transcripts and records, sent to the Office of Admissions"
+    ],
+    "note": "Minimum GPR of 3.0 in the last 60 hours of undergraduate work, or 3.25 in 30 or more hours of graduate work. Ideally two of the three letters come from faculty related to your area of interest. The department page does not mention the GRE."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The department page mentions funding opportunities outside the department and competitive scholarships of at least $1,000 for international or out-of-state students. It gives no stipend or guarantee for PhD students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/agriculture-life-sciences/entomology/phd/",
-      "label": "Official admission and degree policy",
+      "label": "Catalog: Entomology PhD",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://entomology.tamu.edu/ph-d-in-entomology/",
+      "label": "Department: Ph.D. in Entomology",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://grad.tamu.edu/programs/entomology-phd.html",
+      "label": "Graduate and Professional School: Entomology PhD",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://admissions.tamu.edu/apply/international/international-graduate.html",
+      "label": "Admissions: international graduate applicants (fee, English)",
       "checked": "2026-10-29"
     }
   ]

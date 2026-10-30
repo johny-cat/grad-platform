@@ -1,29 +1,79 @@
 {
-  "country": "US",
-  "degree": "phd",
-  "field": "biology",
-  "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-28",
   "name": "Biology PhD — Cell and Molecular Biology",
   "institution": "University of Toledo",
   "institutionShort": "UToledo",
+  "country": "US",
+  "location": "Toledo, Ohio",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "Biology PhD with a Cell and Molecular Biology concentration at Toledo. Applicants need a faculty member who will work with them. Doctoral students receive tuition waivers and stipends for teaching or research work.",
   "officialUrl": "https://www.utoledo.edu/nsm/bio/graduate/phd-program.html",
+  "applyUrl": "https://www.utoledo.edu/graduate/apply/",
+  "cycle": "fall-2027",
+  "detailsNote": "The department has no fixed application deadline: it says it admits on a rolling basis, with applications accepted all year for Fall, Spring and Summer starts. GRE and the number of recommendation letters are not stated on the program pages, so they are left out. The fee and English scores come from University of Toledo graduate-wide pages, not the department. The fee statement comes from the catalog admission PDF and the College of Engineering FAQ.",
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "iBT 80",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "University-wide minimums for applicants whose native language is not English and who earned their undergraduate degree at a non-English-speaking institution. Scores must be sent by the testing service and still valid on the first day of the program. A foreign credential evaluation is required for all applicants."
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "The graduate fee is $45 for domestic applicants and $75 for international applicants. The pages checked do not mention fee waivers."
+    },
+    "documents": [
+      "Transcripts from all previous higher education institutions",
+      "Online application (University of Toledo College of Graduate Studies)"
+    ],
+    "note": "The graduate catalog says some programs have additional requirements and that letters of recommendation depend on the program; the program's own count is not stated on the pages checked. Applicants must be approved by a faculty member who will work with them; contacting faculty directly is encouraged."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "The program page says all doctoral students receive tuition waivers and competitive stipends, in return for work as a teaching or research assistant. It does not say whether this covers international students. The department says support usually comes through the major professor's grant. No stipend amount is stated."
+  },
   "sources": [
     {
       "url": "https://www.utoledo.edu/nsm/bio/graduate/phd-program.html",
-      "label": "Official degree and admissions requirements",
-      "checked": "2026-10-28"
+      "label": "Department: Biology PhD program",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.utoledo.edu/programs/grad/cellular-and-molecular-biology/",
+      "label": "Program page: Biology - Cell and Molecular (PhD or MS)",
+      "checked": "2026-10-31"
     },
     {
       "url": "https://www.utoledo.edu/nsm/bio/graduate/",
-      "label": "Official degree and admissions requirements",
-      "checked": "2026-10-28"
+      "label": "Department: graduate degree programs and admission",
+      "checked": "2026-10-31"
     },
     {
       "url": "https://www.utoledo.edu/nsm/bio/graduate/phd-program-req.html",
-      "label": "Official degree and admissions requirements",
-      "checked": "2026-10-28"
+      "label": "Department: PhD degree requirements (rotations, major professor)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.utoledo.edu/graduate/admission/how-to-apply/",
+      "label": "Graduate Studies: application process",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://catalog.utoledo.edu/graduate/graduate-studies/college-policies/admission-requirements/admission-requirements.pdf",
+      "label": "Graduate catalog: admission requirements and English scores",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html",
+      "label": "College of Engineering graduate FAQs (graduate application fee statement)",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }

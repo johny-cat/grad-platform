@@ -3,17 +3,74 @@
   "institution": "The Pennsylvania State University",
   "institutionShort": "Penn State",
   "country": "US",
+  "location": "University Park, Pennsylvania",
   "degree": "phd",
   "field": "biology",
-  "details": "pending",
+  "details": "checked",
   "officialUrl": "https://bulletins.psu.edu/graduate/programs/majors/plant-biology/",
+  "applyUrl": "https://www.huck.psu.edu/graduate-programs/plant-biology/application-info/apply-now",
   "cycle": "fall-2027",
-  "lastChecked": "2026-10-29",
+  "summary": "Intercollege PhD in plant biology run through the Huck Institutes. Applicants with a strong biology background and research experience are generally admitted straight into the PhD.",
+  "detailsNote": "Penn State lists a December 1 deadline for Plant Biology without a year, so it is not shown as a Fall 2027 date. How students are admitted (program or lab) is not stated. The bulletin says the GRE is not required, while a Huck program table lists GRE General Test scores under application requirements, so the GRE is left unconfirmed. Fee and English scores are Penn State Graduate School rules for all programs.",
+  "publishedDeadlines": [
+    {
+      "label": "Application deadline (year not stated)",
+      "dateText": "December 1",
+      "note": "Huck's application deadlines page lists Plant Biology as 'Early August' (application opens) and 'December 1' with no year. Confirm the Fall 2027 date."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "english": {
+      "toefl": "4.5 (new scale) with at least 3.5 speaking; 80 with at least 19 speaking for tests before January 21, 2026",
+      "ielts": 6.5,
+      "note": "Penn State Graduate School minimums for international applicants. The Plant Biology bulletin lists no separate English test."
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "$85 for international applicants ($65 for US applicants). To request a waiver, contact the program; the page does not say whether international applicants qualify, so confirm."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Official transcripts (scanned copy at application)",
+      "CV",
+      "Statement of purpose"
+    ],
+    "note": "Students with a 3.00 junior/senior GPA and suitable background are considered; preparation should include biochemistry, general physics and calculus. Limited deficiencies can be made up after admission. The bulletin says 'GRE scores are not required for admission', but Huck's table lists GRE General Test scores; check with the program. Three letters are from the Huck table."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The bulletin says most participating departments make Plant Biology applicants eligible for teaching or research assistantships, and other assistantships come from individual faculty grants. It states no guarantee or stipend."
+  },
+  "international": {
+    "accepted": "yes"
+  },
   "sources": [
     {
       "url": "https://bulletins.psu.edu/graduate/programs/majors/plant-biology/",
-      "label": "Official program requirements",
-      "checked": "2026-10-29"
+      "label": "Graduate bulletin: Plant Biology",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.huck.psu.edu/lifescigrad",
+      "label": "Huck Institutes: life science graduate programs at a glance",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.huck.psu.edu/graduate-education/prospective-students/admissions/application-deadlines",
+      "label": "Huck Institutes: application deadlines",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.psu.edu/admissions/prepare-to-apply",
+      "label": "Fox Graduate School: preparing to apply",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }

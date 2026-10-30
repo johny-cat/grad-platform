@@ -40,3 +40,6 @@ No citizenship restriction stated here; available per current task rule, with in
 ## Independent second review — 2026-10-22
 
 Reopened deadline, English and fee-waiver central pages plus Animal Biology, BME, Immunology, Microbiology and Population Biology admissions. Values and conservative deadline/model decisions match evidence. Added the omitted Duolingo limitation to all six records. Exact central English sentence: "Applicants should only submit Duolingo English Test scores if none of the other examinations are available to them." Also: "individual graduate programs may set more stringent requirements in their degree requirements".
+
+## Added 2026-10-31 (SDSU joint Ecology)
+https://grad.ucdavis.edu/english-language-examinations (reopened): TOEFL "Minimum Score Required for Admission: 80"; Duolingo "130*" (differs from 115 recorded 2026-10-22); IELTS 7.0. https://grad.ucdavis.edu/program-application-deadlines could not be reopened (client error); Ecology (Joint Program with SDSU) row taken from 2026-10-22 saved extract.

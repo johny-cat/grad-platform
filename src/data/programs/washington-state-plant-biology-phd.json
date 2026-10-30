@@ -1,19 +1,87 @@
 {
-  "country": "US",
-  "degree": "phd",
-  "field": "biology",
-  "cycle": "fall-2027",
-  "details": "pending",
-  "lastChecked": "2026-10-28",
   "name": "Plant Biology PhD",
   "institution": "Washington State University",
   "institutionShort": "WSU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "admissionModel": "lab",
+  "summary": "PhD in Plant Biology, with research in areas such as plant physiology, ecology, evolution, systematics and molecular biology. The program links to the School of Biological Sciences, which admits students to a specific faculty advisor.",
   "officialUrl": "https://sbs.wsu.edu/graduate-studies/",
+  "applyUrl": "https://gradschool.wsu.edu/apply/",
+  "cycle": "fall-2027",
+  "detailsNote": "The deadlines below are published without a year, so they are not confirmed for Fall 2027 and are not used in countdowns. The application fee amount is not stated on the pages checked, so it is left out. Letters, advisor-contact and admission-model details come from the School of Biological Sciences pages, which the Plant Biology program page links to as its program site; the Plant Biology page itself does not state them.",
+  "publishedDeadlines": [
+    {
+      "label": "Priority deadline, Fall (program page)",
+      "dateText": "Fall January 10",
+      "note": "Listed as the priority deadline on the Graduate School's degree page; no year is stated. Confirm Fall 2027 directly."
+    },
+    {
+      "label": "School of Biological Sciences priority date",
+      "dateText": "December 10th for priority or at the latest by January 10",
+      "note": "From the School's application advice; no year is stated. The earlier date is safer. Confirm Fall 2027 directly."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "english": {
+      "toefl": "80 (iBT) or 550 (paper); IELTS 7 listed",
+      "ielts": 7,
+      "note": "Program page listing on the Graduate School site. The Graduate School's own minimums are lower (iBT 75, IELTS 6.5, Duolingo 105; 4 on the new TOEFL iBT scale effective Jan. 21, 2026) and it says programs may require higher scores. Exemptions exist, e.g. a US degree or a degree taught in English. Send TOEFL scores to WSU code 4705."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Online application to the Graduate School",
+      "Statement of purpose",
+      "Transcripts sent directly to the Graduate School",
+      "CV",
+      "TOEFL scores (international applicants)"
+    ],
+    "note": "The School says it does not require the GRE but looks for a minimum GPA of 3.0. Applications are only considered if three letters are available; at least two should ideally come from faculty. Fee waivers: the Graduate School says McNair Scholars qualify and other requests go to the degree program; it does not say whether international applicants qualify."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "The School of Biological Sciences says it tries to provide 6 years (12 semesters) of support for PhD students without a master's and 5 years with one, usually as a teaching assistantship at 20 hours per week with tuition and healthcare coverage; extensions are not guaranteed. The Graduate School page lists 10 students in the program receiving assistantships. It does not say all admitted students are funded or whether this covers international students."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "International applicants must show English proficiency and note the Graduate School deadlines."
+  },
   "sources": [
     {
-      "url": "https://s3.wp.wsu.edu/uploads/sites/1176/2021/01/2021-2022-Graduate-Student-Handbook-1.pdf",
-      "label": "Official SBS 2021–22 handbook, section 5.4.3, identity only",
-      "checked": "2026-10-28"
+      "url": "https://gradschool.wsu.edu/degrees/doctor-of-philosophy-plant-biology/",
+      "label": "WSU Graduate School: Doctor of Philosophy in Plant Biology",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.wsu.edu/degrees/factsheet/doctor-of-philosophy-plant-biology/",
+      "label": "WSU Graduate School: Plant Biology PhD fact sheet",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.wsu.edu/international-requirements/",
+      "label": "WSU Graduate School: international and English requirements",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://gradschool.wsu.edu/faqs/",
+      "label": "WSU Graduate School: admission FAQs (fee waivers, priority dates)",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://sbs.wsu.edu/graduate-studies/apply/",
+      "label": "School of Biological Sciences: apply",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://sbs.wsu.edu/graduate-studies/applying-to-graduate-school/",
+      "label": "School of Biological Sciences: applying to graduate school",
+      "checked": "2026-10-31"
     }
-  ]
+  ],
+  "lastChecked": "2026-10-31"
 }
