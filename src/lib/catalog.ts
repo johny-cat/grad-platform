@@ -49,8 +49,9 @@ function parseDateText(text: string): { month: number; day: number; year?: numbe
   const named = /\b(jan|feb|mar|apr|may|jun|jul|aug|sept?|oct|nov|dec)[a-z]*\.?\s*(\d{1,2})(?:st|nd|rd|th)?\b(?:,?\s*(\d{4}))?/i.exec(part);
   if (named) {
     const day = Number(named[2]);
-    const month = MONTHS[named[1].slice(0, 3).toLowerCase()];
-    return day >= 1 && day <= 31 ? { month, day, year: named[3] ? Number(named[3]) : undefined } : undefined;
+    const month = MONTHS[(named[1] ?? '').slice(0, 3).toLowerCase()];
+    if (!month || day < 1 || day > 31) return undefined;
+    return { month, day, year: named[3] ? Number(named[3]) : undefined };
   }
   const numeric = /\b(\d{1,2})\/(\d{1,2})\b/.exec(part);
   if (numeric) {
