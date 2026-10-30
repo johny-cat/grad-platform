@@ -12,3 +12,6 @@ https://learningoutcomes.byu.edu/programs/unit-programs/1064
 - Foreign transcripts: same page "Applicants with foreign transcripts must complete an official foreign credential evaluation".
 - English minimums: https://gradstudies.byu.edu/admissions/english-proficiency IELTS "Overall minimum band score of 7.0 (consisting of minimum band scores of 6.0 in each module)"; DET "comprising an overall score of at least 130"; TOEFL "comprising an overall score of at least 85" (to 20 Jan 2026) and "overall score of at least 4.5" (from 21 Jan 2026); "Some departments may require a higher English proficiency test score."
 - GRE, letters, funding, admission model: not stated on the pages opened (unknown/omitted). The deadlines table lists no required tests.
+
+## Review: 2026-10-31
+Reopened program page ("Fall: Jan 15", documents, "English proficiency is required for most foreign applicants.") and deadlines table ("Microbiology & Molecular Biology (PhD) | January 15"; heading "2026-2027 Application Deadlines", no entry year). Confirmed; no changes.

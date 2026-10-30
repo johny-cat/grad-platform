@@ -13,7 +13,7 @@
   "applyUrl": "https://entomology.tamu.edu/ph-d-in-entomology/",
   "admissionModel": "lab",
   "summary": "Research PhD in the Department of Entomology. You apply through the university's graduate application, and a faculty member must formally agree to be your advisor before you can be admitted.",
-  "detailsNote": "No Fall 2027 application deadline is published on the pages we could open, so none is shown. The $90 fee and English scores are Texas A&M's international graduate rules (checked 2026-10-29); the domestic fee was not checked. The department page requires official TOEFL scores from international applicants; the central page lists IELTS Academic 6 as accepted.",
+  "detailsNote": "No Fall 2027 application deadline is published on the pages we could open, so none is shown. The $90 fee and English scores are Texas A&M's international graduate rules (rechecked 2026-10-31); the domestic fee was not checked. The department page requires official TOEFL scores from international applicants; the central page lists IELTS Academic 6 as accepted.",
   "requirements": {
     "gre": "unknown",
     "english": {
@@ -64,7 +64,7 @@
     {
       "url": "https://admissions.tamu.edu/apply/international/international-graduate.html",
       "label": "Admissions: international graduate applicants (fee, English)",
-      "checked": "2026-10-29"
+      "checked": "2026-10-31"
     }
   ]
 }

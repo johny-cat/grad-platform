@@ -16,3 +16,6 @@ Checked 2026-10-28.
 - International: FAQ states the $75 international fee and English requirements for non-English-speaking countries.
 - Admission model: not stated.
 - Not used: the Biomedical Engineering PhD catalog page (GRE required for non-US degrees, 3 letters) is a different program.
+
+## Review: 2026-10-31
+Independent second check. Reopened the department page: confirmed the "Doctor of Philosophy in Engineering with a specialization in Bioengineering" wording and that it gives no dates, GRE or funding (only links). No deadline in the JSON, correctly. Fee, English, FAQ and catalog quotes rest on the evidence above. No changes.

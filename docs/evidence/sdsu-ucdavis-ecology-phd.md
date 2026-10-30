@@ -16,3 +16,13 @@ Independent second check (pending file). Page title "Application Procedure - Ph.
 - https://grad.ucdavis.edu/graduate-preparation-programs-eligible-fee-waivers : "UC Davis Graduate Studies offers application fee waivers only to applicants who participated in one or more of the eligible graduate preparation programs"; "Fee waivers are not available for any other reason (financial need...)".
 - https://grad.ucdavis.edu/international-applicants : "All international applicants must complete the same application requirements as U.S. applicants."; "Applicants must submit official TOEFL or IELTS examination scores" unless exempt.
 - Not stated anywhere found: number of letters, interviews, international funding.
+
+## Review: 2026-10-31
+Independent second check. Reopened SDSU application-procedure page: "on or before December 1" (no year), GPA above 3.2, review early January, two-step process confirmed. https://grad.ucdavis.edu/program-application-deadlines could not be opened (client error, twice, even after a domain search), so the 2027-28 table row rests on the saved 2026-10-22 extract (quote in this file and _ucdavis-central.md: heading "The 2027-28 Graduate Admissions Application is open for submission"; row Ecology (Joint Program with San Diego State University) Ph.D. ... December 1*). Per the owner allowance, the Dec 1 2026 deadline is kept in deadlines, the source is dated 2026-10-22 and the detailsNote says the page could not be reopened. Also confirmed SDSU Admissions doctorates page lists no deadlines for Ecology (not used). Fee waiver "available" (UC Davis limits to prep programs, not citizenship) and other UC Davis quotes rest on the evidence above. No changes.
+
+## Browser check: 2026-10-31
+
+Opened by hand in a browser: https://grad.ucdavis.edu/program-application-deadlines ("Application Deadlines | UC Davis Graduate Studies").
+- "The 2027-28 Graduate Admissions Application is open for submission"
+- Row: "Ecology (Joint Program with San Diego State University) | Ph.D. | Not Available | December 1* | June 1 | GRE not required or accepted"
+Confirms the December 1 deadline for 2027-28 entry and GRE not accepted.

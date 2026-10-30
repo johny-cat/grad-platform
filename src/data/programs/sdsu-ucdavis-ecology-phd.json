@@ -54,7 +54,7 @@
     "accepted": "yes",
     "note": "UC Davis says international applicants complete the same requirements as US applicants and must submit official TOEFL or IELTS unless exempt."
   },
-  "detailsNote": "The December 1 deadline comes from UC Davis Graduate Studies' 2027-28 deadline table (read on 22 Oct 2026; the page could not be reopened on 31 Oct). The SDSU program page gives December 1 with no year. Fee and English scores are UC Davis's central rules; the program page itself does not state them. Check them on the official pages.",
+  "detailsNote": "The December 1 deadline comes from UC Davis Graduate Studies' 2027-28 deadline table (confirmed in a browser on 31 Oct 2026). The SDSU program page gives December 1 with no year. Fee and English scores are UC Davis's central rules; the program page itself does not state them. Check them on the official pages.",
   "sources": [
     {
       "url": "https://biology.sdsu.edu/doctoral-programs/",
@@ -84,7 +84,7 @@
     {
       "url": "https://grad.ucdavis.edu/program-application-deadlines",
       "label": "UC Davis Graduate Studies: Application deadlines (2027-28)",
-      "checked": "2026-10-22"
+      "checked": "2026-10-31"
     },
     {
       "url": "https://grad.ucdavis.edu/programs/gesd",

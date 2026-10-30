@@ -39,6 +39,16 @@
       "url": "https://www.umc.edu/graduateschool/Degree-Programs/Degree-Programs-Overview.html",
       "label": "Graduate school: degree programs",
       "checked": "2026-10-31"
+    },
+    {
+      "url": "https://umc.edu/Office%20of%20Academic%20Affairs/prospective-students/find-program/international-students.html",
+      "label": "UMMC: programs for international students",
+      "checked": "2026-10-31"
+    },
+    {
+      "url": "https://www.umc.edu/graduateschool/Prospective-Students/Paying%20for%20School1/Awards-and-Funding-Opportunities.html",
+      "label": "Graduate school: awards and funding",
+      "checked": "2026-10-28"
     }
   ],
   "summary": "UMMC doctoral program that trains independent researchers. Research exposure starts in the first semester, and students pick a dissertation lab after surveying several labs. Focus areas include brain trauma and spinal cord injury.",
@@ -71,7 +81,7 @@
   },
   "international": {
     "accepted": "yes",
-    "note": "The graduate school's international-students list names this PhD (checked 2026-10-28)."
+    "note": "The graduate school's international-students list names this PhD (rechecked 2026-10-31)."
   },
   "funding": {
     "coversInternational": "unknown",

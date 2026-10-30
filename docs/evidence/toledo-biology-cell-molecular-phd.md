@@ -17,3 +17,6 @@ Checked 2026-10-28.
 - Letters: catalog PDF "Depending on the program, letters of recommendation are required." Program pages silent.
 - Documents: https://www.utoledo.edu/graduate/admission/how-to-apply/ "Transcripts are required from all previous higher education institutions." / "A foreign credential evaluation is required for all applicants"
 - Program-level catalog page and department "Admission Requirements" tab were not reachable; see BLOCKED in report.
+
+## Review: 2026-10-31
+Independent second check. Reopened https://www.utoledo.edu/programs/grad/cellular-and-molecular-biology/: quote confirmed, "The majority of master's students and all doctoral students receive tuition waivers and competitive stipends". BUT the department page https://www.utoledo.edu/nsm/bio/graduate/phd-program.html says "A limited number of Ph.D. students receive tuition waivers and a competitive stipend." The pages disagree, so allFunded was REMOVED and the funding note and summary now state both. Faculty approval quote confirmed. Other facts rest on the evidence above. Fee waiver stays unknown (no page mentions it).

@@ -8,7 +8,7 @@
   "field": "biology",
   "details": "checked",
   "admissionModel": "lab",
-  "summary": "Biology PhD with a Cell and Molecular Biology concentration at Toledo. Applicants need a faculty member who will work with them. Doctoral students receive tuition waivers and stipends for teaching or research work.",
+  "summary": "Biology PhD with a Cell and Molecular Biology concentration at Toledo. Applicants need a faculty member who will work with them. The program page says doctoral students receive tuition waivers and stipends for teaching or research work; the department page says a limited number do.",
   "officialUrl": "https://www.utoledo.edu/nsm/bio/graduate/phd-program.html",
   "applyUrl": "https://www.utoledo.edu/graduate/apply/",
   "cycle": "fall-2027",
@@ -34,9 +34,8 @@
     "note": "The graduate catalog says some programs have additional requirements and that letters of recommendation depend on the program; the program's own count is not stated on the pages checked. Applicants must be approved by a faculty member who will work with them; contacting faculty directly is encouraged."
   },
   "funding": {
-    "allFunded": true,
     "coversInternational": "unknown",
-    "note": "The program page says all doctoral students receive tuition waivers and competitive stipends, in return for work as a teaching or research assistant. It does not say whether this covers international students. The department says support usually comes through the major professor's grant. No stipend amount is stated."
+    "note": "The university program page says 'all doctoral students receive tuition waivers and competitive stipends', in return for work as a teaching or research assistant, but the department's Biology PhD page says 'A limited number of Ph.D. students receive tuition waivers and a competitive stipend.' Because the two pages disagree, we do not say all students are funded. Neither page says whether this covers international students. The department says support usually comes through the major professor's grant. No stipend amount is stated."
   },
   "sources": [
     {

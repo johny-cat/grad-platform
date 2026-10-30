@@ -17,3 +17,6 @@ Checked 2026-10-24. Not enough program-specific information on official pages.
 - Documents: portal "Academic Records/Transcripts from each institution attended", "Personal Statement/Essays", "Resume/Curriculum Vitae".
 - Funding: graduate page "Funding is prioritized for PhD applicants."; "You may be admitted as a graduate student without an offer of funding."; "Accept your funding offer by April 15."
 - GRE: page says only "The GRE is not required for admission to an MEng degree."; PhD GRE not stated (unknown).
+
+## Review: 2026-10-31
+Reopened portal and graduate pages. Portal: "A bachelor's degree or higher from a regionally accredited U.S. institution"; "Application fee is non-refundable". Graduate page: "Our program does not provide application fee waivers." then "If you are a domestic applicant, the Office of Graduate Education may grant an application fee waiver"; "Graduate teaching assistants and research assistants are appointed on a term-by-term basis."; "All applicants are reviewed by a minimum of two faculty members". Changed: waiver not-available -> domestic-only (domestic route exists); removed '(unofficial or official accepted)' because the page has no such sentence.

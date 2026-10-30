@@ -10,3 +10,6 @@ Checked 2026-10-28.
 - SBS applying page: https://sbs.wsu.edu/graduate-studies/applying-to-graduate-school/ "Check all materials and submit them by December 10th for priority or at the latest by January 10!" (no year; "Bolded dates are WSU official deadlines."); "The School of Biological Sciences does not require the GRE, but a minimum GPA of 3.0."; "applications are only considered if three letters are available for review."; funding: "5 years (10 semesters) of support for PhD students with an MS degree", six years (twelve semesters) without; "teaching assistantship at 20 hours per week"; "Extensions are possible, but not guaranteed."
 - Fee amount: not stated on any page opened. Waivers: see _washington-state-central.md.
 - Shared pages: _washington-state-central.md
+
+## Review: 2026-10-31
+Independent second check. Reopened the Graduate School degree page (Fall January 10, no year; GRE not required; TOEFL 550/80, IELTS 7; 35 of 35 with assistantships) and the SBS applying page (Dec 10 priority / Jan 10, no year; GRE not required, GPA 3.0; three letters, two ideally faculty; 5/6 years support; TA 20 hours). Both date sets stay in publishedDeadlines. No allFunded (page says "tries to provide"). Fee waiver text rests on _washington-state-central.md. No changes.

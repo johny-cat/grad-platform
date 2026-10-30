@@ -32,14 +32,14 @@
     "applicationFee": {
       "amount": 85,
       "currency": "USD",
-      "waiver": "not-available",
-      "note": "The application page lists $75 for domestic and $85 for international students; non-refundable. The program page says it does not provide application fee waivers."
+      "waiver": "domestic-only",
+      "note": "The application page lists $75 for domestic and $85 for international students; non-refundable. The program page says it does not provide application fee waivers, but domestic applicants may get one from the Office of Graduate Education if they meet its criteria."
     },
     "letters": {
       "min": 3
     },
     "documents": [
-      "Transcripts from every institution attended (unofficial or official accepted at application)",
+      "Transcripts from every institution attended",
       "Personal statement or essays",
       "Resume or CV"
     ],

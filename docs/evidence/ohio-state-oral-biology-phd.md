@@ -24,3 +24,6 @@ Opened by hand in a browser: https://gpadmissions.osu.edu/programs/program.aspx?
 - "TOEFL: 4.0 or higher TOEFL iBT or iBT Home Edition (equivalent to 79 for tests taken prior to January 2026)"; "IELTS: 6.5 or higher IELTS Academic test"; "Duolingo: 120 or higher".
 - "It is highly recommended that you connect with at least one faculty member in the program to discuss research and funding opportunities."
 GRE changed from optional to not-required (the program-specific admissions page is the newer, more specific statement).
+
+## Review: 2026-10-31
+Reopened FAQ: "You are welcome to submit GRE scores but they are not required."; "Three Letters of Recommendation."; "Funding is available for students, both domestic and international." (supports coversInternational yes). Program page: "Dec 1", T32 for US citizens and green card holders. Fee waivers page: "International students are not eligible for some fee waivers." plus recruitment-code waiver with no nationality limit; fee $60 US / $70 international in _ohio-state-central.md. Deadlines table and English minimums rest on the Browser check 2026-10-31 (prog=0155 fetches return another program's page). Confirmed; no changes.

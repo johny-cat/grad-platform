@@ -13,3 +13,6 @@ Source 1, Degree Type and Program Code: separate multi-department Comparative Bi
 - https://grad.uga.edu/admissions/application-deadlines/: "Fall Semester – July 1" (domestic); "Fall Semester – April 15" (international); no year stated; page last modified May 19, 2025.
 - https://grad.uga.edu/index.php/prospective-students/international-application-information/international-supplement/english-language-proficiency-requirement/: "overall score of 80 with at least 20 on speaking and writing"; "overall band-width of 6.5, with no single band (score) below 6.0"; Duolingo "overall score of 105".
 - https://vet.uga.edu/wp-content/uploads/2025/08/PhD-Student-Handbook-2025.pdf: "Assistantships include a stipend, as well as a tuition waiver for graduate registration."; "Funding for assistantships is limited"
+
+## Review: 2026-10-31
+Independent second check. Reopened the CBS Applying page: confirmed direct admit with major professor, GPA 3.00, GRE no longer required, statement/CV/transcripts/three letters, no writing sample, $75 fee not waivable, deadlines deferred to Graduate School. Graduate School month/day deadlines (no year) correctly sit in publishedDeadlines. English, handbook and deadline-page quotes rest on the evidence above. No changes.
