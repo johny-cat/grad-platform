@@ -26,6 +26,16 @@ unstated year, put these dates in countdowns, or present them as Fall 2027.
 Missing admission models may be omitted for entries with a visible `detailsNote`,
 including when a current deadline is confirmed but the admission model is not.
 
+Owner update, 2026-10-31: `publishedDeadlines` dates now also appear in
+countdowns (home page "Deadlines coming up", the programs list and My
+programs), placed in this season by month (September to December in 2026,
+January to August in 2027; a printed year that is still to come is kept)
+and always marked "Year not confirmed" with hedged wording ("About 30 days
+left"). Spring, summer, rolling, fellowship and nomination dates are left
+out. The data rule is unchanged: such dates stay in `publishedDeadlines`,
+and only dates the official page states for Fall 2027 go in `deadlines`.
+See `estimatedDeadlines` in `src/lib/catalog.ts`.
+
 Leave the field out, or use `"unknown"` where the schema asks for it. The
 site then shows "Not stated on official pages". Never fill a gap from memory
 or from a similar program.

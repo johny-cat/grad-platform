@@ -11,7 +11,90 @@ export function firstDeadline(program: Program): Deadline | undefined {
   return [...program.data.deadlines].sort((a, b) => a.date.localeCompare(b.date))[0];
 }
 
-/** Institution name for alphabetical order: "The Ohio State University" sorts under O. */
+/**
+ * A date this season, estimated from an official date whose year isn't
+ * confirmed for Fall 2027 (a `publishedDeadlines` entry such as "December 1"
+ * or "Dec. 1, 2025"). Owner decision, 2026-10-31: show these in countdowns,
+ * always labelled "year not confirmed", because most programs keep the same
+ * deadline every year.
+ */
+export interface EstimatedDeadline {
+  date: string;
+  dateText: string;
+  label: string;
+}
+
+const MONTHS: Record<string, number> = {
+  jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6, jul: 7, aug: 8, sep: 9, oct: 10, nov: 11, dec: 12,
+};
+/** Not a fall-entry application date, or no single date to count down to. */
+const NOT_FALL_ENTRY = /spring|summer|january admission|rolling|prior to|each semester|fellowship|nominat/i;
+/**
+ * Fall 2027 entry: dates from September to December fall in 2026, and dates
+ * from January to August in 2027 (an "August 1" fall deadline is the one just
+ * before the term starts).
+ */
+const SEASON_FIRST_YEAR = 2026;
+const SEASON_START = '2026-08-01';
+
+function pad(n: number): string {
+  return String(n).padStart(2, '0');
+}
+
+/** The month and day (and year, if printed) in a published date text; for a range, its end. */
+function parseDateText(text: string): { month: number; day: number; year?: number } | undefined {
+  // Ignore when applications open ("applications open Sept 1", "Open September 1 through ...").
+  const cleaned = text.replace(/\bopens?\s+(?:on\s+)?[a-z]+\.?\s*\d{1,2}(?:st|nd|rd|th)?(?:\s+through)?/gi, '');
+  const part = cleaned.includes(' - ') ? cleaned.slice(cleaned.lastIndexOf(' - ') + 3) : cleaned;
+  const named = /\b(jan|feb|mar|apr|may|jun|jul|aug|sept?|oct|nov|dec)[a-z]*\.?\s*(\d{1,2})(?:st|nd|rd|th)?\b(?:,?\s*(\d{4}))?/i.exec(part);
+  if (named) {
+    const day = Number(named[2]);
+    const month = MONTHS[named[1].slice(0, 3).toLowerCase()];
+    return day >= 1 && day <= 31 ? { month, day, year: named[3] ? Number(named[3]) : undefined } : undefined;
+  }
+  const numeric = /\b(\d{1,2})\/(\d{1,2})\b/.exec(part);
+  if (numeric) {
+    const month = Number(numeric[1]);
+    const day = Number(numeric[2]);
+    return month >= 1 && month <= 12 && day >= 1 && day <= 31 ? { month, day } : undefined;
+  }
+  return undefined;
+}
+
+/** Every estimated date this season, earliest first, for a program with no confirmed Fall 2027 deadline. */
+export function estimatedDeadlines(program: Program): EstimatedDeadline[] {
+  if (program.data.deadlines.length > 0) return [];
+  const found: EstimatedDeadline[] = [];
+  for (const entry of program.data.publishedDeadlines) {
+    if (NOT_FALL_ENTRY.test(`${entry.label} ${entry.dateText}`)) continue;
+    const parsed = parseDateText(entry.dateText);
+    if (!parsed) continue;
+    let date: string;
+    const printed = parsed.year ? `${parsed.year}-${pad(parsed.month)}-${pad(parsed.day)}` : undefined;
+    if (printed && printed >= SEASON_START) {
+      date = printed;
+    } else {
+      const year = parsed.month >= 9 ? SEASON_FIRST_YEAR : SEASON_FIRST_YEAR + 1;
+      date = `${year}-${pad(parsed.month)}-${pad(parsed.day)}`;
+    }
+    found.push({ date, dateText: entry.dateText, label: entry.label });
+  }
+  // One entry per date (e.g. US and international on the same day).
+  const unique = [...new Map(found.map((e) => [e.date, e])).values()];
+  return unique.sort((a, b) => a.date.localeCompare(b.date));
+}
+
+/** The next estimated date that hasn't passed when the site is built (else the last one). */
+export function estimatedDeadline(program: Program, today: string = new Date().toISOString().slice(0, 10)): EstimatedDeadline | undefined {
+  const all = estimatedDeadlines(program);
+  return all.find((e) => e.date >= today) ?? all.at(-1);
+}
+
+/** The date a program sorts by: its confirmed deadline, else its estimated one. */
+function sortDate(program: Program): string {
+  return firstDeadline(program)?.date ?? estimatedDeadline(program)?.date ?? '9999-12-31';
+}
+
 /** A university's name for sorting: "The Ohio State University" sorts under O. */
 function universitySortName(name: string): string {
   return name.replace(/^The /, '');
@@ -44,8 +127,8 @@ export async function getUniversities(): Promise<University[]> {
 export async function getPrograms(): Promise<Program[]> {
   const all = await getCollection('programs');
   return all.sort((a, b) => {
-    const da = firstDeadline(a)?.date ?? '9999-12-31';
-    const db = firstDeadline(b)?.date ?? '9999-12-31';
+    const da = sortDate(a);
+    const db = sortDate(b);
     return (
       da.localeCompare(db) ||
       sortName(a).localeCompare(sortName(b)) ||
@@ -61,6 +144,7 @@ export function shortName(program: Program): string {
 /** Small, serialisable version of a program for interactive parts of the page. */
 export function toSummary(program: Program): ProgramSummary {
   const deadline = firstDeadline(program);
+  const estimated = deadline ? undefined : estimatedDeadline(program);
   return {
     slug: program.id,
     name: program.data.name,
@@ -69,7 +153,9 @@ export function toSummary(program: Program): ProgramSummary {
     country: program.data.country,
     deadline: deadline
       ? { date: deadline.date, time: deadline.time, timezone: deadline.timezone }
-      : undefined,
+      : estimated
+        ? { date: estimated.date, estimated: true }
+        : undefined,
     ...(program.data.tracks ? { tracks: program.data.tracks } : {}),
   };
 }

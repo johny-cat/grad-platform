@@ -1,6 +1,7 @@
 ---
 import SeasonStrip from './SeasonStrip';
 import {
+  estimatedDeadline,
   firstDeadline,
   formatMoney,
   greNotNeeded,
@@ -21,6 +22,7 @@ const { program, inUniversity = false } = Astro.props;
 const d = program.data;
 const pending = isPending(program);
 const deadline = firstDeadline(program);
+const estimated = deadline ? undefined : estimatedDeadline(program);
 const intl = d.funding?.coversInternational ?? 'unknown';
 const fee = d.requirements?.applicationFee;
 const hasTags = intl === 'yes' || intl === 'limited' || greNotNeeded(program) || Boolean(fee);
@@ -55,6 +57,13 @@ const hasTags = intl === 'yes' || intl === 'limited' || greNotNeeded(program) ||
         <span class="visually-hidden">Deadline:</span>
         <span class="program-row__date">{formatShortDate(deadline.date)}</span>
         <span class="countdown" data-countdown></span>
+      </div>
+    ) : estimated ? (
+      <div class="program-row__deadline" data-deadline data-date={estimated.date} data-estimated>
+        <span class="visually-hidden">Deadline, year not confirmed:</span>
+        <span class="program-row__date">{formatShortDate(estimated.date)}</span>
+        <span class="countdown" data-countdown></span>
+        <span class="estimated-note">Year not confirmed</span>
       </div>
     ) : (
       <div class="program-row__deadline">

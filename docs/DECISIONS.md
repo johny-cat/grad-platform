@@ -2,6 +2,17 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-10-31
+
+- **Estimated deadlines in countdowns.** Many programs publish a deadline
+  without a Fall 2027 year ("December 1"). Junaid decided they should still
+  appear in "Deadlines coming up" and the programs list, because most
+  programs keep the same date every year. Each is placed in this season,
+  marked "Year not confirmed", and counted down with hedged wording ("About
+  30 days left", "Likely closes tomorrow"), so nobody mistakes it for a
+  confirmed date. Spring, summer, rolling, fellowship and nomination dates
+  are excluded. The program page still shows the date exactly as published.
+
 ## 2026-10-24 (later)
 
 - **No sign-up.** Junaid doesn't want visitors to register. The first time

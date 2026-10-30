@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import SeasonStrip from '../components/SeasonStrip';
 import LatestResults from '../islands/LatestResults';
-import { getPrograms, shortName } from '../lib/catalog';
+import { estimatedDeadlines, getPrograms, shortName } from '../lib/catalog';
 import { COMMUNITY_NAME, CURRENT_CYCLE, SITE_TAGLINE } from '../config';
 import { formatShortDate } from '../lib/time';
 import { programLabel } from '../lib/labels';
@@ -11,6 +11,20 @@ const programs = await getPrograms();
 const deadlines = programs
   .flatMap((program) => program.data.deadlines.map((deadline) => ({ program, deadline })))
   .sort((a, b) => a.deadline.date.localeCompare(b.deadline.date));
+// Confirmed deadlines plus estimated ones (an official date whose year isn't
+// confirmed for this season), each estimated one labelled as such.
+const upcoming = [
+  ...deadlines.map(({ program, deadline }) => ({
+    program,
+    date: deadline.date,
+    time: deadline.time,
+    timezone: deadline.timezone,
+    estimated: false,
+  })),
+  ...programs.flatMap((program) =>
+    estimatedDeadlines(program).map((e) => ({ program, date: e.date, time: undefined, timezone: undefined, estimated: true })),
+  ),
+].sort((a, b) => a.date.localeCompare(b.date) || Number(a.estimated) - Number(b.estimated));
 const labels = Object.fromEntries(programs.map((p) => [p.id, programLabel(shortName(p), p.data.name)]));
 const cycle = CURRENT_CYCLE;
 const first = deadlines[0]?.deadline.date;
@@ -69,18 +83,22 @@ const timelineLabel =
     </div>
     <ol class="upcoming" id="upcoming" data-upcoming data-limit="5">
       {
-        deadlines.map(({ program, deadline }) => (
+        upcoming.map(({ program, date, time, timezone, estimated }) => (
           <li
             data-deadline
-            data-date={deadline.date}
-            data-time={deadline.time}
-            data-tz={deadline.timezone}
+            data-date={date}
+            data-time={time}
+            data-tz={timezone}
+            data-estimated={estimated ? '' : undefined}
             data-hide-when-passed
           >
-            <span class="upcoming__date">{formatShortDate(deadline.date)}</span>
-            <a href={`/programs/${program.id}/`}>
-              <strong>{shortName(program)}</strong> {program.data.name}
-            </a>
+            <span class="upcoming__date">{formatShortDate(date)}</span>
+            <span>
+              <a href={`/programs/${program.id}/`}>
+                <strong>{shortName(program)}</strong> {program.data.name}
+              </a>
+              {estimated && <span class="estimated-note">Year not confirmed</span>}
+            </span>
             <span class="countdown" data-countdown></span>
           </li>
         ))
