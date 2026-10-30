@@ -51,6 +51,10 @@ Run on the live database:
   author ids, blocking, moderator review list). Junaid's account set as admin
   (moderator) with: `update public.profiles set role = 'admin' where id =
   (select id from auth.users where email = 'junaidubc9@gmail.com');`
+- 2026-10-31: the 12 new programs from pull request #23 (archive leads), as
+  their add-or-update rows only. Run by Claude in the SQL Editor. Checked
+  afterwards: 670 active programs, and every new program page opens on the
+  live site.
 
 Checked from outside with the public key: visitors can read programs,
 cycles, the results feed and the counts, and are refused on profiles,
