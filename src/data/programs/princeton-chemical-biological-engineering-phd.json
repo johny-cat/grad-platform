@@ -1,0 +1,103 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Chemical and Biological Engineering PhD",
+  "institution": "Princeton University",
+  "institutionShort": "Princeton",
+  "officialUrl": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/chemical-and-biological-engineering",
+  "summary": "Chemical and Biological Engineering doctorate with project and adviser selection during the first semester.",
+  "admissionModel": "program",
+  "detailsNote": "Current central field page explicitly confirms Fall 2027 deadline and $90 fee. Department How to Apply retains older $75 fee and a different 250-word prompt; current central requirements take precedence, with departmental additional prompt confirmed before submission. Detailed English page timed out; opened central admissions policy establishes exemptions.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Central field page explicitly identifies Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central hardship, listed past/present affiliation, designated recruiting event code or virtual-workshop routes through Fee Waiver Request page after creating account. Request at least two business days before department deadline; decision normally 2–3 business days. Do not pay/submit before decision; if denied pay by deadline. No citizenship restriction stated; international applicants must confirm eligibility. Department also lists need-based SEAS contact Julie Yun; older $75 fee superseded by central $90."
+    },
+    "english": {
+      "note": "Opened central policy requires TOEFL/IELTS/DET for applicants whose primary language is not English unless undergraduate instruction entirely English certified by institution with degree awarded before enrollment, or at least two full-time academic years graduate study entirely English certified and completed by application opening. English-medium attendance alone without stated conditions is not a guaranteed exemption. Detailed current minimum/test-format rules not established because English page repeatedly timed out; confirm with Graduate School."
+    },
+    "documents": [
+      "Academic statement of purpose",
+      "CV or resume",
+      "Exactly three recommendations in English from people familiar with academic work",
+      "Transcripts from degree-granting institutions, with official English translations when needed; fall grades when applicable",
+      "Personal statement in English, maximum 250 words",
+      "English test evidence unless exempt",
+      "Select up to five aligned faculty in application"
+    ],
+    "note": "A bachelor’s degree or foreign equivalent is required. Department reviews holistically with no set minimum component criterion. Current central personal statement addresses a formative experience and contribution to the scholarly community; department additionally lists an older 250-word diversity/inclusion prompt, so confirm whether a separate response is required. First-semester project/adviser exploration includes optional temporary lab rotations, choices before winter break and joining a group in January. At least one teaching semester is generally required, subject to an approved fellowship exception."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "note": "Department PhDs pay no tuition and receive stipend for standard five years while making good progress. Central natural-science/engineering support includes student health plan,10-month first-year fellowship, later RA/TA and coordinated external awards, summer research at RA monthly rate. No current amount or separately explicit international funding statement established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Department lists program visit days February 18–20 and March 4–6, 2027; visit dates are not described as universal interview requirements."
+  },
+  "sources": [
+    {
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/chemical-and-biological-engineering",
+      "checked": "2026-10-30",
+      "label": "Official source: gradschool.princeton.edu — chemical and biological engineering"
+    },
+    {
+      "url": "https://cbe.princeton.edu/graduate/how-to-apply",
+      "checked": "2026-10-30",
+      "label": "Official source: cbe.princeton.edu — how to apply"
+    },
+    {
+      "url": "https://cbe.princeton.edu/graduate/program-details",
+      "checked": "2026-10-30",
+      "label": "Official source: cbe.princeton.edu — program details"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee",
+      "checked": "2026-10-30",
+      "label": "Princeton Graduate School: Application Fee"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/letters-recommendation",
+      "checked": "2026-10-30",
+      "label": "Princeton Graduate School: Letters of Recommendation"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/personal-statement",
+      "checked": "2026-10-30",
+      "label": "Princeton Graduate School: Personal Statement"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/policies/application-admission",
+      "checked": "2026-10-30",
+      "label": "Official source: gradschool.princeton.edu — application admission"
+    },
+    {
+      "url": "https://gradschool.princeton.edu/financial-support/financial-support-model/phd-funding-natural-sciences-engineering",
+      "checked": "2026-10-30",
+      "label": "Official source: gradschool.princeton.edu — phd funding natural sciences engineering"
+    }
+  ]
+}

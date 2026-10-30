@@ -1,0 +1,88 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Plant Sciences PhD",
+  "institution": "University of Wyoming",
+  "institutionShort": "Wyoming",
+  "officialUrl": "https://www.uwyo.edu/plantsciences/graduate-studies.html",
+  "applyUrl": "https://www.uwyo.edu/admissions/graduate.html",
+  "summary": "Research PhD in plant sciences with a required faculty mentor; MS normally required before PhD entry.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Published February 15 and October 15 are annual undated guidance. Funding depends on resources and satisfactory progress.",
+  "admissionModel": "lab",
+  "publishedDeadlines": [
+    {
+      "label": "Fall full consideration",
+      "dateText": "February 15",
+      "note": "Regular fall deadline for admission/funding; applications accepted year-round."
+    },
+    {
+      "label": "Spring recommended",
+      "dateText": "October 15",
+      "note": "Undated recommended spring deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose covering professional goals/scientific interests",
+      "CV",
+      "Current transcripts",
+      "Three recommendations directly from referees",
+      "English evidence if applicable"
+    ],
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "Official English-department application instructions state the University requires a $50 graduate application fee; confirm current Plant Sciences payment and any waiver directly. No Plant Sciences waiver established."
+    },
+    "english": {
+      "toefl": "4 for graduate iBT/MyBest/Home Edition, as printed without test-date distinction",
+      "ielts": 6.5,
+      "duolingo": 110,
+      "note": "Graduate table also lists IELTS Indicator, PTE56, iTEP Academic Plus4.5 and CambridgeB2 First. Native-English citizen of listed country or university degree earned in listed country may exempt. Program may require higher standards; no legacy TOEFL scale inferred."
+    },
+    "note": "MS required before PhD except rare cases. Admission only if faculty mentor willing; contact before applying. Central bachelor equivalent/GPA3. International applicants provide certified transcripts/English translations, English evidence, financial support and passport. Program GRE policy not established."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "TA/RA available as funding allows, often combination teaching/research. PhD assistantship support normally limited three years, exceptions depend on grants/external funding; satisfactory progress required. No universal offer or amount established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.uwyo.edu/plantsciences/graduate-studies.html",
+      "checked": "2026-10-30",
+      "label": "Official source: www.uwyo.edu — graduate studies.html"
+    },
+    {
+      "url": "https://www.uwyo.edu/admissions/international/english-alternatives.html",
+      "checked": "2026-10-30",
+      "label": "Official source: www.uwyo.edu — english alternatives.html"
+    },
+    {
+      "url": "https://www.uwyo.edu/english/current-student-resources/graduate-student-resources/master-of-arts/apply.html",
+      "checked": "2026-10-30",
+      "label": "Official source: www.uwyo.edu — apply.html"
+    },
+    {
+      "url": "https://www.uwyo.edu/admissions/graduate.html",
+      "checked": "2026-10-30",
+      "label": "Official source: www.uwyo.edu — graduate.html"
+    },
+    {
+      "url": "https://www.uwyo.edu/admissions/international/requirements-graduate.html",
+      "checked": "2026-10-30",
+      "label": "Official source: www.uwyo.edu — requirements graduate.html"
+    }
+  ]
+}

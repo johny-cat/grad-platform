@@ -1,0 +1,108 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Biological Science PhD",
+  "institution": "Florida State University",
+  "institutionShort": "FSU",
+  "officialUrl": "https://www.bio.fsu.edu/grad/",
+  "applyUrl": "https://admissions.fsu.edu/gradapp/",
+  "summary": "Biological Science doctorate with Cell and Molecular Biology, Ecology and Evolution, and Neuroscience areas, distinct from the College of Medicine Biomedical Sciences PhD.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Annual December 1 deadline has no year. Areas review applications separately within Biological Science and use different mentor-selection routes; no uniform admission model stated. Department and central English exemption wording differ; confirm approval.",
+  "tracks": [
+    "Cell and Molecular Biology",
+    "Ecology and Evolution",
+    "Neuroscience"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "PhD application",
+      "dateText": "December 1 at 11:59 PM EST",
+      "note": "Annual deadline, not explicitly confirmed for Fall 2027; fall entry only."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 30,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Department says fee cannot be waived. Central admissions lists possible exceptions for FAMU Feeder, McNair Scholars and McKnight Scholars; contact grad-help@fsu.edu for eligibility. Conditional affiliation routes only; international applicants must confirm eligibility."
+    },
+    "english": {
+      "toefl": "Department: legacy 92 total, speaking 26; central new scale 4.0 on/after January 21, 2026",
+      "ielts": 7,
+      "note": "Department IELTS speaking 6.5. Department lists English-primary-country or graduate degree from English-speaking country exemptions; central FAQ limits TOEFL waiver to US bachelor/master. Confirm which exemption and updated program TOEFL section threshold applies. Central TA speaking assessment is separate; English-medium attendance alone is not a confirmed exemption."
+    },
+    "documents": [
+      "Three recommendations from faculty/employers familiar with academic or research experience",
+      "Statement of research interests",
+      "Updated CV or resume",
+      "Unofficial transcripts for review; final official records if admitted",
+      "Biological Science supplement identifying area and three faculty currently accepting students",
+      "International official credential evaluation through The Evaluation Company or another NACES-approved evaluator"
+    ],
+    "note": "Upper-division GPA at least 3.0. GRE required unless program waiver granted after an application is started, based on documented readiness for graduate work; blanket masters waiver does not establish PhD exemption. International credential evaluation must arrive for completion/admission and cannot be waived. Cell and Molecular Biology typically has three first-year rotations; Ecology/Evolution and Biological Science Neuroscience generally admit directly to faculty labs. Separately administered interdisciplinary Neuroscience PhD is not this degree."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 28161,
+      "currency": "USD",
+      "period": "year",
+      "year": "2024"
+    },
+    "note": "Department provides PhD stipend, tuition waiver and health-insurance subsidy throughout tenure through TA/RA or fellowships. Historical 2024 minimum amount, not current offer. Subsidy covers majority of university-plan health costs, not full insurance. The universal department support statement covers all PhD students, including international students; normal appointment and progress conditions apply."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "January–February annually.",
+    "decisions": "March annually."
+  },
+  "sources": [
+    {
+      "url": "https://www.bio.fsu.edu/grad/",
+      "checked": "2026-10-30",
+      "label": "Official source: www.bio.fsu.edu — grad"
+    },
+    {
+      "url": "https://www.bio.fsu.edu/grad/adRequirements.php",
+      "checked": "2026-10-30",
+      "label": "Official source: www.bio.fsu.edu — adRequirements.php"
+    },
+    {
+      "url": "https://www.bio.fsu.edu/grad/cmbgrad/index.php",
+      "checked": "2026-10-30",
+      "label": "Official source: www.bio.fsu.edu — index.php"
+    },
+    {
+      "url": "https://www.bio.fsu.edu/grad/eegrad/index.php",
+      "checked": "2026-10-30",
+      "label": "Official source: www.bio.fsu.edu — index.php"
+    },
+    {
+      "url": "https://www.bio.fsu.edu/grad/neuro/index.php",
+      "checked": "2026-10-30",
+      "label": "Official source: www.bio.fsu.edu — index.php"
+    },
+    {
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions",
+      "checked": "2026-10-30",
+      "label": "Official source: gradschool.fsu.edu — graduate admissions"
+    },
+    {
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions",
+      "checked": "2026-10-30",
+      "label": "Official source: gradschool.fsu.edu — international admissions"
+    }
+  ]
+}

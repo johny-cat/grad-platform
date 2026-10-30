@@ -1,0 +1,14 @@
+# Chemical and Biological Engineering PhD
+
+Checked 2026-10-30. Concise exact anchors and official-section paraphrases.
+
+https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/chemical-and-biological-engineering — Apply: Dec1,11:59pm EST explicitlyFall2027; fee90; GREoptional; select up to5 faculty. Teaching minimum1semester with approved fellowship exception. Exact anchor: “enrollment beginning in fall 2027”.
+https://cbe.princeton.edu/graduate/how-to-apply — checklist AcademicSOP/CV/references/transcripts/fallgrades/tests; holistic no set component minimum; olderfee75 and need-based SEASJulieYun route; additional250word diversityprompt; February18–20/March4–6,2027 visitdays. Fee/prompt conflict disclosed. Exact anchor: “GRE scores are optional”.
+https://cbe.princeton.edu/graduate/program-details — PhD/ResearchTopicAdviserSelection: five-year tuition/stipend if good progress; autumn exploration, optional rotations, choices beforewinterbreak, groupJanuary. Exact anchor: “provided they are making good progress”.
+https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee — fee90; hardship/listedaffiliation/designatedevent/virtualworkshop, accountFeeWaiverRequestpage, at least2businessdays early,2–3daydecision, waitbeforepaying; ifdeniedpaydeadline. Exact anchor: “two business days before”.
+https://gradschool.princeton.edu/admission-onboarding/prepare/letters-recommendation — exactly3 English letters from academically familiar individuals through electronic system. Exact anchor: “limit the number of letters of recommendation to three”.
+https://gradschool.princeton.edu/admission-onboarding/prepare/personal-statement — English250words personal formativeexperience and scholarlycommunity; currentcentralprompt differsdepartmentwording. Exact anchor: “should not exceed 250 words”.
+https://gradschool.princeton.edu/policies/application-admission — English proficiency: TOEFL/IELTS/DET unless primaryEnglish, fullyEnglishcertified undergraduate degree by enrollment, or2fulltimeacademicgraduateyears fullyEnglishcertified completedatopening. Exact anchor: “at least two academic years”.
+https://gradschool.princeton.edu/financial-support/financial-support-model/phd-funding-natural-sciences-engineering — regular enrollment tuition,healthplan,stipend;10monthfirstyearfellowship,RA/TAcontinuingyears,externalcoordination,summersameRAmonthrate. International scope not explicit. Exact anchor: “throughout regular program enrollment”.
+
+Central Application for Admission policy, General Requirements: bachelor degree or foreign equivalent; transcripts from every institution where a degree was earned or expected, with official English translations. These conditions were added during final factual read-through. URL: https://gradschool.princeton.edu/policies/application-admission .

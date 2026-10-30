@@ -1,0 +1,100 @@
+{
+  "name": "Therapeutic Sciences PhD",
+  "institution": "Brown University",
+  "institutionShort": "Brown",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://tsgp.brown.edu/phd-program/admission-financial-aid",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://tsgp.brown.edu/phd-program/admission-financial-aid",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://tsgp.brown.edu/phd-program/frequently-asked-questions",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://tsgp.brown.edu/phd-program/curriculum",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply-mfa-or-doctoral-study-brown",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/application-fee-waivers",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://graduateschool.brown.edu/financing-support/funding-guarantee",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://apply.graduateschool.brown.edu/portal/program_explorer",
+      "label": "Official program or central requirement",
+      "checked": "2026-10-29"
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 75,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Needs-based request in Additional Information with hardship explanation and accepted financial-aid, FAFSA, CSS, recent unemployment or GRE/TOEFL reduction-voucher documentation. Recommended at least two weeks early; only listed documents accepted. International applicants must confirm documentation eligibility; no overseas eligibility guarantee."
+    },
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 on or after January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS 7 is recommended, not a hard university cutoff. Home Edition and IELTS Indicator accepted. Degree from US/listed countries or non-US institution where English is primary instruction can exempt; other-country degrees need Registrar/Dean letter confirming language for program/institution. US studies primarily in another language do not exempt. TA English certification separate."
+    },
+    "documents": [
+      "Personal statement",
+      "College transcripts; certified English translations when needed; unofficial review copies and final official record before matriculation",
+      "Three online recommendations; at least two from faculty at current/most recent institution; Interfolio not accepted",
+      "Official English results unless exempt"
+    ],
+    "note": "General and subject GRE not considered. Statement addresses why PhD/this program, prior research and independent contribution, and obstacles overcome. Program FAQ requires submission at least 14 days before deadline for fee-waiver consideration; central policy calls two weeks recommended. Laboratory rotations discussed in curriculum, but exact admissions route not established."
+  },
+  "applyUrl": "https://apply.graduateschool.brown.edu/portal/program_explorer",
+  "detailsNote": "Current deadline confirmed in official 2026 application explorer. Department annual December 1 and older central-style funding wording are qualified; admission model not established by accessible instructions.",
+  "deadlines": [
+    {
+      "label": "Application deadline",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York",
+      "note": "Application explorer gives 12/01/2026; all deadlines 11:59 PM Eastern."
+    }
+  ],
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Program accepts PhDs with full tuition, stipend and health-insurance fees, guaranteed five years subject to satisfactory progress. First 18 months University fellowship; later TA/RA or external grants. Central guarantee applies to domestic/foreign students; transfer support may vary. No current stipend amount established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "timeline": {
+    "interviews": "Program says January recruitment annually; FAQ describes invitations in late December and decisions after interview."
+  }
+}

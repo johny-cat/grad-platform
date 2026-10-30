@@ -1,0 +1,85 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "institution": "George Washington University",
+  "institutionShort": "GW",
+  "detailsNote": "Department confirms reviewing 2027–28 applications; annual December 15 deadline is not explicitly assigned a calendar year. Admission model not established.",
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 80,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Conditional affiliation/service and virtual Open House waivers; no general financial-need waiver. International eligibility must be confirmed. Ask before paying; no retroactive refunds."
+    },
+    "english": {
+      "toefl": "100 legacy / 5 new scale",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "IELTS each band at least 6; PTE 68. Official agency scores within two years of application; no MyBest/IELTS Indicator. Qualifying degree-country/institution or English-instruction plus official-country-language exemption reviewed centrally; English medium alone is not a blanket exemption."
+    },
+    "documents": [
+      "Resume",
+      "Statement of purpose",
+      "Three recommendations",
+      "Unofficial transcripts from every institution; official after offer",
+      "Original-language records and certified English translations when needed"
+    ],
+    "note": "Accredited bachelor in anthropology, biological sciences, genetics, geological sciences, neuroscience, psychology or related field. Statement 500–1,000 words on preparation, research and goals; naming best-fit faculty recommended. Core faculty contact encouraged."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "name": "Human Paleobiology PhD",
+  "officialUrl": "https://anthropology.columbian.gwu.edu/phd-human-paleobiology",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 15",
+      "note": "Annual table date; department confirms 2027–28 recruitment but deadline year not printed."
+    }
+  ],
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Five-year program offers fully funded fellowship opportunities with stipend and teaching-assistant salary. No universal guarantee, explicit international coverage or amount established."
+  },
+  "sources": [
+    {
+      "url": "https://anthropology.columbian.gwu.edu/phd-human-paleobiology",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://bulletin.gwu.edu/arts-sciences/human-paleobiology/phd/",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://columbian.gwu.edu/doctoral-degrees",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://columbian.gwu.edu/application-requirements",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://columbian.gwu.edu/international-graduate-applicants",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://columbian.gwu.edu/graduate-admissions-faq",
+      "label": "Official program and admission source",
+      "checked": "2026-10-29"
+    }
+  ]
+}

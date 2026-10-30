@@ -1,0 +1,65 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Life Sciences PhD: Genome Science and Technology",
+  "institution": "University of Tennessee, Knoxville",
+  "institutionShort": "UT Knoxville",
+  "officialUrl": "https://bredesencenter.utk.edu/apply/",
+  "applyUrl": "https://bredesencenter.utk.edu/apply/",
+  "summary": "Life Sciences PhD with Genome Science and Technology concentration through the Bredesen Center.",
+  "detailsNote": "Bredesen application instructions explicitly select Fall 2027 and publish a December 1 final deadline in that cycle. Prior adviser contact encouraged; compulsory adviser agreement or rotation model not established. Application fee amount is not stated on the opened official pages; the program says it cannot offer fee waivers.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 final application, all materials",
+      "date": "2026-12-01"
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 2
+    },
+    "documents": [
+      "Detailed chronological CV/resume including gaps",
+      "Statement of intent, approximately 250 words or fewer per prompt",
+      "Two recommendations on letterhead as PDF/Word",
+      "Transcripts",
+      "English certification if applicable"
+    ],
+    "english": {
+      "toefl": "80 with S/W20 before January 21, 2026; 4.5 with S/W4 on/after January 22, 2026, as printed",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS no band below6. TOEFL Home/MyBest/Paper accepted; IELTS Online/One Skill Retake accepted. Exemption: citizenship in listed English-official country, or accredited conferred degree where English is primary instruction. Upload transcript with degree and English evidence; additional documentation if language absent. Programs may require higher scores. Central page leaves January21 boundary unclear; confirm that test date."
+    },
+    "note": "Science/engineering bachelor or master; non-STEM case-by-case, deficiencies possible. US degree GPA2.7/graduate3; non-US degree GPA3/graduate3.3. Statement covers research/career, preparation, faculty contacts and other context. Prior adviser/supervisor and most recent institution letters preferred. Contact prospective UTK/ORNL faculty about supervision/funding; report tentative commitment to admissions, which does not ensure admission. ORNL research requires site-access badge. Application fee: Bredesen Center says it cannot offer application fee waivers. Amount not established on opened sources."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "All applicants considered for Graduate Research Assistantships; no guaranteed offer, amount or international eligibility established. Prospective adviser should be asked about ability to provide financial support."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://bredesencenter.utk.edu/apply/",
+      "checked": "2026-10-30",
+      "label": "Official source: bredesencenter.utk.edu — apply"
+    },
+    {
+      "url": "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/admission-requirements/testing-requirements/",
+      "checked": "2026-10-30",
+      "label": "Official source: gradschool.utk.edu — testing requirements"
+    },
+    {
+      "url": "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/admission-requirements/",
+      "checked": "2026-10-30",
+      "label": "Official source: gradschool.utk.edu — admission requirements"
+    }
+  ]
+}

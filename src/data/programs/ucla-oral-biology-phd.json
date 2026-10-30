@@ -1,0 +1,98 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Oral Biology PhD",
+  "institution": "University of California, Los Angeles",
+  "institutionShort": "UCLA",
+  "officialUrl": "https://grad.ucla.edu/programs/school-of-dentistry/oral-biology/",
+  "applyUrl": "https://apply.grad.ucla.edu/apply/",
+  "summary": "Research PhD in oral biology, with a separate UCLA graduate application selection.",
+  "detailsNote": "Current 2027–28 central program admission requirements. Older handbook and undated funding statements are identified; confirm the written funding offer.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-15",
+      "note": "Current 2027–28 central requirements; all materials by deadline. No closing time stated."
+    }
+  ],
+  "requirements": {
+    "gre": "required",
+    "english": {
+      "toefl": "87 before January 21, 2026; 4.5 on/after January 21, 2026",
+      "ielts": 7,
+      "note": "Central FAQ also specifies legacy sections W25/S24/R21/L17; confirm any program-specific thresholds. TOEFL iBT Home Edition and IELTS Online accepted; MyBest excluded; only most recent result considered. Scores within two years; previous Paper Edition or IELTS Indicator remain valid for two years. Exempt accredited US bachelor/higher or degree where English is sole instruction per WHED; satellite-campus non-English daily-life locations require scores. Citizenship/residence/work are not substitutes. Below TOEFL 100/5 or IELTS 7.5, admitted students take ESLPE and may need ESL courses. TA oral assessment has separate requirements."
+    },
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "US citizens/permanent residents $135; all others $155, nonrefundable. Central conditional routes include listed preparation-program participation with verification, need-based documentation, qualifying recent public benefits, and designated in-person recruitment events (2026–2027 application-fee program subject to change). Non-US/PR enrolled applicants need California state financial aid; nonenrolled income route requires qualifying US tax return. These are restricted routes, not an unrestricted overseas hardship waiver. International applicants must confirm eligibility with the program; GPB application page separately says it cannot offer international waivers."
+    },
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Signed and dated statement of purpose",
+      "CV",
+      "Three recommendations, at least two from science faculty familiar with scholarly abilities; letters no more than one year old",
+      "Transcripts, including official sealed copies",
+      "General GRE",
+      "English evidence if applicable"
+    ],
+    "note": "BS, DDS, DMD or equivalent with strong basic sciences: two years chemistry (inorganic, organic, biological), one year biology and one year physics. Department recommends upper-division science GPA at least 3; dentistry background helpful, not required. Research experience and publications assessed. SOP describes background, work, research and career goals; CV includes education, awards, work/research, memberships/publications, volunteer work and hobbies. Apply to Oral Biology PhD; combined clinical degrees require separate clinical application."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "2025–26 handbook: first-year support may be available subject to funds, then possible mentor-lab funding. No funding is guaranteed without an offer and signed contract; consider mentor resources when choosing labs."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://grad.ucla.edu/programs/school-of-dentistry/oral-biology/",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.ucla.edu — oral biology"
+    },
+    {
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0615",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.ucla.edu — requirements"
+    },
+    {
+      "url": "https://dentistry.ucla.edu/academics-admissions/graduate-programs/master-of-science-degree-in-oral-biology/admissions-applying",
+      "checked": "2026-10-30",
+      "label": "Official source: dentistry.ucla.edu — admissions applying"
+    },
+    {
+      "url": "https://dentistry.ucla.edu/sites/default/files/media/documents/2025-26_ph.d_handbook.pdf",
+      "checked": "2026-10-30",
+      "label": "Official source: dentistry.ucla.edu — 2025 26 ph.d handbook.pdf"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/english-requirements/",
+      "checked": "2026-10-30",
+      "label": "Central English requirements"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/research-requirements/",
+      "checked": "2026-10-30",
+      "label": "Central application, fee and waiver requirements"
+    },
+    {
+      "url": "https://grad.ucla.edu/admissions/faqs/",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.ucla.edu — faqs"
+    },
+    {
+      "url": "https://apply.grad.ucla.edu/apply/",
+      "checked": "2026-10-30",
+      "label": "Official source: apply.grad.ucla.edu — apply"
+    }
+  ],
+  "admissionModel": "program"
+}

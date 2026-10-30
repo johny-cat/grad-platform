@@ -202,3 +202,8 @@ Batch 1: PR #19 merged, Supabase synchronized, public catalog verified at 407 en
 
 Batch2 PR#20 is merged and live:507programs,503checked/fourpending;Supabase507active verified. Batch3 adds100official programme identities at32institutions:81checked,19pending because core requirements could not be confirmed. New total607:584checked/23pending. Nine existing records receive reviewed corrections or searchable areas. Exact dates,fees,GRE and inaccessible sources are in docs/research/catalog-expansion-batch-3-100.md. Complete isolated snapshot check/build run after final independent review; university changes committed separately. Supabase sync/live verification follow merge. Further archive research remains separate.
 
+
+
+## Catalog expansion — 51 saved programs, 2026-10-30
+
+PR #21 is merged and live with 607 listings and an active synchronized database catalog. This release adds 51 independently reviewed programs at 31 institutions, bringing the total to 658 (635 checked, 23 pending). Existing program records and permanent IDs are unchanged. The deadline/fee/GRE table, inaccessible pages and review scope are in docs/research/catalog-expansion-final-51.md. The final isolated snapshot passed npm run check and npm run build. Merge, generated catalog synchronization and live verification complete the release. The remaining 16 archive leads are deferred at the owner's request.

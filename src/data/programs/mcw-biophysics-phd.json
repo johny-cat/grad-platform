@@ -1,0 +1,79 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "institution": "Medical College of Wisconsin",
+  "institutionShort": "MCW",
+  "name": "Biophysics PhD (direct-entry route)",
+  "officialUrl": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/biophysics",
+  "detailsNote": "Official annual priority dates available; Fall 2027 doctorate deadline year not confirmed. Central December 4 is earlier than department December 5. Admission model unconfirmed for direct entry.",
+  "publishedDeadlines": [
+    {
+      "label": "Central doctorate priority",
+      "dateText": "December 4",
+      "note": "All-doctorate annual date; use earlier than departmental December 5 and confirm intended cycle."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "applicationFee": {
+      "amount": 50,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Within three years: MCW research participation, GRE reduction eligibility, MCW graduate fair, or conference attendance plus presentation. Indicate category in application; verification may be required. No financial-hardship waivers; international qualification must be confirmed."
+    },
+    "english": {
+      "toefl": "100 recommended legacy score; new-scale recommendation not established",
+      "ielts": 6,
+      "duolingo": 105,
+      "note": "Recommendations, not hard minima; tests valid up to two years. US-based non-online study or primary-English instruction may support exemption; written request and proof after application, not automatic overseas MOI waiver."
+    },
+    "documents": [
+      "All-institution transcripts (unofficial review permitted generally; official before offer)",
+      "Personal statement (valued by program; application may specify format)",
+      "Recommendations submitted directly by referees; count not established",
+      "International official records, graduation proof and English translations",
+      "Credential evaluation: Requirements page requires foreign-coursework evaluation, while admissions FAQ exempts most programs; confirm Biophysics rule"
+    ],
+    "note": "Bachelor degree required, ideally GPA 3 or higher; physics/mathematics competence for direct MRI/instrumentation route, with broad science backgrounds considered. Research experience strongly considered. Molecular biophysics generally uses IDP/MSTP. Prior faculty contact or secured mentor not required by central FAQ; no direct-entry rotation model established."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 36355,
+      "currency": "USD",
+      "period": "year",
+      "year": "2025–26"
+    },
+    "note": "All full-time degree-seeking PhDs in good academic/professional standing receive full tuition, yearly stipend and health insurance from enrollment through completion; no separate funding process. Published $36,355 is historical 2025–26, not a Fall 2027 rate."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/biophysics",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/application-deadlines",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    }
+  ]
+}

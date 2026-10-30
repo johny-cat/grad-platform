@@ -1,0 +1,92 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Chemical and Biochemical Engineering PhD",
+  "institution": "Rutgers University–New Brunswick",
+  "institutionShort": "Rutgers–New Brunswick",
+  "officialUrl": "https://cbe.rutgers.edu/admissions/graduate-program/graduate-applicant-criteria",
+  "summary": "Research doctorate in Chemical and Biochemical Engineering at Rutgers New Brunswick, with its own application selection.",
+  "detailsNote": "Central programme directory explicitly confirms Fall 2027 January 15, 2027 deadline. Mentor-selection admission model not established. Department and central English exemption wording differ; approval should be confirmed.",
+  "deadlines": [
+    {
+      "label": "Fall 2027 application, US/non-US",
+      "date": "2027-01-15",
+      "note": "Current official directory; also departmental date for fellowship/assistantship consideration. No time specified."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central automatic eligibility review for Rutgers alumni/employees, listed scholar programmes and active US military/veterans planning GI Bill benefits. Select applicable scholar affiliation in application. No general overseas hardship waiver established; international applicants must confirm eligible affiliation. Separate fee per programme, nonrefundable. FreeApp is a separate competitive route requiring US citizenship/PR, bachelor completion by August before enrollment, undergraduate GPA at least 3.0 and academic/research career intent. Rutgers FreeApp processing closes June 30, 2027 as the programme ends; requests must still permit meeting the relevant application deadline."
+    },
+    "english": {
+      "toefl": "Through January 21, 2026: W22/S23/R21/L17; January 22 onward: W4.5/S4.5/R4/L4",
+      "ielts": 7,
+      "note": "TOEFL iBT/Home Edition accepted. Official scores sent directly by agency, within two years of entry semester. Central DET admission range 120–130; programme may set higher. Entire degree at principal-English institution may qualify case-by-case with official transcript language or letter sent directly by institution/Registrar; not automatic approval. CBE explicitly sets DET 120. Department exemption includes US citizen/PR or international applicant with minimum three undergraduate years or master degree taught in English; central requires completed entire degree and case-by-case proof, so confirm departmental exemption approval.",
+      "duolingo": 120
+    },
+    "documents": [
+      "Resume",
+      "Personal statement describing motivation, research areas and potential faculty advisers",
+      "Transcripts showing all courses, credits and final grades; unofficial for application, official for final admission",
+      "Three recommendations",
+      "English evidence unless approved exemption; international transcript evaluation optional"
+    ],
+    "note": "Students with diverse educational backgrounds including non-chemical-engineering degrees may apply. GRE optional if helpful. Fall admission only for PhD. CBE cannot issue fee waiver itself; central affiliation routes govern."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted full-time PhDs receive TA/GA/fellowship funding and can expect at least five years with satisfactory progress; full stipend and tuition remission. The universal offer covers all admitted full-time PhDs, including international students. No current amount or health-insurance coverage established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://cbe.rutgers.edu/admissions/graduate-program/graduate-applicant-criteria",
+      "checked": "2026-10-30",
+      "label": "Official source: cbe.rutgers.edu — graduate applicant criteria"
+    },
+    {
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNrQAI",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.admissions.rutgers.edu — Detail.aspx"
+    },
+    {
+      "url": "https://newbrunswickgrad.rutgers.edu/",
+      "checked": "2026-10-30",
+      "label": "Official source: newbrunswickgrad.rutgers.edu — university website"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/apply/application-guidelines",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions information"
+    },
+    {
+      "url": "https://gradstudy.rutgers.edu/information/international-students",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions information"
+    },
+    {
+      "url": "https://btaa.org/resources-for/students/freeapp/eligibility",
+      "checked": "2026-10-30",
+      "label": "Official source: btaa.org — eligibility"
+    },
+    {
+      "url": "https://btaa.org/resources-for/students/freeapp/introduction",
+      "checked": "2026-10-30",
+      "label": "Official source: btaa.org — introduction"
+    }
+  ]
+}

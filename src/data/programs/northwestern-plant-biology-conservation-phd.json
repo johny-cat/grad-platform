@@ -1,0 +1,93 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Plant Biology and Conservation PhD",
+  "institution": "Northwestern University",
+  "institutionShort": "Northwestern",
+  "officialUrl": "https://plantbiology.northwestern.edu/graduate/prospective-students/phd/application-process.html",
+  "summary": "Plant Biology and Conservation doctorate offered jointly with the Chicago Botanic Garden.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Annual December 1 deadline illustrates Fall 2026. Mentor-selection admission model not established. Stipend is published for 2026–27.",
+  "publishedDeadlines": [
+    {
+      "label": "Application",
+      "dateText": "December 1 each year for following fall",
+      "note": "Official example December 1, 2025 for Fall 2026; no explicitly dated Fall 2027 deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "PBC offers limited first-come international low-income waivers: identify supporting potential PBC adviser, complete first three application pages and upload CV on page 10, then use linked form. Low income defined by US Department of Education; confirm documentation/eligibility. Separate central waivers require US citizenship/permanent residency plus listed first-generation/service/Pell/program criteria."
+    },
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 after January 21, 2026",
+      "ielts": 7,
+      "note": "Central MET 61 accepted for PhD; DET and TOEFL Essentials excluded. Official results within two years of intended entry; Home Edition and IELTS Indicator accepted. English-primary undergraduate/graduate degree permits discretionary program/TGS waiver request after application, with documentation potentially required. TA/graduate-assistant funding English requirement separate."
+    },
+    "documents": [
+      "Online application with TGS standardized prompts",
+      "Transcripts from every academic institution; unofficial review accepted, official upon acceptance",
+      "Two recommendations; at least one familiar with academic/research experience",
+      "Current CV or resume",
+      "Academic Statement reproducing and answering four departmental prompts",
+      "Official English results unless waiver approved"
+    ],
+    "note": "Before enrollment: at least two biology/related environmental-science courses, one semester statistics, and one semester organic chemistry, genetics or ecology. Statement covers academic interests, preparation, program/goals fit, scholarly questions and named aligned faculty. All PhDs teach at least two quarters and maintain satisfactory academic progress."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 47748,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "All accepted PhD students offered stipend, health insurance and no tuition over five years through fellowships/assistantships; academic progress required. Published stipend applies 2026–27, not confirmed Fall 2027 amount. The offer applies to all accepted PhD students, including international students."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://plantbiology.northwestern.edu/graduate/prospective-students/phd/application-process.html",
+      "checked": "2026-10-30",
+      "label": "Official source: plantbiology.northwestern.edu — application process.html"
+    },
+    {
+      "url": "https://plantbiology.northwestern.edu/graduate/prospective-students/phd/application-fee-waiver/",
+      "checked": "2026-10-30",
+      "label": "Official source: plantbiology.northwestern.edu — application fee waiver"
+    },
+    {
+      "url": "https://plantbiology.northwestern.edu/graduate/prospective-students/phd/funding.html",
+      "checked": "2026-10-30",
+      "label": "Official source: plantbiology.northwestern.edu — funding.html"
+    },
+    {
+      "url": "https://plantbiology.northwestern.edu/graduate/prospective-students/phd/expectations.html",
+      "checked": "2026-10-30",
+      "label": "Official source: plantbiology.northwestern.edu — expectations.html"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/test-scores.html",
+      "checked": "2026-10-30",
+      "label": "Graduate School test scores"
+    },
+    {
+      "url": "https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/fee.html",
+      "checked": "2026-10-30",
+      "label": "Graduate School application fee"
+    }
+  ]
+}

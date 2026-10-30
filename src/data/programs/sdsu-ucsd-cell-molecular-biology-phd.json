@@ -1,0 +1,84 @@
+{
+  "name": "Joint Doctoral Program in Cell and Molecular Biology",
+  "institution": "San Diego State University / University of California, San Diego",
+  "institutionShort": "SDSU / UC San Diego",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://biology.ucsd.edu/education/grad/joint-sdsu.html",
+  "applyUrl": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/",
+  "cycle": "fall-2027",
+  "admissionModel": "program",
+  "deadlines": [
+    {
+      "label": "SDSU Cal State Apply application",
+      "date": "2026-12-01"
+    },
+    {
+      "label": "SDSU supplement and official materials; UCSD application",
+      "date": "2026-12-15"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose (usually one to three pages)",
+      "CV or resume",
+      "Transcripts and degree records",
+      "English results when required"
+    ],
+    "applicationFee": {
+      "amount": 70,
+      "currency": "USD",
+      "waiver": "not-available",
+      "note": "SDSU Cal State Apply is nonrefundable and cannot be waived. Joint applicants receive a UCSD application fee waiver and are exempt from UCSD’s international credential-evaluation requirement."
+    },
+    "english": {
+      "toefl": "UCSD: 85 previous scale / 4.5 new scale; SDSU program: 80 before January 21, 2026 / 4 thereafter",
+      "ielts": 7,
+      "duolingo": 120,
+      "note": "Meet both campus policies. UCSD accepts IELTS Academic; degree exemptions require B/3.0 or better and foreign institutions listed in WHED as solely English, with no substitute letters. SDSU allows qualifying English-principal-instruction degrees verified on official transcripts. Scores have two-year validity; SDSU measures from filing-period start."
+    },
+    "note": "Biology/related bachelor’s; GPA 3.0 in last 60 units and upper-division biology. Both campus applications mandatory, with matching name/email. SDSU requires official records/scores and Slate supplement; UCSD initially accepts unofficial records/self-reported English results. Three letters required, up to five allowed in SDSU supplement. Cannot also apply to standalone UCSD Biological Sciences. No faculty sponsor needed before application."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "SDSU states doctoral students receive tuition and financial support. Amount, duration and international coverage are not explicitly specified."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Foreign degree records and certified literal English translations required where applicable. Research is based at SDSU with one year of UCSD coursework."
+  },
+  "sources": [
+    {
+      "url": "https://biology.ucsd.edu/education/grad/joint-sdsu.html",
+      "label": "Joint identity and Fall 2027 applications",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/",
+      "label": "Application procedure and fees",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/admission-information/",
+      "label": "Admission criteria, rotations and support",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://admissions.sdsu.edu/graduate/steps-apply",
+      "label": "SDSU English exemptions",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html",
+      "label": "UCSD English policy",
+      "checked": "2026-10-30"
+    }
+  ],
+  "lastChecked": "2026-10-30"
+}

@@ -1,0 +1,7 @@
+# Rochester SMD B7 shared evidence
+Checked2026-10-30. [School application](https://www.urmc.rochester.edu/education/graduate/phd/admissions), Application Requirements/Timeline: “By December 1st* - Complete application due ($60 application fee applies).” Uploaded transcripts,SOP,threeletters,optionalGRE,officialEnglishTOEFLiBT/IELTS/DET. AutomaticwaiverbysubmissionNovember15,2026within24hours;noeligibilityrestrictionstated. Financialhardshipemailrouteafterward;December1throughJanuary1discretionaryrollingreview. Epidemiology/HSRPnonwaivable100SOPHASexceptionsnotborrowed.
+
+[BMB application](https://www.urmc.rochester.edu/education/graduate/phd/biochemistry/apply), FellowshipPackage: “A competitive stipend for 2027-2028”; annual35800for12-monthprograms,29833for10-monthprograms,fulltuition/academicfeesandindividualAETNAhealth. Dependentinsurancepaidbystudent. Englishresultswithin2years;BMBalsoacceptsITPPlus;officialreportolderthan1yearmayuploadifagencycannotdeliver. No numericEnglishminimafound.
+
+Independent review, 2026-10-30: the actual [central PhD Financial Aid page](https://www.urmc.rochester.edu/education/graduate/phd/financial-aid), Fellowship Package for Full-time Students, independently confirms the 2027–2028 tuition/fees, stipend amounts by appointment length and single health insurance. Both new Rochester records now cite that page directly. Pathology program eligibility calls GPA 3.0 a minimum; its English alternatives do not include the BMB-only ITP Plus remark.
+

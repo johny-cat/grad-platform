@@ -1,0 +1,89 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Ecology and Evolutionary Biology PhD",
+  "institution": "Rice University",
+  "institutionShort": "Rice",
+  "officialUrl": "https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program",
+  "applyUrl": "https://gradapply.rice.edu/",
+  "summary": "Ecology and Evolutionary Biology doctorate admitting students to individual faculty advisers or occasional co-advisers.",
+  "admissionModel": "lab",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Annual December 31 deadline has no year; stipend is explicitly 2026–27.",
+  "publishedDeadlines": [
+    {
+      "label": "Full consideration",
+      "dateText": "December 31",
+      "note": "Fall application opens September 1; late applications may be considered when possible. No explicitly dated Fall 2027 deadline."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "US citizens/PR and applicants whose most recent degree is from a US college/university may email EEB admissions before submitting. Listed participant routes include McNair, GCURS, Mellon Mays, Project 1000, Nankai Hundred Young Teachers and Vietnam Education Foundation; indicate programme participation in application. International applicants should confirm eligible affiliation; no general overseas hardship route established. Fees nonrefundable."
+    },
+    "english": {
+      "toefl": "90 before January 21, 2026; 4.5 on/after January 21, 2026",
+      "ielts": 7,
+      "duolingo": 115,
+      "note": "Central proof routes include accredited US high-school/college/university degree or completed/expected post-secondary degree at English-official instruction institution; consult official country/institution lists and enter institution accurately with language English. Home Edition accepted; best composite only, not MyBest. Do not generalize historical 2021 IELTSIndicator wording to current acceptance."
+    },
+    "documents": [
+      "Unofficial transcripts for preliminary review; official records required once selected for interview, final transcripts for work in progress",
+      "Recommendations requested from four people, preferably major-field professors; at least three received before review",
+      "PDF personal statement describing intended study/research subdivision and relevant background",
+      "English evidence unless eligible degree meets requirement"
+    ],
+    "note": "BA/BS or equivalent with strong biology preparation; other majors eligible. Ecology, evolution/equivalent, calculus and statistics preparation expected; deficiencies made up first year unless approved waiver. Identify/contact prospective advisers before applying to confirm availability and research compatibility. General GRE optional without disadvantage if omitted; Biology subject optional. Separate applications required for separate graduate programs."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 37000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026-2027"
+    },
+    "note": "PhDs without external fellowship receive programme stipend including summer plus tuition waiver. Continuation after first year requires good standing; lower external awards supplemented to programme level. The stipend/tuition policy applies to doctoral students, with continuation extended to all students in good standing, including international students. Health-insurance coverage not established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program",
+      "checked": "2026-10-30",
+      "label": "Official source: biosciences.rice.edu — ecology and evolutionary biology graduate program"
+    },
+    {
+      "url": "https://biosciences.rice.edu/how-apply-eeb",
+      "checked": "2026-10-30",
+      "label": "Official source: biosciences.rice.edu — how apply eeb"
+    },
+    {
+      "url": "https://biosciences.rice.edu/eeb-financial-support",
+      "checked": "2026-10-30",
+      "label": "Official source: biosciences.rice.edu — eeb financial support"
+    },
+    {
+      "url": "https://graduate.rice.edu/admissions/language-proficiency-requirements",
+      "checked": "2026-10-30",
+      "label": "Rice Graduate and Postdoctoral Studies: Language proficiency"
+    },
+    {
+      "url": "https://ga.rice.edu/programs-study/departments-programs/natural-sciences/biosciences/ecology-evolutionary-biology-phd/",
+      "checked": "2026-10-30",
+      "label": "Official source: ga.rice.edu — ecology evolutionary biology phd"
+    }
+  ]
+}

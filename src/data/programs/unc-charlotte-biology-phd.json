@@ -1,0 +1,81 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Biology PhD",
+  "institution": "University of North Carolina at Charlotte",
+  "institutionShort": "UNC Charlotte",
+  "officialUrl": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/",
+  "applyUrl": "https://gradadmissions.charlotte.edu/apply-now/application-requirements/",
+  "summary": "Interdisciplinary research PhD in biology, distinct from the Bioinformatics and Computational Biology program.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. January 15 is undated. Students may be matched with tentative mentors or rotations; no single admission model asserted. Funding is conditional on eligibility, progress and resources.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application/funding consideration",
+      "dateText": "January 15",
+      "note": "Undated annual deadline. Spring exceptional admission October 1; separate assistantship page says July 1 for spring funding, so confirm early."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Official transcripts from all institutions",
+      "Personal statement (two double-spaced pages)",
+      "Three references, at least two faculty",
+      "English evidence if applicable"
+    ],
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International $85; US citizen/PR $75. Department cannot waive fees. Central limited routes: qualifying permanent UNC Charlotte employees, US Ronald McNair participants, US military service members. No citizenship restriction on employee category; international applicants must confirm category eligibility; allow 1â€“2 weeks."
+    },
+    "english": {
+      "toefl": "83 before January 21, 2026; 4.5 on or after; department prefers legacy 100",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "Official agency reports; legacy scores valid two years. Exemption: one academic year of postsecondary study in US/listed country within five years of enrollment, or one calendar year professional work in US/listed country with heavy written/spoken English. TA eligibility assessed by ELTI before first semester."
+    },
+    "note": "BA/BS; overall/science GPA at least3, competitive biology3.4. Relevant major or24credits in listed bioscience/interdisciplinary fields. Genetics, physiology and cell/molecular courses required; strong candidates have year each general/organic chemistry, physics and college math. SOP covers motivation, degree fit, preparation/deficiencies and faculty/research interests. Faculty contact encouraged. GRE not required, optional scores accepted."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Eligible students: TA support guaranteed eight semesters, later as available; satisfactory progress and teaching evaluations required. Program expects TA first two years then adviser-funded RA. Published undated TA $22,000/academic year, competitive and GPA3 required. Eligible assistantship holders get tuition waiver and health insurance (GASP), up to ten semesters. Confirm eligibility and international terms."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/",
+      "checked": "2026-10-30",
+      "label": "Official source: biology.charlotte.edu — phd program"
+    },
+    {
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines",
+      "checked": "2026-10-30",
+      "label": "Official source: biology.charlotte.edu — admissions requirements procedures and deadlines"
+    },
+    {
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/teaching-and-research-assistantships/",
+      "checked": "2026-10-30",
+      "label": "Official source: biology.charlotte.edu — teaching and research assistantships"
+    },
+    {
+      "url": "https://gradadmissions.charlotte.edu/apply-now/application-requirements/",
+      "checked": "2026-10-30",
+      "label": "UNC Charlotte Graduate Admissions: Application requirements"
+    },
+    {
+      "url": "https://gradadmissions.charlotte.edu/apply-now/international-applicants/",
+      "checked": "2026-10-30",
+      "label": "UNC Charlotte Graduate Admissions: International applicants"
+    }
+  ]
+}

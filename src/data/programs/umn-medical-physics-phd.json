@@ -1,0 +1,86 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Medical Physics PhD",
+  "institution": "University of Minnesota",
+  "institutionShort": "Minnesota",
+  "officialUrl": "https://med.umn.edu/radiationoncology/education-training/graduate-program",
+  "applyUrl": "https://choose.umn.edu/apply/",
+  "summary": "Research PhD in medical physics.",
+  "detailsNote": "Official available requirements. Current Fall 2027 application deadline established. Funding amounts have no stated academic year unless noted; confirm offer. Admission model omitted unless directly established.",
+  "requirements": {
+    "gre": "required",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 with W21/R19 before January 21, 2026; 4.5 total/W/R on or after",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS reading/writing 6.5; Fall 2027 DET total/reading/writing 120. Scores within two years of start. Twin Cities does not accept TOEFL MyBest; IELTS One Skill Retake is not accepted. Education exemption: secondary school in US/listed country, or 16 semester/24 quarter non-ESL postsecondary credits completed within past two years while living in US/listed country. Program may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "US citizen/PR $75, international $95; nonrefundable. Central office does not waive fees. GSDO conditional route: US citizen/PR seeking first graduate degree with qualifying listed participation; request before submission/payment. Medical School may offer limited domestic waivers; confirm program procedure."
+    },
+    "documents": [
+      "Three recommendations",
+      "Statement of purpose",
+      "Degree/transcripts",
+      "General GRE",
+      "English evidence if applicable"
+    ],
+    "note": "Comparable bachelor, PhD GPA 3.2 (lower considered with documentation). Physics degree or equivalent minor: two semesters calculus-based physics plus three upper-level physics courses. Mathematics through multivariable calculus or differential equations. General GRE required, no subject exam specified. Research statement and CV not required. No conditional admission."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Partial RA support may be available depending on funds, placement and availability; typical 10 hours/week at minimum $28.93/hour, possible tuition benefits. Additional faculty-grant PhD support possible. Program itself offers no fee waiver, but points to limited Medical School routes."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://med.umn.edu/radiationoncology/education-training/graduate-program",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — graduate program"
+    },
+    {
+      "url": "https://med.umn.edu/radiationoncology/education-training/graduate-program/admissions",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — admissions"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://med.umn.edu/radiationoncology/education-training/graduate-program/finances",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — finances"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2027-01-04"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Integrated Biosciences PhD",
+  "institution": "University of Minnesota",
+  "institutionShort": "Minnesota",
+  "officialUrl": "https://scse.d.umn.edu/integrated-biosciences",
+  "applyUrl": "https://choose.umn.edu/apply/",
+  "summary": "Research PhD in integrated biosciences.",
+  "detailsNote": "Official available requirements. Current Fall 2027 application deadline established. Funding amounts have no stated academic year unless noted; confirm offer. Admission model omitted unless directly established.",
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 with W21/R19 before January 21, 2026; 4.5 total/W/R on or after",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS reading/writing 6.5; Fall 2027 DET total/reading/writing 120. Scores within two years of start. Twin Cities does not accept TOEFL MyBest; IELTS One Skill Retake is not accepted. Education exemption: secondary school in US/listed country, or 16 semester/24 quarter non-ESL postsecondary credits completed within past two years while living in US/listed country. Program may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "US citizen/PR $75, international $95; nonrefundable. Central office does not waive fees. GSDO conditional route is limited to US citizens/permanent residents seeking their first graduate degree with qualifying participation; request before submission/payment. No IBS-specific international waiver established."
+    },
+    "documents": [
+      "Personal statement",
+      "CV/resume",
+      "Unofficial transcripts, official if recommended",
+      "Three or more recommendations",
+      "IBS supplemental application",
+      "Diversity of Views and Experiences statement",
+      "English evidence if applicable"
+    ],
+    "note": "Systemwide research PhD with campus choice specified in application and personal statement. GRE optional; if sent, suggested 60th percentile and official scores within five years. Optional writing sample/research description considered. Homepage supplies dated Fall 2027 deadlines; spring availability depends on funding and must be confirmed with the IBS office."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Research/teaching assistantships available; holders receive health benefits and tuition waivers. No universal offer or stipend amount established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://scse.d.umn.edu/integrated-biosciences",
+      "checked": "2026-10-30",
+      "label": "Official source: scse.d.umn.edu — integrated biosciences"
+    },
+    {
+      "url": "https://scse.d.umn.edu/integrated-biosciences-graduate-program/prospective-students/application-instructions",
+      "checked": "2026-10-30",
+      "label": "Official source: scse.d.umn.edu — application instructions"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    }
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application priority",
+      "date": "2027-01-01"
+    },
+    {
+      "label": "Fall 2027 final application",
+      "date": "2027-03-15"
+    }
+  ]
+}

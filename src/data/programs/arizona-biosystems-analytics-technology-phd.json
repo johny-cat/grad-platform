@@ -1,0 +1,87 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "cycle": "fall-2027",
+  "lastChecked": "2026-10-30",
+  "name": "Biosystems Analytics and Technology PhD",
+  "institution": "University of Arizona",
+  "institutionShort": "Arizona",
+  "location": "Tucson, Arizona",
+  "officialUrl": "https://be.arizona.edu/graduate/msphd-biosystems-analytics-technology",
+  "applyUrl": "https://apply.grad.arizona.edu/users/login",
+  "summary": "Research PhD combining biosystems, technology and analytics, distinct from the department’s engineering degree.",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. Program page lists fall entry; 2025–26 handbook permits fall/spring for non-AMP programs. Confirm availability and funding. The departmental admissions page mixes engineering requirements with broader program information; BAT-specific criteria take precedence.",
+  "publishedDeadlines": [
+    {
+      "label": "Recommended international fall application",
+      "dateText": "March 1",
+      "note": "Department recommendation for programs using rolling admission, at least five months before entry; not a confirmed BAT final deadline or Fall 2027 date."
+    }
+  ],
+  "requirements": {
+    "gre": "unknown",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Transcripts from all attended institutions",
+      "Statement of purpose",
+      "CV or resume",
+      "Three recommendations",
+      "English evidence if applicable"
+    ],
+    "english": {
+      "toefl": "79 iBT/Home Edition before January 21, 2026; 4.0 overall on/after January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS/IELTS Online: no section below 6; One Skill Retake excluded. PTE Academic 60, CEPT Full Academic 110 or CESL endorsement also accepted; DET and doctoral TOEFL Essentials excluded. Scores within two years of enrollment. Exemptions: English-official citizenship, completed US accredited bachelor/graduate degree or approved English Proficiency Guide degree; unfinished degree may qualify with two full-time years and 48 upper-division undergraduate or 30 graduate graded credits at US/approved institutions, credits within two years. English-medium instruction alone does not exempt. International teaching appointments have separate speaking requirements."
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Departmental graduate admissions page mentions financial-need waivers but gives no request procedure or citizenship restriction. Confirm BAT-specific availability and international eligibility before applying. Central Graduate College does not waive general requests."
+    },
+    "note": "BAT-specific page: BS and minimum cumulative PhD GPA 3.30; below-threshold applications not considered. 2025–26 handbook permits BS and/or MS; non-STEM applicants may receive additional deficiency coursework. Unofficial transcripts for application; final official degree/transcript documents and verified English translations required. GRE department policy not established; central does not require it but departments may."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "2025–26 departmental handbook: funding depends on available resources; PhD departmental support no more than eight semesters. Limited first-year PhD RA and TA positions, further faculty grant support possible. 0.25 FTE gives 50% tuition remission; 0.50 FTE gives 100%, nonresident rates recalculated to resident; students pay other fees. No universal offer or international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://be.arizona.edu/graduate/msphd-biosystems-analytics-technology",
+      "checked": "2026-10-30",
+      "label": "Official source: be.arizona.edu — msphd biosystems analytics technology"
+    },
+    {
+      "url": "https://be.arizona.edu/graduate/admissions",
+      "checked": "2026-10-30",
+      "label": "Official source: be.arizona.edu — admissions"
+    },
+    {
+      "url": "https://be.arizona.edu/sites/default/files/2025-09/BE-BAT_AMP-MS-PhD_GraduateProgramManual_2025-26_0.pdf",
+      "checked": "2026-10-30",
+      "label": "Official source: be.arizona.edu — BE BAT AMP MS PhD GraduateProgramManual 2025 26 0.pdf"
+    },
+    {
+      "url": "https://grad.arizona.edu/admissions/requirements/international-applicants",
+      "checked": "2026-10-30",
+      "label": "University of Arizona Graduate College: English proficiency"
+    },
+    {
+      "url": "https://grad.arizona.edu/admissions/procedures/application-fees",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.arizona.edu — application fees"
+    },
+    {
+      "url": "https://grad.arizona.edu/admissions/requirements/entrance-examinations",
+      "checked": "2026-10-30",
+      "label": "Official source: grad.arizona.edu — entrance examinations"
+    }
+  ]
+}

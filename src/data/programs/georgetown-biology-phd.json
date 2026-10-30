@@ -1,0 +1,75 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "institution": "Georgetown University",
+  "institutionShort": "Georgetown",
+  "name": "Biology PhD",
+  "officialUrl": "https://biology.georgetown.edu/phd-program/applicants/",
+  "detailsNote": "Official annual dates available; Fall 2027 deadline year not confirmed. EEB lab entry and MCB rotations differ, so no single admission model assigned.",
+  "tracks": [
+    "Ecology, Evolution and Behavior",
+    "Molecular and Cellular Biology"
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall application",
+      "dateText": "December 1st",
+      "note": "Annual department deadline; older score-timing FAQ says December 15, so use earlier date."
+    }
+  ],
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Biology offers limited form-based waivers without a stated nationality restriction; confirm international eligibility. Central qualifying affiliation/service routes also apply, including EducationUSA Opportunity Funds/Fulbright; financial-need route is US-citizen-only."
+    },
+    "english": {
+      "toefl": "80 legacy / 4 new scale; department typically looks for 100 legacy",
+      "ielts": 7,
+      "note": "Department 100 is guidance, not hard minimum. Qualifying US or primary-English degree can exempt. Official agency scores due by deadline; no MyBest; central does not authorize unofficial score uploads."
+    },
+    "documents": [
+      "One-page research interests/career goals essay naming faculty fit",
+      "CV/resume",
+      "Three recommendations",
+      "Uploaded official-copy transcripts; final official records after offer",
+      "English evidence when needed",
+      "Optional personal background/contributions statement, about 500 words"
+    ],
+    "note": "Recognized bachelor or equivalent; central B-average baseline, but Biology has no fixed numeric GPA cutoff. Broad biology or related science preparation; deficiencies may be remedied. EEB typically commits to lab, MCB rotates through one to three first-year labs. Two semesters teaching required. Interviews February; decisions February/March, responses April."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All admitted students guaranteed at least five years of full stipend on 12-month contracts; full tuition throughout program, health and dental insurance. Current stipend amount not established on opened university pages."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biology.georgetown.edu/phd-program/applicants/",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://grad.georgetown.edu/biology/",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://grad.georgetown.edu/admissions/application-information/",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    }
+  ]
+}

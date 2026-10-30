@@ -1,0 +1,97 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "institution": "Georgia Institute of Technology",
+  "institutionShort": "Georgia Tech",
+  "name": "Biology PhD",
+  "officialUrl": "https://biosciences.gatech.edu/phd-program-biology",
+  "admissionModel": "program",
+  "detailsNote": "Fall 2027 date confirmed. Published stipend increase takes effect January 2027; individual offer and future updates control. School and college waiver wording differs.",
+  "tracks": [
+    "Ecology, Evolution, and Behavior",
+    "Molecular and Cell Biology",
+    "Computational Biology and Bioinformatics"
+  ],
+  "deadlines": [
+    {
+      "label": "Fall 2027 application",
+      "date": "2026-12-01",
+      "time": "23:59",
+      "timezone": "America/New_York"
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Statement of purpose",
+      "Resume",
+      "Three recommendations",
+      "Official-issued transcript scans and degree proof when needed",
+      "Official English evidence unless approved degree route applies"
+    ],
+    "applicationFee": {
+      "amount": 105,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Central recruitment/achievement waivers explicitly possible for complete international applications. School says no waivers, while newer college page invites manager contact; confirm program availability and eligibility before payment."
+    },
+    "english": {
+      "toefl": "100 legacy, each section 19; new 5 overall, Listening/Reading/Writing 4 and Speaking 3.5",
+      "ielts": 7.5,
+      "note": "IELTS Listening/Reading/Speaking at least 6.5, Writing 5.5. No MyBest. Qualifying degree-country or verified English-medium degree may establish proficiency; MOI may be requested. Degree completed before enrollment; documentation at least 30 days before start."
+    },
+    "note": "Four-year US bachelor or equivalent; master unnecessary. First year includes coursework, rotations and teaching. Recommendation letters may arrive later, but all are needed for a decision. Applications reviewed December–February, offers March, responses mid-April."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 38400,
+      "currency": "USD",
+      "period": "year",
+      "year": "effective January 1, 2027"
+    },
+    "note": "GRA/GTA/fellowship support with tuition remission; students pay fees. Newer college page lists Fall 2026 stipend $37,500, rising to $38,400 January 2027, overriding older overview $33,500. No unconditional all-admitted or explicit international guarantee established."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://biosciences.gatech.edu/phd-program-biology",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://gradapp.gatech.edu/portal/program-info?cmd=view-program&program=6774e39d-a990-1050-b23c-6465b8f07577",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://biosciences.gatech.edu/prospective-students",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://sciences.gatech.edu/graduate-studies-biological-sciences",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://grad.gatech.edu/admissions/international/ready-to-apply",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://catalog.gatech.edu/admissions/grad/english-language-proficiency/",
+      "label": "Official program and admission source",
+      "checked": "2026-10-30"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Biophysics PhD",
+  "institution": "University of California, Berkeley",
+  "institutionShort": "UC Berkeley",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://qb3.berkeley.edu/biophysics/",
+  "applyUrl": "https://qb3.berkeley.edu/biophysics/admissions/",
+  "cycle": "fall-2027",
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "90 for June 1, 2025–January 20, 2026 tests; 5 overall with 4.5 Speaking/Writing for tests from January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS Academic/Online: tests from January 21, 2026 also require 6.5 Speaking and Writing. Tests before June 1, 2025 are invalid for Fall 2027. No Duolingo, TOEFL ITP/MyBest, IELTS Indicator or One Test Retake. Exemptions cover qualifying English-country basic degrees, accredited US degrees, or a completed full-time US academic year with B grades; English-medium foreign study alone is insufficient."
+    },
+    "letters": {
+      "min": 3,
+      "max": 5
+    },
+    "documents": [
+      "Unofficial transcripts",
+      "Statement of purpose (two to three pages)",
+      "Personal history statement (one to two pages)"
+    ],
+    "applicationFee": {
+      "amount": 78,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "Program reduced fee: $78 international, $68 US/PR, before central payment processing charges. Limited full waivers explicitly include international applicants with significant financial need: nearly complete the application, submit the separate linked request form by November 19, 2026, before submitting/paying. No retroactive waiver."
+    },
+    "note": "Bachelor’s or equivalent, GPA 3.0 and sufficient relevant preparation. Laboratory experience recommended. Do not upload papers/publications. All materials including letters due by the deadline."
+  },
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-11-30",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "Stipend, registration fees, nonresident tuition and health care for five and a half to six years with satisfactory progress. Admitted international students receive the same support. First year program-funded, later mentor-funded; teaching forms part of support."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Program reports admitting only two to three international students annually because of cost."
+  },
+  "sources": [
+    {
+      "url": "https://qb3.berkeley.edu/biophysics/",
+      "label": "Program identity",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://qb3.berkeley.edu/biophysics/admissions/",
+      "label": "Fall 2027 requirements, waivers and funding",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://qb3.berkeley.edu/biophysics/program/",
+      "label": "Rotations",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "Central degree, English and fee policies",
+      "checked": "2026-10-30"
+    }
+  ],
+  "lastChecked": "2026-10-30",
+  "timeline": {
+    "interviews": "Spring 2027; dates to be determined."
+  }
+}

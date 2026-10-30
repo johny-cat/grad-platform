@@ -1,0 +1,82 @@
+{
+  "name": "Biology PhD",
+  "institution": "University of Virginia",
+  "institutionShort": "UVA",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://bio.as.virginia.edu/degree-programs",
+  "applyUrl": "https://bio.as.virginia.edu/how-apply-graduate-program",
+  "lastChecked": "2026-10-30",
+  "admissionModel": "program",
+  "summary": "Biology doctoral programme with first-year laboratory rotations before adviser selection; separate from UVA Biomedical Sciences.",
+  "detailsNote": "Department gives an annual October 1–December 1 application window without confirming an entry year. Older official stipend retained with its academic year; no Fall 2027 stipend inferred.",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application and recommendations",
+      "dateText": "December 1st",
+      "note": "Annual deadline; application window October 1st–December 1st, fall-only. No unstated year assigned."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 85,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International need-based waiver automatically applies only to citizenships on the UN least-developed-country list. Other listed organizational affiliations may qualify separately. This is not an unrestricted international hardship waiver; confirm your eligible category. GSAS says it does not provide waiver codes."
+    },
+    "english": {
+      "toefl": "90 before 1/21/26: Speaking22/Writing22/Reading23/Listening23; 4.5 after 1/21/26: S4/W4.5/R4.5/L5",
+      "ielts": 7,
+      "duolingo": 130,
+      "note": "IELTS 7 in EACH section. DET: S125/W130/R130/L125. Published before/after TOEFL dates do not specify test exactly January 21; confirm boundary. Scores within two years to deadline; committees may still consider lower scores. English-medium entire undergraduate degree may waive with evidence; alternative proof(including English-medium master, expired scores, teaching/thesis evidence) discretionary. Official scores required only on matriculation; send before expiry if before July. Additional UVELPE/TA English rules apply."
+    },
+    "documents": [
+      "500–1000-word statement: preparation, research interests/goals and prospective faculty",
+      "Unofficial complete postsecondary transcripts, English translations where needed"
+    ],
+    "note": "Central expects undergraduate GPA 3.0; Biology references should be academic/proposed-field, with at least one graduate-level academic reference if previously undertaking graduate study. Letters due by December 1. Master-applicant sponsor rule is not imposed on doctoral applicants."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "unknown",
+    "stipend": {
+      "amount": 39140,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–27"
+    },
+    "note": "Biology PhD support guaranteed five years conditional on satisfactory progress/rules: tuition, academic fees, single health premium and living support through fellowships/TA/RA. Programme text does not explicitly state international eligibility; no such separate guarantee inferred. Published rate is 2026–27, notFall 2027."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://bio.as.virginia.edu/degree-programs",
+      "label": "Doctoral identity and rotation/adviser sequence",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://bio.as.virginia.edu/how-apply-graduate-program",
+      "label": "Annual deadline and detailed programme requirements",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://graduate.as.virginia.edu/requirements",
+      "label": "Central GRE, English, GPA, fee and conditional waiver",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://bio.as.virginia.edu/financial-support-graduate-students",
+      "label": "Five-year support and2026–27stipend",
+      "checked": "2026-10-30"
+    }
+  ]
+}

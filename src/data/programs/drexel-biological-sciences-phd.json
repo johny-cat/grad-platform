@@ -1,0 +1,74 @@
+{
+  "name": "Biological Sciences PhD",
+  "institution": "Drexel University",
+  "institutionShort": "Drexel",
+  "country": "US",
+  "location": "Philadelphia, Pennsylvania",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "officialUrl": "https://drexel.edu/coas/academics/graduate-programs/biological-sciences/doctorate/",
+  "applyUrl": "https://drexel.edu/academics/grad-professional-programs/coas/biological-sciences",
+  "lastChecked": "2026-10-30",
+  "admissionModel": "program",
+  "summary": "Biological sciences doctorate with first-year rotations for students who are not directly recruited into a faculty laboratory.",
+  "detailsNote": "Official fall deadline is annual and undated. Rotation and direct-laboratory recruitment routes coexist; no universal advance mentor requirement inferred.",
+  "publishedDeadlines": [
+    {
+      "label": "Domestic and international fall application",
+      "dateText": "December 1",
+      "note": "Month/day only; no Spring/Summer intake and no confirmed Fall 2027 countdown."
+    }
+  ],
+  "requirements": {
+    "gre": "not-required",
+    "letters": {
+      "min": 2
+    },
+    "applicationFee": {
+      "amount": 65,
+      "currency": "USD",
+      "waiver": "unknown",
+      "note": "No fee waiver confirmed on opened programme/central sources."
+    },
+    "english": {
+      "toefl": "100 iBT  / 600 paper  / 250 computer (published legacy scales)",
+      "ielts": 7,
+      "duolingo": 110,
+      "note": "PTE 68. Programme lists waiver possibility but does not establish its criteria on opened profile. No new TOEFL-scale conversion inferred; confirm current scale and exemption with admissions."
+    },
+    "documents": [
+      "Official transcripts from all attended institutions, including degree conferral",
+      "Original-language records and institution/ATA-certified word-for-word English translations",
+      "Approximately 500-word statement with research interests and prospective Biology faculty names",
+      "Resume/CV"
+    ],
+    "note": "Bachelor or master entrants accepted. Transcript evaluation required if only one lifetime transcript issued, and may be required case-by-case for any international applicant, at applicant expense. International graduates must provide graduation certificates. Two academic or supervisory references. General central GPA guidance remains typical, not a programme-specific cutoff."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://drexel.edu/coas/academics/graduate-programs/biological-sciences/doctorate/",
+      "label": "Degree, annual deadline and mixed admission routes",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://drexel.edu/academics/grad-professional-programs/coas/biological-sciences",
+      "label": "Programme admissions profile and English thresholds",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://catalog.drexel.edu/graduate/collegeofartsandsciences/biologicalsciencesphd/",
+      "label": "Official doctoral catalog",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://drexel.edu/admissions/apply/grad-instructions",
+      "label": "General application rules",
+      "checked": "2026-10-30"
+    }
+  ]
+}

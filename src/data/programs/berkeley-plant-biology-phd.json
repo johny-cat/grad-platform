@@ -1,0 +1,84 @@
+{
+  "name": "Plant Biology PhD",
+  "institution": "University of California, Berkeley",
+  "institutionShort": "UC Berkeley",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "officialUrl": "https://plantandmicrobiology.berkeley.edu/graduate-programs/plant-biology",
+  "applyUrl": "https://plantandmicrobiology.berkeley.edu/graduate-programs/application-requirements",
+  "cycle": "fall-2027",
+  "admissionModel": "program",
+  "requirements": {
+    "gre": "not-accepted",
+    "english": {
+      "toefl": "90 for June 1, 2025–January 20, 2026 tests; 5 overall with 4.5 Speaking/Writing for tests from January 21, 2026",
+      "ielts": 7,
+      "note": "IELTS Academic/Online: tests from January 21, 2026 also require 6.5 Speaking and Writing. Tests before June 1, 2025 are invalid for Fall 2027. No Duolingo, TOEFL ITP/MyBest, IELTS Indicator or One Test Retake. Exemptions cover qualifying English-country basic degrees, accredited US degrees, or a completed full-time US academic year with B grades; English-medium foreign study alone is insufficient."
+    },
+    "letters": {
+      "min": 3,
+      "max": 3
+    },
+    "documents": [
+      "Statement of purpose (one to two pages)",
+      "Personal statement (one to two pages)",
+      "Unofficial transcripts",
+      "Resume/CV"
+    ],
+    "applicationFee": {
+      "amount": 155,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "US citizens/permanent residents pay $135; central policy adds 4.22% processing. Financial-need waivers are limited to US citizens/permanent residents."
+    },
+    "note": "Bachelor’s equivalent, normally GPA 3.0 under central policy. At least two letters must be from science faculty familiar with scholarly/research abilities; late/additional letters not accepted. Upload original non-English records with translations. Only one Berkeley program per term; Plant Biology and Microbiology are separate choices."
+  },
+  "deadlines": [
+    {
+      "label": "Fall 2027 application deadline",
+      "date": "2026-11-16",
+      "time": "20:59",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "stipend": {
+      "amount": 52000,
+      "currency": "USD",
+      "period": "year",
+      "year": "2026–2027 estimated"
+    },
+    "note": "All admitted students receive five years of funding, tuition and fees contingent on satisfactory progress. The approximately $52,000 estimate is for 2026–2027, not confirmed Fall 2027."
+  },
+  "international": {
+    "accepted": "yes",
+    "note": "Department generally admits one international student per program per year; outside-fellowship holders may be considered with domestic applicants."
+  },
+  "sources": [
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/plant-biology",
+      "label": "Program identity and laboratory rotations",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/application-requirements",
+      "label": "Application materials and separate degree choices",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://plantandmicrobiology.berkeley.edu/graduate-programs/frequently-asked-questions",
+      "label": "Deadline, support and international admissions",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "label": "Central degree, English and fees",
+      "checked": "2026-10-30"
+    }
+  ],
+  "lastChecked": "2026-10-30"
+}

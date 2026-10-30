@@ -1,0 +1,80 @@
+{
+  "name": "Organismic and Evolutionary Biology PhD",
+  "institution": "University of Massachusetts Amherst",
+  "institutionShort": "UMass Amherst",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed.",
+  "officialUrl": "https://www.umass.edu/organismic-evolutionary/",
+  "applyUrl": "https://www.umass.edu/organismic-evolutionary/admissions",
+  "admissionModel": "lab",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Fall application deadline",
+      "dateText": "December 1",
+      "note": "Annual undated deadline for entry the following September; no spring admission."
+    }
+  ],
+  "timeline": {
+    "decisions": "Most decisions completed by March (annual, undated)."
+  },
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Personal statement",
+      "CV",
+      "Undergraduate and graduate transcripts",
+      "Graduate admissions short essay (maximum 600 words)"
+    ],
+    "applicationFee": {
+      "amount": 90,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "OEB explicitly offers a limited number of waivers to low-income, international or underrepresented applicants who cannot afford the fee. Apply without paying, then contact the program leader named on the admissions page; approval is not guaranteed."
+    },
+    "english": {
+      "toefl": "4 for January 2026 or later tests; 80 for earlier tests",
+      "ielts": 6.5,
+      "duolingo": 115,
+      "note": "IELTS Academic and PTE Academic 53 accepted. Scores valid two years at anticipated entrance. No MyBest, IELTS Indicator/One Skill Retake, TOEFL Essentials or ITP Plus. Exemptions cover listed citizenships/country degrees, named institutions, qualifying US study, or ECFMG certification; English-medium education alone is not a general exemption."
+    },
+    "note": "A faculty sponsor and prior agreement on fit are required; life-science or biological-data training and strong academic background. Central bachelor’s equivalence and minimum undergraduate GPA 2.75 apply. OEB requests official transcripts; central policy accepts unofficial records initially and official records after recommendation. Non-English records need official translations or a NACES course-by-course evaluation."
+  },
+  "funding": {
+    "allFunded": true,
+    "coversInternational": "yes",
+    "note": "All PhD students normally receive five years of year-round support. Assistantships include tuition/curriculum credits, insurance and most fees, with approximately $750 per semester remaining. Direct admission normally has no rotations; some first-year fellowships require rotations."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://www.umass.edu/organismic-evolutionary/",
+      "label": "Program identity and research areas",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.umass.edu/organismic-evolutionary/admissions",
+      "label": "Admission, sponsor, deadline, waiver and support",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.umass.edu/graduate/apply/how-apply",
+      "label": "Central application and fee",
+      "checked": "2026-10-30"
+    },
+    {
+      "url": "https://www.umass.edu/graduate/apply/international-applicants",
+      "label": "English and foreign degree requirements",
+      "checked": "2026-10-30"
+    }
+  ],
+  "lastChecked": "2026-10-30"
+}

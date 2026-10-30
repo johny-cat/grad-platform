@@ -1,0 +1,7 @@
+# Biology PhD (Boston)
+
+Checked 2026-10-30. Concise exact anchors and official-section paraphrases.
+
+https://catalog.northeastern.edu/graduate/science/biology/biology-phd/ — 2026–27 catalog Biology PhD Boston identity, core and specialized research curriculum. Exact anchor: “Biology, PhD (Boston)”.
+https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/ — Prerequisites/Materials/PhD Deadlines: bachelor/equivalent or qualifying prior degree; PhD $100, three letters, personal statement, CV, all-institution unofficial transcripts for review and official degree records/translation for enrollment. Biology GRE General not required. English US or sole-English instruction degree earned/in-progress, or TOEFL/IELTS/PTE/DET within2years; unofficial review/verified by entry. No Biology-specific minimum shown. PhD fall only Dec1 priority/March15 rolling conditional places. Exact anchor: “Priority deadline for completed applications: December 1”.
+https://cos.northeastern.edu/connected-science-community-and-biology-phd-program/ — Biology programme funding paragraph: tuition scholarship, graduate-assistant stipend and health insurance during programme. Programme Details explicitly excludes rolling admissions and gives December1, overriding generic college rolling dates. Listed GPA3 concerns programme completion, not assumed admission cutoff. International eligibility not separately distinguished; no amount inferred. Exact anchor: “For the duration of their program”.

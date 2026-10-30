@@ -1,0 +1,83 @@
+{
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "cycle": "fall-2027",
+  "details": "checked",
+  "lastChecked": "2026-10-30",
+  "name": "Integrative Biology and Physiology PhD",
+  "institution": "University of Minnesota",
+  "institutionShort": "Minnesota",
+  "officialUrl": "https://med.umn.edu/physiology/education-training/PhD-program",
+  "applyUrl": "https://choose.umn.edu/apply/",
+  "summary": "Research PhD in integrative biology and physiology.",
+  "detailsNote": "Official available requirements. December 1 is published without a year; Fall 2027 deadline not confirmed. Funding amounts have no stated academic year unless noted; confirm offer. Admission model omitted unless directly established.",
+  "requirements": {
+    "gre": "not-accepted",
+    "letters": {
+      "min": 3
+    },
+    "english": {
+      "toefl": "79 with W21/R19 before January 21, 2026; 4.5 total/W/R on or after",
+      "ielts": 6.5,
+      "duolingo": 120,
+      "note": "IELTS reading/writing 6.5; Fall 2027 DET total/reading/writing 120. Scores within two years of start. Twin Cities does not accept TOEFL MyBest; IELTS One Skill Retake is not accepted. Education exemption: secondary school in US/listed country, or 16 semester/24 quarter non-ESL postsecondary credits completed within past two years while living in US/listed country. Program may require higher scores."
+    },
+    "applicationFee": {
+      "amount": 95,
+      "currency": "USD",
+      "waiver": "domestic-only",
+      "note": "US citizen/PR $75, international $95; nonrefundable. Central office does not waive fees. GSDO conditional route: US citizen/PR seeking first graduate degree with qualifying listed participation; request before submission/payment. Medical School may offer limited domestic waivers; confirm program procedure."
+    },
+    "documents": [
+      "Transcript",
+      "CV/resume",
+      "Personal statement",
+      "Three recommendations",
+      "English evidence if applicable",
+      "Diversity statement and research description (optional, but described as expected)"
+    ],
+    "note": "Undergraduate degree, including one year calculus, physics and biology, two years chemistry; exceptions possible by contact. GRE not required/expected and not evaluated. Fall PhD only; no MS. Personal statement covers research experience, technical skills, challenges and fit; faculty contact optional."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "Undated offer description: $37,481/year ($36.04/hour), full tuition, health/dental benefits and many fees. Most students apply for independent support in second/third year. Confirm written duration and international terms."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://med.umn.edu/physiology/education-training/PhD-program",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — PhD program"
+    },
+    {
+      "url": "https://med.umn.edu/physiology/education-training/graduate-program/application",
+      "checked": "2026-10-30",
+      "label": "Official source: med.umn.edu — application"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    },
+    {
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "checked": "2026-10-30",
+      "label": "Official program/admissions source"
+    }
+  ],
+  "publishedDeadlines": [
+    {
+      "label": "Fall application/funding priority",
+      "dateText": "December 1",
+      "note": "Undated annual deadline; confirm cycle."
+    }
+  ]
+}

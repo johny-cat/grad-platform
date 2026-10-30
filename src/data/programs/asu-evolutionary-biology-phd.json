@@ -1,0 +1,79 @@
+{
+  "name": "Evolutionary Biology PhD",
+  "institution": "Arizona State University",
+  "institutionShort": "ASU",
+  "country": "US",
+  "degree": "phd",
+  "field": "biology",
+  "details": "checked",
+  "detailsNote": "Official information available; Fall 2027 dates not confirmed. November 15 is published without a year. Faculty contact is recommended, not required; a rotation or direct-lab admission model was not established. Funding language differs between school FAQ and individual program pages; confirm the written offer.",
+  "summary": "Research PhD in evolutionary biology through ASU School of Life Sciences.",
+  "officialUrl": "https://sols.asu.edu/node/9860",
+  "applyUrl": "https://admission.asu.edu/apply/graduate/admission",
+  "cycle": "fall-2027",
+  "publishedDeadlines": [
+    {
+      "label": "Fall final deadline",
+      "dateText": "November 15",
+      "note": "Undated annual deadline; all application materials due. Not confirmed for Fall 2027."
+    }
+  ],
+  "requirements": {
+    "gre": "optional",
+    "letters": {
+      "min": 3
+    },
+    "documents": [
+      "Graduate application",
+      "Academic record form",
+      "Transcripts",
+      "Personal statement",
+      "CV or resume",
+      "Three recommendations",
+      "English proficiency evidence if applicable"
+    ],
+    "english": {
+      "toefl": "80 before January 21, 2026; 4 on or after January 21, 2026",
+      "ielts": 6.5,
+      "duolingo": 105,
+      "note": "PTE 60 also accepted. IELTS Academic, Online, UKVI and Indicator; General Training not accepted. PTE Academic Online not accepted. Scores no more than two years old at start. TOEFL testing-center accepted; Home Edition accepted for exams on/after January 21, 2026; Paper Edition excluded. Higher TA certification scores apply. Automatic exemptions: US citizen/permanent resident or citizen of a listed English-speaking country. After application, form routes include English-only bachelor or higher (institution letter or website), US degree, recognized degree in a listed country, nine qualifying graduate credits at GPA 3, 90 US undergraduate credits at GPA 3, or four years US high school with English courses. Allow 72 hours before requesting review."
+    },
+    "applicationFee": {
+      "amount": 120,
+      "currency": "USD",
+      "waiver": "available",
+      "note": "International in-person/nonimmigrant visa fee $120; domestic categories and international online study outside US $75. SOLS cannot waive the fee, but an interested faculty member may pay it on an applicant’s behalf. Contact a potential adviser sharing research interests first; payment is discretionary. No citizenship restriction is stated for this route; international applicants should confirm eligibility."
+    },
+    "note": "Bachelor or master in a related discipline; GPA 3 in last 60 bachelor credits or applicable master. School FAQ allows holistic consideration below 3 and alternate fields. Research experience desired. School application instructions request 1–2 page personal statement, CV, names of relevant faculty contacted, unofficial transcripts and English scores, and at least three recommenders; formal degree list additionally specifies academic record form and official transcripts. GRE not required but scores may be submitted. Prior adviser agreement is not required; faculty contact strongly recommended."
+  },
+  "funding": {
+    "coversInternational": "unknown",
+    "note": "SOLS FAQ guarantees five years of assistantship stipends, tuition coverage and health insurance for PhD students; students pay additional student/program fees. Individual SOLS PhD pages describe typical funding offers, not a universal promise: TA/RA each semester for five years, summer optional, stipend, tuition remission for 6–18 fall/spring and 1–14 summer credits, health insurance. Confirm offer and international eligibility."
+  },
+  "international": {
+    "accepted": "yes"
+  },
+  "sources": [
+    {
+      "url": "https://sols.asu.edu/node/9860",
+      "checked": "2026-10-29",
+      "label": "Official source: sols.asu.edu — 9860"
+    },
+    {
+      "url": "https://admission.asu.edu/apply/graduate/admission",
+      "checked": "2026-10-29",
+      "label": "ASU: Graduate admission"
+    },
+    {
+      "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency",
+      "checked": "2026-10-29",
+      "label": "ASU: English proficiency for international graduate applicants"
+    },
+    {
+      "url": "https://sols.asu.edu/admission/graduate/faq",
+      "checked": "2026-10-29",
+      "label": "Official source: sols.asu.edu — faq"
+    }
+  ],
+  "lastChecked": "2026-10-29"
+}
