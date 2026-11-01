@@ -2,6 +2,16 @@
 
 Newest first. Each entry: what we decided and why.
 
+## 2026-11-02
+
+- **The site runs on US Eastern time.** "Today", countdowns and when a
+  deadline drops off follow the date in New York, wherever the visitor is
+  (`SITE_TIMEZONE` in `src/config.ts`). Junaid: applicants target US
+  programs. Eastern is the earliest mainland US clock, so a deadline never
+  looks open after it has closed; deadlines with a stated time and zone still
+  count down to that exact moment, and visitors still see it in their own
+  time. The report form keeps the visitor's own date for "when did you hear".
+
 ## 2026-10-31
 
 - **Calendar reminders.** Each deadline on a program page has a small

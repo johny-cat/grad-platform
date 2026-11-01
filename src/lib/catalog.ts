@@ -3,6 +3,7 @@
  */
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { ProgramSummary } from './types';
+import { todayIso } from './time';
 
 export type Program = CollectionEntry<'programs'>;
 export type Deadline = Program['data']['deadlines'][number];
@@ -87,7 +88,7 @@ export function estimatedDeadlines(program: Program): EstimatedDeadline[] {
 }
 
 /** The next estimated date that hasn't passed when the site is built (else the last one). */
-export function estimatedDeadline(program: Program, today: string = new Date().toISOString().slice(0, 10)): EstimatedDeadline | undefined {
+export function estimatedDeadline(program: Program, today: string = todayIso()): EstimatedDeadline | undefined {
   const all = estimatedDeadlines(program);
   return all.find((e) => e.date >= today) ?? all.at(-1);
 }
