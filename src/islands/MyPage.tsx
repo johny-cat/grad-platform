@@ -123,6 +123,53 @@ export default function MyPage({ programs, cycleId, cycleLabel }: Props) {
     }
   }
 
+  const [calendarBusy, setCalendarBusy] = useState(false);
+
+  /**
+   * One calendar file with the deadlines of every followed program: the
+   * events from each program's own calendar file (/programs/<id>/deadlines.ics),
+   * fetched only when asked, so this page stays light.
+   */
+  async function downloadCalendar() {
+    setCalendarBusy(true);
+    setError(null);
+    try {
+      const files = await Promise.all(
+        (follows ?? []).map((f) =>
+          fetch(`/programs/${f.program_slug}/deadlines.ics`).then((r) => (r.ok ? r.text() : '')),
+        ),
+      );
+      const events = files.flatMap((text) => text.match(/BEGIN:VEVENT[\s\S]*?END:VEVENT/g) ?? []);
+      if (events.length === 0) {
+        setError("None of the programs you follow has a published deadline yet.");
+        return;
+      }
+      const ics = [
+        'BEGIN:VCALENDAR',
+        'VERSION:2.0',
+        'PRODID:-//HeardYet//Deadlines//EN',
+        'CALSCALE:GREGORIAN',
+        'METHOD:PUBLISH',
+        'X-WR-CALNAME:My grad school deadlines',
+        ...events,
+        'END:VCALENDAR',
+        '',
+      ].join('\r\n');
+      const url = URL.createObjectURL(new Blob([ics], { type: 'text/calendar;charset=utf-8' }));
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'my-deadlines.ics';
+      document.body.append(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+    } catch {
+      setError('Could not make the calendar file. Check your connection and try again.');
+    } finally {
+      setCalendarBusy(false);
+    }
+  }
+
   const label = (slug: string) => {
     const p = byslug.get(slug);
     return p ? programLabel(p.short, p.name) : slug;
@@ -198,6 +245,21 @@ export default function MyPage({ programs, cycleId, cycleLabel }: Props) {
               <a class="btn btn--small" href="/programs/">
                 Find your programs
               </a>
+            </p>
+          </div>
+        )}
+        {follows && follows.length > 0 && (
+          <div class="add-calendar">
+            <p class="add-calendar__title">Add my deadlines to my calendar</p>
+            <p class="small muted">
+              One file with the deadlines of the programs you follow, with reminders 7 days and 1 day before. Open it on your phone or computer to add it to Apple
+              Calendar or Outlook. For Google Calendar on a computer: Settings, Import & export, then choose the file.
+              Follow more programs later? Download it again; it updates the same events instead of adding copies.
+            </p>
+            <p>
+              <button type="button" class="btn btn--small" onClick={downloadCalendar} disabled={calendarBusy}>
+                {calendarBusy ? 'Preparing…' : 'Download my deadlines (.ics)'}
+              </button>
             </p>
           </div>
         )}

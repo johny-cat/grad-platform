@@ -1701,3 +1701,25 @@ textarea::placeholder {
 .upcoming__today {
   margin: 0 0 10px;
 }
+
+/* ---------- Add to calendar ---------- */
+
+.add-calendar {
+  margin: 18px 0;
+  padding: 14px 16px;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-m);
+  background: var(--surface);
+}
+
+.add-calendar__title {
+  margin: 0 0 2px;
+  font-weight: 800;
+}
+
+.add-calendar__links {
+  margin: 8px 0 0;
+  padding-left: 1.1em;
+  display: grid;
+  gap: 6px;
+}

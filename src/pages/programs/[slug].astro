@@ -5,6 +5,7 @@ import ProgramActions from '../../islands/ProgramActions';
 import ProgramResults from '../../islands/ProgramResults';
 import CommunityBoard from '../../islands/CommunityBoard';
 import {
+  allDeadlines,
   GRE_LABELS,
   INTERNATIONAL_FUNDING_LABELS,
   WAIVER_LABELS,
@@ -16,6 +17,8 @@ import {
   type Program,
 } from '../../lib/catalog';
 import { CURRENT_CYCLE } from '../../config';
+import { googleCalendarLink } from '../../lib/calendar';
+import { programLabel } from '../../lib/labels';
 import { formatClock, formatLongDate, formatShortDate, formatShortDateYear, zoneName } from '../../lib/time';
 
 export async function getStaticPaths() {
@@ -28,6 +31,17 @@ interface Props {
 }
 
 const { program } = Astro.props;
+// Deadlines for "Add to your calendar" (confirmed, plus dates whose year isn't confirmed).
+const calendarLabel = programLabel(program.data.institutionShort ?? program.data.institution, program.data.name);
+const calendarDeadlines = allDeadlines([program]).map((d) => ({
+  programId: program.id,
+  programLabel: calendarLabel,
+  date: d.date,
+  label: d.label,
+  time: d.time,
+  timezone: d.timezone,
+  estimated: d.estimated,
+}));
 const d = program.data;
 const pending = isPending(program);
 const r = d.requirements;
@@ -129,6 +143,31 @@ const unknown = 'Not stated on official pages';
             </div>
           ))}
           {!pending && d.deadlines.length === 0 && d.publishedDeadlines.length === 0 && <p class="muted">Deadline not stated on official pages.</p>}
+
+          {
+            calendarDeadlines.length > 0 && (
+              <div class="add-calendar">
+                <p class="add-calendar__title">Add to your calendar</p>
+                <p class="small muted">
+                  The file adds reminders 7 days and 1 day before. Google Calendar links use your usual reminder.
+                </p>
+                <ul class="add-calendar__links">
+                  {calendarDeadlines.map((c) => (
+                    <li>
+                      <a href={googleCalendarLink(c)}>
+                        {`Google Calendar: ${c.label} (${formatShortDate(c.date)}${c.estimated ? ', year not confirmed' : ''})`}
+                      </a>
+                    </li>
+                  ))}
+                  <li>
+                    <a href={`/programs/${program.id}/deadlines.ics`} download={`${program.id}-deadlines.ics`}>
+                      Apple Calendar, Outlook or other apps (.ics file)
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            )
+          }
 
           <div style="margin-top:18px">
             <ProgramActions client:only="preact" slug={program.id} cycleId={cycle.id}>
