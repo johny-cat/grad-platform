@@ -1237,8 +1237,35 @@ textarea::placeholder {
 }
 
 .deadline-box {
+  position: relative;
   display: grid;
   gap: 4px;
+  padding-right: 48px;
+}
+
+/* Calendar icon in the corner of a deadline: adds it to the visitor's calendar. */
+.cal-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: inline-grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-s);
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.cal-btn:hover {
+  border-color: var(--rule-strong);
+}
+
+.deadline-box + .deadline-box .cal-btn {
+  top: 14px;
 }
 
 .pending-note p {
@@ -1702,24 +1729,12 @@ textarea::placeholder {
   margin: 0 0 10px;
 }
 
-/* ---------- Add to calendar ---------- */
+/* ---------- Add to calendar (My programs) ---------- */
 
-.add-calendar {
-  margin: 18px 0;
-  padding: 14px 16px;
-  border: 1px solid var(--rule);
-  border-radius: var(--radius-m);
-  background: var(--surface);
-}
-
-.add-calendar__title {
-  margin: 0 0 2px;
-  font-weight: 800;
-}
-
-.add-calendar__links {
-  margin: 8px 0 0;
-  padding-left: 1.1em;
-  display: grid;
-  gap: 6px;
+.calendar-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 10px;
+  margin: 0 0 12px;
 }

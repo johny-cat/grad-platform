@@ -249,19 +249,17 @@ export default function MyPage({ programs, cycleId, cycleLabel }: Props) {
           </div>
         )}
         {follows && follows.length > 0 && (
-          <div class="add-calendar">
-            <p class="add-calendar__title">Add my deadlines to my calendar</p>
-            <p class="small muted">
-              One file with the deadlines of the programs you follow, with reminders 7 days and 1 day before. Open it on your phone or computer to add it to Apple
-              Calendar or Outlook. For Google Calendar on a computer: Settings, Import & export, then choose the file.
-              Follow more programs later? Download it again; it updates the same events instead of adding copies.
-            </p>
-            <p>
-              <button type="button" class="btn btn--small" onClick={downloadCalendar} disabled={calendarBusy}>
-                {calendarBusy ? 'Preparing…' : 'Download my deadlines (.ics)'}
-              </button>
-            </p>
-          </div>
+          <p class="calendar-line small">
+            <button
+              type="button"
+              class="btn btn--small btn--quiet"
+              onClick={downloadCalendar}
+              disabled={calendarBusy}
+              title="One calendar file with your programs' deadlines and reminders 7 days and 1 day before. For Google Calendar on a computer: Settings, Import & export."
+            >
+              {calendarBusy ? 'Preparing…' : 'Add my deadlines to my calendar'}
+            </button>
+          </p>
         )}
         {follows && follows.length > 0 && (
           <ul class="program-list">

@@ -1,0 +1,25 @@
+---
+/**
+ * A small calendar icon that adds one deadline to the visitor's calendar.
+ * The browser decides how (src/scripts/add-to-calendar.ts): Google Calendar
+ * on Android and Chromebooks, a calendar file (Apple Calendar, Outlook) on
+ * iPhone, Mac and Windows.
+ */
+import type { CalendarDeadline } from '../lib/calendar';
+import { formatShortDate } from '../lib/time';
+
+interface Props {
+  deadline: CalendarDeadline;
+}
+
+const { deadline } = Astro.props;
+const name = `Add ${deadline.label}, ${formatShortDate(deadline.date)}${deadline.estimated ? ' (year not confirmed)' : ''}, to your calendar`;
+---
+
+<button type="button" class="cal-btn" data-calendar={JSON.stringify(deadline)} aria-label={name} title="Add to calendar">
+  <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+    <rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"></rect>
+    <path d="M3.5 9.5h17M8 3v4M16 3v4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
+    <path d="M12 12.2v5.6M9.2 15h5.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
+  </svg>
+</button>
