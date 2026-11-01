@@ -84,3 +84,13 @@ export const TURNSTILE_SITE_KEY = '0x4AAAAAAFkAnv8AZVEWAUgd';
 
 /** Contact address shown on the site for corrections and safety reports. */
 export const CONTACT_EMAIL = '';
+
+/**
+ * The site runs on US Eastern time: "today", countdowns and when a date-only
+ * deadline drops off all follow the date in New York, wherever the visitor is
+ * (Junaid, 2026-11-02: applicants target US programs, whose deadlines are in
+ * US time). Eastern is the earliest mainland US clock, so a deadline never
+ * looks open after it has closed. Deadlines that state their own time and
+ * zone still count down to that exact moment.
+ */
+export const SITE_TIMEZONE = 'America/New_York';

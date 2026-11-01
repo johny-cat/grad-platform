@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'preact/hooks';
 import { isConnected, isDemo, submitResult } from '../lib/api';
 import { ensureSession } from '../lib/session';
-import { todayIso } from '../lib/time';
+import { localTodayIso } from '../lib/time';
 import {
   APPLICANT_LABELS,
   CHANNEL_LABELS,
@@ -22,7 +22,7 @@ interface Props {
 const NOTE_LIMIT = 500;
 
 export default function ReportForm({ programs, cycleId, cycleLabel }: Props) {
-  const today = todayIso();
+  const today = localTodayIso();
   const sorted = useMemo(
     () => [...programs].sort((a, b) => a.short.localeCompare(b.short) || a.name.localeCompare(b.name)),
     [programs],

@@ -5,6 +5,8 @@
 
 export const DAY_MS = 86_400_000;
 
+import { SITE_TIMEZONE } from '../config';
+
 const pad = (n: number) => String(n).padStart(2, '0');
 
 /** 'YYYY-MM-DD' -> milliseconds at UTC midnight (for calendar maths only). */
@@ -29,10 +31,17 @@ export function isoDateIn(instant: Date, timeZone?: string): string {
 }
 
 /**
- * Today's date for the person viewing the page. Preview builds can pretend
- * it is another day (PUBLIC_DEMO_TODAY) so sample data looks realistic.
+ * Today's date on the site: the date in US Eastern time (SITE_TIMEZONE),
+ * wherever the visitor is. Preview builds can pretend it is another day
+ * (PUBLIC_DEMO_TODAY) so sample data looks realistic.
  */
 export function todayIso(): string {
+  const demoToday = import.meta.env.PUBLIC_DEMO === '1' ? import.meta.env.PUBLIC_DEMO_TODAY : undefined;
+  return demoToday || isoDateIn(new Date(), SITE_TIMEZONE);
+}
+
+/** Today's date where the visitor is (for dates they enter, like when they heard back). */
+export function localTodayIso(): string {
   const demoToday = import.meta.env.PUBLIC_DEMO === '1' ? import.meta.env.PUBLIC_DEMO_TODAY : undefined;
   return demoToday || isoDateIn(new Date());
 }
