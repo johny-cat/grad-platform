@@ -91,6 +91,39 @@ export function estimatedDeadline(program: Program, today: string = new Date().t
   return all.find((e) => e.date >= today) ?? all.at(-1);
 }
 
+/** One deadline in a "coming up" list: confirmed, or estimated (year not confirmed). */
+export interface UpcomingDeadline {
+  program: Program;
+  date: string;
+  time?: string;
+  timezone?: string;
+  label: string;
+  estimated: boolean;
+}
+
+/** Every deadline this season, confirmed and estimated, soonest first. */
+export function allDeadlines(programs: Program[]): UpcomingDeadline[] {
+  return programs
+    .flatMap((program) => [
+      ...program.data.deadlines.map((d) => ({
+        program,
+        date: d.date,
+        time: d.time,
+        timezone: d.timezone,
+        label: d.label,
+        estimated: false,
+      })),
+      ...estimatedDeadlines(program).map((e) => ({ program, date: e.date, label: e.label, estimated: true })),
+    ])
+    .sort(
+      (a, b) =>
+        a.date.localeCompare(b.date) ||
+        Number(a.estimated) - Number(b.estimated) ||
+        sortName(a.program).localeCompare(sortName(b.program)) ||
+        a.program.data.name.localeCompare(b.program.data.name),
+    );
+}
+
 /** The date a program sorts by: its confirmed deadline, else its estimated one. */
 function sortDate(program: Program): string {
   return firstDeadline(program)?.date ?? estimatedDeadline(program)?.date ?? '9999-12-31';

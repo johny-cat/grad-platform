@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import SeasonStrip from '../components/SeasonStrip';
 import LatestResults from '../islands/LatestResults';
-import { estimatedDeadlines, getPrograms, shortName } from '../lib/catalog';
+import { allDeadlines, getPrograms, shortName } from '../lib/catalog';
 import { COMMUNITY_NAME, CURRENT_CYCLE, SITE_TAGLINE } from '../config';
 import { formatShortDate } from '../lib/time';
 import { programLabel } from '../lib/labels';
@@ -13,18 +13,7 @@ const deadlines = programs
   .sort((a, b) => a.deadline.date.localeCompare(b.deadline.date));
 // Confirmed deadlines plus estimated ones (an official date whose year isn't
 // confirmed for this season), each estimated one labelled as such.
-const upcoming = [
-  ...deadlines.map(({ program, deadline }) => ({
-    program,
-    date: deadline.date,
-    time: deadline.time,
-    timezone: deadline.timezone,
-    estimated: false,
-  })),
-  ...programs.flatMap((program) =>
-    estimatedDeadlines(program).map((e) => ({ program, date: e.date, time: undefined, timezone: undefined, estimated: true })),
-  ),
-].sort((a, b) => a.date.localeCompare(b.date) || Number(a.estimated) - Number(b.estimated));
+const upcoming = allDeadlines(programs);
 const labels = Object.fromEntries(programs.map((p) => [p.id, programLabel(shortName(p), p.data.name)]));
 const cycle = CURRENT_CYCLE;
 const first = deadlines[0]?.deadline.date;
@@ -79,9 +68,10 @@ const timelineLabel =
   <section class="section wrap" aria-labelledby="soon">
     <div class="section__head">
       <h2 id="soon">Deadlines coming up</h2>
-      <a href="/programs/">All programs</a>
+      <a href="/deadlines/">See all deadlines</a>
     </div>
-    <ol class="upcoming" id="upcoming" data-upcoming data-limit="5">
+    <p class="upcoming__today" id="closing-today" hidden></p>
+    <ol class="upcoming" id="upcoming" data-upcoming data-limit="8">
       {
         upcoming.map(({ program, date, time, timezone, estimated }) => (
           <li
@@ -107,6 +97,7 @@ const timelineLabel =
     <p class="muted" data-upcoming-empty="upcoming" hidden>
       No deadlines left this season. We add programs all the time.
     </p>
+    <p class="small" style="margin-top:12px"><a href="/deadlines/">See every deadline, day by day</a></p>
   </section>
 
   <section class="section wrap" aria-labelledby="mission">
@@ -124,3 +115,21 @@ const timelineLabel =
     </div>
   </section>
 </Base>
+
+<script>
+  import { todayIso } from '../lib/time';
+
+  // "14 programs close today. See them all" above the list, once the countdowns have run.
+  function closingToday() {
+    const today = todayIso();
+    const n = [...document.querySelectorAll<HTMLElement>('#upcoming [data-deadline]')].filter(
+      (li) => li.dataset.date === today && !li.classList.contains('is-passed'),
+    ).length;
+    const line = document.getElementById('closing-today')!;
+    if (n > 0) {
+      line.innerHTML = `<strong>${n} ${n === 1 ? 'deadline' : 'deadlines'} today.</strong> <a href="/deadlines/?range=7">See them all</a>`;
+      line.hidden = false;
+    } else line.hidden = true;
+  }
+  setTimeout(closingToday, 100);
+</script>
