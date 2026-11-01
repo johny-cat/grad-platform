@@ -1,0 +1,177 @@
+---
+import Base from '../layouts/Base.astro';
+import { allDeadlines, getPrograms, searchText, shortName } from '../lib/catalog';
+import { CURRENT_CYCLE } from '../config';
+import { formatLongDate } from '../lib/time';
+
+const programs = await getPrograms();
+const deadlines = allDeadlines(programs);
+// Group by day, soonest first.
+const days = new Map<string, typeof deadlines>();
+for (const d of deadlines) {
+  const list = days.get(d.date);
+  if (list) list.push(d);
+  else days.set(d.date, [d]);
+}
+---
+
+<Base
+  title="Deadlines"
+  current="deadlines"
+  description="Every graduate program application deadline this season, day by day, with countdowns."
+>
+  <div class="wrap">
+    <header class="program-head">
+      <h1>Deadlines</h1>
+      <p class="lead">Every application deadline for {CURRENT_CYCLE.label}, day by day.</p>
+      <p class="small muted">
+        Dates in <em>italics</em> marked "Year not confirmed" come from a program's official page for an earlier
+        year or without a year. Most programs keep the same date, but confirm on the official page before you plan
+        around it.
+      </p>
+    </header>
+
+    <form class="filters" id="deadline-filters" role="search">
+      <fieldset class="range-choice">
+        <legend class="visually-hidden">Show deadlines in</legend>
+        <label><input type="radio" name="range" value="7" /> Next 7 days</label>
+        <label><input type="radio" name="range" value="30" checked /> Next 30 days</label>
+        <label><input type="radio" name="range" value="all" /> Whole season</label>
+      </fieldset>
+      <div class="search" style="margin-top:0">
+        <label class="visually-hidden" for="deadline-q">Search programs</label>
+        <input id="deadline-q" name="q" type="search" placeholder="Search by program, university or city" autocomplete="off" />
+      </div>
+      <div class="filters__toggles">
+        <label class="check"><input type="checkbox" name="confirmed" /> Confirmed dates only</label>
+        <label class="check"><input type="checkbox" name="intl" /> Funding covers international students</label>
+        <label class="check"><input type="checkbox" name="nogre" /> No GRE needed</label>
+        <label class="check"><input type="checkbox" name="waiver" /> Fee waivers open to international applicants</label>
+      </div>
+    </form>
+
+    <p class="count-line" id="deadline-count" aria-live="polite"></p>
+
+    <div id="deadline-days">
+      {
+        [...days].map(([date, list]) => (
+          <section class="deadline-day" data-day={date} aria-label={formatLongDate(date)}>
+            <h2 class="deadline-day__head">
+              <span data-day-name>{formatLongDate(date)}</span>
+              <span class="deadline-day__count muted" data-day-count></span>
+            </h2>
+            <ul class="deadline-day__list">
+              {list.map((d) => (
+                <li
+                  class="deadline-item"
+                  data-deadline
+                  data-date={d.date}
+                  data-time={d.time}
+                  data-tz={d.timezone}
+                  data-estimated={d.estimated ? '' : undefined}
+                  data-search={searchText(d.program)}
+                  data-intl={d.program.data.funding?.coversInternational ?? 'unknown'}
+                  data-gre={d.program.data.requirements?.gre ?? 'unknown'}
+                  data-waiver={d.program.data.requirements?.applicationFee?.waiver ?? 'unknown'}
+                >
+                  <span>
+                    <a href={`/programs/${d.program.id}/`}>
+                      <strong>{shortName(d.program)}</strong> {d.program.data.name}
+                    </a>
+                    <span class="deadline-item__label">
+                      {d.label}
+                      {d.estimated && ' · Year not confirmed'}
+                    </span>
+                  </span>
+                  <span class="countdown" data-countdown></span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+    <div class="empty" id="deadline-none" hidden>
+      <p>No deadlines match. Try a longer time range or fewer filters.</p>
+    </div>
+    <p class="small muted" style="margin-top:20px">
+      Programs with no published deadline aren't listed here; find them on <a href="/programs/">Programs</a>.
+    </p>
+  </div>
+</Base>
+
+<script>
+  import { daysBetween, todayIso } from '../lib/time';
+
+  const form = document.getElementById('deadline-filters') as HTMLFormElement;
+  const count = document.getElementById('deadline-count')!;
+  const none = document.getElementById('deadline-none')!;
+  const q = document.getElementById('deadline-q') as HTMLInputElement;
+  const box = (name: string) => form.elements.namedItem(name) as HTMLInputElement;
+  const greFree = ['optional', 'not-required', 'not-accepted'];
+  const plural = (n: number, one: string, many: string) => `${n} ${n === 1 ? one : many}`;
+  const sections = [...document.querySelectorAll<HTMLElement>('.deadline-day')].map((section) => ({
+    section,
+    date: section.dataset.day!,
+    name: section.querySelector<HTMLElement>('[data-day-name]')!,
+    dayCount: section.querySelector<HTMLElement>('[data-day-count]')!,
+    rows: [...section.querySelectorAll<HTMLElement>('.deadline-item')],
+  }));
+
+  const params = new URLSearchParams(window.location.search);
+  const startRange = params.get('range');
+  if (startRange) {
+    const radio = form.querySelector<HTMLInputElement>(`input[name=range][value="${startRange}"]`);
+    if (radio) radio.checked = true;
+  }
+  if (params.get('q')) q.value = params.get('q')!;
+
+  function apply() {
+    const today = todayIso();
+    const range = (form.querySelector<HTMLInputElement>('input[name=range]:checked')?.value ?? '30');
+    const limit = range === 'all' ? Infinity : Number(range);
+    const words = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    let deadlines = 0;
+    let shownDays = 0;
+    for (const s of sections) {
+      const diff = daysBetween(today, s.date);
+      let shown = 0;
+      for (const row of s.rows) {
+        const d = row.dataset;
+        const match =
+          diff >= 0 &&
+          diff <= limit &&
+          !row.classList.contains('is-passed') &&
+          words.every((w) => (d.search ?? '').includes(w)) &&
+          (!box('confirmed').checked || d.estimated === undefined) &&
+          (!box('intl').checked || d.intl === 'yes') &&
+          (!box('nogre').checked || greFree.includes(d.gre ?? '')) &&
+          (!box('waiver').checked || d.waiver === 'available');
+        row.hidden = !match;
+        if (match) shown += 1;
+      }
+      s.section.hidden = shown === 0;
+      if (shown > 0) {
+        shownDays += 1;
+        deadlines += shown;
+        const base = s.name.dataset.base ?? (s.name.dataset.base = s.name.textContent ?? '');
+        s.name.textContent = diff === 0 ? `Today, ${base}` : diff === 1 ? `Tomorrow, ${base}` : base;
+        s.dayCount.textContent = plural(shown, 'program', 'programs');
+      }
+    }
+    count.textContent = `${plural(deadlines, 'deadline', 'deadlines')} on ${plural(shownDays, 'day', 'days')}`;
+    none.hidden = deadlines > 0;
+    const url = new URL(window.location.href);
+    url.searchParams.set('range', range);
+    if (q.value.trim()) url.searchParams.set('q', q.value.trim());
+    else url.searchParams.delete('q');
+    history.replaceState(null, '', url);
+  }
+
+  form.addEventListener('input', apply);
+  form.addEventListener('submit', (event) => event.preventDefault());
+  apply();
+  // The countdown script marks deadlines that passed earlier today; apply again after it runs.
+  setTimeout(apply, 100);
+  setInterval(apply, 60_000);
+</script>

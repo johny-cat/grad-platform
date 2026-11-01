@@ -1608,3 +1608,96 @@ textarea::placeholder {
   transform: translateX(-50%);
   z-index: 50;
 }
+
+/* ---------- Deadlines page ---------- */
+
+.range-choice {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.range-choice label {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 6px 14px;
+  border: 1px solid var(--rule-strong);
+  border-radius: 999px;
+  background: var(--surface);
+  font-weight: 700;
+  font-size: var(--text-s);
+  cursor: pointer;
+}
+
+.range-choice input {
+  position: absolute;
+  opacity: 0;
+  inset: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.range-choice label:has(input:checked) {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+.range-choice label:has(input:focus-visible) {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.deadline-day {
+  margin: 0 0 22px;
+}
+
+.deadline-day__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 12px;
+  margin: 0 0 6px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--ink);
+  font-size: var(--text-l);
+}
+
+.deadline-day__count {
+  font-size: var(--text-s);
+  font-weight: 400;
+}
+
+.deadline-day__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.deadline-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2px 14px;
+  align-items: baseline;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.deadline-item__label {
+  display: block;
+  color: var(--muted);
+  font-size: var(--text-s);
+}
+
+.deadline-item[data-estimated] .deadline-item__label {
+  font-style: italic;
+}
+
+.upcoming__today {
+  margin: 0 0 10px;
+}
