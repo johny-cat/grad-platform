@@ -62,23 +62,24 @@ function parseDateText(text: string): { month: number; day: number; year?: numbe
   return undefined;
 }
 
+/** This season's estimated date for one published (older or undated) entry, if it is a fall-entry date. */
+export function estimateEntry(entry: { label: string; dateText: string }): string | undefined {
+  if (NOT_FALL_ENTRY.test(`${entry.label} ${entry.dateText}`)) return undefined;
+  const parsed = parseDateText(entry.dateText);
+  if (!parsed) return undefined;
+  const printed = parsed.year ? `${parsed.year}-${pad(parsed.month)}-${pad(parsed.day)}` : undefined;
+  if (printed && printed >= SEASON_START) return printed;
+  const year = parsed.month >= 9 ? SEASON_FIRST_YEAR : SEASON_FIRST_YEAR + 1;
+  return `${year}-${pad(parsed.month)}-${pad(parsed.day)}`;
+}
+
 /** Every estimated date this season, earliest first, for a program with no confirmed Fall 2027 deadline. */
 export function estimatedDeadlines(program: Program): EstimatedDeadline[] {
   if (program.data.deadlines.length > 0) return [];
   const found: EstimatedDeadline[] = [];
   for (const entry of program.data.publishedDeadlines) {
-    if (NOT_FALL_ENTRY.test(`${entry.label} ${entry.dateText}`)) continue;
-    const parsed = parseDateText(entry.dateText);
-    if (!parsed) continue;
-    let date: string;
-    const printed = parsed.year ? `${parsed.year}-${pad(parsed.month)}-${pad(parsed.day)}` : undefined;
-    if (printed && printed >= SEASON_START) {
-      date = printed;
-    } else {
-      const year = parsed.month >= 9 ? SEASON_FIRST_YEAR : SEASON_FIRST_YEAR + 1;
-      date = `${year}-${pad(parsed.month)}-${pad(parsed.day)}`;
-    }
-    found.push({ date, dateText: entry.dateText, label: entry.label });
+    const date = estimateEntry(entry);
+    if (date) found.push({ date, dateText: entry.dateText, label: entry.label });
   }
   // One entry per date (e.g. US and international on the same day).
   const unique = [...new Map(found.map((e) => [e.date, e])).values()];

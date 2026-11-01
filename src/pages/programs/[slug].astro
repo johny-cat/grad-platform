@@ -5,7 +5,7 @@ import ProgramActions from '../../islands/ProgramActions';
 import ProgramResults from '../../islands/ProgramResults';
 import CommunityBoard from '../../islands/CommunityBoard';
 import {
-  allDeadlines,
+  estimateEntry,
   GRE_LABELS,
   INTERNATIONAL_FUNDING_LABELS,
   WAIVER_LABELS,
@@ -17,7 +17,7 @@ import {
   type Program,
 } from '../../lib/catalog';
 import { CURRENT_CYCLE } from '../../config';
-import { googleCalendarLink } from '../../lib/calendar';
+import CalendarButton from '../../components/CalendarButton.astro';
 import { programLabel } from '../../lib/labels';
 import { formatClock, formatLongDate, formatShortDate, formatShortDateYear, zoneName } from '../../lib/time';
 
@@ -31,17 +31,16 @@ interface Props {
 }
 
 const { program } = Astro.props;
-// Deadlines for "Add to your calendar" (confirmed, plus dates whose year isn't confirmed).
+// For the calendar icon on each deadline.
 const calendarLabel = programLabel(program.data.institutionShort ?? program.data.institution, program.data.name);
-const calendarDeadlines = allDeadlines([program]).map((d) => ({
+const calendarFor = (date: string, label: string, extra: { time?: string; timezone?: string; estimated?: boolean } = {}) => ({
   programId: program.id,
   programLabel: calendarLabel,
-  date: d.date,
-  label: d.label,
-  time: d.time,
-  timezone: d.timezone,
-  estimated: d.estimated,
-}));
+  date,
+  label,
+  ...(extra.time && extra.timezone ? { time: extra.time, timezone: extra.timezone } : {}),
+  ...(extra.estimated ? { estimated: true } : {}),
+});
 const d = program.data;
 const pending = isPending(program);
 const r = d.requirements;
@@ -122,6 +121,7 @@ const unknown = 'Not stated on official pages';
                 data-time={deadline.time}
                 data-tz={deadline.timezone}
               >
+                <CalendarButton deadline={calendarFor(deadline.date, deadline.label, { time: deadline.time, timezone: deadline.timezone })} />
                 <span class="small muted">{deadline.label}</span>
                 <span class="deadline-box__date">{formatLongDate(deadline.date)}</span>
                 {deadline.time && deadline.timezone && (
@@ -135,39 +135,19 @@ const unknown = 'Not stated on official pages';
               </div>
             ))
           }
-          {d.publishedDeadlines.map((deadline) => (
+          {d.publishedDeadlines.map((deadline) => {
+            const estimated = d.deadlines.length === 0 ? estimateEntry(deadline) : undefined;
+            return (
             <div class="deadline-box">
+              {estimated && <CalendarButton deadline={calendarFor(estimated, deadline.label, { estimated: true })} />}
               <span class="small muted">{deadline.label}</span>
               <span class="deadline-box__date">{deadline.dateText}</span>
               <p class="small muted" style="margin:6px 0 0">{deadline.note}</p>
             </div>
-          ))}
+            );
+          })}
           {!pending && d.deadlines.length === 0 && d.publishedDeadlines.length === 0 && <p class="muted">Deadline not stated on official pages.</p>}
 
-          {
-            calendarDeadlines.length > 0 && (
-              <div class="add-calendar">
-                <p class="add-calendar__title">Add to your calendar</p>
-                <p class="small muted">
-                  The file adds reminders 7 days and 1 day before. Google Calendar links use your usual reminder.
-                </p>
-                <ul class="add-calendar__links">
-                  {calendarDeadlines.map((c) => (
-                    <li>
-                      <a href={googleCalendarLink(c)}>
-                        {`Google Calendar: ${c.label} (${formatShortDate(c.date)}${c.estimated ? ', year not confirmed' : ''})`}
-                      </a>
-                    </li>
-                  ))}
-                  <li>
-                    <a href={`/programs/${program.id}/deadlines.ics`} download={`${program.id}-deadlines.ics`}>
-                      Apple Calendar, Outlook or other apps (.ics file)
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            )
-          }
 
           <div style="margin-top:18px">
             <ProgramActions client:only="preact" slug={program.id} cycleId={cycle.id}>
@@ -363,3 +343,7 @@ const unknown = 'Not stated on official pages';
     </div>
   </div>
 </Base>
+
+<script>
+  import '../../scripts/add-to-calendar.ts';
+</script>

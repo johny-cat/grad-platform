@@ -4,13 +4,14 @@ Newest first. Each entry: what we decided and why.
 
 ## 2026-10-31
 
-- **Calendar reminders.** Every program with a deadline has a calendar file
-  (`/programs/<id>/deadlines.ics`) and "Add to Google Calendar" links on its
-  page. My programs offers one file with all followed programs' deadlines,
-  built in the browser from those files only when asked (so the page stays
-  light). Files carry reminders 7 days and 1 day before. A live calendar
-  subscription that updates itself would need a small server feed per person;
-  not built yet.
+- **Calendar reminders.** Each deadline on a program page has a small
+  calendar icon (Junaid, 2026-11-01: the earlier box took too much space).
+  The device decides: Android and Chromebooks open Google Calendar with the
+  deadline filled in; iPhone, Mac, Windows and others get a calendar file for
+  Apple Calendar or Outlook, with reminders 7 days and 1 day before. My
+  programs has one small "Add my deadlines to my calendar" button (one file
+  for every followed program, built from `/programs/<id>/deadlines.ics` only
+  when pressed). A live calendar subscription is not built yet.
 
 - **Estimated deadlines in countdowns.** Many programs publish a deadline
   without a Fall 2027 year ("December 1"). Junaid decided they should still
